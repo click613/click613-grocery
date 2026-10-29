@@ -1,0 +1,92 @@
+{
+ "_about": "Hand-verified ordering routes for the Lakewood cart (cart.js). Only routes each store publishes itself. route: site = the store's own online ordering site (+ Copy list + its published phone); whatsapp = the store's own published WhatsApp ordering number (none found Oct 23 2026); copy = Copy list only. A store missing here gets Copy list only. Re-verify before adding a WhatsApp number: it must appear on the store's own website or listing.",
+ "verified_on": "2026-10-23",
+ "stores": {
+  "seasons-lkw": {
+   "route": "site",
+   "order_url": "https://www.seasonskosher.com/Lakewood",
+   "phone": "732-813-7700",
+   "delivery_url": "https://www.seasonskosher.com/Lakewood/delivery",
+   "source": "seasonskosher.com/Lakewood (online shop, rendered) and seasonskosher.com/store-location (tel:(732) 813-7700)",
+   "whatsapp_note": "Site links only a WhatsApp group invite (chat.whatsapp.com/Cbjb0x3tKTe9E6hnBUqpdV), not an ordering number; not used."
+  },
+  "seasons-tr": {
+   "route": "site",
+   "order_url": "https://www.seasonskosher.com/Toms-River",
+   "phone": "732-605-4455",
+   "delivery_url": "https://www.seasonskosher.com/Toms-River/delivery",
+   "source": "seasonskosher.com/Toms-River (online shop, rendered) and seasonskosher.com/store-location (tel:732-605-4455)",
+   "whatsapp_note": "Same WhatsApp group invite as Seasons Lakewood; not an ordering number; not used."
+  },
+  "nutmeg": {
+   "route": "site",
+   "order_url": "https://www.nutmegkoshermarket.com/Lakewood-NJ",
+   "phone": "732-285-9400",
+   "delivery_url": "https://www.nutmegkoshermarket.com/Lakewood-NJ/delivery",
+   "source": "nutmegkoshermarket.com/Lakewood-NJ (online shop, rendered) and nutmegkoshermarket.com/store-location (tel:(732) 285-9400, orders@nutmegkoshermarket.com)"
+  },
+  "aisle9-lkw": {
+   "route": "site",
+   "order_url": "https://www.aisle9market.com/lakewood",
+   "phone": "732-592-4545",
+   "delivery_url": "https://www.aisle9market.com/lakewood/delivery",
+   "source": "aisle9market.com/lakewood (online shop, rendered) and aisle9market.com/store-location (tel:732 592 4545)"
+  },
+  "aisle9-jax": {
+   "route": "site",
+   "order_url": "https://www.aisle9market.com/jackson",
+   "phone": "732-592-6544",
+   "delivery_url": "https://www.aisle9market.com/jackson/delivery",
+   "source": "aisle9market.com/jackson (online shop, rendered) and aisle9market.com/store-location (tel:732 592 6544)"
+  },
+  "superstop": {
+   "route": "site",
+   "order_url": "https://www.superstopnj.com/Lakewood",
+   "phone": "732-901-7867",
+   "delivery_url": "https://www.superstopnj.com/Lakewood/delivery",
+   "source": "superstopnj.com/Lakewood (online shop, rendered) and superstopnj.com/store-location (tel:(732) 901-7867)"
+  },
+  "kosherwest": {
+   "route": "site",
+   "order_url": "https://www.kosherwest.com/Lakewood-NJ",
+   "phone": "732-886-9378",
+   "delivery_url": "https://www.kosherwest.com/Lakewood-NJ/delivery",
+   "source": "kosherwest.com/Lakewood-NJ (online shop, rendered) and kosherwest.com/store-location (tel:(732) 886-9378)"
+  },
+  "kosher-village": {
+   "route": "site",
+   "order_url": "https://www.koshervillage.com/",
+   "phone": "732-905-1115",
+   "delivery_url": "https://www.koshervillage.com/",
+   "source": "koshervillage.com home page (online shop; tel:+17329051115, Orders@koshervillage.com)"
+  },
+  "evergreen": {
+   "route": "site",
+   "order_url": "https://www.shopevergreenkosher.com/",
+   "phone": "732-370-4500",
+   "delivery_url": "https://www.shopevergreenkosher.com/",
+   "source": "shopevergreenkosher.com (online shop, rendered in a real browser) and the site's own branch list (phone 732-370-4500, info@EvergreenLakewood.com)"
+  },
+  "gourmet-glatt": {
+   "route": "site",
+   "order_url": "https://gourmetglattl.sites.self-point.com/",
+   "phone": "732-961-1700",
+   "delivery_url": "https://gourmetglattl.sites.self-point.com/",
+   "source": "gourmetglattl.sites.self-point.com (the Lakewood store's online shop, rendered; shows (732) 961-1700; branch list orders@gourmetglattlakewood.com)"
+  },
+  "npgs": {
+   "route": "site",
+   "order_url": "https://www.gonpgs.com/",
+   "phone": "732-370-8710",
+   "delivery_url": "https://www.gonpgs.com/",
+   "source": "gonpgs.com (online shop, rendered; shows (732) 370-8710, the Jackson branch)"
+  },
+  "foodex": {
+   "route": "site",
+   "order_url": "https://www.foodexsupermarket.com/",
+   "phone": "732-364-3300",
+   "delivery_url": "https://www.foodexsupermarket.com/",
+   "source": "foodexsupermarket.com (online shop, rendered; shows 732-364-3300; branch list orders@foodexsupermarket.com)"
+  }
+ }
+}

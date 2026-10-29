@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Grocery Price Comparison | Click613</title>
+<meta name="description" content="Compare kosher grocery prices store by store in Lakewood, Brooklyn, Five Towns, Monsey, KJ and Teaneck. By Click613.">
+<meta property="og:title" content="Grocery Price Comparison | Click613">
+<meta property="og:description" content="Kosher grocery prices side by side, area by area. Prices come from each store's own website, updated daily.">
+<meta name="theme-color" content="#0B2A4A">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=hub2">
+</head>
+<body>
+<header class="top" id="top">
+  <div class="wrap brand">
+    <a class="mark" href="https://click613.com/" target="_top"><img src="click613-wordmark.png" alt="Click613" width="160" height="34"></a>
+    <h1>Grocery Price Comparison</h1>
+  </div>
+</header>
+<main class="wrap" id="main">
+  <nav class="cities" id="cities" hidden></nav>
+  <aside class="c613wa" aria-label="Click613 on WhatsApp">
+    <h2>Click613 on WhatsApp</h2>
+    <a class="wa1" href="https://wa.me/18484808677" target="_blank" rel="noopener">Chat with the Click613 bot · <span class="wan">848-480-8677</span></a>
+    <a class="wa2" href="https://wa.me/16467251420" target="_blank" rel="noopener">Get our WhatsApp Status updates · <span class="wan">646-725-1420</span></a>
+    <p class="wasub">Save <span class="wan">646-725-1420</span> in your contacts to see our Status</p>
+  </aside>
+  <p class="lead">Pick your area to see kosher grocery prices side by side, store by store. Prices come from each store's own website and are updated every day.</p>
+  <section class="areas" aria-label="Areas">
+    <a class="area" data-k="lakewood" href="https://lakewoodprices.sites.tab.bot/?skin=click613">
+      <span class="an">Lakewood</span><span class="as">Lakewood, Jackson, Toms River</span><span class="go">Compare prices &rarr;</span>
+    </a>
+    <a class="area" data-k="bpflatbush" href="https://brooklynprices.sites.tab.bot/">
+      <span class="an">Boro Park &amp; Flatbush</span><span class="as">Brooklyn</span><span class="go">Compare prices &rarr;</span>
+    </a>
+    <a class="area" data-k="williamsburg" href="https://williamsburgprices.sites.tab.bot/">
+      <span class="an">Williamsburg</span><span class="as">Brooklyn</span><span class="go">Compare prices &rarr;</span>
+    </a>
+    <a class="area" data-k="crownheights" href="https://crownheightsprices.sites.tab.bot/">
+      <span class="an">Crown Heights</span><span class="as">Brooklyn</span><span class="go">Compare prices &rarr;</span>
+    </a>
+    <a class="area" data-k="fivetowns" href="https://fivetownsprices.sites.tab.bot/">
+      <span class="an">Five Towns</span><span class="as">Five Towns, Far Rockaway, West Hempstead</span><span class="go">Compare prices &rarr;</span>
+    </a>
+    <a class="area" data-k="monsey" href="https://monseyprices.sites.tab.bot/">
+      <span class="an">Monsey</span><span class="as">Monsey, Spring Valley, New Square</span><span class="go">Compare prices &rarr;</span>
+    </a>
+    <a class="area" data-k="kj" href="https://kjprices.sites.tab.bot/">
+      <span class="an">KJ / Monroe</span><span class="as">Kiryas Joel &amp; Monroe</span><span class="go">Compare prices &rarr;</span>
+    </a>
+    <a class="area" data-k="teaneck" href="https://teaneckprices.sites.tab.bot/">
+      <span class="an">Teaneck</span><span class="as">Teaneck, Bergenfield, Fair Lawn</span><span class="go">Compare prices &rarr;</span>
+    </a>
+  </section>
+</main>
+<div class="c613legal-out" style="max-width:1100px;margin:16px auto 0;padding:0 16px"><p class="c613legal" style="margin:10px 0 6px;font-size:13px;line-height:1.45;color:inherit;opacity:.9">Prices are collected from public sources and may be wrong or out of date. Always confirm price, availability and kashrus in store. Click613 is not responsible for errors. <a href="disclaimer.html" target="_blank" rel="noopener" style="color:inherit;font-weight:700;text-decoration:underline">Terms &amp; disclaimer</a></p><style>.embed .c613legal-out{padding-bottom:84px!important}</style></div><!--/c613legal-->
+<footer class="foot">
+  <div class="wrap">
+    <p class="c613wa-slim">Click613 on WhatsApp: <a href="https://wa.me/18484808677" target="_blank" rel="noopener">bot 848-480-8677</a> · <a href="https://wa.me/16467251420" target="_blank" rel="noopener">Status 646-725-1420</a></p>
+    <p>Grocery Price Comparison by <a href="https://click613.com/" target="_top">Click613</a></p>
+  </div>
+</footer>
+<script>
+/* Inside click613.com: on click613.com/grocery/ (proxied) the cards open /grocery/<area>/;
+   inside an iframe on a click613.com page they open click613.com/grocery/<area> in the whole window. */
+(function(){
+  var q=new URLSearchParams(location.search);
+  if(q.get("embed")==="1")document.documentElement.classList.add("embed");
+  var c613=/(^|\.)click613\.com$/i, links=document.querySelectorAll("a.area");
+  if(c613.test(location.hostname)){
+    var base=location.pathname.replace(/[^\/]*$/,"");
+    links.forEach(function(a){var k=a.getAttribute("data-k");a.href=base+k+"/?skin=click613"+(k==="lakewood"?"&city=lakewood":"");});
+  } else if(window.top!==window){
+    var ref="";try{ref=new URL(document.referrer).origin}catch(e){}
+    if(ref&&c613.test(new URL(ref).hostname))links.forEach(function(a){a.href=ref+"/grocery/"+a.getAttribute("data-k");a.target="_top";});
+    else links.forEach(function(a){a.target="_top";});
+    var send=function(){try{parent.postMessage({type:"lakewood-prices-height",height:document.documentElement.scrollHeight},"*")}catch(e){}};
+    addEventListener("load",send);addEventListener("resize",send);send();
+  }
+})();
+</script>
+</body>
+</html>

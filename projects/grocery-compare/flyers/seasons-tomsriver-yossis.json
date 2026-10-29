@@ -1,0 +1,110 @@
+{
+ "store": "Seasons (Toms River) - Yossi's Cuts butcher counter",
+ "key": "seasons-tomsriver-yossis",
+ "town": "Toms River",
+ "address": "2088 Lakewood Rd, Toms River",
+ "source": "The Voice of Lakewood, issue 962 (Oct 15 2026), p. 25 (flipbook page 27)",
+ "source_url": "https://issues.thevoiceoflakewood.com/3dissue/101526/index.html",
+ "valid_from": "2026-10-18",
+ "valid_to": "2026-10-23",
+ "read_at": "2026-10-16T04:28:12+00:00",
+ "note": "Yossi's Cuts meat counter inside Seasons Lakewood and Seasons Toms River; dates printed 10/18/26-10/23/26; same ad covers both branches. Seasons' regular online prices are already in the main data; these are flyer specials.",
+ "items": [
+  {
+   "name": "First Cut Brisket, imported",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": "reg. $13.99/lb"
+  },
+  {
+   "name": "Juicy Cholent Meat",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": "reg. $11.99/lb"
+  },
+  {
+   "name": "Cheek Imitation",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 9.99,
+   "price_text": "$9.99/lb",
+   "deal": "reg. $14.99/lb"
+  },
+  {
+   "name": "Pickled 2nd Cut Brisket",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 12.99,
+   "price_text": "$12.99/lb",
+   "deal": "reg. $18.99/lb"
+  },
+  {
+   "name": "Chicken Cutlets, Super Family Pack",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 6.99,
+   "price_text": "$6.99/lb",
+   "deal": "reg. $8.49/lb"
+  },
+  {
+   "name": "Chicken Rib Steak",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 4.99,
+   "price_text": "$4.99/lb",
+   "deal": "reg. $7.99/lb"
+  },
+  {
+   "name": "Chicken Capon",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 5.99,
+   "price_text": "$5.99/lb",
+   "deal": "reg. $7.99/lb"
+  },
+  {
+   "name": "Chicken Wings, Family Pack",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 1.99,
+   "price_text": "$1.99/lb",
+   "deal": "reg. $2.99/lb"
+  },
+  {
+   "name": "Marinated Baby Chicken, all flavors (oven ready)",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 9.99,
+   "price_text": "$9.99/lb",
+   "deal": "reg. $11.99/lb"
+  },
+  {
+   "name": "Breaded Chicken Rib Steak (oven ready)",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 5.99,
+   "price_text": "$5.99/lb",
+   "deal": "reg. $9.99/lb"
+  },
+  {
+   "name": "Marinated Chicken Wings (oven ready)",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 1.99,
+   "price_text": "$1.99/lb",
+   "deal": "reg. $3.99/lb"
+  },
+  {
+   "name": "BBQ Chicken Legs (oven ready)",
+   "brand": "Yossi's Cuts",
+   "size": "per lb",
+   "price": 3.79,
+   "price_text": "$3.79/lb",
+   "deal": "reg. $4.99/lb"
+  }
+ ]
+}

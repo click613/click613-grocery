@@ -1,0 +1,5602 @@
+[
+{
+"upc": "32973000015",
+"name": "A&B Gefilte Fish Regular, 20 Oz",
+"size": "20 Oz",
+"stores": 8,
+"lowest_local": 9.99
+},
+{
+"upc": "732973005026",
+"name": "A&B Parve Kishke, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "32797006224",
+"name": "Bloom's Potato Chips Ketchup Rippled, 9 Oz",
+"size": "9 Oz",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "32797014557",
+"name": "Bloom's Rice Cake Thins No Salt, 4.6 Oz",
+"size": "4.6 Oz",
+"stores": 8,
+"lowest_local": 2.19
+},
+{
+"upc": "32797014533",
+"name": "Bloom's Rice Cake Thins Plain, 4.6 Oz",
+"size": "4.6 Oz",
+"stores": 8,
+"lowest_local": 2.19
+},
+{
+"upc": "710069803213",
+"name": "Gefen All Natural Creamy Peanut Butter",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 5.69
+},
+{
+"upc": "710069404922",
+"name": "Gefen Almond Butter Roasted, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 10.99
+},
+{
+"upc": "710069018600",
+"name": "Gefen Bread Crumbs Plain, 15 Oz",
+"size": "15 Oz",
+"stores": 8,
+"lowest_local": 3.09
+},
+{
+"upc": "710069601062",
+"name": "Gefen Brown Rice Noodles, Chicken Flavor, 2.25 Oz",
+"size": "2.25 Oz",
+"stores": 8,
+"lowest_local": 2.99
+},
+{
+"upc": "710069026513",
+"name": "Gefen Canola Oil Cooking Spray, 14 Oz",
+"size": "14 Oz",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "710069061316",
+"name": "Gefen Chicken Noodle Soup, 2.3 Oz",
+"size": "2.3 Oz",
+"stores": 8,
+"lowest_local": 1.49
+},
+{
+"upc": "710069035003",
+"name": "Gefen Cholent Mix, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 1.79
+},
+{
+"upc": "710069113602",
+"name": "Gefen Chunk Light Tuna In Water, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.49
+},
+{
+"upc": "710069001008",
+"name": "Gefen Egg Noodles Fine, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 2.29
+},
+{
+"upc": "710069569126",
+"name": "Gefen Egg Roll Wraps Oriental Style, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "710069307407",
+"name": "Gefen Ex Lite Olive Oil 67.6 Oz",
+"size": "67.6 Oz",
+"stores": 8,
+"lowest_local": 16.99
+},
+{
+"upc": "710069316003",
+"name": "Gefen Ice Cream Cups, 6.75 Oz, 48 Ct",
+"size": "48 Ct",
+"stores": 8,
+"lowest_local": 7.59
+},
+{
+"upc": "710069601253",
+"name": "Gefen Instant Noodle Soup, Chicken Flavor, Fat Free",
+"size": "1.92 Oz",
+"stores": 8,
+"lowest_local": 1.99
+},
+{
+"upc": "710069051126",
+"name": "Gefen Large Egg Bows, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 3.29
+},
+{
+"upc": "710069705074",
+"name": "Gefen Marinara No Sugar Added, 26 Oz",
+"size": "26 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "710069017306",
+"name": "Gefen Mayonnaise, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 5.79
+},
+{
+"upc": "710069801127",
+"name": "Gefen Mayonnaise, Lite Canola, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 5.69
+},
+{
+"upc": "710069017405",
+"name": "Gefen Mayonnaise, Lite, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 4.99
+},
+{
+"upc": "710069601215",
+"name": "Gefen Noodle Soup Ff Chicken, 1.92 Oz",
+"size": "1.92 Oz",
+"stores": 8,
+"lowest_local": 1.99
+},
+{
+"upc": "710069101777",
+"name": "Gefen Oat Milk Original, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 8,
+"lowest_local": 2.89
+},
+{
+"upc": "710069107366",
+"name": "Gefen Olive Oil Extra Light, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 8,
+"lowest_local": 10.99
+},
+{
+"upc": "710069107359",
+"name": "Gefen Olive Oil, Extra Virgin, 34 Oz",
+"size": "34 Oz",
+"stores": 8,
+"lowest_local": 12.99
+},
+{
+"upc": "710069016101",
+"name": "Gefen Peanut Butter Creamy, 18 Oz",
+"size": "18 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "710069129009",
+"name": "Gefen Pure Honey, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 5.19
+},
+{
+"upc": "710069601000",
+"name": "Gefen Ramen Noodle Chicken Flavor, 3 Oz",
+"size": "3 Oz",
+"stores": 8,
+"lowest_local": 0.69
+},
+{
+"upc": "710069803091",
+"name": "Gefen Reduced Fat Creamy Peanut Butter, 18 Oz",
+"size": "18 Oz",
+"stores": 8,
+"lowest_local": 5.69
+},
+{
+"upc": "710069564107",
+"name": "Gefen Sauteed Onions, 6.05 Oz",
+"size": "6.05 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "710069113305",
+"name": "Gefen Solid White Tuna In Water, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 2.49
+},
+{
+"upc": "710069108219",
+"name": "Gefen Spelt Matzah, 11 Oz",
+"size": "11 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "710069316027",
+"name": "Gefen Sugar Cones, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 3.29
+},
+{
+"upc": "710069009004",
+"name": "Gefen Traditional Matzah, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 4.29
+},
+{
+"upc": "710069125704",
+"name": "Gefen Vanilla Sugar, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 2.49
+},
+{
+"upc": "840762011001",
+"name": "Glicks Peanut Butter Creamy, 18 Oz",
+"size": "18 Oz",
+"stores": 8,
+"lowest_local": 2.79
+},
+{
+"upc": "77028199306",
+"name": "Haddar Almond Butter, 18 Oz",
+"size": "18 Oz",
+"stores": 8,
+"lowest_local": 13.99
+},
+{
+"upc": "26638251102",
+"name": "Haolam American Cheese 108 White, 3 Lb",
+"size": "3 Lb",
+"stores": 8,
+"lowest_local": 14.99
+},
+{
+"upc": "26638211007",
+"name": "Haolam American Cheese 12 Slice White, 8 Oz",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 4.39
+},
+{
+"upc": "26638212004",
+"name": "Haolam American Cheese 16 Slice, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 6.39
+},
+{
+"upc": "26638203002",
+"name": "Haolam American Cheese 2% Singles, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 6.79
+},
+{
+"upc": "26638214008",
+"name": "Haolam American Cheese 24 Slices, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 8.39
+},
+{
+"upc": "26638265000",
+"name": "Haolam Mozzarella & Cheddar Shredded Cheese, 8 Oz",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 4.0
+},
+{
+"upc": "26638227633",
+"name": "Haolam Mozzarella Slim Slices, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 2.99
+},
+{
+"upc": "26638264027",
+"name": "Haolam Shredded Mozzarella Cheese, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 7.89
+},
+{
+"upc": "26638264058",
+"name": "Haolam Shredded Mozzarella Cheese, 2 Lbs",
+"size": "2 Lbs",
+"stores": 8,
+"lowest_local": 10.99
+},
+{
+"upc": "26638002643",
+"name": "Haolam Shredded Mozzarella Cheese, 8 Oz",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 2.99
+},
+{
+"upc": "11274000726",
+"name": "J&J Cottage Cheese Lowfat 2%, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 5.89
+},
+{
+"upc": "11274000702",
+"name": "J&J Cottage Cheese, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 5.89
+},
+{
+"upc": "11274000504",
+"name": "J&J Cream Cheese- Lite, 7 Oz",
+"size": "7 Oz",
+"stores": 8,
+"lowest_local": 3.89
+},
+{
+"upc": "11274007237",
+"name": "J&J Nonfat Coffee Yogurt, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 5.19
+},
+{
+"upc": "11274007220",
+"name": "J&J Nonfat Strawberry Yogurt, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 5.19
+},
+{
+"upc": "11274007213",
+"name": "J&J Nonfat Vanilla Yogurt, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 5.19
+},
+{
+"upc": "11274000641",
+"name": "J&J Swiss Yogurt 6 Pk Strawberry, 26.4 Oz",
+"size": "26.4 Oz",
+"stores": 8,
+"lowest_local": 5.19
+},
+{
+"upc": "11274000658",
+"name": "J&J Swiss Yogurt 6 Pk Vanilla, 26.4 Oz",
+"size": "26.4 Oz",
+"stores": 8,
+"lowest_local": 5.19
+},
+{
+"upc": "11274000276",
+"name": "J&J Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "11274000245",
+"name": "J&J Yogurt Lowfat Coffee, 7 Oz",
+"size": "7 Oz",
+"stores": 8,
+"lowest_local": 1.59
+},
+{
+"upc": "729940023558",
+"name": "Jet Foil 7'' Aluminum Pans, 10 Ct",
+"size": "10 Ct",
+"stores": 8,
+"lowest_local": 1.99
+},
+{
+"upc": "73490123535",
+"name": "Kedem Gefilte Fish, Original Heimish, 24 Oz",
+"size": "24 Oz",
+"stores": 8,
+"lowest_local": 7.59
+},
+{
+"upc": "73490132827",
+"name": "Kedem Grape Juice Blush Lite, 64 Oz",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 5.49
+},
+{
+"upc": "73490124907",
+"name": "Kedem Grape Juice Concord, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "73490128271",
+"name": "Kedem Grape Juice Concord, 64 Oz",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 5.49
+},
+{
+"upc": "73490130410",
+"name": "Kedem Grape Juice Light Concord, 64 Oz",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 5.49
+},
+{
+"upc": "73490132841",
+"name": "Kedem Kids Chocolate Cereal Bars 6P, 5.5 Oz",
+"size": "5.5 Oz",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "73490132858",
+"name": "Kedem Kids Coco Rice Cereal Bars 6P, 4.4 Oz",
+"size": "4.4 Oz",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "73490132834",
+"name": "Kedem Kids Original Cereal Bars 6P, 5.5 Oz",
+"size": "5.5 Oz",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "73490130427",
+"name": "Kedem Light Grape Juice, 22 Oz",
+"size": "22 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "73490123610",
+"name": "Kedem Sparkling Concord Grape Juice, 25.4 Oz",
+"size": "25.4 Oz",
+"stores": 8,
+"lowest_local": 4.99
+},
+{
+"upc": "73490128332",
+"name": "Kedem Sparkling Grape Juice Blush, 25.4 Oz",
+"size": "25.4 Oz",
+"stores": 8,
+"lowest_local": 4.99
+},
+{
+"upc": "36000374575",
+"name": "Kleenex 230 Ct Tissues",
+"size": "230 Ct",
+"stores": 8,
+"lowest_local": 2.9
+},
+{
+"upc": "43427380010",
+"name": "Lieber Lie Brittle Dark Choc Rice C, 3.7 Oz",
+"size": "3.7 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "43427002929",
+"name": "Lieber Rice Cakes Milk Choc Brittle, 3.7 Oz",
+"size": "3.7 Oz",
+"stores": 8,
+"lowest_local": 4.79
+},
+{
+"upc": "43427200608",
+"name": "Lieber's Bread Crumbs Plain, 15 Oz",
+"size": "15 Oz",
+"stores": 8,
+"lowest_local": 2.69
+},
+{
+"upc": "43427002103",
+"name": "Lieber's Canola Oil Spray, 5 Oz",
+"size": "5 Oz",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "43427201223",
+"name": "Lieber's Crushed Tomatoes, 28 Oz",
+"size": "28 Oz",
+"stores": 8,
+"lowest_local": 3.89
+},
+{
+"upc": "43427000635",
+"name": "Lieber's Honey Bbq Potato Chips, 9 Oz",
+"size": "9 Oz",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "43427130417",
+"name": "Lieber's Honey Graham, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 5.29
+},
+{
+"upc": "43427022460",
+"name": "Lieber's Honey, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "43427200615",
+"name": "Lieber's Lieber Bread Crumbs Flavored, 15 Oz",
+"size": "15 Oz",
+"stores": 8,
+"lowest_local": 2.89
+},
+{
+"upc": "43427999182",
+"name": "Lieber's Peanut Butter Pretzels, 18 Oz",
+"size": "18 Oz",
+"stores": 8,
+"lowest_local": 7.99
+},
+{
+"upc": "43427111195",
+"name": "Lieber's Rice Cake With Milk Chocolate, 3.1 Oz",
+"size": "3.1 Oz",
+"stores": 8,
+"lowest_local": 2.99
+},
+{
+"upc": "43427000130",
+"name": "Lieber's Rice Cakes W Dark Chocolate, 3.1 Oz",
+"size": "3.1 Oz",
+"stores": 8,
+"lowest_local": 2.99
+},
+{
+"upc": "43427195225",
+"name": "Lieber's Soup Mix Canister Onion No Msg, 14 Oz",
+"size": "14 Oz",
+"stores": 8,
+"lowest_local": 4.65
+},
+{
+"upc": "43427390019",
+"name": "Liebers Lie Sprinkled Milk Choc Rice, 3.8 Oz",
+"size": "3.8 Oz",
+"stores": 8,
+"lowest_local": 4.79
+},
+{
+"upc": "51328711673",
+"name": "Meal Mart Chicken Nuggets, 26 Oz",
+"size": "26 Oz",
+"stores": 8,
+"lowest_local": 17.99
+},
+{
+"upc": "51328997473",
+"name": "Meal Mart Fun Shapes Breaded Chicken Nug, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 17.99
+},
+{
+"upc": "51328700240",
+"name": "Meal Mart Honey Smoked Turkey, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "51328700257",
+"name": "Meal Mart Mexican Smoked Turkey Breast, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "51328700271",
+"name": "Meal Mart Romanian Style Dark Turkey Pastrami, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "51328700264",
+"name": "Meal Mart Smoked Turkey Breast Gourmet, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "51328104123",
+"name": "Meal Mart Smoked Turkey Breast, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 6.79
+},
+{
+"upc": "51328104048",
+"name": "Meal Mart Turkey Pastrami, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 7.29
+},
+{
+"upc": "51328104017",
+"name": "Meal Mart Turkey Roll, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 5.49
+},
+{
+"upc": "14353103509",
+"name": "Mehadrin Blndz Yogurt Strawberry, 4 Oz",
+"size": "4 Oz",
+"stores": 8,
+"lowest_local": 0.69
+},
+{
+"upc": "14353110033",
+"name": "Mehadrin Butter Blend, 8 Oz",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 5.49
+},
+{
+"upc": "14353110026",
+"name": "Mehadrin Butter Whipped, 8 Oz",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "14353000624",
+"name": "Mehadrin Cottage Cheese Fit 'N Free, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 6.19
+},
+{
+"upc": "14353000013",
+"name": "Mehadrin Cottage Cheese, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 6.19
+},
+{
+"upc": "14353000068",
+"name": "Mehadrin Cottage Cheese, 24 Oz",
+"size": "24 Oz",
+"stores": 8,
+"lowest_local": 8.69
+},
+{
+"upc": "14353103363",
+"name": "Mehadrin Greek Yogurt Vanilla, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 6.69
+},
+{
+"upc": "14353103035",
+"name": "Mehadrin Low Fat Coffee Yogurt, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 5.79
+},
+{
+"upc": "14353220206",
+"name": "Mehadrin Parve Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "14353110125",
+"name": "Mehadrin Unsalted Butter 2 Sticks, 8 Oz",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "14353103028",
+"name": "Mehadrin Vanilla Yogurt, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 5.79
+},
+{
+"upc": "14353103417",
+"name": "Mehadrin Yogurt Blended Strawberry, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "14353103400",
+"name": "Mehadrin Yogurt Blended Vanilla Lowfat, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "14353102076",
+"name": "Mehadrin Yogurt Coffee, 7 Oz",
+"size": "7 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "14353102342",
+"name": "Mehadrin Yogurt Fit 'N Free Blended Vanilla, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.59
+},
+{
+"upc": "14353102335",
+"name": "Mehadrin Yogurt Fit 'N Free Strawberry, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.59
+},
+{
+"upc": "14353102014",
+"name": "Mehadrin Yogurt Plain, 7 Oz",
+"size": "7 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "14353102021",
+"name": "Mehadrin Yogurt Strawberry, 7 Oz",
+"size": "7 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "14353102069",
+"name": "Mehadrin Yogurt Vanilla, 7 Oz",
+"size": "7 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "14353120179",
+"name": "Mehadrin Yogurt Yo Bar, 1.76 Oz",
+"size": "1.76 Oz",
+"stores": 8,
+"lowest_local": 2.15
+},
+{
+"upc": "77544528406",
+"name": "Osem Beef Flavor Soup Mix, 14.1 Oz",
+"size": "14.1 Oz",
+"stores": 8,
+"lowest_local": 7.79
+},
+{
+"upc": "77544527409",
+"name": "Osem Consomme Chicken Soup Mix, 14.1 Oz",
+"size": "14.1 Oz",
+"stores": 8,
+"lowest_local": 7.99
+},
+{
+"upc": "76937200141",
+"name": "Osem Homestyle Bread Crumbs Golden Crisp, 15 Oz",
+"size": "15 Oz",
+"stores": 8,
+"lowest_local": 5.49
+},
+{
+"upc": "77544400047",
+"name": "Osem Homestyle Bread Crumbs, Plain, 14 Oz",
+"size": "14 Oz",
+"stores": 8,
+"lowest_local": 5.49
+},
+{
+"upc": "77544002463",
+"name": "Osem Mushroom Soup Mix, 14.1 Oz",
+"size": "14.1 Oz",
+"stores": 8,
+"lowest_local": 7.59
+},
+{
+"upc": "77544002470",
+"name": "Osem Soup Mix Onion Consomme",
+"size": "14.1 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "25675125889",
+"name": "Paskesz Milk Munch Bars, Mini, 8.8 Oz",
+"size": "8.8 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "25675300101",
+"name": "Paskesz Milk Munch Chocolate Bar, 1.75 Oz",
+"size": "1.75 Oz",
+"stores": 8,
+"lowest_local": 1.49
+},
+{
+"upc": "25675705555",
+"name": "Paskesz Onions To Go, 5.25 Oz",
+"size": "5.25 Oz",
+"stores": 8,
+"lowest_local": 2.99
+},
+{
+"upc": "25675061200",
+"name": "Paskesz Pretzel Break Honey Mustard, 8 Oz",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 3.89
+},
+{
+"upc": "25675015258",
+"name": "Paskesz Rice Cake Minis Plain Box, 4.2 Oz",
+"size": "4.2 Oz",
+"stores": 8,
+"lowest_local": 2.5
+},
+{
+"upc": "25675015050",
+"name": "Paskesz Rice Cake Squares Plain, 4.9 Oz",
+"size": "4.9 Oz",
+"stores": 8,
+"lowest_local": 2.39
+},
+{
+"upc": "25675015005",
+"name": "Paskesz Rice Cake Squares Salt Free, 4.9 Oz",
+"size": "4.9 Oz",
+"stores": 8,
+"lowest_local": 2.29
+},
+{
+"upc": "25675015463",
+"name": "Paskesz Rice Checkers, 1.4 Oz",
+"size": "1.4 Oz",
+"stores": 8,
+"lowest_local": 1.65
+},
+{
+"upc": "75720000401",
+"name": "Poland Spring Sparkling Water Lemon, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 8,
+"lowest_local": 0.79
+},
+{
+"upc": "75720000302",
+"name": "Poland Spring Sparkling Water Lime, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 8,
+"lowest_local": 1.19
+},
+{
+"upc": "75720000715",
+"name": "Poland Spring Water, 1.5 Ltr",
+"size": "1.5 Ltr",
+"stores": 8,
+"lowest_local": 1.49
+},
+{
+"upc": "75720334117",
+"name": "Poland Spring Water, 3 Lit",
+"size": "3 Ltr",
+"stores": 8,
+"lowest_local": 1.99
+},
+{
+"upc": "735375320018",
+"name": "Tradition Creamy Chicken Soup G/Fre, 1 Ct",
+"size": "2.29 Oz",
+"stores": 8,
+"lowest_local": 1.19
+},
+{
+"upc": "735375601254",
+"name": "Tradition Noodle Soup Chicken, 2.5 Oz",
+"size": "2.5 Oz",
+"stores": 8,
+"lowest_local": 1.09
+},
+{
+"upc": "603741001260",
+"name": "Wissotzky Chamomile & Honey Tea, 20 Pk",
+"size": "20 Pk",
+"stores": 8,
+"lowest_local": 3.29
+},
+{
+"upc": "850047450463",
+"name": "7th Heaven Choc Oat Milk Dubai Styl, 3.7 Oz",
+"size": "3.7 Oz",
+"stores": 8,
+"lowest_local": 8.59
+},
+{
+"upc": "850047450401",
+"name": "7th Heaven Chocolate Cups Peanut Butter, 4.45 Oz",
+"size": "4.45 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "850047450203",
+"name": "7th Heaven Oatmilk Peanut Butter Cups, 1.5 Oz",
+"size": "1.5 Oz",
+"stores": 8,
+"lowest_local": 2.69
+},
+{
+"upc": "850047450005",
+"name": "7th Heaven Peanut Butter Cream Chocolate Bar, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 8,
+"lowest_local": 4.99
+},
+{
+"upc": "670541659458",
+"name": "Alpine Facial Tissues, 144 Ct",
+"size": "144 Ct",
+"stores": 8,
+"lowest_local": 1.39
+},
+{
+"upc": "712963000248",
+"name": "Alprose Choc Bar Two Tone Milk - Purpl, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 8,
+"lowest_local": 4.99
+},
+{
+"upc": "76301722125",
+"name": "Apple & Eve Apple Juice Clear, 64 Oz",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 4.19
+},
+{
+"upc": "724327000023",
+"name": "Be'er Mayim Seltzer, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 8,
+"lowest_local": 0.79
+},
+{
+"upc": "54800423552",
+"name": "Ben's Original Bens Original Long Grain White Rice, 32 Oz",
+"size": "2 Lb",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "41570054130",
+"name": "Blue Diamond Almond Breeze Almond Milk, Original, Unsweetened, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 2.99
+},
+{
+"upc": "18176785508",
+"name": "Camille Bloch Torino Chocolate, Milk Chocolate With Truffle Filling, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "17400105372",
+"name": "Carolina Brown Rice, Whole Grain, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "17400101404",
+"name": "Carolina White Rice Extra Long Grain 1 Lb, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 1.59
+},
+{
+"upc": "17400102456",
+"name": "Carolina White Rice Extra Long Grain 2 Lb, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 2.99
+},
+{
+"upc": "70734053078",
+"name": "Celestial Herb Tea Honey Vanilla Chamomile, 20 Ct",
+"size": "1.7 Oz",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "74220009365",
+"name": "Clear Choice Sparkling Water, Golden Peach, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 8,
+"lowest_local": 0.89
+},
+{
+"upc": "44600015941",
+"name": "Clorox Disinfecting Wipes Lemon, 35 Ct",
+"size": "35 Ct",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "638037598704",
+"name": "Coolmate Water Enhancer Fruit Punch, 2 Oz",
+"size": "2 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "46676131525",
+"name": "Dagim Chunk Light Tuna In Oil, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 2.25
+},
+{
+"upc": "46676071111",
+"name": "Dagim Chunk White Tuna In Oil, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 3.65
+},
+{
+"upc": "46676072224",
+"name": "Dagim Chunk White Tuna In Water, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 2.99
+},
+{
+"upc": "46676182121",
+"name": "Dagim Solid White Tuna, In Water, 6 Oz, Kp",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.5
+},
+{
+"upc": "49200051009",
+"name": "Domino Confectioners Sugar, 1 Lb",
+"size": "1 Lb",
+"stores": 8,
+"lowest_local": 1.99
+},
+{
+"upc": "49200056004",
+"name": "Domino Dark Brown Sugar, 1 Lb",
+"size": "1 Lb",
+"stores": 8,
+"lowest_local": 1.89
+},
+{
+"upc": "49200902943",
+"name": "Domino Light Brown Sugar Easy Pour, 10 Oz",
+"size": "10 Oz",
+"stores": 8,
+"lowest_local": 2.99
+},
+{
+"upc": "49200056752",
+"name": "Domino Light Brown Sugar, 16 Oz",
+"size": "1 Lb",
+"stores": 8,
+"lowest_local": 1.99
+},
+{
+"upc": "49200049006",
+"name": "Domino Oraganic Sugar, 24 Oz",
+"size": "24 Oz",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "49200045503",
+"name": "Domino Sugar, 4 Lb",
+"size": "4 Lb",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "73472001233",
+"name": "Ezekiel Organic Whole Grain Sesame Bread, 24 Oz",
+"size": "24 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "42400137320",
+"name": "Farina Mills Creamy Hot Wheat Cereal, Original, 28 Oz",
+"size": "28 Oz",
+"stores": 8,
+"lowest_local": 5.49
+},
+{
+"upc": "62041001040",
+"name": "Ferencz's Egg Noodles Extra Fine, 10.5 Oz",
+"size": "10.5 Oz",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "859648007038",
+"name": "Finerfin Tuna 3 Bean Salad, 4.4 Oz",
+"size": "4.4 Oz",
+"stores": 8,
+"lowest_local": 4.29
+},
+{
+"upc": "859648007014",
+"name": "Finerfin Tuna Spicy Chili, 4.4 Oz",
+"size": "4.4 Oz",
+"stores": 8,
+"lowest_local": 4.29
+},
+{
+"upc": "859648007007",
+"name": "Finerfin Tuna Zesty Lemon, 4.4 Oz",
+"size": "4.4 Oz",
+"stores": 8,
+"lowest_local": 4.29
+},
+{
+"upc": "73472001202",
+"name": "Food For Life Ezekiel 4:9 Bread Grain, 24 Oz",
+"size": "24 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "745449123452",
+"name": "Franczoz Bread Jerusalem Germinated Wheat Bread",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "745449123483",
+"name": "Franczoz Sugar Donuts",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "637951438370",
+"name": "Freund's Gefilte Fish, 20 Oz",
+"size": "20 Oz",
+"stores": 8,
+"lowest_local": 7.99
+},
+{
+"upc": "794711003688",
+"name": "Galil Rice Cakes Thin Gf Sea Salt, 3.5 Oz Kitniot",
+"size": "3.5 Oz",
+"stores": 8,
+"lowest_local": 1.19
+},
+{
+"upc": "16000124790",
+"name": "General Mills Honey Nut Cheerios, 10.8 Oz",
+"size": "10.8 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "16000125063",
+"name": "General Mills Honey Nut Cheerios, 15.4 Oz",
+"size": "15.4 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "16000487925",
+"name": "General Mills Honey Nut Chex, Gluten Free, 12.5 Oz",
+"size": "12.5 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "16000275324",
+"name": "General Mills Trix Cereal, 10.7 Oz",
+"size": "10.7 Oz",
+"stores": 8,
+"lowest_local": 4.99
+},
+{
+"upc": "855499005308",
+"name": "Gevina 0% Light Greek Yogurt Mixed Berry, 5 Oz",
+"size": "5 Oz",
+"stores": 8,
+"lowest_local": 1.5
+},
+{
+"upc": "855499005322",
+"name": "Gevina 0% Light Greek Yogurt Mocha Cafe, 5 Oz",
+"size": "5 Oz",
+"stores": 8,
+"lowest_local": 1.5
+},
+{
+"upc": "855499005186",
+"name": "Gevina 2% Blended Greek Mocha Cafe Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.5
+},
+{
+"upc": "855499005131",
+"name": "Gevina 2% Blended Greek Strawberry Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.5
+},
+{
+"upc": "855499005193",
+"name": "Gevina Farms Greek Yogurt Canadian Maple, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.5
+},
+{
+"upc": "855499005278",
+"name": "Gevina Farms Light Greek Non Fat Yogurt Strawberry, 5 Oz",
+"size": "5 Oz",
+"stores": 8,
+"lowest_local": 1.49
+},
+{
+"upc": "855499005339",
+"name": "Gevina Farms Light Greek Yogurt Mango, 5 Oz",
+"size": "5 Oz",
+"stores": 8,
+"lowest_local": 1.5
+},
+{
+"upc": "855499005285",
+"name": "Gevina Farms Light Greek Yogurt Peach, 5 Oz",
+"size": "5 Oz",
+"stores": 8,
+"lowest_local": 1.5
+},
+{
+"upc": "855499005902",
+"name": "Gevina Whole Milk Greek Yogurt Esspresso, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.5
+},
+{
+"upc": "855499005896",
+"name": "Gevina Whole Milk Greek Yogurt Strawberry, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.49
+},
+{
+"upc": "855499005926",
+"name": "Gevina Whole Milk Greek Yogurt Vanilla, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.49
+},
+{
+"upc": "14353102946",
+"name": "Givat Slim Nonfat Yogurt Vanilla, 5 Oz",
+"size": "5 Oz",
+"stores": 8,
+"lowest_local": 1.19
+},
+{
+"upc": "14353014201",
+"name": "Givat Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "786162080004",
+"name": "Glaceau Vitamin Water Energy, 20 Oz",
+"size": "20 Oz",
+"stores": 8,
+"lowest_local": 0.99
+},
+{
+"upc": "786162070005",
+"name": "Glaceau Vitamin Water Focus Kiwi Straw, 20 Oz",
+"size": "20 Oz",
+"stores": 8,
+"lowest_local": 1.19
+},
+{
+"upc": "786162004857",
+"name": "Glaceau Vitamin Water Refresh, 20 Oz",
+"size": "20 Oz",
+"stores": 8,
+"lowest_local": 1.19
+},
+{
+"upc": "786162150004",
+"name": "Glaceau Vitamin Water XXX Acai-Blueberry-Pomegranate, 20 Oz",
+"size": "20 Oz",
+"stores": 8,
+"lowest_local": 1.19
+},
+{
+"upc": "840762001200",
+"name": "Glick's All Purpose Flour, 5 Lb",
+"size": "5 Lbs",
+"stores": 8,
+"lowest_local": 2.99
+},
+{
+"upc": "727891001328",
+"name": "Golden Flow Almond Milk Original Unsweeten, 64 Oz",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "727891001106",
+"name": "Golden Flow Milk Blue Reduced Fat, 64 0Z",
+"size": "2 Gallon",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "727891001076",
+"name": "Golden Flow Milk Red Regular, 64 Oz",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "727891000352",
+"name": "Golden Flow Orange Juice 64 Oz",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "727891001335",
+"name": "Golden Flow Unsweetened Vanilla Almond Milk, 64 Oz",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "30047120430",
+"name": "Golden Fluff Microwave Popcorn Butter, 3 Pk",
+"size": "3 Pk",
+"stores": 8,
+"lowest_local": 2.85
+},
+{
+"upc": "758259771140",
+"name": "Golden Taste Egg Salad, 7.5 Oz",
+"size": "7.5 Oz",
+"stores": 8,
+"lowest_local": 4.39
+},
+{
+"upc": "758259771706",
+"name": "Golden Taste Nova Lox Salmon, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 9.99
+},
+{
+"upc": "758259771171",
+"name": "Golden Taste Tuna Deluxe, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 8,
+"lowest_local": 2.89
+},
+{
+"upc": "758259771157",
+"name": "Golden Taste Tuna Deluxe, 7.5 Oz",
+"size": "7.5 Oz",
+"stores": 8,
+"lowest_local": 5.39
+},
+{
+"upc": "810487064217",
+"name": "Heaven And Earth Tuna Salad With Corn, 5.64 Oz",
+"size": "5.64 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "810487064224",
+"name": "Heaven And Earth Tuna Salad With Quinoa, 5.64 Oz",
+"size": "5.64 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "40300033230",
+"name": "Hecker's Unbleached Flour, 5 Lb",
+"size": "5 Lb",
+"stores": 8,
+"lowest_local": 3.0
+},
+{
+"upc": "48001213586",
+"name": "Hellmann's Light Mayonnaise, 30 Oz",
+"size": "30 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "48001213487",
+"name": "Hellmann's Mayonnaise Real, 30 Oz",
+"size": "30 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "72600008137",
+"name": "Herr's Potato Chips Ketchup, 1 Oz",
+"size": "1 Oz",
+"stores": 8,
+"lowest_local": 0.5
+},
+{
+"upc": "850037363032",
+"name": "Holy Hummus Homestyle Olive Oil, 10 Oz",
+"size": "10 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "850037363025",
+"name": "Holy Hummus Jerusalem Classic Tahin, 10 Oz",
+"size": "10 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "850037363018",
+"name": "Holy Hummus Traditional Classic, 10 Oz",
+"size": "10 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "84253240451",
+"name": "Imagine Foods Vegetarian No-Chicken Broth, Organic, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "41198005019",
+"name": "Jason Bread Crumb Flavored, 15 Oz",
+"size": "15 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "41198004012",
+"name": "Jason Plain Panko Bread Crumbs, 9 Oz",
+"size": "9 Oz",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "729940016321",
+"name": "Jetfoil Aluminum Baking Cups, 10 Ct",
+"size": "10 Ct",
+"stores": 8,
+"lowest_local": 1.35
+},
+{
+"upc": "21859046124",
+"name": "Kemach Crisp Rice 18Oz",
+"size": "18 Oz",
+"stores": 8,
+"lowest_local": 5.39
+},
+{
+"upc": "21859040139",
+"name": "Kemach Egg Noodles Broad Kemach, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 2.89
+},
+{
+"upc": "21859040122",
+"name": "Kemach Egg Noodles Medium, 10 Oz",
+"size": "10 Oz",
+"stores": 8,
+"lowest_local": 2.49
+},
+{
+"upc": "21859040115",
+"name": "Kemach Egg Noodles X-Fine, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 2.69
+},
+{
+"upc": "21859043383",
+"name": "Kemach Flat Bread Everything, 5 Oz",
+"size": "5 Oz",
+"stores": 8,
+"lowest_local": 2.39
+},
+{
+"upc": "21859043390",
+"name": "Kemach Flat Bread Sesame, 5 Oz",
+"size": "5 Oz",
+"stores": 8,
+"lowest_local": 2.19
+},
+{
+"upc": "21859040009",
+"name": "Kemach Flour All Purpose, 5 Lb",
+"size": "5 Lb",
+"stores": 8,
+"lowest_local": 4.99
+},
+{
+"upc": "21859050107",
+"name": "Kemach High Gluten Flour, 5 Lb",
+"size": "5 Lb",
+"stores": 8,
+"lowest_local": 4.99
+},
+{
+"upc": "21859046179",
+"name": "Kemach Honey Nut Toasted Oat, 14 Oz",
+"size": "14 Oz",
+"stores": 8,
+"lowest_local": 4.89
+},
+{
+"upc": "21859040368",
+"name": "Kemach Split Pea Soup Mix, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.79
+},
+{
+"upc": "21859040054",
+"name": "Kemach Whole Wheat & Bran Matzah, 10.5 Oz",
+"size": "10.5 Oz",
+"stores": 8,
+"lowest_local": 2.89
+},
+{
+"upc": "21859040023",
+"name": "Kemach Whole Wheat Matzah, 10 Oz",
+"size": "10 Oz",
+"stores": 8,
+"lowest_local": 2.89
+},
+{
+"upc": "602652170560",
+"name": "Kind Bar Plus, Peanut Butter Dark Chocolate",
+"size": "1.4 Oz",
+"stores": 8,
+"lowest_local": 1.99
+},
+{
+"upc": "71012041053",
+"name": "King Arthur Bread Flour, Unbleached, 5 Lb",
+"size": "5 Lb",
+"stores": 8,
+"lowest_local": 1.49
+},
+{
+"upc": "729940003420",
+"name": "Kitchen Collection Challah Bags, 15 Ct",
+"size": "15 Ct",
+"stores": 8,
+"lowest_local": 2.19
+},
+{
+"upc": "729940005493",
+"name": "Kitchen Collection Pans Oval Challah Med 3 Lb., 4 Pk",
+"size": "4 Pk",
+"stores": 8,
+"lowest_local": 1.79
+},
+{
+"upc": "894792002010",
+"name": "Kj Poultry Chicken Franks",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "40232595622",
+"name": "Kj Poultry Chicken Salami, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 3.89
+},
+{
+"upc": "894792002959",
+"name": "Kj Poultry Gourmet Smoked Turkey Breast",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 6.19
+},
+{
+"upc": "40232595615",
+"name": "Kj Poultry Oven Turkey Breast, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 5.79
+},
+{
+"upc": "894792002034",
+"name": "Kj Poultry Smoked Turkey Breast, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 5.79
+},
+{
+"upc": "894792002058",
+"name": "Kj Poultry Turkey Roll, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 5.49
+},
+{
+"upc": "894792002041",
+"name": "Kj Turkey Pastrami, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 6.19
+},
+{
+"upc": "84685000296",
+"name": "Klik Milk Chocolate Balls, 1.06 Oz",
+"size": "1.06 Oz",
+"stores": 8,
+"lowest_local": 1.79
+},
+{
+"upc": "13495113278",
+"name": "Klik Xl Purple Milk Choc Crisp, 3 Oz",
+"size": "3 Oz",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "727891000758",
+"name": "Lakewood Farms Orange Juice, 59 Oz",
+"size": "59 Oz",
+"stores": 8,
+"lowest_local": 5.25
+},
+{
+"upc": "78328002808",
+"name": "Landau Milk Chocolate Granola, 11.4 Oz",
+"size": "11.4 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "195893024889",
+"name": "Lechem Classic Challah, 1 Ct",
+"size": "1 Ct",
+"stores": 8,
+"lowest_local": 11.49
+},
+{
+"upc": "860013351205",
+"name": "Lechem Classic Sesame Challah, 1 Ct",
+"size": "1 Ct",
+"stores": 8,
+"lowest_local": 14.99
+},
+{
+"upc": "860013351243",
+"name": "Lechem Sliced Challah, 1 Ct",
+"size": "1 Ct",
+"stores": 8,
+"lowest_local": 14.99
+},
+{
+"upc": "73416401525",
+"name": "Lundberg Basmati Rice Brown, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "73416197633",
+"name": "Lundberg Brown Rice, Short Grain, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "73416040038",
+"name": "Lundberg Sushi Rice White, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 7.99
+},
+{
+"upc": "73416401532",
+"name": "Lundberg White Basmati Rice, 2 Lb",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "73416040229",
+"name": "Lundberg White Jasmine Rice, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "93133112863",
+"name": "Mikee Honey Garlic Sauce, 20 Oz",
+"size": "20 Oz",
+"stores": 8,
+"lowest_local": 6.99
+},
+{
+"upc": "793888349643",
+"name": "Molino Flour Gf, 1.1 Lb",
+"size": "1.1 Lb",
+"stores": 8,
+"lowest_local": 7.99
+},
+{
+"upc": "73575273346",
+"name": "Nakano Rice Vinegar Natural, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 4.19
+},
+{
+"upc": "16000264601",
+"name": "Nature Valley Granola Bars Oats 'N Honey, 8.9 Oz",
+"size": "8.9 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "16000264700",
+"name": "Nature Valley Granola Bars Peanut Butter, 8.9 Oz",
+"size": "8.9 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "73314116828",
+"name": "Nature's Own Apple Juice, 64 Oz",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 3.5
+},
+{
+"upc": "72251002119",
+"name": "Near East Rice Pilaf Garlic & Herb, 6.3 Oz",
+"size": "6.3 Oz",
+"stores": 8,
+"lowest_local": 2.49
+},
+{
+"upc": "72251001051",
+"name": "Near East Rice Pilaf Original, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.89
+},
+{
+"upc": "72251000306",
+"name": "Near East Rice Pilaf Spanish Rice, 6.75 Oz",
+"size": "6.75 Oz",
+"stores": 8,
+"lowest_local": 2.49
+},
+{
+"upc": "72251002164",
+"name": "Near East Rice Pilaf Wild Mushrooms/Herb, 6.3 Oz",
+"size": "6.3 Oz",
+"stores": 8,
+"lowest_local": 2.49
+},
+{
+"upc": "706132280920",
+"name": "Ner Mitzvah Olive Oil Tea Light Candles 4.5 Hrs, 40 Ct",
+"size": "40 Ct",
+"stores": 8,
+"lowest_local": 14.49
+},
+{
+"upc": "890360004257",
+"name": "Norman's Cream Cheese Whipped, 8 Oz",
+"size": "8 Oz",
+"stores": 8,
+"lowest_local": 3.39
+},
+{
+"upc": "890360003908",
+"name": "Norman's Greek Creamy Yogurt Summer Strawberry, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 6.29
+},
+{
+"upc": "890360003557",
+"name": "Norman's Greek Pro+Yogurt Roast Coffee, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.79
+},
+{
+"upc": "890360003526",
+"name": "Norman's Greek Pro+Yogurt Strawberry, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.79
+},
+{
+"upc": "890360003533",
+"name": "Norman's Greek Pro+Yogurt Superfruit, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.79
+},
+{
+"upc": "890360003328",
+"name": "Norman's Lowfat Vanilla Yogurt Cho.Crun, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.65
+},
+{
+"upc": "890360004455",
+"name": "Norman's Sqz Strawberry Yogurt, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 8,
+"lowest_local": 1.39
+},
+{
+"upc": "890360000433",
+"name": "Norman's Yogurt French Vanilla Low Fat, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.09
+},
+{
+"upc": "890360000488",
+"name": "Norman's Yogurt Poppers Choc Lentils, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.65
+},
+{
+"upc": "890360000457",
+"name": "Norman's Yogurt Poppers Fruity Crunchy, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.65
+},
+{
+"upc": "890360000464",
+"name": "Norman's Yogurt Poppers Vanilla Cookie Cr, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.65
+},
+{
+"upc": "890360000426",
+"name": "Norman's Yogurt Strawberry Low Fat, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.19
+},
+{
+"upc": "691535527010",
+"name": "NuGo Dark Protein Bar, Peanut Butter Cup, 1.7 Oz",
+"size": "1.7 Oz",
+"stores": 8,
+"lowest_local": 1.89
+},
+{
+"upc": "691535207011",
+"name": "NuGo Slim Protein Bar, Crunchy Peanut Butter, 1.59 Oz",
+"size": "1.59 Oz",
+"stores": 8,
+"lowest_local": 2.15
+},
+{
+"upc": "32797805599",
+"name": "Oneg Crunchy Fried Onions, 10 Oz",
+"size": "10 Oz",
+"stores": 8,
+"lowest_local": 5.49
+},
+{
+"upc": "142486605123",
+"name": "Oola Peanut Butter Granola Bar, 5 Pk",
+"size": "5 Pk",
+"stores": 8,
+"lowest_local": 4.29
+},
+{
+"upc": "64144030095",
+"name": "Pam Baking Spray W/Flour, 5 Oz",
+"size": "5 Oz",
+"stores": 8,
+"lowest_local": 5.69
+},
+{
+"upc": "880879003162",
+"name": "Pardes Farms Sliced Strawberry In Sugar, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "837654335185",
+"name": "Pas Yisroel 100% Whole Wheat Bread, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 4.59
+},
+{
+"upc": "851858003336",
+"name": "Pas Yisroel Bread 100% Whole Wheat, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 4.59
+},
+{
+"upc": "813568000586",
+"name": "Pereg Bread Crumbs Classical Flavor, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 3.89
+},
+{
+"upc": "813568000609",
+"name": "Pereg Bread Crumbs Mexican Flavor, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "813568000593",
+"name": "Pereg Bread Crumbs, American Flavor, 14 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "813568001644",
+"name": "Pereg Panko Bread Crumbs, Italian, 9 Oz",
+"size": "9 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "813568001545",
+"name": "Pereg Panko Bread Crumbs, Japanese, 9 Oz",
+"size": "9 Oz",
+"stores": 8,
+"lowest_local": 3.89
+},
+{
+"upc": "813568001552",
+"name": "Pereg Panko X-Fine Bread Crumbs, 9 Oz",
+"size": "9 Oz",
+"stores": 8,
+"lowest_local": 4.49
+},
+{
+"upc": "44100190773",
+"name": "Planet Oat Original Oat Milk, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 3.35
+},
+{
+"upc": "853847001446",
+"name": "Plastico 9\" Plates, 100 Ct",
+"size": "100 Ct",
+"stores": 8,
+"lowest_local": 7.69
+},
+{
+"upc": "853847001439",
+"name": "Plastico Plates Plastic 7\", 100 Ct",
+"size": "100 Ct",
+"stores": 8,
+"lowest_local": 4.85
+},
+{
+"upc": "723892832367",
+"name": "Pride Of The Farm Fortified Fat Free Milk, 0.5 Gal",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "723892832336",
+"name": "Pride Of The Farm Lowfat Milk, 64 Oz",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "723892832343",
+"name": "Pride Of The Farm Red Milk, 0.5 Gallon",
+"size": "64 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "744664098040",
+"name": "Prima Chicken Seasoning, 3 Oz",
+"size": "3 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "650926770558",
+"name": "Quality Flour Sifted Loose Flour, 5 Lbs",
+"size": "5 Lb",
+"stores": 8,
+"lowest_local": 8.79
+},
+{
+"upc": "650926770442",
+"name": "Quality Flour Sifted Loose Flour, 6 Lbs",
+"size": "6 Lb",
+"stores": 8,
+"lowest_local": 8.49
+},
+{
+"upc": "74401410416",
+"name": "Rice Select Sushi Rice, 32 Oz",
+"size": "32 Oz",
+"stores": 8,
+"lowest_local": 7.49
+},
+{
+"upc": "36602300019",
+"name": "Ricola Honey-Herb Drops, 24 Pc",
+"size": "24 Pc",
+"stores": 8,
+"lowest_local": 3.69
+},
+{
+"upc": "36602030602",
+"name": "Ricola Max Cool Lemon Honey, 34 Pc",
+"size": "34 Pc",
+"stores": 8,
+"lowest_local": 7.59
+},
+{
+"upc": "71300000083",
+"name": "Ronzoni Spaghetti #8, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 1.49
+},
+{
+"upc": "32673000018",
+"name": "Royal Gefilte Fish, 22 Oz",
+"size": "22 Oz",
+"stores": 8,
+"lowest_local": 8.49
+},
+{
+"upc": "736613480310",
+"name": "Royo Bread Everything Bagel, 16 Oz",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 11.99
+},
+{
+"upc": "736613480280",
+"name": "Royo Bread Sesame Bagel Low Carb, 21 Oz",
+"size": "21 Oz",
+"stores": 8,
+"lowest_local": 11.99
+},
+{
+"upc": "736613480075",
+"name": "Royo Low Carb Bread, 21 Oz",
+"size": "21 Oz",
+"stores": 8,
+"lowest_local": 9.99
+},
+{
+"upc": "736613480259",
+"name": "Royo Low Carb Challah Rolls, 16 Oz",
+"size": "14.1 Oz",
+"stores": 8,
+"lowest_local": 10.99
+},
+{
+"upc": "40822342681",
+"name": "Sabra Guacamole Singles, 4 2 Oz Cups",
+"size": "2 Oz",
+"stores": 8,
+"lowest_local": 5.99
+},
+{
+"upc": "638037599039",
+"name": "Salad Mate Chickies Garlic Mayo, 11 Oz",
+"size": "11 Oz",
+"stores": 8,
+"lowest_local": 6.49
+},
+{
+"upc": "638037598476",
+"name": "Salad Mate Pesto Mayo, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 6.49
+},
+{
+"upc": "860007000164",
+"name": "Salad Mate Spicy Mayo Dressing, 12 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 6.49
+},
+{
+"upc": "852686001372",
+"name": "Shibolim Flour White Spelt 5 Lb, 80 Oz",
+"size": "5 Lb",
+"stores": 8,
+"lowest_local": 12.49
+},
+{
+"upc": "852686001334",
+"name": "Shibolim Whole Wheat Matzah, 10.5 Oz",
+"size": "10.5 Oz",
+"stores": 8,
+"lowest_local": 3.69
+},
+{
+"upc": "780248006032",
+"name": "Shore Pita Whole Wheat",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 3.59
+},
+{
+"upc": "893033002031",
+"name": "Silktouch Dinner Napkins, 100 Ct",
+"size": "100 Ct",
+"stores": 8,
+"lowest_local": 1.99
+},
+{
+"upc": "729940020984",
+"name": "Simcha Collection Floret Baking Cups, 24 Ct",
+"size": "24 Ct",
+"stores": 8,
+"lowest_local": 2.59
+},
+{
+"upc": "729940023046",
+"name": "Simcha Collection Shot Cups 2 Oz, 50 Ct",
+"size": "50 Ct",
+"stores": 8,
+"lowest_local": 2.59
+},
+{
+"upc": "77485000382",
+"name": "Snack Delite Crisp Rice Treats Fruity Marsh, 8 Pk",
+"size": "8 Pk",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "77485000313",
+"name": "Snack Delite Crisp Rice Treats Rainbow, 8 Pk",
+"size": "8 Pk",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "893033002024",
+"name": "Softouch Lunch Napkins, 500 Ct",
+"size": "500 Ct",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "75724436",
+"name": "Spring Water 1 Gallon",
+"size": "1 Gallon",
+"stores": 8,
+"lowest_local": 1.99
+},
+{
+"upc": "33454002023",
+"name": "Stern's 100% Whole Wheat Bread",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "33454004195",
+"name": "Stern's Sugar Kichel, 9 Oz",
+"size": "9 Oz",
+"stores": 8,
+"lowest_local": 7.39
+},
+{
+"upc": "33454002016",
+"name": "Sterns 100% Whole Wheat Bread",
+"size": "16 Oz",
+"stores": 8,
+"lowest_local": 3.79
+},
+{
+"upc": "33454004201",
+"name": "Sterns Egg Kichel, 10 Oz",
+"size": "10 Oz",
+"stores": 8,
+"lowest_local": 6.79
+},
+{
+"upc": "78328031006",
+"name": "Taanug Crisp Rice, 13 Oz",
+"size": "12 Oz",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "84685000883",
+"name": "Telma Kariot Nougat Cereal, 24.2 Oz",
+"size": "24.2 Oz",
+"stores": 8,
+"lowest_local": 8.99
+},
+{
+"upc": "880879001618",
+"name": "The Best Heimishe Tuna Salad, 7.5 Oz",
+"size": "7.5 Oz",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "710069304222",
+"name": "Tuscanin Sld Lght O Tuna 3Pk, 8.46 Oz",
+"size": "3 Pk",
+"stores": 8,
+"lowest_local": 7.69
+},
+{
+"upc": "710069312128",
+"name": "Tuscanini Crushed Tomatoes, 24.7 Oz",
+"size": "24.7 Oz",
+"stores": 8,
+"lowest_local": 3.35
+},
+{
+"upc": "710069303072",
+"name": "Tuscanini High Gluten Flour 5 Lbs",
+"size": "5 Lb",
+"stores": 8,
+"lowest_local": 8.49
+},
+{
+"upc": "710069304253",
+"name": "Tuscanini Tuna In Olive Oil Can, 5.6 Oz",
+"size": "5.6 Oz",
+"stores": 8,
+"lowest_local": 4.89
+},
+{
+"upc": "710069304260",
+"name": "Tuscanini Tuna In Water Can, 5.6 Oz",
+"size": "5.6 Oz",
+"stores": 8,
+"lowest_local": 3.99
+},
+{
+"upc": "710069303089",
+"name": "Tuscanini White Spelt Flour 5 Lbs",
+"size": "5 Lb",
+"stores": 8,
+"lowest_local": 11.19
+},
+{
+"upc": "23005002374",
+"name": "Unger's Flavored Bread Crumbs, 15 Oz",
+"size": "15 Oz",
+"stores": 8,
+"lowest_local": 4.15
+},
+{
+"upc": "23005002367",
+"name": "Unger's Plain Bread Crumbs, 15 Oz",
+"size": "15 Oz",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "786162010001",
+"name": "Vitamin Water Power-C, 20 Oz",
+"size": "20 Oz",
+"stores": 8,
+"lowest_local": 1.19
+},
+{
+"upc": "682430611744",
+"name": "Voss Still Water, 800 Ml",
+"size": "800 Ml",
+"stores": 8,
+"lowest_local": 3.49
+},
+{
+"upc": "69588690867",
+"name": "Wesson Canola Oil, 40 Oz",
+"size": "40 Oz",
+"stores": 8,
+"lowest_local": 5.49
+},
+{
+"upc": "41262271852",
+"name": "Wise Chips, Honey BBQ, 0.75 Oz",
+"size": "0.75 Oz",
+"stores": 8,
+"lowest_local": 0.5
+},
+{
+"upc": "610563277308",
+"name": "Wonder Sifted Flour High Gluten, 5 Lb",
+"size": "5 Lb",
+"stores": 8,
+"lowest_local": 10.49
+},
+{
+"upc": "850011603116",
+"name": "Wondermill High Gluten Flour, 5 Lb",
+"size": "5 Lb",
+"stores": 8,
+"lowest_local": 8.29
+},
+{
+"upc": "856867000024",
+"name": "Xl Energy Drink Sugar Free, 8.4 Oz",
+"size": "8.4 Oz",
+"stores": 8,
+"lowest_local": 1.79
+},
+{
+"upc": "603741001161",
+"name": "Zeta Extra Virgin Olive Oil, 25.4 Oz",
+"size": "25.4 Oz",
+"stores": 8,
+"lowest_local": 16.99
+},
+{
+"upc": "705105373614",
+"name": "Zevi's Gefilte Fish, 20 Oz",
+"size": "20 Oz",
+"stores": 8,
+"lowest_local": 8.29
+},
+{
+"upc": "732973000267",
+"name": "A&B Gefilte Fish Twin Pack, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 17.99
+},
+{
+"upc": "32797006804",
+"name": "Bloom's Potato Chip Honey Bbq, 9 Oz",
+"size": "9 Oz",
+"stores": 7,
+"lowest_local": 3.99
+},
+{
+"upc": "32797006811",
+"name": "Bloom's Potato Chips Honey Bbq",
+"size": "0.75 Oz",
+"stores": 8,
+"lowest_local": 0.49
+},
+{
+"upc": "32797041508",
+"name": "Bloom's Sauteed Onion Olive Oil, 14 Oz",
+"size": "14 Oz",
+"stores": 7,
+"lowest_local": 4.39
+},
+{
+"upc": "32797006231",
+"name": "Blooms Ketchup Potato Chips, .75 Oz",
+"size": "0.75 Oz",
+"stores": 7,
+"lowest_local": 0.33
+},
+{
+"upc": "815871010092",
+"name": "Elite Must Gum, Peppermint, Sugar Free, 1.06 Oz",
+"size": "1.06 Oz",
+"stores": 7,
+"lowest_local": 1.49
+},
+{
+"upc": "710069404939",
+"name": "Gefen Almond Butter Blanched, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 11.79
+},
+{
+"upc": "710069119901",
+"name": "Gefen Apple Juice, 3Pk 6.75Oz",
+"size": "6.75 Oz",
+"stores": 7,
+"lowest_local": 2.69
+},
+{
+"upc": "710069115071",
+"name": "Gefen Apple Juice, 64 Oz",
+"size": "64 Oz",
+"stores": 7,
+"lowest_local": 5.69
+},
+{
+"upc": "710069033504",
+"name": "Gefen Canola Oil, 96 Oz",
+"size": "96 Oz",
+"stores": 7,
+"lowest_local": 10.99
+},
+{
+"upc": "710069012219",
+"name": "Gefen Chunk Light Tuna In Oil, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 2.59
+},
+{
+"upc": "710069222311",
+"name": "Gefen Chunk Light Tuna Water Pouch, 3 Oz",
+"size": "3 Oz",
+"stores": 7,
+"lowest_local": 3.29
+},
+{
+"upc": "710069222328",
+"name": "Gefen Chunk Light Tuna Water Pouch, 7 Oz",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 3.99
+},
+{
+"upc": "710069001053",
+"name": "Gefen Egg Noodles Medium, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 2.29
+},
+{
+"upc": "710069101555",
+"name": "Gefen Fancy Chunk White Albacore In Water, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 2.49
+},
+{
+"upc": "710069128804",
+"name": "Gefen Honey, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "710069061378",
+"name": "Gefen Instant Rice Noodle Chicken, 2.3 Oz",
+"size": "2.3 Oz",
+"stores": 7,
+"lowest_local": 1.89
+},
+{
+"upc": "710069123106",
+"name": "Gefen Ketchup Kfp, 28 Oz",
+"size": "28 Oz",
+"stores": 7,
+"lowest_local": 4.89
+},
+{
+"upc": "710069117372",
+"name": "Gefen Mayo Dressing Avocado Oil, 30 Oz",
+"size": "30 Oz",
+"stores": 7,
+"lowest_local": 4.99
+},
+{
+"upc": "710069307223",
+"name": "Gefen Olive Oil Extra Virgin Mini, 8.5 Oz",
+"size": "8.5 Oz",
+"stores": 7,
+"lowest_local": 5.99
+},
+{
+"upc": "710069306516",
+"name": "Gefen Olive Oil Spray, 6 Oz, Kp",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 5.29
+},
+{
+"upc": "710069001152",
+"name": "Gefen Spaghetti, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 2.19
+},
+{
+"upc": "710069101814",
+"name": "Gefen Unsweetened Almond Milk, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 7,
+"lowest_local": 2.79
+},
+{
+"upc": "710069021907",
+"name": "Gefen Whole Potatoes, 15 Oz",
+"size": "15 Oz",
+"stores": 7,
+"lowest_local": 1.89
+},
+{
+"upc": "840762001347",
+"name": "Glicks Ketchup, 64 Oz",
+"size": "64 Oz",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "840762042029",
+"name": "Glicks Vanilla Sugar, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 2.49
+},
+{
+"upc": "77028200125",
+"name": "Haddar Natural Peanut Butter, Crunchy, 18 Oz",
+"size": "18 Oz",
+"stores": 7,
+"lowest_local": 4.29
+},
+{
+"upc": "77028200101",
+"name": "Haddar Peanut Butter Creamy Natural, 18 Oz",
+"size": "18 Oz",
+"stores": 7,
+"lowest_local": 4.29
+},
+{
+"upc": "26638278000",
+"name": "Haolam Mozzarella Cheese Red Fat, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "26638263334",
+"name": "Haolam Natural Mozzarella Cheese Slices, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 6.19
+},
+{
+"upc": "26638221501",
+"name": "Haolam Sliced Mozzarella, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "13735012",
+"name": "Heinz Ketchup, 44 Oz",
+"size": "44 Oz",
+"stores": 7,
+"lowest_local": 4.99
+},
+{
+"upc": "11274000399",
+"name": "J&J Butter Sticks 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 5.99
+},
+{
+"upc": "11274000481",
+"name": "J&J Cream Cheese Jalapeno, 7 Oz",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "11274000238",
+"name": "J&J Vanilla Yogurt, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 1.59
+},
+{
+"upc": "11274001525",
+"name": "J&J Yogurt Deluxe Blended Coffee, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.19
+},
+{
+"upc": "11274001532",
+"name": "J&J Yogurt Deluxe Strawberry, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.19
+},
+{
+"upc": "11274007244",
+"name": "J&J Yogurt Plain Non Fat Sweetened, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 5.19
+},
+{
+"upc": "729940020533",
+"name": "Jet Foil 2.25 Lb Aluminum Pans With Lids, 10 Sets",
+"size": "2.25 Lb",
+"stores": 7,
+"lowest_local": 5.19
+},
+{
+"upc": "729940031911",
+"name": "Jet Foil Aluminum Pan X Deep 9X13, 2 Ct",
+"size": "2 Ct",
+"stores": 7,
+"lowest_local": 1.99
+},
+{
+"upc": "73490131653",
+"name": "Kedem Blush Grape Juice, 64 Oz",
+"size": "64 Oz",
+"stores": 7,
+"lowest_local": 5.49
+},
+{
+"upc": "73490132872",
+"name": "Kedem Grape Juice Concord, 25.4 Oz",
+"size": "25.4 Oz",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "73490128370",
+"name": "Kedem Grape Juice, Blush, 22 Oz",
+"size": "22 Oz",
+"stores": 7,
+"lowest_local": 3.89
+},
+{
+"upc": "73490130656",
+"name": "Kedem Grape Juice, Light White, 64 Oz",
+"size": "64 Oz",
+"stores": 7,
+"lowest_local": 5.49
+},
+{
+"upc": "73490131318",
+"name": "Kedem Grape Juice, Organic, 22 Oz.",
+"size": "22 Oz.",
+"stores": 7,
+"lowest_local": 5.59
+},
+{
+"upc": "73490132216",
+"name": "Kedem Grape Juice, Sparkling, Low Carb, 25.4 Oz",
+"size": "25.4 Oz",
+"stores": 7,
+"lowest_local": 4.79
+},
+{
+"upc": "73490128493",
+"name": "Kedem Sparkling Peach Grape Juice, 25.4 Oz",
+"size": "25.4 Oz",
+"stores": 7,
+"lowest_local": 4.99
+},
+{
+"upc": "91404152853",
+"name": "Klein's Soft Serve Lite Peanut Butter, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 4.59
+},
+{
+"upc": "91404104593",
+"name": "Klein's Yogurt Frozen Bars Strawbry, 6 Ct",
+"size": "6 Ct",
+"stores": 7,
+"lowest_local": 12.49
+},
+{
+"upc": "43427202756",
+"name": "Lieber Peach Cups, 4 Ct",
+"size": "4 Ct",
+"stores": 7,
+"lowest_local": 3.69
+},
+{
+"upc": "43427002080",
+"name": "Lieber's Baking Spray with Flour, 5 Oz",
+"size": "5 Oz",
+"stores": 7,
+"lowest_local": 4.25
+},
+{
+"upc": "43427200783",
+"name": "Lieber's Ketchup, 24 Oz",
+"size": "24 Oz",
+"stores": 7,
+"lowest_local": 1.99
+},
+{
+"upc": "43427777193",
+"name": "Lieber's Milk Choc Coated Rice Cake, 1.05 Oz",
+"size": "1 Oz",
+"stores": 7,
+"lowest_local": 2.39
+},
+{
+"upc": "43427195201",
+"name": "Lieber's Soup Mix Consomme No Msg, 14 Oz",
+"size": "14 Oz",
+"stores": 7,
+"lowest_local": 4.69
+},
+{
+"upc": "43427001496",
+"name": "Lieber's Spicy Mayo, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 3.99
+},
+{
+"upc": "43427100571",
+"name": "Lieber's Sugar Crystals Assorted Colors, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 5.79
+},
+{
+"upc": "43427000116",
+"name": "Lieber's Thin Rice Cake Sea Salt, 3.1 Oz",
+"size": "3.1 Oz",
+"stores": 8,
+"lowest_local": 1.5
+},
+{
+"upc": "43427201186",
+"name": "Lieber's X-Lite Olive Oil, 34 Oz",
+"size": "34 Oz",
+"stores": 7,
+"lowest_local": 11.99
+},
+{
+"upc": "43427777186",
+"name": "Liebers Chocolate Coated Rice Cakes, 30 Gr",
+"size": "1 Oz",
+"stores": 7,
+"lowest_local": 2.39
+},
+{
+"upc": "43427000901",
+"name": "Liebers Honey Bbq Potato Chips 0.75 Oz.",
+"size": "0.75 Oz.",
+"stores": 8,
+"lowest_local": 0.33
+},
+{
+"upc": "51328810499",
+"name": "Meal Mart Chicken Franks (Hot Dogs), 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 5.49
+},
+{
+"upc": "51328701711",
+"name": "Meal Mart Chicken Liver Broiled, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 10.89
+},
+{
+"upc": "51328507566",
+"name": "Meal Mart Egg Roll Mini, 10 Oz",
+"size": "10 Oz",
+"stores": 7,
+"lowest_local": 9.99
+},
+{
+"upc": "51328715497",
+"name": "Meal Mart Pastrami Sliced, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 6.99
+},
+{
+"upc": "51328104116",
+"name": "Meal Mart Pastrami Sliced, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 8.99
+},
+{
+"upc": "14353112556",
+"name": "Mehadrin American Cheese, 108 Slices",
+"size": "3 Lb",
+"stores": 7,
+"lowest_local": 15.99
+},
+{
+"upc": "14353103516",
+"name": "Mehadrin Blndz Yogurt Vanilla, 4 Oz",
+"size": "4 Oz",
+"stores": 7,
+"lowest_local": 0.69
+},
+{
+"upc": "14353000853",
+"name": "Mehadrin Cold Brew Latte With Milk, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 2.79
+},
+{
+"upc": "14353000020",
+"name": "Mehadrin Cottage Cheese Small, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 3.79
+},
+{
+"upc": "14353103240",
+"name": "Mehadrin Greek Yogurt Blueberry, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.89
+},
+{
+"upc": "14353103370",
+"name": "Mehadrin Greek Yogurt Cappuccino, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 6.69
+},
+{
+"upc": "14353103226",
+"name": "Mehadrin Greek Yogurt Cappuccino, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.89
+},
+{
+"upc": "14353103295",
+"name": "Mehadrin Greek Yogurt Pomegranate, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.89
+},
+{
+"upc": "14353103387",
+"name": "Mehadrin Greek Yogurt Strawberry, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 6.69
+},
+{
+"upc": "14353103233",
+"name": "Mehadrin Greek Yogurt Strawberry, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.89
+},
+{
+"upc": "14353103202",
+"name": "Mehadrin Greek Yogurt Vanilla, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.89
+},
+{
+"upc": "14353102427",
+"name": "Mehadrin Kids! Yo Smart Vanilla Yogurt, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 7,
+"lowest_local": 1.45
+},
+{
+"upc": "14353103639",
+"name": "Mehadrin Krispy Lowfat Yogurt Rainbow Buttons, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.79
+},
+{
+"upc": "14353220312",
+"name": "Mehadrin Parve Chocolate Pudding Cups, 4 Oz, 4 Pk",
+"size": "4 Pk",
+"stores": 7,
+"lowest_local": 7.19
+},
+{
+"upc": "14353103011",
+"name": "Mehadrin Plain Yogurt, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 5.79
+},
+{
+"upc": "14353128090",
+"name": "Mehadrin Pudding Classic Rice, 4 Pk",
+"size": "4 Pk",
+"stores": 7,
+"lowest_local": 5.49
+},
+{
+"upc": "14353112150",
+"name": "Mehadrin Shredded Mozzarella Cheese, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "14353112204",
+"name": "Mehadrin Shredded Mozzarella, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 7.39
+},
+{
+"upc": "14353501350",
+"name": "Mehadrin Vanilla Frozen Yogurt, 1 Qrt",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 8.29
+},
+{
+"upc": "14353102304",
+"name": "Mehadrin Yogurt Fit 'N Free Coffee, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 1.59
+},
+{
+"upc": "76937200103",
+"name": "Osem Panko Bread Crumbs Plain, 9 Oz",
+"size": "9 Oz",
+"stores": 7,
+"lowest_local": 5.89
+},
+{
+"upc": "25675705654",
+"name": "Paskesz Crispy Fried Onions, 14 Oz",
+"size": "14 Oz",
+"stores": 7,
+"lowest_local": 5.99
+},
+{
+"upc": "735375606259",
+"name": "Tradition Instant Noodle Soup, Chicken Flavor, Reduced Sodium, 1.6 Oz",
+"size": "1.6 Oz",
+"stores": 7,
+"lowest_local": 1.19
+},
+{
+"upc": "48500205983",
+"name": "Tropicana Apple Juice, 11 Oz",
+"size": "11 Oz",
+"stores": 7,
+"lowest_local": 2.09
+},
+{
+"upc": "729940022155",
+"name": "1 Lb Oblong Aluminum Pan, 10 Pk",
+"size": "10 Ct",
+"stores": 7,
+"lowest_local": 1.39
+},
+{
+"upc": "850047450609",
+"name": "7th Heaven Cereal Bites, 2.3 Oz",
+"size": "2.3 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "850047450029",
+"name": "7th Heaven Hazelnut Cream Oat Milk Chocolate, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 7,
+"lowest_local": 4.99
+},
+{
+"upc": "732973000342",
+"name": "A & B Gefilte Fish Carb Free Splenda, 20 Oz",
+"size": "20 Oz",
+"stores": 7,
+"lowest_local": 12.19
+},
+{
+"upc": "732973000328",
+"name": "A & B Gefilte Fish Family Pk, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 16.39
+},
+{
+"upc": "732973000489",
+"name": "A & B Gefilte Fish Gluten Free, 20 Oz",
+"size": "20 Oz",
+"stores": 7,
+"lowest_local": 10.89
+},
+{
+"upc": "712963000224",
+"name": "Alprose Choc Bar Deluxe Milk - Green, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 7,
+"lowest_local": 4.99
+},
+{
+"upc": "633016015456",
+"name": "B'gan Apple Juice Box, 6.75 fl Oz",
+"size": "6.75 fl Oz",
+"stores": 7,
+"lowest_local": 4.39
+},
+{
+"upc": "74301000083",
+"name": "Batampte Pickled Tomatoes 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 5.49
+},
+{
+"upc": "724327000030",
+"name": "Beer Mayim Seltzer Lemon, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 7,
+"lowest_local": 1.09
+},
+{
+"upc": "54800423590",
+"name": "Bens Original Whole Grain Rice, 1 Lb",
+"size": "1 Lb",
+"stores": 7,
+"lowest_local": 2.49
+},
+{
+"upc": "729940029383",
+"name": "Best Bev Beverage Cups W/ Lids 16 Z, 32 Ct",
+"size": "32 Ct",
+"stores": 7,
+"lowest_local": 6.79
+},
+{
+"upc": "39978023162",
+"name": "Bob's Red Mill White Rice Flour, 24 Oz",
+"size": "24 Oz",
+"stores": 7,
+"lowest_local": 5.19
+},
+{
+"upc": "18176781005",
+"name": "Camille Bloch Swiss Milk Chocolate, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 7,
+"lowest_local": 3.99
+},
+{
+"upc": "17400101459",
+"name": "Carolina Brown Rice, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 1.79
+},
+{
+"upc": "815074020010",
+"name": "Chosen Food Chosen Mayo Avocado Oil Classic, 11.25 Oz",
+"size": "11.25 Oz",
+"stores": 7,
+"lowest_local": 10.29
+},
+{
+"upc": "744596100019",
+"name": "Chuster Egg Noodles, 11 Oz",
+"size": "11 Oz",
+"stores": 7,
+"lowest_local": 3.69
+},
+{
+"upc": "74220009327",
+"name": "Clear Choice Sparkling Water, Key Lime, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 7,
+"lowest_local": 0.89
+},
+{
+"upc": "61500126539",
+"name": "Clear Choice Sparkling Water, Lemon, 33.08 Oz",
+"size": "33.8 Oz",
+"stores": 7,
+"lowest_local": 0.89
+},
+{
+"upc": "44600015934",
+"name": "Clorox Disinfecting Wipes Fresh Scent, 35 Ct",
+"size": "35 Ct",
+"stores": 7,
+"lowest_local": 3.99
+},
+{
+"upc": "729940017861",
+"name": "Cloth-Like Dinner Napkins, 40 Ct",
+"size": "40 Ct",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "807405060079",
+"name": "Coffee Cup Dining Collection Hot Cups, 15 Ct",
+"size": "15 Ct",
+"stores": 7,
+"lowest_local": 3.79
+},
+{
+"upc": "638037598858",
+"name": "Coolmate Lemonade Water Enhancer, 2 Oz",
+"size": "2 Oz",
+"stores": 7,
+"lowest_local": 3.79
+},
+{
+"upc": "37867880049",
+"name": "Cuties Diapers #5 27Pk",
+"size": "27 Ct",
+"stores": 7,
+"lowest_local": 9.99
+},
+{
+"upc": "46676911325",
+"name": "Dagim Mini Egg Rolls, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 7.85
+},
+{
+"upc": "807405005056",
+"name": "Dining Coll Plastic Cups 5 Oz, 100 Pk",
+"size": "100 Pk",
+"stores": 7,
+"lowest_local": 1.99
+},
+{
+"upc": "807405060062",
+"name": "Dining Collection Hot Cups Double, 20 Pcs",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 2.79
+},
+{
+"upc": "729940002416",
+"name": "Dinner 9 Inch Plastic Plates, 100 Ct",
+"size": "100 Ct",
+"stores": 7,
+"lowest_local": 6.99
+},
+{
+"upc": "49200902936",
+"name": "Domino Sugar, Easy Pour, Quick Dissolve, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "784396200021",
+"name": "Farfel No Egg",
+"size": "10 Oz",
+"stores": 7,
+"lowest_local": 2.49
+},
+{
+"upc": "632565000036",
+"name": "Fiji Natural Artesian Water, 1.5 Ltr",
+"size": "1.5 Ltr",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "859648007045",
+"name": "Finer Fin Yellowfin Tuna Fillet Smoked, 4.04 Oz",
+"size": "4.4 Oz",
+"stores": 7,
+"lowest_local": 4.29
+},
+{
+"upc": "859648007021",
+"name": "Finerfin Mexican Salad Yellowfin Tuna Fillet In Olive Oil, 4.4 Oz",
+"size": "4.4 Oz",
+"stores": 7,
+"lowest_local": 4.29
+},
+{
+"upc": "860007520228",
+"name": "First Choice Oatmeal Cereal, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 3.99
+},
+{
+"upc": "42028000235",
+"name": "Flaum Egg Salad, 7.5 Oz",
+"size": "7.5 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "42028123804",
+"name": "Flaum Homestyle Tuna, 7 Oz",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "42028123774",
+"name": "Flaum's Spicy Tuna, 7 Oz",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "42028000648",
+"name": "Flaum's Tuna Vegetable Salad, 7 Oz",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "42028008736",
+"name": "Flaums Tuna With Celery, 7 Oz",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "854432002329",
+"name": "Fresh & Healthy Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "720742011224",
+"name": "Fresh & Tasty Orange Juice, 64 Oz",
+"size": "64 Oz",
+"stores": 7,
+"lowest_local": 5.89
+},
+{
+"upc": "637951438899",
+"name": "Freund's Original Kishke, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 4.19
+},
+{
+"upc": "712963006288",
+"name": "Gedilla Chocolate Leaves Milk Gr, 4.41 Oz",
+"size": "4.41 Oz",
+"stores": 7,
+"lowest_local": 6.99
+},
+{
+"upc": "689423029951",
+"name": "Gedilla Potato Crisps Honey Bbq, 5 Oz",
+"size": "5 Oz",
+"stores": 7,
+"lowest_local": 3.75
+},
+{
+"upc": "16000152335",
+"name": "Gen Mills Chex Peanut Butter, 12.2 Oz",
+"size": "12.2 Oz",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "16000122222",
+"name": "General Mills Reese's Peanut Butter Puffs, 11.5 Oz",
+"size": "11.5 Oz",
+"stores": 7,
+"lowest_local": 5.99
+},
+{
+"upc": "855499005315",
+"name": "Gevina 0% Light Greek Yogurt Vanilla, 5 Oz",
+"size": "5 Oz",
+"stores": 7,
+"lowest_local": 1.5
+},
+{
+"upc": "855499005155",
+"name": "Gevina Blended Greek Blueberry Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 7,
+"lowest_local": 1.5
+},
+{
+"upc": "855499005292",
+"name": "Gevina Farms Light Greek Yogurt Blueberry, 5 Oz",
+"size": "5 Oz",
+"stores": 7,
+"lowest_local": 1.5
+},
+{
+"upc": "855499005919",
+"name": "Gevina Greek Whole Milk Plain Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 7,
+"lowest_local": 1.49
+},
+{
+"upc": "14353000051",
+"name": "Givat Cottage Cheese 5%, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "14353102915",
+"name": "Givat Slim Nonfat Yogurt Mixed Berry, 5 Oz",
+"size": "5 Oz",
+"stores": 7,
+"lowest_local": 1.19
+},
+{
+"upc": "14353102816",
+"name": "Givat Yummy Kids Strawberry Yogurt, 4 Oz",
+"size": "4 Oz",
+"stores": 8,
+"lowest_local": 0.6
+},
+{
+"upc": "14353102809",
+"name": "Givat Yummy Kids Vanilla Yogurt, 4 Oz",
+"size": "4 Oz",
+"stores": 8,
+"lowest_local": 0.6
+},
+{
+"upc": "786162002976",
+"name": "Glaceau Vitamin Water Zero Lnmade, 20 Oz",
+"size": "20 Oz",
+"stores": 7,
+"lowest_local": 1.99
+},
+{
+"upc": "840762001217",
+"name": "Glick's High Gluten Flour, 5 Lbs",
+"size": "5 Lbs",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "30047140797",
+"name": "Golden Flow Potato Flutes Honey Bbq, 4 Oz",
+"size": "4 Oz",
+"stores": 7,
+"lowest_local": 2.89
+},
+{
+"upc": "30047140742",
+"name": "Golden Fluff Potato Flutes Ketchup, 4 Oz",
+"size": "4 Oz",
+"stores": 7,
+"lowest_local": 2.89
+},
+{
+"upc": "30047539010",
+"name": "Golden Fluff Potato Stix Honey Bbq, 7/8 Oz",
+"size": "0.875 Oz",
+"stores": 8,
+"lowest_local": 0.59
+},
+{
+"upc": "30047536019",
+"name": "Golden Fluff Potato Stix Ketchup, 0.87 Oz",
+"size": "0.87 Oz",
+"stores": 8,
+"lowest_local": 0.59
+},
+{
+"upc": "880879002431",
+"name": "Golden Taste Healthy Tuna Deluxe, 7 Oz",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 5.39
+},
+{
+"upc": "880879001755",
+"name": "Golden Taste Hummus, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 7,
+"lowest_local": 1.59
+},
+{
+"upc": "880879001489",
+"name": "Golden Taste Hungarian Style Tuna Salad, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 7,
+"lowest_local": 2.69
+},
+{
+"upc": "758259771768",
+"name": "Golden Taste Scallion Tuna Delux, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 7,
+"lowest_local": 2.89
+},
+{
+"upc": "75131004517",
+"name": "Goodman's Rice With Vermicelli Chicken, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 2.29
+},
+{
+"upc": "142486201806",
+"name": "Grab1 Protein Nutrition Bar Sugar Free Dark Chocolate, 4 Ct",
+"size": "4 Ct",
+"stores": 7,
+"lowest_local": 6.79
+},
+{
+"upc": "780493004333",
+"name": "Grain Brain White Spelt Flour, 5 Lb",
+"size": "5 Lb",
+"stores": 7,
+"lowest_local": 16.99
+},
+{
+"upc": "780493002049",
+"name": "Grain Brain White Whole Wheat All Purpose Flour, 5 Lb",
+"size": "5 Lb",
+"stores": 7,
+"lowest_local": 9.99
+},
+{
+"upc": "855499005360",
+"name": "Greek Light Yogurt Apple Cinna, 5 Oz",
+"size": "5 Oz",
+"stores": 7,
+"lowest_local": 1.49
+},
+{
+"upc": "810487065238",
+"name": "H&E Sugar Coconut, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 5.99
+},
+{
+"upc": "810487002950",
+"name": "Heaven & Earth Brown Rice Elbows, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 4.29
+},
+{
+"upc": "810487064200",
+"name": "Heaven And Eart H&E Tuna Salad With 4 Grains, 5.64 Oz",
+"size": "5.64 Oz",
+"stores": 7,
+"lowest_local": 3.79
+},
+{
+"upc": "48001354500",
+"name": "Hellmann's Mayonnaise, Real, Squeeze, 20 Oz",
+"size": "20 Oz",
+"stores": 7,
+"lowest_local": 7.99
+},
+{
+"upc": "850037363070",
+"name": "Holy Hummus Olive Oil, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 5.99
+},
+{
+"upc": "850037363148",
+"name": "Holy Hummus Real Spicy Hummus, 10 Oz",
+"size": "10 Oz",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "850037363131",
+"name": "Holy Hummus Smooth & Creamy Hummus With Garlic, 10 Oz",
+"size": "10 Oz",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "850037363063",
+"name": "Holy Hummus Tahini, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 5.99
+},
+{
+"upc": "27000379097",
+"name": "Hunt's Crushed Tomatoes, 28 Oz",
+"size": "28 Oz",
+"stores": 7,
+"lowest_local": 3.69
+},
+{
+"upc": "27000378823",
+"name": "Hunt's Diced Tomatoes, 28 Oz",
+"size": "28 Oz",
+"stores": 7,
+"lowest_local": 3.93
+},
+{
+"upc": "84253240987",
+"name": "Imagine Foods No-Chicken Broth, Organic, Low Sodium, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 3.99
+},
+{
+"upc": "41198006016",
+"name": "Jason Bread Crumbs Plain, 15 Oz",
+"size": "15 Oz",
+"stores": 7,
+"lowest_local": 3.69
+},
+{
+"upc": "729940005509",
+"name": "Jetfoil Large Challah Pan",
+"size": "10 Ct",
+"stores": 7,
+"lowest_local": 1.69
+},
+{
+"upc": "729940006889",
+"name": "K&C Plastic Cups 9 Oz, 80 Ct",
+"size": "80 Ct",
+"stores": 7,
+"lowest_local": 2.19
+},
+{
+"upc": "893536002323",
+"name": "Katz Gluten Free Oat Challah Rolls, 9 Oz",
+"size": "9 Oz",
+"stores": 7,
+"lowest_local": 5.79
+},
+{
+"upc": "21859040146",
+"name": "Kemach Egg Noodles Egg Barley, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 2.69
+},
+{
+"upc": "21859040221",
+"name": "Kemach Egg Noodles Sm Egg Bows, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 2.89
+},
+{
+"upc": "21859040153",
+"name": "Kemach Farfel Toasted Egg Barley, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 2.69
+},
+{
+"upc": "21859040375",
+"name": "Kemach Minestrone Soup Mix, 5 Oz",
+"size": "5 Oz",
+"stores": 7,
+"lowest_local": 1.79
+},
+{
+"upc": "21859040405",
+"name": "Kemach Onion Soup Mix, 2.75 Oz",
+"size": "2.75 Oz",
+"stores": 7,
+"lowest_local": 1.65
+},
+{
+"upc": "21859050152",
+"name": "Kemach Whole Wheat Flour 5 Lb",
+"size": "5 Lb",
+"stores": 7,
+"lowest_local": 5.29
+},
+{
+"upc": "602652279522",
+"name": "Kind Bar Minis Peanut Butter Dark Chocolate, 10 Ct",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 11.49
+},
+{
+"upc": "729940006490",
+"name": "Kitchen Collection Small Oval Challah Pan, 5 Pk",
+"size": "5 Pk",
+"stores": 7,
+"lowest_local": 1.79
+},
+{
+"upc": "76784008150",
+"name": "Kitov Popcorn Microwave Lite Butter, 19.2 Oz",
+"size": "19.2 Oz",
+"stores": 7,
+"lowest_local": 5.29
+},
+{
+"upc": "7290010068203",
+"name": "Kitov Vacuum Packed Basmati Rice, 17.5 Oz",
+"size": "17.5 Oz",
+"stores": 7,
+"lowest_local": 4.89
+},
+{
+"upc": "40232595660",
+"name": "Kj Poultry Chicken Breast, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 6.79
+},
+{
+"upc": "894792002096",
+"name": "Kj Poultry Mexican Style Smoked Turkey Breast",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 6.19
+},
+{
+"upc": "894792002171",
+"name": "Kj Poultry Sliced Pastrami",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 8.49
+},
+{
+"upc": "860012581573",
+"name": "KJ Poultry Smoked Chicken Pastrami Sliced, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 5.49
+},
+{
+"upc": "84685000227",
+"name": "Klik In Chocolate Bar, Milk Truffle",
+"size": ".34 Oz",
+"stores": 7,
+"lowest_local": 1.67
+},
+{
+"upc": "35057690058",
+"name": "Ko-Sure Instant Hot Cocoa Mix, No Sugar Added, 19.6 Oz",
+"size": "19.6 Oz",
+"stores": 7,
+"lowest_local": 9.29
+},
+{
+"upc": "35057690041",
+"name": "Ko-Sure Instant Hot Cocoa Mix, No Sugar Added, 4 Oz, 8 Pk",
+"size": "8 Pk",
+"stores": 7,
+"lowest_local": 6.19
+},
+{
+"upc": "33454002214",
+"name": "Korn's Korn 60% Whole Wheat Bread, 1.75 Lb",
+"size": "1.75 Lb",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "33454000050",
+"name": "Korn's Rye Bread",
+"size": "2 Lb",
+"stores": 7,
+"lowest_local": 4.29
+},
+{
+"upc": "14353103622",
+"name": "Krispy Lowfat Yogurt Hazelnut",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.79
+},
+{
+"upc": "44300123915",
+"name": "La Choy Water Chestnuts Sliced, 5 Oz",
+"size": "5 Oz",
+"stores": 7,
+"lowest_local": 1.55
+},
+{
+"upc": "815871018029",
+"name": "Lay's Chips Potato Honey Barbecue 1.8Oz L, 1.8 Oz",
+"size": "1.8 Oz",
+"stores": 7,
+"lowest_local": 0.99
+},
+{
+"upc": "860013351229",
+"name": "Lechem Classic Everything Challah, 1 Ct",
+"size": "1 Ct",
+"stores": 7,
+"lowest_local": 15.99
+},
+{
+"upc": "73416402041",
+"name": "Lundberg Organic White Basmati Rice, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 9.29
+},
+{
+"upc": "93133737363",
+"name": "Mikee Honey Seasme Teriyaki Sauce, 20 Oz",
+"size": "20 Oz",
+"stores": 7,
+"lowest_local": 7.29
+},
+{
+"upc": "858354001255",
+"name": "Minsley Cooked White Rice Organic, 7.04 Oz",
+"size": "7.04 Oz",
+"stores": 7,
+"lowest_local": 2.45
+},
+{
+"upc": "607984050153",
+"name": "Mount Ridge Garlic Bread, 9 Oz",
+"size": "9 Oz",
+"stores": 7,
+"lowest_local": 5.99
+},
+{
+"upc": "73575295003",
+"name": "Nakano Rice Vinegar Orignal, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 4.15
+},
+{
+"upc": "72251001556",
+"name": "Near East Couscous Garlic & Olive Oil, 5.8 Oz",
+"size": "5.8 Oz",
+"stores": 7,
+"lowest_local": 2.49
+},
+{
+"upc": "72251001457",
+"name": "Near East Long Grain Wild Rice Original, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "890360003687",
+"name": "Norman Yogurt Greek Light Tiramisu, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "890360003922",
+"name": "Norman's 2% Greek Yogurt Plain, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 6.29
+},
+{
+"upc": "890360000365",
+"name": "Norman's Classic Yogurt Pomegranate, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.69
+},
+{
+"upc": "890360003472",
+"name": "Norman's Creamy Blend Blueberry Greek Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.49
+},
+{
+"upc": "890360000990",
+"name": "Norman's Dreamy Yogurt Dulce de Leche 2 Pac, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "890360003915",
+"name": "Norman's Greek Creamy Yogurt Vanilla, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 6.29
+},
+{
+"upc": "890360000310",
+"name": "Norman's Greek Yogurt Blueberry, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.85
+},
+{
+"upc": "890360000280",
+"name": "Norman's Greek Yogurt Coffee, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.85
+},
+{
+"upc": "890360000945",
+"name": "Norman's Greek Yogurt Light Coffee, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "890360000952",
+"name": "Norman's Greek Yogurt Light Strawberry, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "890360000969",
+"name": "Norman's Greek Yogurt Light Vanilla, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "890360003458",
+"name": "Norman's Greek Yogurt Summer Strawberry",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.49
+},
+{
+"upc": "890360003977",
+"name": "Norman's Non Fat Yogurt Taste Strawberry, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 4.79
+},
+{
+"upc": "890360000334",
+"name": "Norman's Plain Greek Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.85
+},
+{
+"upc": "890360004462",
+"name": "Norman's Sqz Vanilla Yogurt, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 7,
+"lowest_local": 1.29
+},
+{
+"upc": "890360000341",
+"name": "Norman's Strawberry Greek Yogurt, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.85
+},
+{
+"upc": "890360003984",
+"name": "Norman's Taste Nonfat Yogurt Vanilla, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 4.79
+},
+{
+"upc": "890360000358",
+"name": "Norman's Vanilla Greek Yogurt, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.85
+},
+{
+"upc": "890360000440",
+"name": "Norman's Yogurt Cappuccino L/F Kp, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 7,
+"lowest_local": 1.09
+},
+{
+"upc": "890360000372",
+"name": "Norman's Yogurt Greek Mango, 6 Oz",
+"size": "6 Oz",
+"stores": 8,
+"lowest_local": 1.69
+},
+{
+"upc": "890360003694",
+"name": "Normans Greek Light Yogurt 100 Calories Lotus Cookie, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 8,
+"lowest_local": 1.25
+},
+{
+"upc": "726046080003",
+"name": "Ostreicher's Honey Cookies, 10 Oz",
+"size": "10 Oz",
+"stores": 7,
+"lowest_local": 4.59
+},
+{
+"upc": "64144030644",
+"name": "Pam Spray No*Stick Olive Oil, 5 Oz",
+"size": "5 Oz",
+"stores": 7,
+"lowest_local": 6.99
+},
+{
+"upc": "37000862130",
+"name": "Pampers Baby Dry #6 Diapers, 21 Ct",
+"size": "21 Ct",
+"stores": 7,
+"lowest_local": 15.19
+},
+{
+"upc": "736613102472",
+"name": "Pas Yisroel Bakery Pas Crustless Sandwich Bread, 14.1 Oz",
+"size": "14.1 Oz",
+"stores": 7,
+"lowest_local": 8.69
+},
+{
+"upc": "837654335000",
+"name": "Pas Yisroel Mezonos Pita, 5 Pk",
+"size": "5 Pk",
+"stores": 7,
+"lowest_local": 4.79
+},
+{
+"upc": "837654335017",
+"name": "Pas Yisroel Whole Wheat Pita, 5 Pk",
+"size": "5 Pk",
+"stores": 7,
+"lowest_local": 4.79
+},
+{
+"upc": "813568003747",
+"name": "Pereg Bread Crumbs Golden Crisp, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "813568000616",
+"name": "Pereg Bread Crumbs, Viennese Flavor, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "813568002252",
+"name": "Pereg Panko Spicy Bread Crumbs, 9 Oz",
+"size": "9 Oz",
+"stores": 7,
+"lowest_local": 4.49
+},
+{
+"upc": "813568002818",
+"name": "Pereg Sushi Rice Sticky, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 4.79
+},
+{
+"upc": "729940041200",
+"name": "Plastic House Lids For Hot Cups 12-16, 40 Ct",
+"size": "40 Ct",
+"stores": 7,
+"lowest_local": 2.29
+},
+{
+"upc": "807405084709",
+"name": "Plastico Cold Cups 16 Oz, 12 Ct",
+"size": "12 Ct",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "853847001422",
+"name": "Plastico Plastic Plates 6\", 100 Ct",
+"size": "100 Ct",
+"stores": 7,
+"lowest_local": 3.89
+},
+{
+"upc": "71537020281",
+"name": "Polar Black Cherry Seltzer, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 7,
+"lowest_local": 1.0
+},
+{
+"upc": "71537020427",
+"name": "Polar Cranberry Lime Seltzer, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 7,
+"lowest_local": 1.0
+},
+{
+"upc": "71537020250",
+"name": "Polar Grapefruit Seltzer, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 7,
+"lowest_local": 1.0
+},
+{
+"upc": "71537020342",
+"name": "Polar Seltzer Lemon, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 7,
+"lowest_local": 1.0
+},
+{
+"upc": "71537020359",
+"name": "Polar Seltzer Lime, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 7,
+"lowest_local": 1.0
+},
+{
+"upc": "71537020304",
+"name": "Polar Seltzer Raspberry Lime, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 7,
+"lowest_local": 1.0
+},
+{
+"upc": "884912481764",
+"name": "Post Cereal Honeycomb, 10 Oz",
+"size": "10 Oz",
+"stores": 7,
+"lowest_local": 5.49
+},
+{
+"upc": "884912014269",
+"name": "Post Honey Bunches Of Oats Honey Roasted Cereal, 18 Oz",
+"size": "18 Oz",
+"stores": 7,
+"lowest_local": 6.99
+},
+{
+"upc": "884912014276",
+"name": "Post Honey Bunches With Almonds, 18 Oz",
+"size": "18 Oz",
+"stores": 7,
+"lowest_local": 7.99
+},
+{
+"upc": "723892832596",
+"name": "Pride Of The Farm Chocolate Milk, 1 Pt",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 1.39
+},
+{
+"upc": "723892832435",
+"name": "Pride Of The Farm Lowfat Milk, 1 Quart",
+"size": "1 Qt",
+"stores": 7,
+"lowest_local": 2.19
+},
+{
+"upc": "723892832442",
+"name": "Pride Of The Farm Whole Milk",
+"size": "1 Qt",
+"stores": 7,
+"lowest_local": 2.19
+},
+{
+"upc": "30000567289",
+"name": "Quaker Oatmeal Packets Maple & Brown Sugar, 8 Ct, 1.51 Oz",
+"size": "1.51 Oz",
+"stores": 7,
+"lowest_local": 5.79
+},
+{
+"upc": "30000567296",
+"name": "Quaker Oats Apples & Cinnamon, 12.1 Oz",
+"size": "12.1 Oz",
+"stores": 7,
+"lowest_local": 5.49
+},
+{
+"upc": "650926770664",
+"name": "Quality All Purpose/Cake Flour, 5 Lb",
+"size": "5 Lb",
+"stores": 7,
+"lowest_local": 7.59
+},
+{
+"upc": "34000943265",
+"name": "Reeses Peanut Butter Cups, 1.4 Oz",
+"size": "1.4 Oz",
+"stores": 7,
+"lowest_local": 1.0
+},
+{
+"upc": "84253222167",
+"name": "Rice Dream, Vanilla, Enriched, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 2.29
+},
+{
+"upc": "74401610410",
+"name": "Rice Select Jasmati White Rice, Long Grain, 36 Oz",
+"size": "36 Oz",
+"stores": 7,
+"lowest_local": 6.49
+},
+{
+"upc": "41224860025",
+"name": "Roland Coconut Milk Classic, 14 Oz",
+"size": "14 Oz",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "71300000090",
+"name": "Ronzoni Thin Spaghetti #9, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 1.69
+},
+{
+"upc": "716184110090",
+"name": "Royal Egg Salad, 7.5 Oz",
+"size": "7.5 Oz",
+"stores": 7,
+"lowest_local": 4.79
+},
+{
+"upc": "716184112087",
+"name": "Royal Tuna Deluxe, 7 Oz",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "706132600018",
+"name": "Sabbath Neronim Glass Cups, 1 Pc",
+"size": "1 Pc",
+"stores": 7,
+"lowest_local": 0.69
+},
+{
+"upc": "40822346139",
+"name": "Sabra Hummus Roasted Pine Nut, 8 Oz",
+"size": "8 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "638037598407",
+"name": "Salad Mate Dressing, Honey Mustard, Lite, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 6.49
+},
+{
+"upc": "638037598483",
+"name": "Salad Mate Truffle Mayo, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 6.49
+},
+{
+"upc": "70960000112",
+"name": "Saratoga Sparkling Water, 28 Oz",
+"size": "28 Oz",
+"stores": 7,
+"lowest_local": 2.75
+},
+{
+"upc": "97643082449",
+"name": "Schmerling's Chocolate Bar Rosemarie Milk, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 7,
+"lowest_local": 4.99
+},
+{
+"upc": "11835210786",
+"name": "Schmerling's Chocolate Bar, Lait Milk, No Sugar Added, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 7,
+"lowest_local": 4.99
+},
+{
+"upc": "838948007726",
+"name": "Shneider's Delinut Milk Dairy Cholov, 14.01 Oz",
+"size": "14.01 Oz",
+"stores": 7,
+"lowest_local": 7.79
+},
+{
+"upc": "720742001140",
+"name": "Shoko Chocolate Milk, 14 Oz",
+"size": "14 Oz",
+"stores": 7,
+"lowest_local": 1.69
+},
+{
+"upc": "780248006162",
+"name": "Shore Pita",
+"size": "10.5 Oz",
+"stores": 7,
+"lowest_local": 3.69
+},
+{
+"upc": "780248006025",
+"name": "Shore Pita, 15 Oz",
+"size": "15 Oz",
+"stores": 7,
+"lowest_local": 3.59
+},
+{
+"upc": "25293600393",
+"name": "Silk Soy Milk Original, 64 Oz",
+"size": "64 Oz",
+"stores": 7,
+"lowest_local": 5.39
+},
+{
+"upc": "729940006537",
+"name": "Simcha Collection 10 Oz Square Clear Cups, 20 Ct",
+"size": "20 Ct",
+"stores": 7,
+"lowest_local": 2.39
+},
+{
+"upc": "729940005554",
+"name": "Simcha Collection Foil Baking Cups Gold, 72 Ct",
+"size": "72 Ct",
+"stores": 7,
+"lowest_local": 2.49
+},
+{
+"upc": "729940020960",
+"name": "Simcha Floret Baking Cups White, 24 Ct",
+"size": "24 Ct",
+"stores": 7,
+"lowest_local": 2.39
+},
+{
+"upc": "729940028157",
+"name": "Simcha Organic 10\" White/Gold Plates, 10 Ct",
+"size": "10 Ct",
+"stores": 7,
+"lowest_local": 5.29
+},
+{
+"upc": "729940028140",
+"name": "Simcha Organic 7.5\" White/Gold Plates, 10 Ct",
+"size": "10 Ct",
+"stores": 7,
+"lowest_local": 3.29
+},
+{
+"upc": "77485003840",
+"name": "Snack Delite Crisp Rice Treat Choco",
+"size": "5.92 Oz",
+"stores": 7,
+"lowest_local": 4.0
+},
+{
+"upc": "77485000306",
+"name": "Snack Delite Crisp Rice Treats, 8 Pk",
+"size": "8 Pk",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "77485003888",
+"name": "Snack Delite Rice Treats Bday Cake, 6.2 Oz",
+"size": "6.2 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "77485003833",
+"name": "Snack Delite Rice Treats Chocolate, 5.92 Oz",
+"size": "5.92 Oz",
+"stores": 7,
+"lowest_local": 4.0
+},
+{
+"upc": "830410098218",
+"name": "Solomon's Sliced Beef Pastrami, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 8.99
+},
+{
+"upc": "859691001403",
+"name": "Sonny & Joe's Homestyle Hummus With Chickpeas, 10 Oz",
+"size": "10 Oz",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "859691001427",
+"name": "Sonny & Joe's Homestyle Hummus With Tahini, 10 Oz",
+"size": "10 Oz",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "859691001229",
+"name": "Sonny & Joe's Hummus, 7 Oz",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 3.99
+},
+{
+"upc": "859691001014",
+"name": "Sonny & Joe's Just Hummus, 10 Oz",
+"size": "10 Oz",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "28400564632",
+"name": "Stacy's Pita Chips, Simply Naked, 7.3 Oz",
+"size": "7.33 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "637951220326",
+"name": "Sushi Maven Genuine Brewed Rice Vinegar, 12.7 Oz",
+"size": "12.7 Oz",
+"stores": 7,
+"lowest_local": 4.59
+},
+{
+"upc": "637951221514",
+"name": "Sushi Maven Spicy Mayo, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 6.59
+},
+{
+"upc": "637951220746",
+"name": "Sushi Maven Sushi Rice Premium, 35.2 Oz",
+"size": "35.2 Oz",
+"stores": 7,
+"lowest_local": 5.79
+},
+{
+"upc": "13409341155",
+"name": "Sweet Baby Ray's Honey Bbq Sauce, 18 Oz",
+"size": "18 Oz",
+"stores": 7,
+"lowest_local": 3.39
+},
+{
+"upc": "78328031013",
+"name": "Taanug Rice Squares, 12 Oz",
+"size": "12 Oz",
+"stores": 7,
+"lowest_local": 4.59
+},
+{
+"upc": "78328031310",
+"name": "Taanug Sugar Frosted Flakes Cereal, 13.5 Oz",
+"size": "13.5 Oz",
+"stores": 7,
+"lowest_local": 2.99
+},
+{
+"upc": "71262041872",
+"name": "Tabatchnick Chicken Broth, Classic Wholesome, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 3.09
+},
+{
+"upc": "76937001663",
+"name": "Thomy Mayonnaise, 265 Gr",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 3.19
+},
+{
+"upc": "850775007113",
+"name": "Tirat Zvi Mexican Style Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"stores": 7,
+"lowest_local": 4.99
+},
+{
+"upc": "850775007120",
+"name": "Tirat Zvi Oven Roasted Turkey Breast Thinnies, 6.5 Oz",
+"size": "6.5 Oz",
+"stores": 7,
+"lowest_local": 4.99
+},
+{
+"upc": "142486802157",
+"name": "Tooki Milk Chocolate Granola Bars, 6 Pk",
+"size": "6 Pk",
+"stores": 7,
+"lowest_local": 2.79
+},
+{
+"upc": "710069304659",
+"name": "Tuscanini Blood Orange Juice, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 5.69
+},
+{
+"upc": "710069312234",
+"name": "Tuscanini Crushed Tomatoes, 14.1 Oz",
+"size": "14.1 Oz",
+"stores": 7,
+"lowest_local": 2.49
+},
+{
+"upc": "710069303201",
+"name": "Tuscanini Spaghetti, 16 Oz",
+"size": "16 Oz",
+"stores": 7,
+"lowest_local": 1.99
+},
+{
+"upc": "710069304475",
+"name": "Tuscanini Sun Dried Tomatoes In Sunflower Oil, 10.6 Oz",
+"size": "10.6 Oz",
+"stores": 7,
+"lowest_local": 6.69
+},
+{
+"upc": "710069304307",
+"name": "Tuscanini Tuna Fillets In Olive Oil, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 10.89
+},
+{
+"upc": "716184109896",
+"name": "Tuv Taam Cream Cheese Scallion, 7 Oz",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 6.69
+},
+{
+"upc": "716184109124",
+"name": "Tuv Taam Egg Salad, 7.5 Oz",
+"size": "7.5 Oz",
+"stores": 7,
+"lowest_local": 4.69
+},
+{
+"upc": "716184112179",
+"name": "Tuv Taam Hummus Supreme, 7 Oz",
+"size": "7 Oz",
+"stores": 7,
+"lowest_local": 4.19
+},
+{
+"upc": "716184111486",
+"name": "Tuv Taam Nova Salmon Tray Lox, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 10.49
+},
+{
+"upc": "716184109117",
+"name": "Tuv Taam Tuna Deluxe, 7.5 Oz",
+"size": "7.5 Oz",
+"stores": 7,
+"lowest_local": 6.79
+},
+{
+"upc": "716184111240",
+"name": "Tuv Taam Vegetable Tuna Deluxe, 7.5 Oz",
+"size": "7.5 Oz",
+"stores": 7,
+"lowest_local": 6.79
+},
+{
+"upc": "23005002558",
+"name": "Unger's Lite Mayonnaise, 32 Oz",
+"size": "32 Oz",
+"stores": 7,
+"lowest_local": 5.99
+},
+{
+"upc": "23005002671",
+"name": "Unger's Panko Bread Crumbs, 9 Oz",
+"size": "9 Oz",
+"stores": 7,
+"lowest_local": 3.79
+},
+{
+"upc": "42400417422",
+"name": "Ungers Honey Buzzers Fam Bag, 30 Oz",
+"size": "30 Oz",
+"stores": 7,
+"lowest_local": 6.99
+},
+{
+"upc": "852686001365",
+"name": "White Whole Wheat Flour, 5 Lb",
+"size": "5 Lb",
+"stores": 7,
+"lowest_local": 7.65
+},
+{
+"upc": "22224203036",
+"name": "Wiley Wallaby Sugar Very Berry, 5.5 Oz",
+"size": "5.5 Oz",
+"stores": 7,
+"lowest_local": 4.79
+},
+{
+"upc": "610563277292",
+"name": "Wonder Flour High Gluten Sifted, 6 Lb",
+"size": "6 Lb",
+"stores": 7,
+"lowest_local": 11.59
+},
+{
+"upc": "7290006649034",
+"name": "Wondermill All Purpose Flour, 5 Lb",
+"size": "5 Lb",
+"stores": 7,
+"lowest_local": 7.59
+},
+{
+"upc": "603741001413",
+"name": "Zeta Extra Virgin Olive Oil, 8.5 Oz",
+"size": "8.5 Oz",
+"stores": 7,
+"lowest_local": 8.99
+},
+{
+"upc": "603741001178",
+"name": "Zeta Olive Oil With Lemon, 250 Ml, Kp",
+"size": "500 Ml",
+"stores": 7,
+"lowest_local": 8.99
+},
+{
+"upc": "32797016018",
+"name": "Bloom's Ice Cream Cups, 48 Count, 6.8 Oz",
+"size": "6.8 Oz",
+"stores": 6,
+"lowest_local": 6.49
+},
+{
+"upc": "32797016032",
+"name": "Bloom's Ice Cream Sugar Cones, 12 Ct",
+"size": "4.6 Oz",
+"stores": 6,
+"lowest_local": 3.49
+},
+{
+"upc": "32797014540",
+"name": "Bloom's Rice Cake Thins Multigrain, 4.6 Oz",
+"size": "4.6 Oz",
+"stores": 6,
+"lowest_local": 2.19
+},
+{
+"upc": "37000348856",
+"name": "Bounty White Napkins, 200 Ct",
+"size": "200 Ct",
+"stores": 6,
+"lowest_local": 2.79
+},
+{
+"upc": "7290101551638",
+"name": "Elite Cheetos Puffs Fam Pk Ketchup, 10 Ct",
+"size": "10 Pk",
+"stores": 6,
+"lowest_local": 10.99
+},
+{
+"upc": "7290003903955",
+"name": "Elite Milk Cream, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 6,
+"lowest_local": 4.99
+},
+{
+"upc": "815871010122",
+"name": "Elite Must Gum, Spearmint, Sugar Free, 1.06 Oz",
+"size": "1.06 Oz",
+"stores": 6,
+"lowest_local": 1.49
+},
+{
+"upc": "710069018617",
+"name": "Gefen Bread Crumbs Italian, 15 Oz",
+"size": "15 Oz",
+"stores": 6,
+"lowest_local": 3.79
+},
+{
+"upc": "710069601086",
+"name": "Gefen Brown Rice Noodles, Chicken Flavor, Reduced Sodium",
+"size": "2.25 Oz",
+"stores": 6,
+"lowest_local": 2.99
+},
+{
+"upc": "710069026506",
+"name": "Gefen Canola Oil Spray, 6 Oz",
+"size": "6 Oz",
+"stores": 6,
+"lowest_local": 4.19
+},
+{
+"upc": "710069033573",
+"name": "Gefen Canola Oil, 48 Oz",
+"size": "48 Oz",
+"stores": 6,
+"lowest_local": 6.29
+},
+{
+"upc": "710069061323",
+"name": "Gefen Chicken Noodle Soup No MSG, 2.3 Oz",
+"size": "2.3 Oz",
+"stores": 8,
+"lowest_local": 1.17
+},
+{
+"upc": "710069040915",
+"name": "Gefen Chocolate Chips, Sugar Free, 10 Oz",
+"size": "10 Oz",
+"stores": 6,
+"lowest_local": 7.99
+},
+{
+"upc": "710069016200",
+"name": "Gefen Chunky Peanut Butter, 18 Oz",
+"size": "18 Oz",
+"stores": 6,
+"lowest_local": 5.29
+},
+{
+"upc": "710069128903",
+"name": "Gefen Honey Bear, 12 Oz",
+"size": "12 Oz",
+"stores": 6,
+"lowest_local": 3.99
+},
+{
+"upc": "710069029101",
+"name": "Gefen Honey, 32 Oz",
+"size": "32 Oz",
+"stores": 6,
+"lowest_local": 9.49
+},
+{
+"upc": "710069128811",
+"name": "Gefen Hot Honey, 12 Oz",
+"size": "12 Oz",
+"stores": 6,
+"lowest_local": 9.49
+},
+{
+"upc": "710069607309",
+"name": "Gefen Instant Mashed Potatoes, 10 Oz",
+"size": "10 Oz",
+"stores": 6,
+"lowest_local": 4.19
+},
+{
+"upc": "710069107212",
+"name": "Gefen Olive Oil Extra Mild, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 6,
+"lowest_local": 11.79
+},
+{
+"upc": "710069029200",
+"name": "Gefen Pure Honey 5 Lb., 80 Oz",
+"size": "80 Oz",
+"stores": 6,
+"lowest_local": 21.99
+},
+{
+"upc": "710069302051",
+"name": "Gefen Sliced Potatoes, 15 Oz",
+"size": "15 Oz",
+"stores": 6,
+"lowest_local": 1.89
+},
+{
+"upc": "710069023109",
+"name": "Gefen Tomato Ketchup, 28 Oz",
+"size": "28 Oz",
+"stores": 6,
+"lowest_local": 3.79
+},
+{
+"upc": "710069202368",
+"name": "Gefen White Albacore Tuna Pouch, 3 Oz",
+"size": "3 Oz",
+"stores": 6,
+"lowest_local": 4.99
+},
+{
+"upc": "840762005178",
+"name": "Glicks Baking Spray With Flour, 14 Oz",
+"size": "14 Oz",
+"stores": 6,
+"lowest_local": 3.49
+},
+{
+"upc": "77028166391",
+"name": "Haddar Angel Spaghetti, 16 Oz",
+"size": "16 Oz",
+"stores": 6,
+"lowest_local": 1.69
+},
+{
+"upc": "77028164120",
+"name": "Haddar Mustard, Honey, 12 Oz",
+"size": "12 Oz",
+"stores": 6,
+"lowest_local": 2.69
+},
+{
+"upc": "77028166384",
+"name": "Haddar Spaghetti, 16 Oz",
+"size": "16 Oz",
+"stores": 6,
+"lowest_local": 1.69
+},
+{
+"upc": "26638207505",
+"name": "Haolam Fresh Mozzarella 8Oz, 8 Oz",
+"size": "8 Oz",
+"stores": 6,
+"lowest_local": 5.29
+},
+{
+"upc": "26638223161",
+"name": "Haolam Oven Smoked Mozzarella, 5 Oz",
+"size": "5 Oz",
+"stores": 6,
+"lowest_local": 3.99
+},
+{
+"upc": "13000007993",
+"name": "Heinz Reduced Sugar Ketchup, 13 Oz",
+"size": "13 Oz",
+"stores": 6,
+"lowest_local": 3.99
+},
+{
+"upc": "13124038",
+"name": "Heinz Tomato Ketchup, 14 Oz",
+"size": "14 Oz",
+"stores": 6,
+"lowest_local": 3.29
+},
+{
+"upc": "11274001556",
+"name": "J&J Blended Yogurt Deluxe French Vanilla, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 1.19
+},
+{
+"upc": "11274000733",
+"name": "J&J Cottage Cheese Whipped, 16 Oz",
+"size": "16 Oz",
+"stores": 6,
+"lowest_local": 6.19
+},
+{
+"upc": "11274000474",
+"name": "J&J Cream Cheese Garlic, 7 Oz",
+"size": "7 Oz",
+"stores": 6,
+"lowest_local": 3.49
+},
+{
+"upc": "11274000498",
+"name": "J&J Cream Cheese Olive, 7 Oz",
+"size": "7 Oz",
+"stores": 6,
+"lowest_local": 3.49
+},
+{
+"upc": "11274000207",
+"name": "J&J Yogurt Lowfat Plain, 7 Oz",
+"size": "7 Oz",
+"stores": 6,
+"lowest_local": 1.59
+},
+{
+"upc": "729940023510",
+"name": "Jet Foil 9X13 Aluminum Pans, 10 Ct",
+"size": "10 Ct",
+"stores": 6,
+"lowest_local": 5.0
+},
+{
+"upc": "729940014402",
+"name": "Jet Foil Aluminum Pans Lids 9\"X13, 10 Ct",
+"size": "10 Ct",
+"stores": 6,
+"lowest_local": 3.39
+},
+{
+"upc": "73490123559",
+"name": "Kedem Apple Juice, 64 Oz",
+"size": "64 Oz",
+"stores": 6,
+"lowest_local": 4.39
+},
+{
+"upc": "73490128394",
+"name": "Kedem Blush Grape Juice, 50.7 Oz",
+"size": "50.7 Oz",
+"stores": 6,
+"lowest_local": 6.49
+},
+{
+"upc": "73490123542",
+"name": "Kedem Gefilte Fish - Passover, 24 Oz",
+"size": "24 Oz",
+"stores": 6,
+"lowest_local": 7.99
+},
+{
+"upc": "73492474",
+"name": "Kedem Grape Juice Concord Glass, 50.7 Oz",
+"size": "50.7 Oz",
+"stores": 6,
+"lowest_local": 6.49
+},
+{
+"upc": "73490132346",
+"name": "Kedem Grape Juice Concord Lite, 96 Oz",
+"size": "96 Oz",
+"stores": 6,
+"lowest_local": 7.99
+},
+{
+"upc": "73490130540",
+"name": "Kedem Grape Juice Light Concord, 50.7 Oz",
+"size": "50.7 Oz",
+"stores": 6,
+"lowest_local": 6.49
+},
+{
+"upc": "73490129124",
+"name": "Kedem Grape Juice Plastic, 96oz",
+"size": "96 Oz",
+"stores": 6,
+"lowest_local": 7.99
+},
+{
+"upc": "73490128288",
+"name": "Kedem Grape Juice White, 64 Oz",
+"size": "64 Oz",
+"stores": 6,
+"lowest_local": 5.49
+},
+{
+"upc": "73490132865",
+"name": "Kedem Mini Grape Juice Plastic, 8 Oz",
+"size": "8 Oz",
+"stores": 6,
+"lowest_local": 1.49
+},
+{
+"upc": "73490128134",
+"name": "Kedem White Grape Juice, 22 Oz",
+"size": "22 Oz",
+"stores": 6,
+"lowest_local": 3.89
+},
+{
+"upc": "91404102964",
+"name": "Klein's Real Kosher Dessert Cups Vanilla Chocolate, 6 Ct",
+"size": "6 Ct",
+"stores": 6,
+"lowest_local": 10.69
+},
+{
+"upc": "43427152402",
+"name": "Lieber's Apple Juice Tetra Pack, 4 Pk",
+"size": "4 Pk",
+"stores": 6,
+"lowest_local": 2.69
+},
+{
+"upc": "43427002264",
+"name": "Lieber's Garlic Mayo, 16 Oz",
+"size": "16 Oz",
+"stores": 6,
+"lowest_local": 3.99
+},
+{
+"upc": "43427022354",
+"name": "Lieber's Honey Bear, 12 Oz",
+"size": "12 Oz",
+"stores": 6,
+"lowest_local": 4.25
+},
+{
+"upc": "43427130486",
+"name": "Lieber's Honey Graham Lowfat, 14 Oz",
+"size": "14.4 Oz",
+"stores": 6,
+"lowest_local": 5.29
+},
+{
+"upc": "43427011532",
+"name": "Lieber's Peanut Butter Natural Wic, 18 Oz",
+"size": "18 Oz",
+"stores": 6,
+"lowest_local": 4.99
+},
+{
+"upc": "43427011129",
+"name": "Lieber's Vanilla Sugar, 12 Oz",
+"size": "12 Oz",
+"stores": 6,
+"lowest_local": 3.19
+},
+{
+"upc": "43427201209",
+"name": "Lieber's Whole Tomatoes, 28 Oz",
+"size": "28 Oz",
+"stores": 6,
+"lowest_local": 3.79
+},
+{
+"upc": "43427555791",
+"name": "Liebers Honey Bbq Sauce, 18 Oz",
+"size": "18 Oz",
+"stores": 6,
+"lowest_local": 2.89
+},
+{
+"upc": "43427151016",
+"name": "Liebers Milk Chocolate Chips, 1 Oz",
+"size": "1 Oz",
+"stores": 6,
+"lowest_local": 11.29
+},
+{
+"upc": "51328715978",
+"name": "Meal Mart Chicken Fries, 32 Oz",
+"size": "32 Oz",
+"stores": 6,
+"lowest_local": 16.49
+},
+{
+"upc": "51328712694",
+"name": "Meal Mart Chicken Pop-Ems, 32 Oz",
+"size": "32 Oz",
+"stores": 6,
+"lowest_local": 17.99
+},
+{
+"upc": "51328810482",
+"name": "Meal Mart Smoked Turkey Breast Old Fashioned, 6 Oz",
+"size": "6 Oz",
+"stores": 6,
+"lowest_local": 7.39
+},
+{
+"upc": "14353000518",
+"name": "Mehadrin Cottage Cheese Lowfat, 16 Oz",
+"size": "16 Oz",
+"stores": 6,
+"lowest_local": 5.49
+},
+{
+"upc": "14353110149",
+"name": "Mehadrin European Salted Butter, 8 Oz",
+"size": "8 Oz",
+"stores": 6,
+"lowest_local": 5.99
+},
+{
+"upc": "14353103288",
+"name": "Mehadrin Greek Yogurt Peach, 6 Oz",
+"size": "6 Oz",
+"stores": 7,
+"lowest_local": 1.89
+},
+{
+"upc": "14353103608",
+"name": "Mehadrin Krispy Lowfat Yogurt Oats N Choco, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 7,
+"lowest_local": 1.79
+},
+{
+"upc": "14353102441",
+"name": "Mehadrin Yo Smart Vanilla Yogurt, 6 Pk",
+"size": "6 Pk",
+"stores": 6,
+"lowest_local": 8.49
+},
+{
+"upc": "14353102458",
+"name": "Mehadrin Yo Smart Very Berry Yogurt, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 6,
+"lowest_local": 1.45
+},
+{
+"upc": "14353102311",
+"name": "Mehadrin Yogurt Fit 'N Free Mixed Berry, 6 Oz",
+"size": "6 Oz",
+"stores": 6,
+"lowest_local": 1.59
+},
+{
+"upc": "14353103646",
+"name": "Mehadrin Yogurt Krispy! W Cookie Cr, 5.3 Oz",
+"size": "5.3 Oz",
+"stores": 7,
+"lowest_local": 1.79
+},
+{
+"upc": "651219205498",
+"name": "Natural & Kosher Shredded Mozzarella Cheese, 8 Oz",
+"size": "8 Oz",
+"stores": 6,
+"lowest_local": 3.39
+},
+{
+"upc": "77544400054",
+"name": "Osem Bread Crumbs Italian, 15 Oz",
+"size": "15 Oz",
+"stores": 6,
+"lowest_local": 5.89
+},
+{
+"upc": "25675300132",
+"name": "Paskesz Milk Munch Bar, 1.58 Oz",
+"size": "1.58 Oz",
+"stores": 6,
+"lowest_local": 2.39
+},
+{
+"upc": "25675031906",
+"name": "Paskesz Paskezs Rice Cake Minis",
+"size": "0.7 Oz",
+"stores": 6,
+"lowest_local": 0.65
+},
+{
+"upc": "25675015609",
+"name": "Paskesz Rice Cakes Round, 4.9 Oz",
+"size": "4.9 Oz",
+"stores": 7,
+"lowest_local": 3.49
+},
+{
+"upc": "25675015425",
+"name": "Paskesz Rice Squares Chocolate All Natural, 2.6 Oz",
+"size": "2.6 Oz",
+"stores": 6,
+"lowest_local": 3.19
+},
+{
+"upc": "75720000203",
+"name": "Poland Spring Sparkling Water Twist Of Orang, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 6,
+"lowest_local": 1.09
+},
+{
+"upc": "75720431151",
+"name": "Poland Spring Water Bottle, Sports Cap, 23.7 Oz",
+"size": "23.7 Oz",
+"stores": 6,
+"lowest_local": 0.79
+},
+{
+"upc": "850052580438",
+"name": "Tnuva Butter 7.5 Oz, 7.05 Oz",
+"size": "7.05 Oz",
+"stores": 6,
+"lowest_local": 4.99
+},
+{
+"upc": "48500206027",
+"name": "Tropicana Orange Juice Some Pulp, 11 Oz",
+"size": "11 Oz",
+"stores": 6,
+"lowest_local": 2.29
+},
+{
+"upc": "48500205679",
+"name": "Tropicana Orange Juice Some Pulp, 46 Oz",
+"size": "46 Oz",
+"stores": 6,
+"lowest_local": 4.39
+},
+{
+"upc": "48500018330",
+"name": "Tropicana Orange Juice, Original, No Pulp, 89 Oz",
+"size": "89 Oz",
+"stores": 6,
+"lowest_local": 8.99
+},
+{
+"upc": "850047450012",
+"name": "7th Heaven Classic Oat Milk Chocolate Confection, 3.5 Oz",
+"size": "3.5 Oz",
+"stores": 6,
+"lowest_local": 4.99
+},
+{
+"upc": "850047450432",
+"name": "7th Heaven Hazelnut Cream Chocolate Cups, 4.45 Oz",
+"size": "4.45 Oz",
+"stores": 6,
+"lowest_local": 2.99
+},
+{
+"upc": "850047450135",
+"name": "7th Heaven Oat Milk Dairy Free Bar Peanut Butter, 1.6 Oz",
+"size": "1.6 Oz",
+"stores": 6,
+"lowest_local": 2.65
+},
+{
+"upc": "850047450234",
+"name": "7th Heaven Oatmilk Hazelnut Cream Rice Cr, 1.5 Oz",
+"size": "1.5 Oz",
+"stores": 6,
+"lowest_local": 2.69
+},
+{
+"upc": "850047450111",
+"name": "7th Heaven Snack Hazelnut Rice, 1.6 Oz",
+"size": "1.6 Oz",
+"stores": 6,
+"lowest_local": 2.65
+},
+{
+"upc": "807405129141",
+"name": "Alpine Dinner Napkins Rectangular, 100 Count",
+"size": "100 Ct",
+"stores": 6,
+"lowest_local": 2.79
+},
+{
+"upc": "633016004115",
+"name": "B'gan Diced Onions, 16 Oz",
+"size": "16 Oz",
+"stores": 6,
+"lowest_local": 2.19
+},
+{
+"upc": "633016004481",
+"name": "B'gan Sauteed Onions Glazed, 5 Oz",
+"size": "5 Oz",
+"stores": 6,
+"lowest_local": 5.49
+},
+{
+"upc": "670541659328",
+"name": "Baking Cups Brown Standard, 72 Ct",
+"size": "72 Ct",
+"stores": 6,
+"lowest_local": 1.59
+},
+{
+"upc": "670541657836",
+"name": "Baking Cups White Mini, 72 Cnt",
+"size": "72 Ct",
+"stores": 6,
+"lowest_local": 1.15
+},
+{
+"upc": "724327000047",
+"name": "Be'er Mayim Black Cherry Seltzer, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 6,
+"lowest_local": 1.09
+},
+{
+"upc": "724327000061",
+"name": "Be'er Mayim Seltzer Mandarin Orange, 33.8 Oz",
+"size": "33.8 Oz",
+"stores": 6,
+"lowest_local": 1.09
+},
+{
+"upc": "729940039818",
+"name": "Best Bev 10 Oz Hot Cups, 50 Ct",
+"size": "50 Ct",
+"stores": 6,
+"lowest_local": 2.49
+},
+{
+"upc": "729940029390",
+"name": "Best Bev Beverage Cups W/ Lids 20 Z, 28 Ct",
+"size": "28 Ct",
+"stores": 6,
+"lowest_local": 6.79
+},
+{
+"upc": "729940021004",
+"name": "Best Bev Hot Cups Ripple 12 Oz, 50 Ct",
+"size": "50 Ct",
+"stores": 6,
+"lowest_local": 12.49
+},
+{
+"upc": "729940021011",
+"name": "Best Bev Hot Cups Ripple 16 Oz, 50 Ct",
+"size": "50 Ct",
+"stores": 6,
+"lowest_local": 13.49
+},
+{
+"upc": "857412007154",
+"name": "Bethel Creamery A2a2 Choc Milk, 32 Oz",
+"size": "32 Oz",
+"stores": 6,
+"lowest_local": 3.69
+},
+{
+"upc": "39978033154",
+"name": "Bob's Red Mill Brown Rice Flour, 24 Oz",
+"size": "24 Oz",
+"stores": 6,
+"lowest_local": 5.39
+},
+{
+"upc": "850047456175",
+"name": "Carmit Milk Chocolate Bar, 3 Oz",
+"size": "3 Oz",
+"stores": 6,
+"lowest_local": 2.99
+},
+{
+"upc": "17400102807",
+"name": "Carolina Rice, 3 Lb, 48 Oz",
+"size": "48 Oz",
+"stores": 6,
+"lowest_local": 4.65
+},
+{
+"upc": "70734070754",
+"name": "Celestial Seasonings True Blueberry Tea, 20 Tea Bags, 1.6 Oz",
+"size": "1.6 Oz",
+"stores": 6,
+"lowest_local": 3.99
+},
+{
+"upc": "794711013687",
+"name": "Chasadim High Gluten Flour, 5 Lb",
+"size": "5 Lb",
+"stores": 6,
+"lowest_local": 3.0
+},
+{
+"upc": "810165951228",
+"name": "Chocolate Wise Milk Truffles, 1.2 Oz",
+"size": "1.2 Oz",
+"stores": 6,
+"lowest_local": 2.39
+},
+{
+"upc": "810165951075",
+"name": "Chocolate Wise Nutty Bar Peanut Butter, 1 Ct",
+"size": "1 Ct",
+"stores": 6,
+"lowest_local": 2.69
+},
+{
+"upc": "810165951693",
+"name": "Chocolate Wise Peanut Butter Cup Milk, 1.2 Oz",
+"size": "1.2 Oz",
+"stores": 6,
+"lowest_local": 1.89
+},
+{
+"upc": "810165951709",
+"name": "Chocolate Wise Peanut Butter Cup White, 1.2 Oz",
+"size": "1.2 Oz",
+"stores": 6,
+"lowest_local": 1.89
+},
+{
+"upc": "14353505594",
+"name": "Confetti Lite Peanut Butter Single Ice",
+"size": "6 Fl Oz",
+"stores": 6,
+"lowest_local": 4.79
+},
+{
+"upc": "638037598810",
+"name": "Coolmate Fruit Punch Water Enhancer With Electrolytes, 2 Oz",
+"size": "2 Oz",
+"stores": 6,
+"lowest_local": 4.29
+},
+{
+"upc": "638037598711",
+"name": "Coolmate Water Enhancer Kiwi Straw, 2 Oz",
+"size": "2 Oz",
+"stores": 6,
+"lowest_local": 3.69
+},
+{
+"upc": "638037598728",
+"name": "Coolmate Water Enhancer Strawberry, 2 Oz",
+"size": "2 Oz",
+"stores": 6,
+"lowest_local": 3.69
+},
+{
+"upc": "37867880056",
+"name": "Cuties Diapers # 6, 23 Ct",
+"size": "23 Ct",
+"stores": 6,
+"lowest_local": 9.99
+},
+{
+"upc": "37867880032",
+"name": "Cuties Diapers #4 31Pk",
+"size": "31Pk",
+"stores": 6,
+"lowest_local": 9.99
+},
+{
+"upc": "46676132522",
+"name": "Dagim Chunk Light Tuna, In Water, 6 Oz, Kp",
+"size": "6 Oz",
+"stores": 6,
+"lowest_local": 1.99
+},
+{
+"upc": "810487003704",
+"name": "Date Bites Almond Butter Coconut, 5.25 Oz",
+"size": "5.25 Oz",
+"stores": 6,
+"lowest_local": 4.49
+},
+{
+"upc": "843024001673",
+"name": "Dependable Flour High Gluten, 5 Lb",
+"size": "5 Lb",
+"stores": 6,
+"lowest_local": 5.89
+},
+{
+"upc": "729940002546",
+"name": "Dinner 10\" Plastic Plates, 100 Ct",
+"size": "100 Ct",
+"stores": 6,
+"lowest_local": 11.49
+},
+{
+"upc": "729940007879",
+"name": "Dinner Clear Plastc Plates 7\", 40 Ct",
+"size": "40 Ct",
+"stores": 6,
+"lowest_local": 3.39
+},
+{
+"upc": "729940007862",
+"name": "Dinner Clear Plastic Plates 6\", 40 Ct",
+"size": "40 Ct",
+"stores": 6,
+"lowest_local": 2.99
+},
+{
+"upc": "729940007886",
+"name": "Dinner Clear Plastic Plates 9\", 40 Ct",
+"size": "40 Ct",
+"stores": 6,
+"lowest_local": 5.99
+},
+{
+"upc": "729940002409",
+"name": "Dinner Plastic Plates 7\", 100 Ct",
+"size": "100 Ct",
+"stores": 6,
+"lowest_local": 3.89
+},
+{
+"upc": "49200905968",
+"name": "Domino Sugar Tub, 3.5 Lb",
+"size": "3.5 Lb",
+"stores": 6,
+"lowest_local": 6.49
+},
+{
+"upc": "807405060055",
+"name": "Double Wall Hot Cups 10 Oz, 25 Pk",
+"size": "25 Pk",
+"stores": 6,
+"lowest_local": 3.69
+},
+{
+"upc": "18944000505",
+"name": "Elmhurst Oat Milk Unsweetened, 32 Oz",
+"size": "32 Oz",
+"stores": 6,
+"lowest_local": 7.49
+},
+{
+"upc": "670541659403",
+"name": "Fantastic Mini Baking Cups, 72 Ct",
+"size": "72 Ct",
+"stores": 6,
+"lowest_local": 1.15
+},
+{
+"upc": "670541657898",
+"name": "Fantastic Standard Baking Cups White, 100 Ct",
+"size": "100 Ct",
+"stores": 6,
+"lowest_local": 1.59
+},
+{
+"upc": "73472001318",
+"name": "Food For Life Ezekiel 4:9 Bread Cinmon Raisn, 24 Oz",
+"size": "24 Oz",
+"stores": 6,
+"lowest_local": 8.79
+},
+{
+"upc": "745449123445",
+"name": "Franczoz Bread Whole Wheat, 16 Oz",
+"size": "16 Oz",
+"stores": 6,
+"lowest_local": 4.49
+},
+{
+"upc": "41500220208",
+"name": "French's French Fried Onions, 6 Oz",
+"size": "6 Oz",
+"stores": 6,
+"lowest_local": 5.99
+},
+{
+"upc": "720742998112",
+"name": "Fresh & Healthy Whipped Butter, 8 Oz",
+"size": "8 Oz",
+"stores": 6,
+"lowest_local": 4.59
+},
+{
+"upc": "854432002411",
+"name": "Fresh & Tasty Milk Blue Reduced Fat, 64 Oz",
+"size": "64 Oz",
+"stores": 6,
+"lowest_local": 3.69
+},
+{
+"upc": "854432002404",
+"name": "Fresh & Tasty Milk Red Regular, 64 Oz",
+"size": "64 Oz",
+"stores": 6,
+"lowest_local": 3.69
+},
+{
+"upc": "729940008876",
+"name": "Freshies Flushable Baby Wipes, 80 Ct",
+"size": "80 Ct",
+"stores": 6,
+"lowest_local": 1.69
+},
+{
+"upc": "637951438431",
+"name": "Freund's Simcha Gefilte Fish Roll, 3.5 Oz",
+"size": "56 Oz",
+"stores": 6,
+"lowest_local": 25.99
+},
+{
+"upc": "16000487949",
+"name": "General Mills Rice Chex, Gluten Free, 12 Oz",
+"size": "12 Oz",
+"stores": 6,
+"lowest_local": 4.99
+}
+]

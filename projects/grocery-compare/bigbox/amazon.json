@@ -1,0 +1,242 @@
+{
+"chain": "Amazon",
+"store": "Amazon.com online (price varies, may include shipping)",
+"source": "amazon.com public search pages",
+"read_at": "2026-10-16T05:22:57.490Z",
+"status": "ok",
+"note": "800 of 800 searched by name. Listing price as shown on amazon.com search; many are third-party sellers, so prices can be far above store price and may include shipping. 29 same-size matches.",
+"items": [
+{
+"upc": "710069017405",
+"name": "GefenMayonnaise, Lite, 32 Ounce 32 Ounce",
+"size": "32 Oz",
+"price": 19.99,
+"url": "https://www.amazon.com/dp/B0012GSGB6",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490128332",
+"name": "kedemSparkling Blush Grape Juice, 25.4 oz Blush25.4 Fl Oz (Pack of 1)",
+"size": "25.4 Oz",
+"price": 16.49,
+"url": "https://www.amazon.com/dp/B000YG51MM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "49200056004",
+"name": "DominoSugar, Sugar Dark Brown, 16 Ounce 16 Ounce (Pack of 1)",
+"size": "1 Lb",
+"price": 2.49,
+"url": "https://www.amazon.com/dp/B01GHECGE0",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "16000275324",
+"name": "General Mills, Trix Fruity Shapes Cereal, 303g/10.7oz., {Imported from Canada} 10.69 Ounce (Pack of 1)",
+"size": "10.7 Oz",
+"price": 9.71,
+"url": "https://www.amazon.com/dp/B07TQW3RFM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "840762001200",
+"name": "Glicks Presifted Enriched All Purpose Flour (5 Pounds), No Preservatives or Bleach, Certified Kosher 5 Pound (Pack of 1)",
+"size": "5 Lbs",
+"price": 12.99,
+"url": "https://www.amazon.com/dp/B008YGO6LG",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "602652170560",
+"name": "KINDPlus Peanut Butter Dark Chocolate Granola Bar 1.4 oz. Wrapper butter,chocolate",
+"size": "1.4 Oz",
+"price": 12.69,
+"url": "https://www.amazon.com/dp/B01MFH110D",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "16000264601",
+"name": "Nature ValleyOats 'n Honey Granola Bars 8.94 oz Oats and Honey",
+"size": "8.9 Oz",
+"price": 4.99,
+"url": "https://www.amazon.com/dp/B0036ANN4Q",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "72251000306",
+"name": "Near EastSpanish Rice Pilaf, 6.75 Oz 6.75 Ounce (Pack of 1)",
+"size": "6.75 Oz",
+"price": 3.19,
+"url": "https://www.amazon.com/dp/B000SRI42Q",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "813568000609",
+"name": "PeregMexican Bread Crumbs (12 Oz) - Mexican Flavor Seasoned Bread Crumbs - Bread Crumbs for Coating & Stuffing - Coat Burger, Schnitzel, Vegetables, Meatballs - Non GMO",
+"size": "12 Oz",
+"price": 9.48,
+"url": "https://www.amazon.com/dp/B004RNCIIS",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "786162010001",
+"name": "vitaminwater Power-C Dragonfruit Flavored Water Beverage Bottle, 20 fl oz Enhanced with antioxidants, vitamins, and other nutrients",
+"size": "20 Oz",
+"price": 1.88,
+"url": "https://www.amazon.com/dp/B000WG6JSY",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "682430611744",
+"name": "VOSSArtesian Still Water From Norway 800 Ml /27oz Glass Bottle 27.05 Fl Oz (Pack of 1)",
+"size": "800 Ml",
+"price": 19.97,
+"url": "https://www.amazon.com/dp/B00ZQGACAG",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069012219",
+"name": "GefenChunk Light Tuna in Oil 6oz.",
+"size": "6 Oz",
+"price": 9.99,
+"url": "https://www.amazon.com/dp/B006JI2ADM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "13735012",
+"name": "HEINZTomato Ketchup (44 oz Bottle)",
+"size": "44 Oz",
+"price": 27.55,
+"url": "https://www.amazon.com/dp/B0719DLB8K",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490131318",
+"name": "kedemOrganic Grape Juice, 22 oz",
+"size": "22 Oz.",
+"price": 7.17,
+"url": "https://www.amazon.com/dp/B01BDADEMQ",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "840762001217",
+"name": "Glicks Unbleached High Gluten Flour, (5 Pounds) Enriched, Presifted, Kosher, No Preservatives 80 Ounce (Pack of 1)",
+"size": "5 Lbs",
+"price": 13.99,
+"url": "https://www.amazon.com/dp/B087P3ZK8V",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "27000378823",
+"name": "Hunt\u2019s Diced Tomatoes, Perfect for Chili & Soups, 28 oz. Can Diced canned tomatoes; great in chilis, stews, soups, casseroles or homemade pasta sauce; stock the pantry",
+"size": "28 Oz",
+"price": 2.22,
+"url": "https://www.amazon.com/dp/B000V9JFUQ",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "84253240987",
+"name": "Imagine FoodsOrganic Low Sodium No-Chicken Broth, 32 FZ No-Chicken Broth32 Fl Oz (Pack of 1)",
+"size": "32 Oz",
+"price": 4.4,
+"url": "https://www.amazon.com/dp/B00AY8PV7U",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "726046080003",
+"name": "Ostreicher's Honey Cookies 10oz.",
+"size": "10 Oz",
+"price": 8.88,
+"url": "https://www.amazon.com/dp/B0068XHCH2",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "37000862130",
+"name": "PampersBaby Dry Ultra Cushiony Diapers, Size 6 (23-44 lbs), 21 Count, Up to 100% Leakproof (Packaging May Vary)",
+"size": "21 Ct",
+"price": 9.97,
+"url": "https://www.amazon.com/dp/B00R4HZ3A4",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "70960000112",
+"name": "SaratogaSparkling Water Bottles - Carbonated Spring Bottled Water - Glass Bottles - 28 Fl Oz",
+"size": "28 Oz",
+"price": 2.58,
+"url": "https://www.amazon.com/dp/B01B6SHCKK",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "603741001413",
+"name": "Zeta Extra Virgin Olive Oil, 8.5 fl oz | Premium Glass Bottle with Pop-Up Spout | Cold-Pressed | Product of Spain | Ideal for Baking, Cooking, Grilling, Roasting, Pasta & Salads 8.5 Ounce (Pack of 1)",
+"size": "8.5 Oz",
+"price": 13.65,
+"url": "https://www.amazon.com/dp/B0DSGCTCTJ",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "37000348856",
+"name": "BountyPaper Napkins, White, 200 Count, Packaging may vary 200 Count (Pack of 1)",
+"size": "200 Ct",
+"price": 3.48,
+"url": "https://www.amazon.com/dp/B000VCFB0G",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069128903",
+"name": "GefenHoney Bear, 100% Pure Clover Honey, 12 oz 12 Ounce (Pack of 1)",
+"size": "12 Oz",
+"price": 3.89,
+"url": "https://www.amazon.com/dp/B00B03UTMU",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069029101",
+"name": "GefenPure Honey 32 oz",
+"size": "32 Oz",
+"price": 24.99,
+"url": "https://www.amazon.com/dp/B0070YA3MY",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069128811",
+"name": "Gefen Hot Honey, 12 oz 12 Ounce (Pack of 1)",
+"size": "12 Oz",
+"price": 5.98,
+"url": "https://www.amazon.com/dp/B0DVDCM9QH",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "840762005178",
+"name": "GlicksBaking Spray with Flour, 14 oz | Non-Stick Cooking Oil Spray | Kosher 14 Ounce (Pack of 1)",
+"size": "14 Oz",
+"price": 13.4,
+"url": "https://www.amazon.com/dp/B0FCMYKGJJ",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73492474",
+"name": "kedemJuice Grape Concord, 50.7 fl oz Grape50.7 Fl Oz (Pack of 1)",
+"size": "50.7 Oz",
+"price": 18.65,
+"url": "https://www.amazon.com/dp/B01LXWSYI1",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490128134",
+"name": "kedemNatural White Grape Juice, 22 Oz Grape22 Ounce (Pack of 1)",
+"size": "22 Oz",
+"price": 10.05,
+"url": "https://www.amazon.com/dp/B00671KLEG",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "18944000505",
+"name": "ElmhurstMilk Oat Unsweetened, 32 Fl Oz Oats32 Fl Oz (Pack of 1)",
+"size": "32 Oz",
+"price": 5.49,
+"url": "https://www.amazon.com/dp/B082VVT75S",
+"note": "Amazon, price varies, may include shipping"
+}
+]
+}

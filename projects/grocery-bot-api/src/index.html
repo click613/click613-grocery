@@ -1,0 +1,137 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Click613 bot: grocery price comparison — API + spec</title>
+<meta property="og:title" content="Click613 bot: grocery price comparison — API + spec">
+<meta name="robots" content="noindex">
+<style>body{font:16px/1.5 -apple-system,system-ui,Segoe UI,Roboto,sans-serif;margin:0;background:#f6f7f9;color:#1d2330}main{max-width:760px;margin:0 auto;padding:18px 16px 60px;background:#fff}
+h1{font-size:1.45em;line-height:1.25;color:#123d6b}h2{font-size:1.15em;margin-top:1.8em;color:#123d6b;border-top:1px solid #e3e7ee;padding-top:1em}
+pre{background:#e9f7ef;border:1px solid #cfe9da;border-radius:10px;padding:10px 12px;white-space:pre-wrap;word-break:break-word;font:13.5px/1.45 ui-monospace,Menlo,Consolas,monospace}
+code{background:#eef1f5;border-radius:4px;padding:1px 4px;font-size:.92em;word-break:break-all}a{color:#0b63c5;word-break:break-all}li{margin:.25em 0}</style></head>
+<body><main><h1>Click613 WhatsApp bot: grocery price comparison (+ eruv feed)</h1>
+<p>For Chanoch. Everything runs on our side; the bot makes <b>one HTTP call per incoming message</b> and sends back the text it gets.</p>
+<p>Spec page (phone-friendly): <a href="https://click613grocery-api.sites.tab.bot/">https://click613grocery-api.sites.tab.bot/</a></p>
+<h2>1. What it does</h2>
+<p>People text the Click613 bot and get kosher grocery prices compared across stores in their area:</p>
+<ul>
+<li><b>Price of an item</b>: &quot;price of tuna&quot;, &quot;how much is Heinz ketchup&quot;, a barcode</li>
+<li><b>Another area once</b>: &quot;cheapest eggs in Monsey&quot;</li>
+<li><b>A shopping list</b>: several lines (one item per line, &quot;2 milk&quot; or &quot;milk x2&quot; for quantities) → cheapest store per item, best single store for the whole list, cheapest total across stores</li>
+<li><b>Sales</b>: &quot;sales this week&quot;, &quot;sales at Seasons&quot;</li>
+<li><b>Area</b>: asked once, remembered (&quot;area Monsey&quot; changes it)</li>
+</ul>
+<p>Areas: Lakewood, Brooklyn: Boro Park &amp; Flatbush, Brooklyn: Williamsburg, Five Towns, Monsey, KJ / Monroe, Teaneck.</p>
+<p>Each item reply also carries, where we have it: the <b>big-chain line</b> (Walmart, Amazon… same product and size), <b>≈ approx. stores</b> (stores with no price website, e.g. Bingo, estimated from Instacart prices with the markup removed, always marked &quot;≈ … (approx.)&quot;, never counted in list totals), a <b>&quot;Cheaper kosher option&quot;</b> line with a link (OU-confirmed pareve store-brand item at Aldi/Lidl/Amazon), the <b>read date</b> and &quot;Confirm in store&quot;, and a link to the full price page.</p>
+<h2>2. Integration: one call</h2>
+<p><code>POST <a href="https://click613grocery-api.sites.tab.bot/api/v1/reply">https://click613grocery-api.sites.tab.bot/api/v1/reply</a></code></p>
+<pre>
+{ &quot;text&quot;: &quot;&lt;the user&#x27;s message&gt;&quot;, &quot;state&quot;: &lt;the state you saved for this phone, or {}&gt;, &quot;force&quot;: false }
+</pre>
+<p>Answer:</p>
+<pre>
+{ &quot;handled&quot;: true, &quot;reply&quot;: &quot;&lt;WhatsApp text to send&gt;&quot;, &quot;state&quot;: {...save this per phone...}, &quot;kind&quot;: &quot;item|list|sales|ask_city|city_set|closest|no_match|help|hint&quot; }
+</pre>
+<ul>
+<li><code>handled: false</code> → not a grocery message: carry on with your other handlers (eruv, jobs, morah list, menu…). Still save <code>state</code>.</li>
+<li><code>state</code> is a small JSON object (area, the last &quot;reply 1/2/3&quot; choices, a timestamp). Store it per phone number and send it back unchanged. Nothing else to keep.</li>
+<li><code>force: true</code> when the user is inside a &quot;Grocery prices&quot; menu option of yours (then any text is treated as an item).</li>
+<li>Recognised without a menu: messages starting with price/prices/cost/how much/cheapest/compare/grocery/shopping list/list/sales/deals, any multi-line message (a list), &quot;area &lt;name&gt;&quot;, and, for 20 minutes after a grocery reply, a plain item name (&quot;heinz ketchup&quot;) or a number answering &quot;reply 2 or 3&quot;. Chat like &quot;thanks&quot;/&quot;yes&quot; is not taken.</li>
+<li>&quot;menu&quot;, &quot;exit&quot;, &quot;stop&quot;, &quot;0&quot; return <code>handled: false</code> (your menu takes over).</li>
+<li>Timeout: answers come back in well under a second; use an 8 s timeout and treat errors as <code>handled: false</code>. Send any normal User-Agent (Python&#x27;s bare urllib default is refused by the edge; <code>requests</code>, Node fetch and axios are fine).</li>
+<li>Drop-in code: <a href="https://click613grocery-api.sites.tab.bot/reference/click613-grocery.js">https://click613grocery-api.sites.tab.bot/reference/click613-grocery.js</a> (Node) and <a href="https://click613grocery-api.sites.tab.bot/reference/click613_grocery.py">https://click613grocery-api.sites.tab.bot/reference/click613_grocery.py</a> (Python).</li>
+</ul>
+<h2>3. Reply formats (exact, generated by the API)</h2>
+<p>Rules built in: short WhatsApp text with *bold*; no item counts anywhere; approx. prices marked &quot;≈&quot; and &quot;(approx.)&quot;; Amazon marked &quot;price varies, may include shipping&quot;; read date on every reply plus &quot;Confirm in store&quot;; data older than 14 days says &quot;⚠️ Older read (date): prices may have changed.&quot;</p>
+<p>Item:</p>
+<pre>
+*Lieber&#x27;s Crushed Tomatoes, 28 Oz* · Lakewood
+≈ Bingo  $3.59 (approx. cheapest)
+1. Nutmeg  $3.89 ✅ cheapest
+2. Aisle 9  $3.99
+3. Aisle 9 Jackson  $3.99
+4. Kosher West  $3.99
+5. Kosher Village  $4.09
+Cheaper kosher option: Lidl Crushed tomatoes 28 oz. $1.55 (60% less per oz, OU Pareve) https://www.lidl.com/p/crushed-tomatoes/p11237331
+≈ Bingo has no price website: estimated from its Instacart prices with Instacart&#x27;s 17.5% markup removed, read Oct 18.
+Store websites, read Oct 16. Confirm in store.
+More: https://lakewoodprices.sites.tab.bot/?q=Lieber&#x27;s%20Crushed%20Tomatoes
+</pre>
+<p>When there are other close matches, the item reply ends with (example: &quot;heinz ketchup&quot;):</p>
+<pre>
+Not this one? Reply a number:
+2. Heinz Tomato Ketchup, 14 Oz (from $3.29)
+3. Heinz Tomato Ketchup, 64 Oz (from $9.99)
+</pre>
+<p>Area question (first time, or &quot;area&quot;):</p>
+<pre>
+Which area do you shop in? Reply with a number:
+1. Lakewood
+2. Brooklyn: Boro Park &amp; Flatbush
+3. Brooklyn: Williamsburg
+4. Five Towns
+5. Monsey
+6. KJ / Monroe
+7. Teaneck
+</pre>
+<p>Shopping list (multi-line message):</p>
+<pre>
+*Your list* · Lakewood
+• 2 × Pride Of The Farm Lowfat Milk, 64 Oz: $7.58 Kosher Village
+• Eggs Large, Mitlitsky, 1 Dz: $2.49 Kosher Village
+• Lechem Classic Challah, 1 Ct: $11.49 Seasons TR
+• Glicks Ketchup, 64 Oz: $4.49 Nutmeg
+• Flag Paper Towel: $1.49 Gourmet Glatt
+
+*Best single store:* Kosher Village $31.84 (has everything)
+Next: Nutmeg $29.95 (doesn&#x27;t have: Eggs Large)
+Then: Super Stop $33.35 (doesn&#x27;t have: Flag Paper Towel)
+Cheapest of each item, across stores: $27.54
+≈ approx. stores (Bingo) are not in the totals: estimates, not from a store website.
+Multi-buy deals count when your quantity reaches them. Fees and minimums not included.
+Store websites, read Oct 16. Confirm in store.
+</pre>
+<p>Sales:</p>
+<pre>
+*Sales this week* · Lakewood
+• Sunset Tomatoes Campari, 16 Oz: $1.50 at Gourmet Glatt (reg $4.99, 70% off, until Oct 24)
+• Beigel&#x27;s Honey Cookies, 8 Oz: $1.99 at Nutmeg Kosher Market (reg $5.99, 67% off)
+• Bloom&#x27;s Pretzels, Rods, 12 Oz: $1.00 at Seasons Toms River (reg $2.99, 67% off)
+…
+Real sales only: each store&#x27;s own sale price vs its own regular price.
+All sales: https://lakewoodprices.sites.tab.bot/?tab=sales
+Read Oct 16. Confirm in store.
+</pre>
+<p>Edge cases: no match → &quot;No match for &quot;…&quot; in &lt;area&gt;. Try fewer or other words…&quot; with the price page link; no exact match but close → &quot;Closest, reply a number: 1… 2… 3…&quot;; several matches → best match in full + &quot;Not this one? Reply a number: 2… 3…&quot;; a number out of range → &quot;Reply 2 or 3…&quot;.</p>
+<h2>4. Other endpoints (JSON, if you want to build your own wording)</h2>
+<ul>
+<li><code>GET <a href="https://click613grocery-api.sites.tab.bot/api/v1/search?city=monsey">https://click613grocery-api.sites.tab.bot/api/v1/search?city=monsey</a>&amp;q=eggs&amp;limit=3</code> → items with every store price, approx flag, sale/was, deal, link, read date, stale flag, big chains, cheaper kosher option; plus <code>whatsapp_text</code></li>
+<li><code>POST <a href="https://click613grocery-api.sites.tab.bot/api/v1/list">https://click613grocery-api.sites.tab.bot/api/v1/list</a></code> <code>{&quot;city&quot;:&quot;lakewood&quot;,&quot;items&quot;:[&quot;eggs&quot;,&quot;2 milk&quot;]}</code> → per-item cheapest, totals per store (approx. stores excluded and named in <code>approx_excluded</code>), <code>whatsapp_text</code></li>
+<li><code>GET <a href="https://click613grocery-api.sites.tab.bot/api/v1/sales?city=lakewood[">https://click613grocery-api.sites.tab.bot/api/v1/sales?city=lakewood[</a>&amp;store=seasons]</code></li>
+<li><code>GET <a href="https://click613grocery-api.sites.tab.bot/api/v1/cities">https://click613grocery-api.sites.tab.bot/api/v1/cities</a></code> → area keys, names, stores (approx. ones marked), read dates</li>
+<li>Raw data files (if you want to cache on your side, max ~1 h; CORS open): <code><a href="https://click613grocery-api.sites.tab.bot/api/v1/data/cities.json">https://click613grocery-api.sites.tab.bot/api/v1/data/cities.json</a></code>, <code><a href="https://click613grocery-api.sites.tab.bot/api/v1/data/">https://click613grocery-api.sites.tab.bot/api/v1/data/</a>&lt;city&gt;/index.json</code>, <code><a href="https://click613grocery-api.sites.tab.bot/api/v1/data/">https://click613grocery-api.sites.tab.bot/api/v1/data/</a>&lt;city&gt;/sales.json</code></li>
+</ul>
+<p>City keys: lakewood, boropark, williamsburg, fivetowns, monsey, kj, teaneck (names like &quot;Boro Park&quot;, &quot;Five Towns&quot;, &quot;Monroe&quot; also work).</p>
+<h2>5. Data and refresh</h2>
+<p>Prices come from each store&#x27;s own website (approx. stores: one Instacart read with the markup removed). The API files are rebuilt from the city price sites; Lakewood updates every morning (~5 AM ET), the other areas when we refresh them. The live endpoints always read the newest files, so nothing to refresh on your side. If you cache the static JSON, keep it ≤ 1 hour.</p>
+<h2>6. Eruv (live data for click613.com/eruv and the bot)</h2>
+<ul>
+<li>The live eruv map is <a href="https://eruvin613.sites.tab.bot/">https://eruvin613.sites.tab.bot/</a> — every change is made there first.</li>
+<li>Plain GeoJSON of all eruvin (boundaries, lines and approximate pins, with hotline, contacts, auspices): <b><a href="https://click613grocery-api.sites.tab.bot/api/v1/eruv.geojson">https://click613grocery-api.sites.tab.bot/api/v1/eruv.geojson</a></b> (CORS open, so click613.com pages can load it directly) — republished by us every time the map changes.</li>
+<li>Lookup for the bot: <code>GET <a href="https://click613grocery-api.sites.tab.bot/api/v1/eruv?lat=40.096">https://click613grocery-api.sites.tab.bot/api/v1/eruv?lat=40.096</a>&amp;lng=-74.217</code> → <code>inside</code>, <code>may_cover</code>, <code>whatsapp_text</code>. Use it when a user shares a WhatsApp location:</li>
+</ul>
+<pre>
+📍 Inside the drawn boundary of:
+• *Princeton Monmouth Eruv – Sections A &amp; B*
+  Check it&#x27;s up: (732) 234-9837 (to verify the eruv is up) · text @mnmth-eruv to 81010
+Always check the eruv is up before Shabbos and ask your Rav. Map: https://click613.com/eruv
+</pre>
+<p>  It never says &quot;outside an eruv&quot;; with no drawn boundary at the spot it says so and lists eruvin that may still cover it.</p>
+<ul>
+<li>Please have <b>both click613.com/eruv and the bot pull the GeoJSON URL automatically</b> (cache ≤ 1 hour) instead of the old snapshot: click613.com/api/eruv/geojson currently serves an older copy.</li>
+<li>Every future eruv change is emailed to you from admin@click613.com, with admin@ in Cc.</li>
+</ul>
+<h2>7. What we need from you</h2>
+<ul>
+<li>Wire <code>POST /api/v1/reply</code> into the bot (and the eruv lookup on shared locations), store <code>state</code> per phone.</li>
+<li>Optional: a &quot;Grocery prices&quot; menu item that sends <code>force: true</code>.</li>
+<li>Switch click613.com/eruv and the bot&#x27;s eruv data to the live GeoJSON URL.</li>
+<li>Reply when it&#x27;s live or with any questions; we can change any wording.</li>
+</ul><p style="color:#667;font-size:.9em;margin-top:2em">Click613 · questions: reply to the email or admin@click613.com</p><p class="c613legal" style="color:#667;font-size:.85em;line-height:1.5">Data is for information only, provided as is and may be wrong or out of date; prices are collected from public sources (some estimated), the store's price governs, kashrus and eruv status must be confirmed locally. Click613 is not responsible for errors. Every API answer carries a <code>terms</code> field; please show a short "confirm in store" note with prices. <a href="/terms">Terms &amp; disclaimer</a></p></main></body></html>

@@ -1,0 +1,29 @@
+{
+ "built": "2026-10-27T05:40:42-04:00",
+ "sections": [
+  "businesses",
+  "eateries",
+  "election",
+  "emergency",
+  "erev-shabbos",
+  "kids-clubs",
+  "motzei-shabbos",
+  "rentals",
+  "schools",
+  "shiurim",
+  "simcha-halls",
+  "simchas-today",
+  "simchas-upcoming",
+  "traffic",
+  "updates",
+  "yahrzeits"
+ ],
+ "not_read": {
+  "/deals, /friday-minche, /the-weekly-luach, /shiurei-torah-directory, /vasikin": "older Luach pages: content is images/PDF downloads (vasikin timed out / 522); not read",
+  "/data/minyanim.json (Next minyan)": "readable, but minyan times stay Click613-only (Paltiel's rule); not used here",
+  "Eruv status": "a live map in an iframe (eruv.thelakewoodluach.com) with a halachic disclaimer; not answered, forwarded / Click613 eruv flow",
+  "Weather": "live api.weather.gov in the page; the SMS line already answers weather from Click613's own bot",
+  "/prices (Grocery Price Comparison)": "answered from our own grocery index on this box (grocery_sms.py), not scraped",
+  "/data/schools.json": "404 as a file; the same list is embedded in the home page (SCHOOLS_PREVIEW) and read from there"
+ }
+}

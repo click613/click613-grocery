@@ -1,0 +1,7085 @@
+[
+{
+"chain": "lidl",
+"type": "ketchup",
+"name": "tomato ketchup 38 oz.",
+"brand": null,
+"price": 1.75,
+"size": [
+38.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/tomato-ketchup/p11675472",
+"price_range": [
+1.75,
+1.99
+],
+"unit": "$ 0.05 per oz.",
+"read_at": "2026-10-18T04:14:27Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DEE6448",
+"OUV7-V1FUIYJ"
+],
+"ou_names": [
+"Lidl | Tomato Ketchup"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl tomato ketchup"
+}
+},
+{
+"chain": "lidl",
+"type": "ketchup",
+"name": "tomato ketchup 20 oz.",
+"brand": null,
+"price": 1.55,
+"size": [
+20.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/tomato-ketchup/p11245116",
+"price_range": [
+1.55,
+1.75
+],
+"unit": "$ 0.08 per oz.",
+"read_at": "2026-10-18T04:14:27Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DEE6448",
+"OUV7-V1FUIYJ"
+],
+"ou_names": [
+"Lidl | Tomato Ketchup"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl tomato ketchup"
+}
+},
+{
+"chain": "lidl",
+"type": "ketchup",
+"name": "tomato ketchup 24 oz.",
+"brand": null,
+"price": 1.69,
+"size": [
+24.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/tomato-ketchup/p11237346",
+"price_range": [
+1.69,
+1.89
+],
+"unit": "$ 0.07 per oz.",
+"read_at": "2026-10-18T04:14:27Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DEE6448",
+"OUV7-V1FUIYJ"
+],
+"ou_names": [
+"Lidl | Tomato Ketchup"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl tomato ketchup"
+}
+},
+{
+"chain": "lidl",
+"type": "mayo",
+"name": "real mayonnaise 30 fl.oz.",
+"brand": null,
+"price": 2.89,
+"size": [
+30.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/real-mayonnaise/p11240497",
+"price_range": [
+2.89,
+3.29
+],
+"unit": "$ 0.10 per fl.oz.",
+"read_at": "2026-10-18T04:14:29Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl real mayonnaise | Lidl mayonnaise"
+}
+},
+{
+"chain": "lidl",
+"type": "canola_oil",
+"name": "100% pure canola oil 48 fl.oz.",
+"brand": null,
+"price": 3.79,
+"size": [
+48.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/100-pure-canola-oil/p11249793",
+"price_range": [
+3.79,
+4.29
+],
+"unit": "$ 0.08 per fl.oz.",
+"read_at": "2026-10-18T04:14:31Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-WN3PWEO",
+"OUV7-B2465A8"
+],
+"ou_names": [
+"Lidl | Canola Oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl 100% pure canola oil"
+}
+},
+{
+"chain": "lidl",
+"type": "vegetable_oil",
+"name": "vegetable oil 48 fl.oz.",
+"brand": null,
+"price": 3.35,
+"size": [
+48.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/vegetable-oil/p11248495",
+"price_range": [
+3.35,
+3.79
+],
+"unit": "$ 0.07 per fl.oz.",
+"read_at": "2026-10-18T04:14:33Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-2MH544Z",
+"OUV7-GHZK7RI"
+],
+"ou_names": [
+"Lidl | Vegetable Oil",
+"Lidl | Vegetable oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl vegetable oil"
+}
+},
+{
+"chain": "lidl",
+"type": "olive_oil",
+"name": "extra virgin olive oil 25.3 fl.oz.",
+"brand": null,
+"price": 8.59,
+"size": [
+25.3,
+"oz"
+],
+"url": "https://www.lidl.com/p/extra-virgin-olive-oil/p11240302",
+"price_range": [
+8.59,
+9.69
+],
+"unit": "$ 0.34 per fl.oz.",
+"read_at": "2026-10-18T04:14:35Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl extra virgin olive oil | Lidl extra virgin olive oil"
+}
+},
+{
+"chain": "lidl",
+"type": "sugar",
+"name": "granulated sugar 64 oz.",
+"brand": null,
+"price": 2.75,
+"size": [
+64.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/granulated-sugar/p11240446",
+"price_range": [
+2.75,
+3.09
+],
+"unit": "$ 0.04 per oz.",
+"read_at": "2026-10-18T04:14:36Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl granulated sugar | Lidl granulated sugar"
+}
+},
+{
+"chain": "lidl",
+"type": "brown_sugar",
+"name": "dark brown sugar 32 oz.",
+"brand": null,
+"price": 1.99,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/dark-brown-sugar/p11239444",
+"price_range": [
+1.99,
+2.25
+],
+"unit": "$ 0.06 per oz.",
+"read_at": "2026-10-18T04:14:38Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl dark brown sugar | Lidl brown sugar"
+}
+},
+{
+"chain": "lidl",
+"type": "brown_sugar",
+"name": "light brown sugar 32 oz.",
+"brand": null,
+"price": 1.65,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/light-brown-sugar/p11240494",
+"price_range": [
+1.65,
+1.89
+],
+"unit": "$ 0.05 per oz.",
+"read_at": "2026-10-18T04:14:38Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl light brown sugar | Lidl brown sugar"
+}
+},
+{
+"chain": "lidl",
+"type": "powdered_sugar",
+"name": "confectioners sugar 32 oz.",
+"brand": null,
+"price": 1.85,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/confectioners-sugar/p11240536",
+"price_range": [
+1.65,
+2.09
+],
+"unit": "$ 0.06 per oz.",
+"read_at": "2026-10-18T04:14:39Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl confectioners sugar | Lidl powdered sugar"
+}
+},
+{
+"chain": "lidl",
+"type": "flour",
+"name": "all purpose flour 80 oz.",
+"brand": null,
+"price": 1.85,
+"size": [
+80.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/all-purpose-flour/p11238084",
+"price_range": [
+1.85,
+2.09
+],
+"unit": "$ 0.02 per oz.",
+"read_at": "2026-10-18T04:14:41Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl all purpose flour | Lidl all purpose flour"
+}
+},
+{
+"chain": "lidl",
+"type": "flour",
+"name": "all purpose flour 32 oz.",
+"brand": null,
+"price": 1.45,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/all-purpose-flour/p11240814",
+"price_range": [
+1.45,
+1.65
+],
+"unit": "$ 0.05 per oz.",
+"read_at": "2026-10-18T04:14:41Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl all purpose flour | Lidl all purpose flour"
+}
+},
+{
+"chain": "lidl",
+"type": "spaghetti",
+"name": "Combino spaghetti 16 oz.",
+"brand": "COMBINO",
+"price": 1.19,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/combino-spaghetti/p11245943",
+"price_range": [
+1.19,
+1.35
+],
+"unit": "$ 0.07 per oz.",
+"read_at": "2026-10-18T04:14:44Z",
+"in_store_only": true,
+"own_brand": "Combino",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-40DC57A"
+],
+"ou_names": [
+"Lidl | Spaghetti"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl spaghetti"
+}
+},
+{
+"chain": "lidl",
+"type": "penne",
+"name": "Combino penne rigate 16 oz.",
+"brand": "COMBINO",
+"price": 1.19,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/combino-penne-rigate/p11248739",
+"price_range": [
+1.09,
+1.35
+],
+"unit": "$ 0.07 per oz.",
+"read_at": "2026-10-18T04:14:46Z",
+"in_store_only": true,
+"own_brand": "Combino",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-BF45B70"
+],
+"ou_names": [
+"Lidl | Penne Rigate"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl penne rigate"
+}
+},
+{
+"chain": "lidl",
+"type": "elbows",
+"name": "Combino elbow macaroni 16 oz.",
+"brand": "COMBINO",
+"price": 1.19,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/combino-elbow-macaroni/p11245865",
+"price_range": [
+1.19,
+1.35
+],
+"unit": "$ 0.07 per oz.",
+"read_at": "2026-10-18T04:14:48Z",
+"in_store_only": true,
+"own_brand": "Combino",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-69F1656"
+],
+"ou_names": [
+"Lidl | Elbows"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl elbow macaroni"
+}
+},
+{
+"chain": "lidl",
+"type": "rice_long",
+"name": "enriched long grain rice 48 oz.",
+"brand": null,
+"price": 2.09,
+"size": [
+48.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/enriched-long-grain-rice/p11243239",
+"price_range": [
+2.09,
+2.39
+],
+"unit": "$ 0.04 per oz.",
+"read_at": "2026-10-18T04:14:49Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl enriched long grain rice | Lidl long grain white rice"
+}
+},
+{
+"chain": "lidl",
+"type": "rice_jasmine",
+"name": "Lidl Preferred Selection Thai Hom Mali jasmine rice 32 oz.",
+"brand": "LIDL PREFERRED SELECTION",
+"price": 3.55,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/lidl-preferred-selection-thai-hom-mali-jasmine-rice/p11245824",
+"price_range": [
+3.55,
+3.99
+],
+"unit": "$ 0.11 per oz.",
+"read_at": "2026-10-18T04:14:51Z",
+"in_store_only": true,
+"own_brand": "Lidl Preferred Selection",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-701HIY0"
+],
+"ou_names": [
+"Lidl Preferred Selection | Thai Hom Mali Jasmine Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl Thai Hom Mali jasmine rice"
+}
+},
+{
+"chain": "lidl",
+"type": "rice_jasmine",
+"name": "Lidl Preferred Selection Thai horn mali Jasmine rice 80 oz.",
+"brand": "LIDL PREFERRED SELECTION",
+"price": 6.69,
+"size": [
+80.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/lidl-preferred-selection-thai-horn-mali-jasmine-rice/p11243166",
+"price_range": [
+6.09,
+7.59
+],
+"unit": "$ 0.08 per oz.",
+"read_at": "2026-10-18T04:14:51Z",
+"in_store_only": true,
+"own_brand": "Lidl Preferred Selection",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl Thai horn mali Jasmine rice | Lidl jasmine rice"
+}
+},
+{
+"chain": "lidl",
+"type": "rice_basmati",
+"name": "Lidl Preferred Selection white basmati rice 32 oz.",
+"brand": "LIDL PREFERRED SELECTION",
+"price": 3.59,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/lidl-preferred-selection-white-basmati-rice/p11243245",
+"price_range": [
+3.55,
+4.09
+],
+"unit": "$ 0.11 per oz.",
+"read_at": "2026-10-18T04:14:53Z",
+"in_store_only": true,
+"own_brand": "Lidl Preferred Selection",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-FSWYAKH"
+],
+"ou_names": [
+"Lidl Preferred Selection | White Basmati Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl white basmati rice"
+}
+},
+{
+"chain": "lidl",
+"type": "oats",
+"name": "LIDL old fashioned oats 18 oz.",
+"brand": "LIDL",
+"price": 1.99,
+"size": [
+18.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/lidl-old-fashioned-oats/p11251442",
+"price_range": [
+1.99,
+1.99
+],
+"unit": "$ 0.11 per oz.",
+"read_at": "2026-10-18T04:14:54Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-7DDE2D0"
+],
+"ou_names": [
+"Lidl | Old Fashioned Oats"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover. Yoshon with Best Before date (or earlier) of March 10, 2027"
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl old fashioned oats"
+}
+},
+{
+"chain": "lidl",
+"type": "oats",
+"name": "old fashioned oats 42 oz.",
+"brand": null,
+"price": 3.85,
+"size": [
+42.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/old-fashioned-oats/p11238104",
+"price_range": [
+3.49,
+4.35
+],
+"unit": "$ 0.09 per oz.",
+"read_at": "2026-10-18T04:14:54Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-7DDE2D0"
+],
+"ou_names": [
+"Lidl | Old Fashioned Oats"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover. Yoshon with Best Before date (or earlier) of March 10, 2027"
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl old fashioned oats"
+}
+},
+{
+"chain": "lidl",
+"type": "quick_oats",
+"name": "quick-1-minute oats 42 oz.",
+"brand": null,
+"price": 3.85,
+"size": [
+42.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/quick-1-minute-oats/p11237298",
+"price_range": [
+3.49,
+4.35
+],
+"unit": "$ 0.09 per oz.",
+"read_at": "2026-10-18T04:14:56Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl quick-1-minute oats | Lidl quick oats"
+}
+},
+{
+"chain": "lidl",
+"type": "corn_flakes",
+"name": "corn flakes cereal 17.6 oz.",
+"brand": null,
+"price": 2.19,
+"size": [
+17.6,
+"oz"
+],
+"url": "https://www.lidl.com/p/corn-flakes-cereal/p11238218",
+"price_range": [
+2.15,
+2.39
+],
+"unit": "$ 0.12 per oz.",
+"read_at": "2026-10-18T04:14:58Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-IOMBVJ2"
+],
+"ou_names": [
+"Lidl | Corn Flakes Cereal"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover. Yoshon with Best Before date (or earlier) of 9/15/2026 (when Containing Oats). If Product Contains Wheat, It Is Winter Wheat. (Malt TBD)"
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl corn flakes cereal"
+}
+},
+{
+"chain": "lidl",
+"type": "honey",
+"name": "honey, family size 40 oz.",
+"brand": null,
+"price": 8.99,
+"size": [
+40.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/honey-family-size/p11239277",
+"price_range": [
+8.99,
+10.19
+],
+"unit": "$ 0.22 per oz.",
+"read_at": "2026-10-18T04:15:05Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl honey, family size | Lidl honey"
+}
+},
+{
+"chain": "lidl",
+"type": "honey",
+"name": "Lidl Preferred Selection aromatic forest honey 17.6 oz.",
+"brand": "LIDL PREFERRED SELECTION",
+"price": 5.99,
+"size": [
+17.6,
+"oz"
+],
+"url": "https://www.lidl.com/p/lidl-preferred-selection-aromatic-forest-honey/p11243062",
+"price_range": [
+5.99,
+6.79
+],
+"unit": "$ 0.34 per oz.",
+"read_at": "2026-10-18T04:15:05Z",
+"in_store_only": true,
+"own_brand": "Lidl Preferred Selection",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl aromatic forest honey | Lidl honey"
+}
+},
+{
+"chain": "lidl",
+"type": "honey",
+"name": "Eridanous cretan blossom honey 15.8 oz.",
+"brand": "ERIDANOUS",
+"price": 5.99,
+"size": [
+15.8,
+"oz"
+],
+"url": "https://www.lidl.com/p/eridanous-cretan-blossom-honey/p11243068",
+"price_range": [
+5.99,
+6.79
+],
+"unit": "$ 0.38 per oz.",
+"read_at": "2026-10-18T04:15:05Z",
+"in_store_only": true,
+"own_brand": "Eridanous",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl cretan blossom honey | Lidl honey"
+}
+},
+{
+"chain": "lidl",
+"type": "tomato_sauce",
+"name": "tomato sauce 8 oz.",
+"brand": null,
+"price": 0.52,
+"size": [
+8.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/tomato-sauce/p11238062",
+"price_range": [
+0.47,
+0.59
+],
+"unit": "$ 0.07 per oz.",
+"read_at": "2026-10-18T04:15:11Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-8667BF9"
+],
+"ou_names": [
+"Lidl | Tomato Sauce"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl tomato sauce"
+}
+},
+{
+"chain": "lidl",
+"type": "tomato_sauce",
+"name": "classic tomato sauce 15 oz.",
+"brand": null,
+"price": 0.96,
+"size": [
+15.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/classic-tomato-sauce/p11238750",
+"price_range": [
+0.96,
+1.09
+],
+"unit": "$ 0.06 per oz.",
+"read_at": "2026-10-18T04:15:11Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-8667BF9"
+],
+"ou_names": [
+"Lidl | Tomato Sauce"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl classic tomato sauce"
+}
+},
+{
+"chain": "lidl",
+"type": "tomato_sauce",
+"name": "classic tomato sauce 29 oz.",
+"brand": null,
+"price": 1.65,
+"size": [
+29.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/classic-tomato-sauce/p11240829",
+"price_range": [
+1.65,
+1.89
+],
+"unit": "$ 0.06 per oz.",
+"read_at": "2026-10-18T04:15:11Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-8667BF9"
+],
+"ou_names": [
+"Lidl | Tomato Sauce"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl classic tomato sauce"
+}
+},
+{
+"chain": "lidl",
+"type": "tomato_sauce",
+"name": "Italiamo cherry tomato sauce 11.6 oz.",
+"brand": "ITALIAMO",
+"price": 1.99,
+"size": [
+11.6,
+"oz"
+],
+"url": "https://www.lidl.com/p/italiamo-cherry-tomato-sauce/p11238226",
+"price_range": [
+1.99,
+2.25
+],
+"unit": "$ 0.17 per oz.",
+"read_at": "2026-10-18T04:15:11Z",
+"in_store_only": true,
+"own_brand": "Italiamo",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl cherry tomato sauce | Lidl tomato sauce"
+}
+},
+{
+"chain": "lidl",
+"type": "tomato_paste",
+"name": "tomato paste 6 oz.",
+"brand": null,
+"price": 0.86,
+"size": [
+6.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/tomato-paste/p11240616",
+"price_range": [
+0.86,
+0.97
+],
+"unit": "$ 0.14 per oz.",
+"read_at": "2026-10-18T04:15:12Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-7D1CC35"
+],
+"ou_names": [
+"Lidl | Tomato Paste"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl tomato paste"
+}
+},
+{
+"chain": "lidl",
+"type": "crushed_tom",
+"name": "crushed tomatoes 28 oz.",
+"brand": null,
+"price": 1.55,
+"size": [
+28.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/crushed-tomatoes/p11237331",
+"price_range": [
+1.49,
+1.75
+],
+"unit": "$ 0.06 per oz.",
+"read_at": "2026-10-18T04:15:14Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-B660507"
+],
+"ou_names": [
+"Lidl | Crushed Tomatoes"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl crushed tomatoes"
+}
+},
+{
+"chain": "lidl",
+"type": "crushed_tom",
+"name": "Italiamo crushed tomatoes chunky passata 24.6 oz.",
+"brand": "ITALIAMO",
+"price": 2.99,
+"size": [
+24.6,
+"oz"
+],
+"url": "https://www.lidl.com/p/italiamo-crushed-tomatoes-chunky-passata/p11238387",
+"price_range": [
+2.99,
+3.39
+],
+"unit": "$ 0.12 per oz.",
+"read_at": "2026-10-18T04:15:14Z",
+"in_store_only": true,
+"own_brand": "Italiamo",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl crushed tomatoes chunky passata | Lidl crushed tomatoes"
+}
+},
+{
+"chain": "lidl",
+"type": "diced_tom",
+"name": "ITALIAMO diced tomatoes 14.1 oz.",
+"brand": "ITALIAMO",
+"price": 1.49,
+"size": [
+14.1,
+"oz"
+],
+"url": "https://www.lidl.com/p/italiamo-diced-tomatoes/p11675467",
+"price_range": [
+1.49,
+1.69
+],
+"unit": "$ 0.11 per oz.",
+"read_at": "2026-10-18T04:15:16Z",
+"in_store_only": true,
+"own_brand": "Italiamo",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-BAF417D"
+],
+"ou_names": [
+"Lidl | Diced Tomatoes"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl diced tomatoes"
+}
+},
+{
+"chain": "lidl",
+"type": "diced_tom",
+"name": "diced tomatoes 28 oz.",
+"brand": null,
+"price": 1.65,
+"size": [
+28.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/diced-tomatoes/p11240557",
+"price_range": [
+1.65,
+1.89
+],
+"unit": "$ 0.06 per oz.",
+"read_at": "2026-10-18T04:15:16Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-BAF417D"
+],
+"ou_names": [
+"Lidl | Diced Tomatoes"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl diced tomatoes"
+}
+},
+{
+"chain": "lidl",
+"type": "diced_tom",
+"name": "diced tomatoes 14.5 oz.",
+"brand": null,
+"price": 0.9,
+"size": [
+14.5,
+"oz"
+],
+"url": "https://www.lidl.com/p/diced-tomatoes/p11245804",
+"price_range": [
+0.82,
+1.05
+],
+"unit": "$ 0.06 per oz.",
+"read_at": "2026-10-18T04:15:16Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-BAF417D"
+],
+"ou_names": [
+"Lidl | Diced Tomatoes"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl diced tomatoes"
+}
+},
+{
+"chain": "lidl",
+"type": "chickpeas",
+"name": "Eridanous chickpeas in sauce 9.8 oz.",
+"brand": "ERIDANOUS",
+"price": 2.49,
+"size": [
+9.8,
+"oz"
+],
+"url": "https://www.lidl.com/p/eridanous-chickpeas-in-sauce/p11676338",
+"price_range": [
+2.49,
+2.49
+],
+"unit": "$ 0.25 per oz.",
+"read_at": "2026-10-18T04:15:17Z",
+"in_store_only": true,
+"own_brand": "Eridanous",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl chickpeas in sauce | Lidl chickpeas"
+}
+},
+{
+"chain": "lidl",
+"type": "chickpeas",
+"name": "garbanzo beans chick peas 15.5 oz.",
+"brand": null,
+"price": 0.85,
+"size": [
+15.5,
+"oz"
+],
+"url": "https://www.lidl.com/p/garbanzo-beans-chick-peas/p11237865",
+"price_range": [
+0.85,
+0.96
+],
+"unit": "$ 0.05 per oz.",
+"read_at": "2026-10-18T04:15:17Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl garbanzo beans chick peas | Lidl chickpeas"
+}
+},
+{
+"chain": "lidl",
+"type": "corn_can",
+"name": "whole kernel sweet corn 8.5 oz.",
+"brand": null,
+"price": 0.68,
+"size": [
+8.5,
+"oz"
+],
+"url": "https://www.lidl.com/p/whole-kernel-sweet-corn/p11248180",
+"price_range": [
+0.68,
+0.77
+],
+"unit": "$ 0.08 per oz.",
+"read_at": "2026-10-18T04:15:19Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DEAOJZ1",
+"OUV7-AITGFNA",
+"OUV7-6KBKGSW"
+],
+"ou_names": [
+"Lidl | Whole Kernel Corn",
+"Lidl | Whole Kernel Sweet Corn 15.25oz",
+"Lidl | Whole Kernel Sweet Corn 8.5oz"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl whole kernel sweet corn"
+}
+},
+{
+"chain": "lidl",
+"type": "corn_can",
+"name": "whole kernel super sweet corn 15.25 oz.",
+"brand": null,
+"price": 0.83,
+"size": [
+15.25,
+"oz"
+],
+"url": "https://www.lidl.com/p/whole-kernel-super-sweet-corn/p11238028",
+"price_range": [
+0.83,
+0.94
+],
+"unit": "$ 0.05 per oz.",
+"read_at": "2026-10-18T04:15:19Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DEAOJZ1",
+"OUV7-AITGFNA",
+"OUV7-6KBKGSW"
+],
+"ou_names": [
+"Lidl | Whole Kernel Corn",
+"Lidl | Whole Kernel Sweet Corn 15.25oz",
+"Lidl | Whole Kernel Sweet Corn 8.5oz"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl whole kernel super sweet corn"
+}
+},
+{
+"chain": "lidl",
+"type": "pineapple",
+"name": "pineapple chunks in juice 20 oz.",
+"brand": null,
+"price": 1.65,
+"size": [
+20.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/pineapple-chunks-in-juice/p11237287",
+"price_range": [
+1.65,
+1.89
+],
+"unit": "$ 0.08 per oz.",
+"read_at": "2026-10-18T04:15:21Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl pineapple chunks in juice | Lidl pineapple chunks"
+}
+},
+{
+"chain": "lidl",
+"type": "applesauce",
+"name": "original applesauce 48 oz.",
+"brand": null,
+"price": 3.59,
+"size": [
+48.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/original-applesauce/p11238458",
+"price_range": [
+3.59,
+4.09
+],
+"unit": "$ 0.07 per oz.",
+"read_at": "2026-10-18T04:15:24Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-AS5DZFT",
+"OUV7-LODJDEC",
+"OUV7-BOEWRYK",
+"OUV7-HBATDFQ"
+],
+"ou_names": [
+"Lidl | 48 oz. Original Applesauce",
+"Lidl | 6/4 oz. Original Applesauce",
+"by Lidl | LIDL - ORIGINAL  APPLESAUCE",
+"by Lidl | LIDL - ORIGINAL APPLESAUCE"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl original applesauce"
+}
+},
+{
+"chain": "lidl",
+"type": "apple_juice",
+"name": "Solevita 100% apple juice 64 fl.oz.",
+"brand": "Solevita",
+"price": 1.85,
+"size": [
+64.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/solevita-100-apple-juice/p11240426",
+"price_range": [
+1.85,
+2.09
+],
+"unit": "$ 0.03 per fl.oz.",
+"read_at": "2026-10-18T04:15:27Z",
+"in_store_only": true,
+"own_brand": "Solevita",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl 100% apple juice | Lidl apple juice"
+}
+},
+{
+"chain": "lidl",
+"type": "chips_plain",
+"name": "Snack Day original potato chips 10 oz.",
+"brand": "SNACK DAY",
+"price": 1.79,
+"size": [
+10.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/snack-day-original-potato-chips/p11237391",
+"price_range": [
+1.79,
+2.05
+],
+"unit": "$ 0.18 per oz.",
+"read_at": "2026-10-18T04:15:29Z",
+"in_store_only": true,
+"own_brand": "Snack Day",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-E8IVNXT"
+],
+"ou_names": [
+"Snack Day by Lidl | Original Classic Potato Chips"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl original potato chips"
+}
+},
+{
+"chain": "lidl",
+"type": "salt",
+"name": "iodized salt 26 oz.",
+"brand": null,
+"price": 0.67,
+"size": [
+26.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/iodized-salt/p11240402",
+"price_range": [
+0.67,
+0.76
+],
+"unit": "$ 0.03 per oz.",
+"read_at": "2026-10-18T04:15:34Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl iodized salt | Lidl iodized salt"
+}
+},
+{
+"chain": "lidl",
+"type": "baking_soda",
+"name": "pure baking soda 16 oz.",
+"brand": null,
+"price": 0.98,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/pure-baking-soda/p11240272",
+"price_range": [
+0.89,
+1.09
+],
+"unit": "$ 0.06 per oz.",
+"read_at": "2026-10-18T04:15:35Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUW7-630A6F1"
+],
+"ou_names": [
+"Lidl | Baking Soda"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"Y"
+],
+"status": [
+"Symbol required. Kosher for Passover without special certification."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl pure baking soda"
+}
+},
+{
+"chain": "lidl",
+"type": "baking_powder",
+"name": "baking powder 5.3 oz.",
+"brand": null,
+"price": 1.29,
+"size": [
+5.3,
+"oz"
+],
+"url": "https://www.lidl.com/p/baking-powder/p11237890",
+"price_range": [
+1.29,
+1.49
+],
+"unit": "$ 0.24 per oz.",
+"read_at": "2026-10-18T04:15:37Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl baking powder | Lidl baking powder"
+}
+},
+{
+"chain": "lidl",
+"type": "bread_crumbs",
+"name": "bread crumbs, plain 15 oz.",
+"brand": null,
+"price": 1.25,
+"size": [
+15.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/bread-crumbs-plain/p11238988",
+"price_range": [
+1.25,
+1.39
+],
+"unit": "$ 0.08 per oz.",
+"read_at": "2026-10-18T04:15:38Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl bread crumbs, plain | Lidl plain bread crumbs"
+}
+},
+{
+"chain": "lidl",
+"type": "panko",
+"name": "plain panko bread crumbs, Japanese style 8 oz.",
+"brand": null,
+"price": 1.85,
+"size": [
+8.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/plain-panko-bread-crumbs-japanese-style/p11675069",
+"price_range": [
+1.25,
+2.09
+],
+"unit": "$ 0.23 per oz.",
+"read_at": "2026-10-18T04:15:40Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl plain panko bread crumbs, Japanese style | Lidl panko bread crumbs"
+}
+},
+{
+"chain": "lidl",
+"type": "vanilla",
+"name": "pure vanilla extract 2 fl.oz.",
+"brand": null,
+"price": 3.65,
+"size": [
+2.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/pure-vanilla-extract/p11240606",
+"price_range": [
+3.29,
+4.15
+],
+"unit": "$ 1.83 per fl.oz.",
+"read_at": "2026-10-18T04:15:42Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Lidl pure vanilla extract | Lidl pure vanilla extract"
+}
+},
+{
+"chain": "lidl",
+"type": "cinnamon",
+"name": "LIDL ground cinnamon 1.52 oz.",
+"brand": "LIDL",
+"price": 0.99,
+"size": [
+1.52,
+"oz"
+],
+"url": "https://www.lidl.com/p/lidl-ground-cinnamon/p11237215",
+"price_range": [
+0.99,
+1.09
+],
+"unit": "$ 0.65 per oz.",
+"read_at": "2026-10-18T04:15:43Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-7AF7F7E"
+],
+"ou_names": [
+"Lidl | Cinnamon Ground"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl ground cinnamon"
+}
+},
+{
+"chain": "lidl",
+"type": "cinnamon",
+"name": "ground cinnamon 1.41 oz.",
+"brand": null,
+"price": 0.99,
+"size": [
+1.41,
+"oz"
+],
+"url": "https://www.lidl.com/p/ground-cinnamon/p11242845",
+"price_range": [
+0.99,
+1.15
+],
+"unit": "$ 0.70 per oz.",
+"read_at": "2026-10-18T04:15:43Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-7AF7F7E"
+],
+"ou_names": [
+"Lidl | Cinnamon Ground"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Lidl US, LLC"
+],
+"query": "Lidl ground cinnamon"
+}
+},
+{
+"chain": "lidl",
+"type": "dish_soap",
+"name": "liquid dish soap 25 fl.oz.",
+"brand": null,
+"price": 3.99,
+"size": [
+25.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/liquid-dish-soap/p11673940",
+"price_range": [
+3.99,
+4.49
+],
+"unit": "$ 0.16 per fl.oz.",
+"read_at": "2026-10-18T04:15:50Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "lidl",
+"type": "bleach",
+"name": "concentrated bleach, 7.5% 81 fl.oz.",
+"brand": null,
+"price": 4.29,
+"size": [
+81.0,
+"oz"
+],
+"url": "https://www.lidl.com/p/concentrated-bleach-7-5/p11246105",
+"price_range": [
+3.95,
+4.85
+],
+"unit": "$ 0.05 per fl.oz.",
+"read_at": "2026-10-18T04:15:52Z",
+"in_store_only": true,
+"own_brand": "Lidl",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "aldi",
+"type": "ketchup",
+"name": "Burman's Tomato Ketchup 38 oz",
+"brand": "Burman's",
+"price": 1.95,
+"size": [
+38.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/20761645-burman-s-ketchup-38-oz",
+"read_at": "2026-10-18T04:19:13.124Z",
+"slug": "burman s ketchup 38 oz",
+"sale": false,
+"own_brand": "Burman's",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-2861096",
+"OUV7-XECGPVP"
+],
+"ou_names": [
+"Burman's | Tomato Ketchup"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Burman's Tomato Ketchup"
+}
+},
+{
+"chain": "aldi",
+"type": "mayo",
+"name": "Burman's Real Mayonnaise 30 fl oz",
+"brand": "Burman's",
+"price": 3.19,
+"size": [
+30.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/19283303-burman-s-real-mayonnaise-30-fl-oz",
+"read_at": "2026-10-18T04:19:18.810Z",
+"slug": "burman s real mayonnaise 30 fl oz",
+"sale": false,
+"own_brand": "Burman's",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-60B0FA5",
+"OUV7-E5D55BB",
+"OUV7-E589815",
+"OUV7-BOB6TIL"
+],
+"ou_names": [
+"Burman's | Real Mayonnaise"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Burman's Real Mayonnaise 30 fl oz"
+}
+},
+{
+"chain": "aldi",
+"type": "canola_oil",
+"name": "Carlini Pure Canola Oil 48 fl oz",
+"brand": "Carlini",
+"price": 4.15,
+"size": [
+48.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/20047404-carlini-canola-oil-48-fl-oz",
+"read_at": "2026-10-18T04:19:24.504Z",
+"slug": "carlini canola oil 48 fl oz",
+"sale": false,
+"own_brand": "Carlini",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-D4D5A42",
+"OUV7-9EE9B5C",
+"OUV7-76144CA",
+"OUV7-E5262DC"
+],
+"ou_names": [
+"Carlini | Canola Oil",
+"Carlini | Pure Canola Oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Carlini Pure Canola Oil 48 fl oz"
+}
+},
+{
+"chain": "aldi",
+"type": "vegetable_oil",
+"name": "Carlini Pure Vegetable Oil 48 fl oz",
+"brand": "Carlini",
+"price": 3.65,
+"size": [
+48.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/20027984-carlini-vegetable-oil-48-fl-oz",
+"read_at": "2026-10-18T04:19:30.449Z",
+"slug": "carlini vegetable oil 48 fl oz",
+"sale": false,
+"own_brand": "Carlini",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-7SSY6QT",
+"OUV7-0C2EE4B",
+"OUV7-8CB366A",
+"OUV7-AA048CB",
+"OUV7-4953F0F",
+"OUV7-9B195D2",
+"OUV7-A2D8E23",
+"OUV7-435B820"
+],
+"ou_names": [
+"Carlini | Carlini Pure Vegetable OIl",
+"Carlini | Pure Vegetable Oil",
+"Carlini | Vegetable Oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Carlini Pure Vegetable Oil 48 fl oz"
+}
+},
+{
+"chain": "aldi",
+"type": "olive_oil",
+"name": "Priano Extra Virgin Olive Oil 33.8 fl oz",
+"brand": "Priano",
+"price": 10.99,
+"size": [
+33.8,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/117654038-priano-extra-virgin-olive-oil-33-8-fl-oz",
+"read_at": "2026-10-18T04:19:36.319Z",
+"slug": "priano extra virgin olive oil 33 8 fl oz",
+"sale": true,
+"was": 12.75,
+"own_brand": "Priano",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Priano Extra Virgin Olive Oil 33.8 fl oz | Priano extra virgin olive oil"
+}
+},
+{
+"chain": "aldi",
+"type": "sugar",
+"name": "Baker's Corner Granulated Sugar 4 lb",
+"brand": "Baker's Corner",
+"price": 2.99,
+"size": [
+64.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/17498770-baker-s-corner-granulated-sugar-4-lb",
+"read_at": "2026-10-18T04:19:42.359Z",
+"slug": "baker s corner granulated sugar 4 lb",
+"sale": true,
+"was": 3.19,
+"own_brand": "Baker's Corner",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Baker's Corner Granulated Sugar | Baker's Corner granulated sugar"
+}
+},
+{
+"chain": "aldi",
+"type": "brown_sugar",
+"name": "Baker's Corner Light Brown Sugar 32 oz",
+"brand": "Baker's Corner",
+"price": 1.75,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/18647602-baker-s-corner-light-brown-sugar-32-oz",
+"read_at": "2026-10-18T04:19:48.330Z",
+"slug": "baker s corner light brown sugar 32 oz",
+"sale": false,
+"own_brand": "Baker's Corner",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Baker's Corner Light Brown Sugar | Baker's Corner brown sugar"
+}
+},
+{
+"chain": "aldi",
+"type": "brown_sugar",
+"name": "Dakota's Pride Brown Sugar & Hickory Baked Beans 28 oz",
+"brand": "Dakota's Pride",
+"price": 2.19,
+"size": [
+28.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/47203559-dakota-s-pride-brown-sugar-hickory-bean-28-oz",
+"read_at": "2026-10-18T04:19:48.330Z",
+"slug": "dakota s pride brown sugar hickory bean 28 oz",
+"sale": false,
+"own_brand": "Dakota's Pride",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Dakota's Pride Brown Sugar & Hickory Baked Beans | Dakota's Pride brown sugar"
+}
+},
+{
+"chain": "aldi",
+"type": "powdered_sugar",
+"name": "Baker's Corner Powdered Sugar 2 lb",
+"brand": "Baker's Corner",
+"price": 1.75,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/18647641-baker-s-corner-confectioners-sugar-32-oz",
+"read_at": "2026-10-18T04:19:53.849Z",
+"slug": "baker s corner confectioners sugar 32 oz",
+"sale": false,
+"own_brand": "Baker's Corner",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Baker's Corner Powdered Sugar | Baker's Corner powdered sugar"
+}
+},
+{
+"chain": "aldi",
+"type": "flour",
+"name": "Baker's Corner All Purpose Flour 5 lb",
+"brand": "Baker's Corner",
+"price": 2.05,
+"size": [
+80.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/18648338-baker-s-corner-all-purpose-flour-5-lb",
+"read_at": "2026-10-18T04:19:59.583Z",
+"slug": "baker s corner all purpose flour 5 lb",
+"sale": true,
+"was": 2.15,
+"own_brand": "Baker's Corner",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-B9554BD"
+],
+"ou_names": [
+"Baker's Corner | All Purpose Flour"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Baker's Corner All Purpose Flour"
+}
+},
+{
+"chain": "aldi",
+"type": "elbows",
+"name": "Reggano Family Size Elbow Macaroni 32 oz",
+"brand": "Reggano",
+"price": 2.09,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/19719380-reggano-enriched-macaroni-product-elbow-32-oz",
+"read_at": "2026-10-18T04:20:48.887Z",
+"slug": "reggano enriched macaroni product elbow 32 oz",
+"sale": false,
+"own_brand": "Reggano",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-QB4S7S3",
+"OUV7-629CB62",
+"OUV7-A19B970",
+"OUV7-EGL2YBO",
+"OUV7-H6EO4I2",
+"OUV7-F734EB2",
+"OUV7-44DC836",
+"OUV7-VJ9OQMP"
+],
+"ou_names": [
+"Reggano | Elbow Macaroni",
+"Reggano | Elbow Macaroni Macaroni Product 32 Oz",
+"Reggano | Elbows"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Reggano Family Size Elbow Macaroni"
+}
+},
+{
+"chain": "aldi",
+"type": "rice_long",
+"name": "Earthly Grains Gluten Free Enriched Long Grain White Rice 48 oz",
+"brand": "Earthly Grains",
+"price": 2.35,
+"size": [
+48.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/20968019-earthly-grains-long-grain-white-rice-3-lb",
+"read_at": "2026-10-18T04:20:54.415Z",
+"slug": "earthly grains long grain white rice 3 lb",
+"sale": false,
+"own_brand": "Earthly Grains",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Earthly Grains Gluten Free Enriched Long Grain White Rice | Earthly Grains long grain white rice"
+}
+},
+{
+"chain": "aldi",
+"type": "rice_long",
+"name": "Earthly Grains Microwavable Long Grain White Rice 8.8 oz",
+"brand": "Earthly Grains",
+"price": 1.45,
+"size": [
+8.8,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/60949471-long-grain-white-ready-to-serve-rice",
+"read_at": "2026-10-18T04:20:54.415Z",
+"slug": "long grain white ready to serve rice",
+"sale": false,
+"own_brand": "Earthly Grains",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Earthly Grains Microwavable Long Grain White Rice | Earthly Grains long grain white rice"
+}
+},
+{
+"chain": "aldi",
+"type": "rice_jasmine",
+"name": "Earthly Grains Thai Fragrant Long Grain Jasmine Rice 80 oz",
+"brand": "Earthly Grains",
+"price": 6.79,
+"size": [
+80.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/36513525-earthly-grains-jasmine-rice-5-lb",
+"read_at": "2026-10-18T04:20:59.953Z",
+"slug": "earthly grains jasmine rice 5 lb",
+"sale": false,
+"own_brand": "Earthly Grains",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Earthly Grains Thai Fragrant Long Grain Jasmine Rice | Earthly Grains jasmine rice"
+}
+},
+{
+"chain": "aldi",
+"type": "rice_basmati",
+"name": "Earthly Grains Microwavable White Basmati Rice 8.8 oz",
+"brand": "Earthly Grains",
+"price": 1.45,
+"size": [
+8.8,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/60949742-basmati-ready-to-serve-rice",
+"read_at": "2026-10-18T04:21:06.345Z",
+"slug": "basmati ready to serve rice",
+"sale": false,
+"own_brand": "Earthly Grains",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Earthly Grains Microwavable White Basmati Rice | Earthly Grains basmati rice"
+}
+},
+{
+"chain": "aldi",
+"type": "oats",
+"name": "Millville Old Fashioned Rolled Oats 42 oz",
+"brand": "Millville",
+"price": 3.85,
+"size": [
+42.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/18647728-millville-hearty-100-whole-grain-old-fashioned-rolled-oats-42-oz",
+"read_at": "2026-10-18T04:21:11.939Z",
+"slug": "millville hearty 100 whole grain old fashioned rolled oats 42 oz",
+"sale": false,
+"own_brand": "Millville",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Millville Old Fashioned Rolled Oats | Millville old fashioned oats"
+}
+},
+{
+"chain": "aldi",
+"type": "quick_oats",
+"name": "Millville Quick Oats 42 oz",
+"brand": "Millville",
+"price": 3.85,
+"size": [
+42.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/18647768-millville-rolled-oats-42-oz",
+"read_at": "2026-10-18T04:21:17.708Z",
+"slug": "millville rolled oats 42 oz",
+"sale": false,
+"own_brand": "Millville",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Millville Quick Oats | Millville quick oats"
+}
+},
+{
+"chain": "aldi",
+"type": "corn_flakes",
+"name": "Millville Corn Flakes 18 oz",
+"brand": "Millville",
+"price": 2.15,
+"size": [
+18.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/19867765-millville-corn-flakes-18-oz",
+"read_at": "2026-10-18T04:21:23.506Z",
+"slug": "millville corn flakes 18 oz",
+"sale": true,
+"was": 2.49,
+"own_brand": "Millville",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DFB6E19"
+],
+"ou_names": [
+"Millville | Corn Flakes"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover. Yoshon with Best Before date (or earlier) of 9/15/2026 (when Containing Oats). If Product Contains Wheat, It Is Winter Wheat. (Malt TBD)"
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Millville Corn Flakes"
+}
+},
+{
+"chain": "aldi",
+"type": "crisp_rice",
+"name": "Millville Crispy Rice Cereal 12 oz",
+"brand": "Millville",
+"price": 2.15,
+"size": [
+12.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/19607732-millville-toasted-crispy-rice-cereal-12-oz",
+"read_at": "2026-10-18T04:21:35.310Z",
+"slug": "millville toasted crispy rice cereal 12 oz",
+"sale": false,
+"own_brand": "Millville",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-12523D0"
+],
+"ou_names": [
+"Millville | Crispy Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover. Yoshon with Best Before date (or earlier) of 9/15/2026 (when Containing Oats). If Product Contains Wheat, It Is Winter Wheat. (Malt TBD)"
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Millville Crispy Rice Cereal"
+}
+},
+{
+"chain": "aldi",
+"type": "tomato_sauce",
+"name": "Happy Harvest Tomato Sauce 8 oz",
+"brand": "Happy Harvest",
+"price": 0.55,
+"size": [
+8.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/20739259-happy-harvest-tomato-sauce-8-oz",
+"read_at": "2026-10-18T04:22:28.273Z",
+"slug": "happy harvest tomato sauce 8 oz",
+"sale": false,
+"own_brand": "Happy Harvest",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DCF8BD5"
+],
+"ou_names": [
+"Happy Harvest | Tomato Sauce"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Happy Harvest Tomato Sauce"
+}
+},
+{
+"chain": "aldi",
+"type": "tomato_paste",
+"name": "Happy Harvest Tomato Paste 6 oz",
+"brand": "Happy Harvest",
+"price": 0.95,
+"size": [
+6.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/18648118-happy-harvest-tomato-paste-6-oz",
+"read_at": "2026-10-18T04:22:34.315Z",
+"slug": "happy harvest tomato paste 6 oz",
+"sale": false,
+"own_brand": "Happy Harvest",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-EA49B4F"
+],
+"ou_names": [
+"Happy Harvest | Tomato Paste"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Happy Harvest Tomato Paste"
+}
+},
+{
+"chain": "aldi",
+"type": "crushed_tom",
+"name": "Happy Harvest Crushed Tomatoes 28 oz",
+"brand": "Happy Harvest",
+"price": 1.65,
+"size": [
+28.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/18648732-happy-harvest-crushed-tomatoes-28-oz",
+"read_at": "2026-10-18T04:22:40.396Z",
+"slug": "happy harvest crushed tomatoes 28 oz",
+"sale": false,
+"own_brand": "Happy Harvest",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-6A3D702"
+],
+"ou_names": [
+"Happy Harvest | Crushed Tomatoes"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Happy Harvest Crushed Tomatoes"
+}
+},
+{
+"chain": "aldi",
+"type": "diced_tom",
+"name": "Happy Harvest Diced Tomatoes 14.5 oz",
+"brand": "Happy Harvest",
+"price": 0.95,
+"size": [
+14.5,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/20752467-happy-harvest-diced-tomatoes-14-5-oz",
+"read_at": "2026-10-18T04:22:46.059Z",
+"slug": "happy harvest diced tomatoes 14 5 oz",
+"sale": false,
+"own_brand": "Happy Harvest",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-5CDFC9D",
+"OUV7-BB70529"
+],
+"ou_names": [
+"Happy Harvest | Diced Tomatoes"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Happy Harvest Diced Tomatoes"
+}
+},
+{
+"chain": "aldi",
+"type": "chickpeas",
+"name": "Aldi Chickpeas 15.5 oz",
+"brand": "Aldi",
+"price": 0.95,
+"size": [
+15.5,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/128145981-aldi-garbanzo-beans-155-oz",
+"read_at": "2026-10-18T04:22:52.105Z",
+"slug": "aldi garbanzo beans 155 oz",
+"sale": false,
+"own_brand": "Aldi",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Aldi Chickpeas | Aldi chickpeas"
+}
+},
+{
+"chain": "aldi",
+"type": "corn_can",
+"name": "Happy Harvest Canned Whole Kernel Golden Sweet Corn 15.25 oz",
+"brand": "Happy Harvest",
+"price": 0.55,
+"size": [
+15.25,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/20363173-happy-harvest-whole-kernel-corn-15-25-oz",
+"read_at": "2026-10-18T04:22:57.610Z",
+"slug": "happy harvest whole kernel corn 15 25 oz",
+"sale": true,
+"was": 0.95,
+"own_brand": "Happy Harvest",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DIJBA48"
+],
+"ou_names": [
+"Happy Harvest | Whole Kernel Corn"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Happy Harvest Canned Whole Kernel Golden Sweet Corn"
+}
+},
+{
+"chain": "aldi",
+"type": "pineapple",
+"name": "Sweet Harvest Pineapple Chunks in Pineapple Juice 20 oz",
+"brand": "Sweet Harvest",
+"price": 1.75,
+"size": [
+20.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/112513-sweet-harvest-pineapple-chunks-in-100-juice-20-oz",
+"read_at": "2026-10-18T04:23:03.068Z",
+"slug": "sweet harvest pineapple chunks in 100 juice 20 oz",
+"sale": true,
+"was": 1.85,
+"own_brand": "Sweet Harvest",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Sweet Harvest Pineapple Chunks in Pineapple Juice | Sweet Harvest pineapple chunks"
+}
+},
+{
+"chain": "aldi",
+"type": "applesauce",
+"name": "Sweet Harvest Original Applesauce 24 oz",
+"brand": "Sweet Harvest",
+"price": 3.09,
+"size": [
+24.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/18647697-sweet-harvest-original-applesauce-24-oz",
+"read_at": "2026-10-18T04:23:14.494Z",
+"slug": "sweet harvest original applesauce 24 oz",
+"sale": false,
+"own_brand": "Sweet Harvest",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-EC19190"
+],
+"ou_names": [
+"Sweet Harvest | Original Applesauce"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Sweet Harvest Original Applesauce"
+}
+},
+{
+"chain": "aldi",
+"type": "apple_juice",
+"name": "Nature's Nectar 100% Apple Juice 64 fl oz",
+"brand": "Nature's Nectar",
+"price": 2.05,
+"size": [
+64.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/20324471-nature-s-nectar-100-apple-juice-64-fl-oz",
+"read_at": "2026-10-18T04:23:26.628Z",
+"slug": "nature s nectar 100 apple juice 64 fl oz",
+"sale": false,
+"own_brand": "Nature's Nectar",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-4813267",
+"OUV7-AKUMHW2",
+"OUV7-FCZT8XT",
+"OUV7-9269E87",
+"OUV7-054D3D2"
+],
+"ou_names": [
+"Nature's Nectar | 100% APPLE JUICE",
+"Nature's Nectar | 100% Apple Juice",
+"Nature's Nectar | Apple Juice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Nature's Nectar 100% Apple Juice 64 fl oz"
+}
+},
+{
+"chain": "aldi",
+"type": "tortilla_chips",
+"name": "Clancy's Restaurant Style Tortilla Chips 13 oz",
+"brand": "Clancy's",
+"price": 2.19,
+"size": [
+13.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/18648712-clancy-s-restaurant-style-tortilla-chips-13-oz",
+"read_at": "2026-10-18T04:24:07.976Z",
+"slug": "clancy s restaurant style tortilla chips 13 oz",
+"sale": false,
+"own_brand": "Clancy's",
+"k": {
+"ok": false,
+"why": "not plain OU pareve: ['Dairy Equipment', 'Pareve'] ['OU', 'OU-DE']",
+"agency": "OU",
+"ids": [
+"OUD7-B609A5F",
+"OUD7-N5AWQSJ",
+"OUV7-JHUSDW6",
+"OUV7-M9LI262"
+],
+"ou_names": [
+"Clancy's | Restaurant Style Tortilla Chips"
+],
+"dpm": [
+"Dairy Equipment",
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU",
+"OU-DE"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Clancy's Restaurant Style Tortilla Chips"
+}
+},
+{
+"chain": "aldi",
+"type": "tortilla_chips",
+"name": "Clancy's Bite Size Round Tortilla Chips 13 oz",
+"brand": "Clancy's",
+"price": 2.19,
+"size": [
+13.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/28033104-clancy-s-white-round-tortilla-chips-13-oz",
+"read_at": "2026-10-18T04:24:07.976Z",
+"slug": "clancy s white round tortilla chips 13 oz",
+"sale": false,
+"own_brand": "Clancy's",
+"k": {
+"ok": false,
+"why": "not plain OU pareve: ['Dairy Equipment', 'Pareve'] ['OU', 'OU-DE']",
+"agency": "OU",
+"ids": [
+"OUV7-G9E3LK8",
+"OUD7-56G0UPX",
+"OUD7-H2JSSAP",
+"OUV7-HC18TAX",
+"OUV7-EZ7RAN7"
+],
+"ou_names": [
+"Clancy's | Bite Size Round Tortilla Chips",
+"Clancy's | Bite Size Rounds Tortilla Chips",
+"Clancy's | Bite Size White Round Tortilla Chips"
+],
+"dpm": [
+"Dairy Equipment",
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU",
+"OU-DE"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Clancy's Bite Size Round Tortilla Chips"
+}
+},
+{
+"chain": "aldi",
+"type": "tortilla_chips",
+"name": "Clancy's Protein Tortilla Chips, Southwest Queso 5 oz",
+"brand": "Clancy's",
+"price": 4.39,
+"size": [
+5.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/125570318-clancys-protein-southwest-queso-tortilla-chips-5-oz",
+"read_at": "2026-10-18T04:24:07.976Z",
+"slug": "clancys protein southwest queso tortilla chips 5 oz",
+"sale": false,
+"own_brand": "Clancy's",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Clancy's Protein Tortilla Chips, Southwest Queso | Clancy's restaurant style tortilla chips"
+}
+},
+{
+"chain": "aldi",
+"type": "salt",
+"name": "Stonemill Iodized Salt 26 oz",
+"brand": "Stonemill",
+"price": 0.75,
+"size": [
+26.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/18647588-stonemill-iodized-salt-26-oz",
+"read_at": "2026-10-18T04:24:13.498Z",
+"slug": "stonemill iodized salt 26 oz",
+"sale": false,
+"own_brand": "Stonemill",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Stonemill Iodized Salt | Stonemill iodized salt"
+}
+},
+{
+"chain": "aldi",
+"type": "baking_soda",
+"name": "Baker's Corner Baking Soda 16 oz",
+"brand": "Baker's Corner",
+"price": 0.99,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/20138192-baker-s-corner-baking-soda-16-oz",
+"read_at": "2026-10-18T04:24:19.214Z",
+"slug": "baker s corner baking soda 16 oz",
+"sale": false,
+"own_brand": "Baker's Corner",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Baker's Corner Baking Soda | Baker's Corner baking soda"
+}
+},
+{
+"chain": "aldi",
+"type": "baking_powder",
+"name": "Baker's Corner Baking Powder 8.1 oz",
+"brand": "Baker's Corner",
+"price": 2.05,
+"size": [
+8.1,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/21236532-baker-s-corner-baking-powder-8-1-oz",
+"read_at": "2026-10-18T04:24:24.663Z",
+"slug": "baker s corner baking powder 8 1 oz",
+"sale": true,
+"was": 2.15,
+"own_brand": "Baker's Corner",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Baker's Corner Baking Powder | Baker's Corner baking powder"
+}
+},
+{
+"chain": "aldi",
+"type": "bread_crumbs",
+"name": "Chefs' Cupboard Plain Bread Crumbs 15 oz",
+"brand": "Chef's Cupboard",
+"price": 1.39,
+"size": [
+15.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/21200885-chef-s-cupboard-plain-breadcrumbs-15-oz",
+"read_at": "2026-10-18T04:24:30.314Z",
+"slug": "chef s cupboard plain breadcrumbs 15 oz",
+"sale": false,
+"own_brand": "Chef's Cupboard",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Chef's Cupboard Chefs' Cupboard Plain Bread Crumbs | Chef's Cupboard plain bread crumbs"
+}
+},
+{
+"chain": "aldi",
+"type": "vanilla",
+"name": "Stonemill Gluten Free Pure Vanilla Extract 2 fl oz",
+"brand": "Stonemill",
+"price": 3.85,
+"size": [
+2.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/18647903-stonemill-pure-vanilla-extract-vanilla-2-fl-oz",
+"read_at": "2026-10-18T04:24:42.190Z",
+"slug": "stonemill pure vanilla extract vanilla 2 fl oz",
+"sale": false,
+"own_brand": "Stonemill",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Stonemill Gluten Free Pure Vanilla Extract 2 fl oz | Stonemill pure vanilla extract"
+}
+},
+{
+"chain": "aldi",
+"type": "cinnamon",
+"name": "Stonemill Ground Cinnamon 2.4 oz",
+"brand": "Stonemill",
+"price": 1.09,
+"size": [
+2.4,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/129291410-stonemill-cinnamon-1-each",
+"read_at": "2026-10-18T04:24:47.821Z",
+"slug": "stonemill cinnamon 1 each",
+"sale": false,
+"own_brand": "Stonemill",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-7477985",
+"OUV7-WABRCW9",
+"OUV7-1C02CB7",
+"OUV7-4AR2T4D",
+"OUV7-KM3JSIQ"
+],
+"ou_names": [
+"Stonemill Essentials | Cinnamon Ground",
+"Stonemill Essentials | Ground Cinnamon",
+"Stonemill | GROUND CINNAMON",
+"Stonemill | Ground Cinnamon"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Aldi Inc."
+],
+"query": "Stonemill Ground Cinnamon"
+}
+},
+{
+"chain": "aldi",
+"type": "bleach",
+"name": "Tandil Concentrated Disinfecting Bleach 121 oz",
+"brand": "Tandil",
+"price": 6.45,
+"size": [
+121.0,
+"oz"
+],
+"url": "https://www.aldi.us/store/aldi/products/128146330-tandil-75-percent-bleach-121-oz",
+"read_at": "2026-10-18T04:25:42.490Z",
+"slug": "tandil 75 percent bleach 121 oz",
+"sale": false,
+"own_brand": "Tandil",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "aldi",
+"type": "zip_gallon",
+"name": "Boulder Smooth Slide Gallon Storage Bags - 30 Bags 30 ct",
+"brand": "Boulder",
+"price": 3.19,
+"size": [
+30.0,
+"ct"
+],
+"url": "https://www.aldi.us/store/aldi/products/28032943-boulder-gallon-storage-slider-bag-30-ct",
+"read_at": "2026-10-18T04:25:53.647Z",
+"slug": "boulder gallon storage slider bag 30 ct",
+"sale": false,
+"own_brand": "Boulder",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "ketchup",
+"name": "Great Value Tomato Ketchup, 38 oz",
+"brand": null,
+"price": 1.97,
+"size": [
+38.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Tomato-Ketchup-38-oz/44391309",
+"price_range": null,
+"unit": "82.9 \u00a2/lb",
+"read_at": "2026-10-18T04:16:41.706Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DE41DDC",
+"OUV7-O9VRYNS",
+"OUV7-909FE8A"
+],
+"ou_names": [
+"Great Value | Ketchup 50/50",
+"Great Value | Tomato Ketchup"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Tomato Ketchup"
+}
+},
+{
+"chain": "walmart",
+"type": "ketchup",
+"name": "Great Value Tomato Ketchup, 64 oz",
+"brand": null,
+"price": 3.34,
+"size": [
+64.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Tomato-Ketchup-64-oz/10533323",
+"price_range": null,
+"unit": "83.5 \u00a2/lb",
+"read_at": "2026-10-18T04:16:41.706Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DE41DDC",
+"OUV7-O9VRYNS",
+"OUV7-909FE8A"
+],
+"ou_names": [
+"Great Value | Ketchup 50/50",
+"Great Value | Tomato Ketchup"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Tomato Ketchup"
+}
+},
+{
+"chain": "walmart",
+"type": "ketchup",
+"name": "Great Value Tomato Ketchup, 24 oz",
+"brand": null,
+"price": 1.72,
+"size": [
+24.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Tomato-Ketchup-24-oz/10533375",
+"price_range": null,
+"unit": "$1.15/lb",
+"read_at": "2026-10-18T04:16:41.706Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DE41DDC",
+"OUV7-O9VRYNS",
+"OUV7-909FE8A"
+],
+"ou_names": [
+"Great Value | Ketchup 50/50",
+"Great Value | Tomato Ketchup"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Tomato Ketchup"
+}
+},
+{
+"chain": "walmart",
+"type": "ketchup",
+"name": "Great Value Tomato Ketchup, 14 oz",
+"brand": null,
+"price": 1.0,
+"size": [
+14.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Tomato-Ketchup-14-oz/1901674681",
+"price_range": null,
+"unit": "$1.14/lb",
+"read_at": "2026-10-18T04:16:41.706Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DE41DDC",
+"OUV7-O9VRYNS",
+"OUV7-909FE8A"
+],
+"ou_names": [
+"Great Value | Ketchup 50/50",
+"Great Value | Tomato Ketchup"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Tomato Ketchup"
+}
+},
+{
+"chain": "walmart",
+"type": "mayo",
+"name": "Great Value Mayonnaise, 30 fl oz",
+"brand": null,
+"price": 2.97,
+"size": [
+30.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Mayonnaise-30-fl-oz/17056888",
+"price_range": null,
+"unit": "$3.17/qt",
+"read_at": "2026-10-18T04:16:44.945Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-2C9A685"
+],
+"ou_names": [
+"Great Value (US) | Real Mayonnaise"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value mayonnaise"
+}
+},
+{
+"chain": "walmart",
+"type": "mayo",
+"name": "Great Value Mayonnaise, 15 fl oz",
+"brand": null,
+"price": 2.18,
+"size": [
+15.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Mayonnaise-15-fl-oz/17056889",
+"price_range": null,
+"unit": "$4.65/qt",
+"read_at": "2026-10-18T04:16:44.945Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-2C9A685"
+],
+"ou_names": [
+"Great Value (US) | Real Mayonnaise"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value mayonnaise"
+}
+},
+{
+"chain": "walmart",
+"type": "mayo",
+"name": "Great Value Mayonnaise, 48 fl oz",
+"brand": null,
+"price": 4.98,
+"size": [
+48.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Mayonnaise-48-fl-oz/110764877",
+"price_range": null,
+"unit": "$3.32/qt",
+"read_at": "2026-10-18T04:16:44.945Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-2C9A685"
+],
+"ou_names": [
+"Great Value (US) | Real Mayonnaise"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value mayonnaise"
+}
+},
+{
+"chain": "walmart",
+"type": "mayo",
+"name": "Great Value Mayonnaise, 18 fl oz",
+"brand": null,
+"price": 3.57,
+"size": [
+18.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Mayo-18-fl-oz/10315353",
+"price_range": null,
+"unit": "$6.35/qt",
+"read_at": "2026-10-18T04:16:44.945Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-2C9A685"
+],
+"ou_names": [
+"Great Value (US) | Real Mayonnaise"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value mayonnaise"
+}
+},
+{
+"chain": "walmart",
+"type": "canola_oil",
+"name": "Great Value Canola Oil, Heart Healthy, High Smoke Point, 48 fl oz Bottle",
+"brand": null,
+"price": 4.08,
+"size": [
+48.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Canola-Oil-48-fl-oz/10450988",
+"price_range": null,
+"unit": "$2.72/qt",
+"read_at": "2026-10-18T04:16:47.980Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-WPLWEHR",
+"OUV7-D799CDC",
+"OUV7-FO9WQNH"
+],
+"ou_names": [
+"Great Value | 100% Natural Pure Canola Oil",
+"Great Value | Canola Oil",
+"Great Value | Pure Canola Oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value canola oil"
+}
+},
+{
+"chain": "walmart",
+"type": "canola_oil",
+"name": "Great Value Canola Oil, Heart Healthy, High Smoke Point, 1 Gallon Bottle",
+"brand": null,
+"price": 9.68,
+"size": [
+128.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Canola-Oil-1-gal/13281828",
+"price_range": null,
+"unit": "$2.42/qt",
+"read_at": "2026-10-18T04:16:47.980Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-WPLWEHR",
+"OUV7-D799CDC",
+"OUV7-FO9WQNH"
+],
+"ou_names": [
+"Great Value | 100% Natural Pure Canola Oil",
+"Great Value | Canola Oil",
+"Great Value | Pure Canola Oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value canola oil"
+}
+},
+{
+"chain": "walmart",
+"type": "vegetable_oil",
+"name": "Great Value Vegetable Oil, Heart Healthy and Versatile, 48 fl oz Bottle",
+"brand": null,
+"price": 3.82,
+"size": [
+48.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Vegetable-Oil-48-fl-oz/10451002",
+"price_range": null,
+"unit": "$2.55/qt",
+"read_at": "2026-10-18T04:16:51.966Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-C7A9ACB"
+],
+"ou_names": [
+"Great Value | Pure Vegetable Oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value vegetable oil"
+}
+},
+{
+"chain": "walmart",
+"type": "vegetable_oil",
+"name": "Great Value Vegetable Oil, Heart Healthy and Versatile, 1 Gallon Bottle",
+"brand": null,
+"price": 8.78,
+"size": [
+128.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Vegetable-Oil-1-Gallon/10451011",
+"price_range": null,
+"unit": "$2.20/qt",
+"read_at": "2026-10-18T04:16:51.966Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-C7A9ACB"
+],
+"ou_names": [
+"Great Value | Pure Vegetable Oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value vegetable oil"
+}
+},
+{
+"chain": "walmart",
+"type": "olive_oil",
+"name": "Great Value Extra Virgin Olive Oil, 17 fl oz",
+"brand": null,
+"price": 6.12,
+"size": [
+17.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Extra-Virgin-Olive-Oil-17-fl-oz/10315102",
+"price_range": null,
+"unit": "$11.52/qt",
+"read_at": "2026-10-18T04:16:55.132Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUW7-05E6CD0",
+"OUW7-40D23D4",
+"OUW7-646452B",
+"OUW7-B0B918A",
+"OUW7-CA9D7AB",
+"OUW7-FE9E9C6",
+"OUW7-XY0J8U1",
+"OUW7-B7F8B06",
+"OUW7-92DB6EF",
+"OUW7-99C3629",
+"OUW7-E389CE7"
+],
+"ou_names": [
+"Great Value | Extra Virgin Olive Oil",
+"Great Value | Extra Virgin Olive Oil 101fl oz",
+"Great Value | Extra Virgin Olive Oil 17fl oz",
+"Great Value | Extra Virgin Olive Oil 25,5 fl oz",
+"Great Value | Extra Virgin Olive Oil 51fl oz",
+"Great Value | Extra Virgin Olive Oil, Pure",
+"Organic Great Value | Extra Virgin Olive Oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"Y"
+],
+"status": [
+"Symbol required. Kosher for Passover without special certification."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Extra Virgin Olive Oil, 17 fl oz"
+}
+},
+{
+"chain": "walmart",
+"type": "olive_oil",
+"name": "Great Value: 100% Extra Virgin Olive Oil, 25.5 fl oz",
+"brand": null,
+"price": 9.12,
+"size": [
+25.5,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-100-Extra-Virgin-Olive-Oil-25-5-fl-oz/10316039",
+"price_range": null,
+"unit": "$11.45/qt",
+"read_at": "2026-10-18T04:16:55.132Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUW7-92DB6EF",
+"OUW7-40D23D4",
+"OUW7-646452B",
+"OUW7-B0B918A",
+"OUW7-CA9D7AB",
+"OUW7-FE9E9C6",
+"OUW7-XY0J8U1",
+"OUW7-B7F8B06",
+"OUW7-99C3629",
+"OUW7-05E6CD0",
+"OUW7-E389CE7"
+],
+"ou_names": [
+"Great Value | Extra Virgin Olive Oil",
+"Great Value | Extra Virgin Olive Oil 101fl oz",
+"Great Value | Extra Virgin Olive Oil 17fl oz",
+"Great Value | Extra Virgin Olive Oil 25,5 fl oz",
+"Great Value | Extra Virgin Olive Oil 51fl oz",
+"Great Value | Extra Virgin Olive Oil, Pure",
+"Organic Great Value | Extra Virgin Olive Oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"Y"
+],
+"status": [
+"Symbol required. Kosher for Passover without special certification."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value : 100% Extra Virgin Olive Oil, 25.5 fl oz"
+}
+},
+{
+"chain": "walmart",
+"type": "olive_oil",
+"name": "Great Value Extra Virgin Olive Oil, 51 fl oz",
+"brand": null,
+"price": 17.87,
+"size": [
+51.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Extra-Virgin-Olive-Oil-51-fl-oz/10315962",
+"price_range": null,
+"unit": "$11.21/qt",
+"read_at": "2026-10-18T04:16:55.132Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUW7-E389CE7",
+"OUW7-40D23D4",
+"OUW7-646452B",
+"OUW7-B0B918A",
+"OUW7-CA9D7AB",
+"OUW7-FE9E9C6",
+"OUW7-XY0J8U1",
+"OUW7-B7F8B06",
+"OUW7-92DB6EF",
+"OUW7-99C3629",
+"OUW7-05E6CD0"
+],
+"ou_names": [
+"Great Value | Extra Virgin Olive Oil",
+"Great Value | Extra Virgin Olive Oil 101fl oz",
+"Great Value | Extra Virgin Olive Oil 17fl oz",
+"Great Value | Extra Virgin Olive Oil 25,5 fl oz",
+"Great Value | Extra Virgin Olive Oil 51fl oz",
+"Great Value | Extra Virgin Olive Oil, Pure",
+"Organic Great Value | Extra Virgin Olive Oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"Y"
+],
+"status": [
+"Symbol required. Kosher for Passover without special certification."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Extra Virgin Olive Oil, 51 fl oz"
+}
+},
+{
+"chain": "walmart",
+"type": "olive_oil",
+"name": "Great Value Extra Virgin Olive Oil, 101 fl oz",
+"brand": null,
+"price": 33.82,
+"size": [
+101.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Extra-Virgin-Olive-Oil-101-fl-oz-Bottle/10315963",
+"price_range": null,
+"unit": "$10.72/qt",
+"read_at": "2026-10-18T04:16:55.132Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUW7-99C3629",
+"OUW7-40D23D4",
+"OUW7-646452B",
+"OUW7-B0B918A",
+"OUW7-CA9D7AB",
+"OUW7-FE9E9C6",
+"OUW7-XY0J8U1",
+"OUW7-B7F8B06",
+"OUW7-92DB6EF",
+"OUW7-E389CE7",
+"OUW7-05E6CD0"
+],
+"ou_names": [
+"Great Value | Extra Virgin Olive Oil",
+"Great Value | Extra Virgin Olive Oil 101fl oz",
+"Great Value | Extra Virgin Olive Oil 17fl oz",
+"Great Value | Extra Virgin Olive Oil 25,5 fl oz",
+"Great Value | Extra Virgin Olive Oil 51fl oz",
+"Great Value | Extra Virgin Olive Oil, Pure",
+"Organic Great Value | Extra Virgin Olive Oil"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"Y"
+],
+"status": [
+"Symbol required. Kosher for Passover without special certification."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Extra Virgin Olive Oil, 101 fl oz"
+}
+},
+{
+"chain": "walmart",
+"type": "sugar",
+"name": "Great Value Pure Granulated Sugar, 4 lbs",
+"brand": null,
+"price": 2.97,
+"size": [
+64.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Pure-Granulated-Sugar-4-lb/10315162",
+"price_range": null,
+"unit": "74.3 \u00a2/lb",
+"read_at": "2026-10-18T04:16:58.084Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Pure Granulated Sugar | Great Value granulated sugar"
+}
+},
+{
+"chain": "walmart",
+"type": "sugar",
+"name": "Great Value Pure Granulated Sugar, 10 lbs",
+"brand": null,
+"price": 7.38,
+"size": [
+160.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Pure-Granulated-Sugar-10lb/10314931",
+"price_range": null,
+"unit": "73.8 \u00a2/lb",
+"read_at": "2026-10-18T04:16:58.084Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Pure Granulated Sugar | Great Value granulated sugar"
+}
+},
+{
+"chain": "walmart",
+"type": "sugar",
+"name": "Great Value Pure Granulated Sugar, 25 lbs",
+"brand": null,
+"price": 18.24,
+"size": [
+400.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Pure-Granulated-Sugar-25-lb/10403009",
+"price_range": null,
+"unit": "73.0 \u00a2/lb",
+"read_at": "2026-10-18T04:16:58.084Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Pure Granulated Sugar | Great Value granulated sugar"
+}
+},
+{
+"chain": "walmart",
+"type": "brown_sugar",
+"name": "Great Value Light Brown Sugar, 32 oz",
+"brand": null,
+"price": 2.08,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Light-Brown-Sugar-32-oz/10315012",
+"price_range": null,
+"unit": "$1.04/lb",
+"read_at": "2026-10-18T04:17:01.492Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Light Brown Sugar | Great Value brown sugar"
+}
+},
+{
+"chain": "walmart",
+"type": "powdered_sugar",
+"name": "Great Value Confectioners Powdered Sugar, 32 oz",
+"brand": null,
+"price": 2.08,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Confectioners-Powdered-Sugar-32-oz/10315011",
+"price_range": null,
+"unit": "$1.04/lb",
+"read_at": "2026-10-18T04:17:04.798Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Confectioners Powdered Sugar | Great Value powdered sugar"
+}
+},
+{
+"chain": "walmart",
+"type": "flour",
+"name": "Great Value All-Purpose Flour, 10 lb Bag",
+"brand": null,
+"price": 4.62,
+"size": [
+160.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-All-Purpose-Flour-10LB-Bag/122814298",
+"price_range": null,
+"unit": "46.2 \u00a2/lb",
+"read_at": "2026-10-18T04:17:08.120Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value All-Purpose Flour | Great Value all purpose flour"
+}
+},
+{
+"chain": "walmart",
+"type": "spaghetti",
+"name": "Great Value Spaghetti, 16 oz",
+"brand": null,
+"price": 1.36,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Spaghetti-16oz/10534115",
+"price_range": null,
+"unit": "$1.36/lb",
+"read_at": "2026-10-18T04:17:14.447Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-D7C811A",
+"OUV7-D9F4254",
+"OUV7-E7CFC49",
+"OUV7-3ZA5NQF",
+"OUV7-4990006"
+],
+"ou_names": [
+"Great Value (US) | Spaghetti",
+"Great Value | Spaghetti"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Spaghetti"
+}
+},
+{
+"chain": "walmart",
+"type": "spaghetti",
+"name": "Great Value Spaghetti, 32 oz",
+"brand": null,
+"price": 2.24,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Spaghetti-32-oz/10534105",
+"price_range": null,
+"unit": "$1.12/lb",
+"read_at": "2026-10-18T04:17:14.447Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-D7C811A",
+"OUV7-D9F4254",
+"OUV7-E7CFC49",
+"OUV7-3ZA5NQF",
+"OUV7-4990006"
+],
+"ou_names": [
+"Great Value (US) | Spaghetti",
+"Great Value | Spaghetti"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Spaghetti"
+}
+},
+{
+"chain": "walmart",
+"type": "penne",
+"name": "Great Value Penne Pasta, 16 oz",
+"brand": null,
+"price": 1.36,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Penne-Pasta-16-oz-Box-Shelf-Stable/10534084",
+"price_range": null,
+"unit": "$1.36/lb",
+"read_at": "2026-10-18T04:17:17.921Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Penne Pasta | Great Value penne"
+}
+},
+{
+"chain": "walmart",
+"type": "penne",
+"name": "Great Value Penne, 32 oz (Shelf Stable)",
+"brand": null,
+"price": 2.24,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Penne-32-oz/5144705712",
+"price_range": null,
+"unit": "$1.12/lb",
+"read_at": "2026-10-18T04:17:17.921Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-60D1970",
+"OUV7-H7VLXRH",
+"OUV7-QS7IONB",
+"OUV7-8B5334B",
+"OUV7-WNSMUC1",
+"OUV7-5E8337A"
+],
+"ou_names": [
+"Great Value (US) | Penne Rigate",
+"Great Value | Penne",
+"Great Value | Penne Rigate"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value penne"
+}
+},
+{
+"chain": "walmart",
+"type": "elbows",
+"name": "Great Value Elbows Pasta, 32 oz",
+"brand": null,
+"price": 2.24,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Elbows-Pasta-32-oz/10534076",
+"price_range": null,
+"unit": "$1.12/lb",
+"read_at": "2026-10-18T04:17:21.055Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Elbows Pasta | Great Value elbow macaroni"
+}
+},
+{
+"chain": "walmart",
+"type": "elbows",
+"name": "Great Value Elbows, 16 oz",
+"brand": null,
+"price": 1.36,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Elbows-16-oz-Box-Shelf-Stable/10534107",
+"price_range": null,
+"unit": "$1.36/lb",
+"read_at": "2026-10-18T04:17:21.055Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-659D59C",
+"OUV7-838539A",
+"OUV7-P4MKCZT",
+"OUV7-17A8EEB",
+"OUV7-WS1AUE8",
+"OUV7-5CF1695"
+],
+"ou_names": [
+"Great Value (US) | Elbow Macaroni",
+"Great Value | Elbow Macaroni",
+"Great Value | Elbows"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Elbows"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_long",
+"name": "Great Value Long Grain Enriched Rice, 5 lbs",
+"brand": null,
+"price": 3.52,
+"size": [
+80.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Long-Grain-Enriched-Rice-5-lbs/10315395",
+"price_range": null,
+"unit": "70.4 \u00a2/lb",
+"read_at": "2026-10-18T04:17:24.119Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-T28B9XW",
+"OUV7-ZIBXUU1"
+],
+"ou_names": [
+"Great Value | Long Grain Enriched Rice",
+"Great Value | Long Grain White Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Long Grain Enriched Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_long",
+"name": "Great Value Long Grain Enriched Rice, 32 oz",
+"brand": null,
+"price": 1.82,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Long-Grain-Enriched-Rice-32-oz/10315394",
+"price_range": null,
+"unit": "91.0 \u00a2/lb",
+"read_at": "2026-10-18T04:17:24.119Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-T28B9XW",
+"OUV7-ZIBXUU1"
+],
+"ou_names": [
+"Great Value | Long Grain Enriched Rice",
+"Great Value | Long Grain White Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Long Grain Enriched Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_long",
+"name": "Great Value Long Grain Enriched Rice, 16 oz",
+"brand": null,
+"price": 0.96,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Long-Grain-Enriched-Rice-16-oz/10315393",
+"price_range": null,
+"unit": "96.0 \u00a2/lb",
+"read_at": "2026-10-18T04:17:24.119Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-T28B9XW",
+"OUV7-ZIBXUU1"
+],
+"ou_names": [
+"Great Value | Long Grain Enriched Rice",
+"Great Value | Long Grain White Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Long Grain Enriched Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_long",
+"name": "Great Value Long Grain Enriched Rice, 20 lb",
+"brand": null,
+"price": 11.57,
+"size": [
+320.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Long-Grain-Enriched-Rice-20-lb/10315883",
+"price_range": null,
+"unit": "57.9 \u00a2/lb",
+"read_at": "2026-10-18T04:17:24.119Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-T28B9XW",
+"OUV7-ZIBXUU1"
+],
+"ou_names": [
+"Great Value | Long Grain Enriched Rice",
+"Great Value | Long Grain White Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Long Grain Enriched Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_jasmine",
+"name": "Great Value Jasmine Rice, 5 lb",
+"brand": null,
+"price": 5.24,
+"size": [
+80.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Gv-Jasmine-Rice-5lb/20398715347",
+"price_range": null,
+"unit": "$1.05/lb",
+"read_at": "2026-10-18T04:17:27.355Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Jasmine Rice | Great Value jasmine rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_jasmine",
+"name": "Great Value Jasmine Rice, 2 lb",
+"brand": null,
+"price": 2.57,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Gv-Jasmine-Rice-2lb/20411802842",
+"price_range": null,
+"unit": "$1.29/lb",
+"read_at": "2026-10-18T04:17:27.355Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Jasmine Rice | Great Value jasmine rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_jasmine",
+"name": "Great Value Thai Hom Mali Jasmine Rice, 5 lb",
+"brand": null,
+"price": 7.23,
+"size": [
+80.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Jasmine-Rice-5-lb/36874821",
+"price_range": null,
+"unit": "$1.45/lb",
+"read_at": "2026-10-18T04:17:27.355Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-8LE6X13"
+],
+"ou_names": [
+"Great Value | Thai Hom Mali Jasmine Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Thai Hom Mali Jasmine Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_jasmine",
+"name": "Great Value Thai Hom Mali Jasmine Rice, 2 lb",
+"brand": null,
+"price": 3.57,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Jasmine-Rice-2-lb/36874820",
+"price_range": null,
+"unit": "$1.79/lb",
+"read_at": "2026-10-18T04:17:27.355Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-8LE6X13"
+],
+"ou_names": [
+"Great Value | Thai Hom Mali Jasmine Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Thai Hom Mali Jasmine Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_jasmine",
+"name": "Great Value Thai Hom Mali Jasmine Rice, 10 lb",
+"brand": null,
+"price": 11.96,
+"size": [
+160.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/10LB-GV-TH-HML-RICE/20176963010",
+"price_range": null,
+"unit": "$1.20/lb",
+"read_at": "2026-10-18T04:17:27.355Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-8LE6X13"
+],
+"ou_names": [
+"Great Value | Thai Hom Mali Jasmine Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Thai Hom Mali Jasmine Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_jasmine",
+"name": "Great Value Thai Hom Mali Jasmine Rice, 20 lb",
+"brand": null,
+"price": 24.0,
+"size": [
+320.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Jasmine-Rice-20-lb/36874822",
+"price_range": null,
+"unit": "$1.20/lb",
+"read_at": "2026-10-18T04:17:27.355Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-8LE6X13"
+],
+"ou_names": [
+"Great Value | Thai Hom Mali Jasmine Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Thai Hom Mali Jasmine Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_basmati",
+"name": "Great Value Basmati Rice, 2 lb",
+"brand": null,
+"price": 3.62,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Basmati-Rice-2-lb/36874823",
+"price_range": null,
+"unit": "$1.81/lb",
+"read_at": "2026-10-18T04:27:04.716Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-A1521AD"
+],
+"ou_names": [
+"Great Value | Basmati Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Basmati Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_basmati",
+"name": "Great Value Basmati Rice, 5 lb",
+"brand": null,
+"price": 8.93,
+"size": [
+80.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Basmati-Rice-5-lb/36874824",
+"price_range": null,
+"unit": "$1.79/lb",
+"read_at": "2026-10-18T04:27:04.716Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-A1521AD"
+],
+"ou_names": [
+"Great Value | Basmati Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Basmati Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_basmati",
+"name": "Great Value Basmati Rice, 20 lb",
+"brand": null,
+"price": 20.36,
+"size": [
+320.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Basmati-Rice-20-lb/36874825",
+"price_range": null,
+"unit": "$1.02/lb",
+"read_at": "2026-10-18T04:27:04.716Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-A1521AD"
+],
+"ou_names": [
+"Great Value | Basmati Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Basmati Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "rice_basmati",
+"name": "Great Value Basmati Rice, 10 lb",
+"brand": null,
+"price": 12.76,
+"size": [
+160.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/BASMATI-RICE/20465206171",
+"price_range": null,
+"unit": "$1.28/lb",
+"read_at": "2026-10-18T04:27:04.716Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-A1521AD"
+],
+"ou_names": [
+"Great Value | Basmati Rice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Basmati Rice"
+}
+},
+{
+"chain": "walmart",
+"type": "oats",
+"name": "Great Value 100% Whole Grain Old Fashioned Oats, 42 oz",
+"brand": null,
+"price": 4.18,
+"size": [
+42.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Instant-100-Whole-Grain-Old-Fashioned-Oats-Cup-42-oz/10314925",
+"price_range": null,
+"unit": "$1.59/lb",
+"read_at": "2026-10-18T04:27:09.735Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value 100% Whole Grain Old Fashioned Oats | Great Value old fashioned oats"
+}
+},
+{
+"chain": "walmart",
+"type": "quick_oats",
+"name": "Great Value 100% Whole Grain Quick Oats, 42 oz",
+"brand": null,
+"price": 4.18,
+"size": [
+42.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Instant-Whole-Grain-Quick-Rolled-Oats-Cup/10314926",
+"price_range": null,
+"unit": "$1.59/lb",
+"read_at": "2026-10-18T04:27:15.008Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value 100% Whole Grain Quick Oats | Great Value quick oats"
+}
+},
+{
+"chain": "walmart",
+"type": "honey",
+"name": "Great Value Honey, 12 oz Plastic Bear",
+"brand": null,
+"price": 3.54,
+"size": [
+12.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Honey-12-oz-Plastic-Bear/20647992",
+"price_range": null,
+"unit": "$4.72/lb",
+"read_at": "2026-10-18T04:27:41.114Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Honey | Great Value honey"
+}
+},
+{
+"chain": "walmart",
+"type": "pancake_syrup",
+"name": "Great Value Original Syrup, 24 fl oz",
+"brand": null,
+"price": 2.44,
+"size": [
+24.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Original-Syrup-24-oz/10315480",
+"price_range": null,
+"unit": "$3.25/qt",
+"read_at": "2026-10-18T04:27:46.330Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-5WAGWBM",
+"OUV7-7249A03",
+"OUV7-JUNFAUO"
+],
+"ou_names": [
+"Great Value (US) | Original Syrup",
+"Great Value | Original Syrup",
+"Great Value | Original Syrup 36oz"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Original Syrup, 24 fl oz"
+}
+},
+{
+"chain": "walmart",
+"type": "pancake_syrup",
+"name": "Great Value Original Syrup, 36 fl oz",
+"brand": null,
+"price": 3.17,
+"size": [
+36.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Original-Syrup-Family-Size-36-fl-oz/39247535",
+"price_range": null,
+"unit": "$2.82/qt",
+"read_at": "2026-10-18T04:27:46.330Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-JUNFAUO",
+"OUV7-5WAGWBM",
+"OUV7-7249A03"
+],
+"ou_names": [
+"Great Value (US) | Original Syrup",
+"Great Value | Original Syrup",
+"Great Value | Original Syrup 36oz"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Original Syrup, 36 fl oz"
+}
+},
+{
+"chain": "walmart",
+"type": "maple_syrup",
+"name": "Great Value Pure Maple Syrup, 12.5 fl oz, US Grade A Amber Color, Rich Taste",
+"brand": null,
+"price": 8.27,
+"size": [
+12.5,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Pure-Maple-Syrup-12-5-fl-oz/13925187",
+"price_range": null,
+"unit": "$21.17/qt",
+"read_at": "2026-10-18T04:27:51.508Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Pure Maple Syrup, 12.5 fl oz, US Grade A Amber Color, Rich Taste | Great Value pure maple syrup"
+}
+},
+{
+"chain": "walmart",
+"type": "maple_syrup",
+"name": "Great Value Pure Maple Syrup, 32 fl oz",
+"brand": null,
+"price": 17.34,
+"size": [
+32.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Pure-Maple-Syrup-32-fl-oz/492758994",
+"price_range": null,
+"unit": "$17.34/qt",
+"read_at": "2026-10-18T04:27:51.508Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Pure Maple Syrup, 32 fl oz | Great Value pure maple syrup"
+}
+},
+{
+"chain": "walmart",
+"type": "maple_syrup",
+"name": "Great Value Pure Maple Syrup, 8 fl oz",
+"brand": null,
+"price": 5.48,
+"size": [
+8.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Pure-Maple-Syrup-8-fl-oz/5439978349",
+"price_range": null,
+"unit": "$21.92/qt",
+"read_at": "2026-10-18T04:27:51.508Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Pure Maple Syrup, 8 fl oz | Great Value pure maple syrup"
+}
+},
+{
+"chain": "walmart",
+"type": "maple_syrup",
+"name": "Great Value Pure Maple Syrup 6.77 fl oz",
+"brand": null,
+"price": 5.98,
+"size": [
+6.77,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Pure-Maple-Syrup-6-77-fl-oz/6029151312",
+"price_range": null,
+"unit": "$28.27/qt",
+"read_at": "2026-10-18T04:27:51.508Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Pure Maple Syrup 6.77 fl oz | Great Value pure maple syrup"
+}
+},
+{
+"chain": "walmart",
+"type": "tomato_sauce",
+"name": "Great Value Tomato Sauce, 15 oz",
+"brand": null,
+"price": 0.96,
+"size": [
+15.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Tomato-Sauce-15-oz/10415500",
+"price_range": null,
+"unit": "$1.02/lb",
+"read_at": "2026-10-18T04:27:56.783Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-8A196BB"
+],
+"ou_names": [
+"Great Value | Tomato Sauce"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Tomato Sauce"
+}
+},
+{
+"chain": "walmart",
+"type": "tomato_sauce",
+"name": "Great Value Tomato Sauce, 8 oz Can",
+"brand": null,
+"price": 0.53,
+"size": [
+8.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Tomato-Sauce-8-oz-Can/10415487",
+"price_range": null,
+"unit": "$1.06/lb",
+"read_at": "2026-10-18T04:27:56.783Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-8A196BB"
+],
+"ou_names": [
+"Great Value | Tomato Sauce"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Tomato Sauce"
+}
+},
+{
+"chain": "walmart",
+"type": "tomato_sauce",
+"name": "Great Value Tomato Sauce, 29 oz",
+"brand": null,
+"price": 1.67,
+"size": [
+29.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Tomato-Sauce-29-oz/10415506",
+"price_range": null,
+"unit": "92.1 \u00a2/lb",
+"read_at": "2026-10-18T04:27:56.783Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-8A196BB"
+],
+"ou_names": [
+"Great Value | Tomato Sauce"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Tomato Sauce"
+}
+},
+{
+"chain": "walmart",
+"type": "tomato_paste",
+"name": "Great Value Tomato Paste, 6 oz",
+"brand": null,
+"price": 0.92,
+"size": [
+6.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Tomato-Paste-6-oz/10415519",
+"price_range": null,
+"unit": "$2.45/lb",
+"read_at": "2026-10-18T04:28:20.060Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-83702BA"
+],
+"ou_names": [
+"Great Value | Tomato Paste"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Tomato Paste"
+}
+},
+{
+"chain": "walmart",
+"type": "tomato_paste",
+"name": "Great Value Tomato Paste, 12 oz",
+"brand": null,
+"price": 1.27,
+"size": [
+12.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Tomato-Paste-12-oz/10415527",
+"price_range": null,
+"unit": "$1.69/lb",
+"read_at": "2026-10-18T04:28:20.060Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-83702BA"
+],
+"ou_names": [
+"Great Value | Tomato Paste"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Tomato Paste"
+}
+},
+{
+"chain": "walmart",
+"type": "crushed_tom",
+"name": "Great Value Crushed Tomatoes with Tomato Puree, 28 oz",
+"brand": null,
+"price": 1.57,
+"size": [
+28.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Crushed-Tomatoes-with-Tomato-Puree-28-oz/10415230",
+"price_range": null,
+"unit": "89.7 \u00a2/lb",
+"read_at": "2026-10-18T04:28:25.771Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Crushed Tomatoes with Tomato Puree | Great Value crushed tomatoes"
+}
+},
+{
+"chain": "walmart",
+"type": "diced_tom",
+"name": "Great Value Diced Tomatoes in Tomato Juice, 14.5 oz Can",
+"brand": null,
+"price": 0.96,
+"size": [
+14.5,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Diced-Tomatoes-in-Tomato-Juice-14-5-oz-Can/10450990",
+"price_range": null,
+"unit": "$1.06/lb",
+"read_at": "2026-10-18T04:28:31.794Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Diced Tomatoes in Tomato Juice | Great Value diced tomatoes"
+}
+},
+{
+"chain": "walmart",
+"type": "diced_tom",
+"name": "Great Value Diced Tomatoes in Tomato Juice, 28 oz",
+"brand": null,
+"price": 1.67,
+"size": [
+28.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Diced-Tomatoes-in-Tomato-Juice-28-oz/10415151",
+"price_range": null,
+"unit": "95.4 \u00a2/lb",
+"read_at": "2026-10-18T04:28:31.794Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Diced Tomatoes in Tomato Juice | Great Value diced tomatoes"
+}
+},
+{
+"chain": "walmart",
+"type": "chickpeas",
+"name": "Great Value Garbanzos Chick Peas, 15.5 oz",
+"brand": null,
+"price": 0.92,
+"size": [
+15.5,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Garbanzos-Chick-Peas-15-5-oz/10534041",
+"price_range": null,
+"unit": "95.0 \u00a2/lb",
+"read_at": "2026-10-18T04:28:37.767Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Garbanzos Chick Peas | Great Value chickpeas"
+}
+},
+{
+"chain": "walmart",
+"type": "chickpeas",
+"name": "Great Value Chick Peas Garbanzos, 1 lb",
+"brand": null,
+"price": 1.52,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Chick-Peas-Garbanzos-1-lb/455381301",
+"price_range": null,
+"unit": "$1.52/lb",
+"read_at": "2026-10-18T04:28:37.767Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Chick Peas Garbanzos | Great Value chickpeas"
+}
+},
+{
+"chain": "walmart",
+"type": "corn_can",
+"name": "Great Value Golden Sweet Whole Kernel Corn, 15.25 oz",
+"brand": null,
+"price": 0.5,
+"size": [
+15.25,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Golden-Sweet-Whole-Kernel-Corn-15-Oz/10315427",
+"price_range": null,
+"unit": "53.3 \u00a2/lb",
+"read_at": "2026-10-18T04:28:44.315Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-0AFF922",
+"OUV7-VE2F7LX",
+"OUV7-0676CFC",
+"OUV7-96GYJGR",
+"OUV7-BV8TDW5",
+"OUV7-XJISJPL"
+],
+"ou_names": [
+"Great Value | Golden Sweet Whole Kernel Corn",
+"Great Value | N/S Whole Kernel Corn",
+"Great Value | Whole Kernel Corn"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Golden Sweet Whole Kernel Corn"
+}
+},
+{
+"chain": "walmart",
+"type": "corn_can",
+"name": "Great Value Golden Sweet Whole Kernel Corn, 8.5 oz Can",
+"brand": null,
+"price": 0.68,
+"size": [
+8.5,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Golden-Sweet-Whole-Kernel-Corn-8-75-oz-Can/15021178",
+"price_range": null,
+"unit": "$1.24/lb",
+"read_at": "2026-10-18T04:28:44.315Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-0AFF922",
+"OUV7-VE2F7LX",
+"OUV7-0676CFC",
+"OUV7-96GYJGR",
+"OUV7-BV8TDW5",
+"OUV7-XJISJPL"
+],
+"ou_names": [
+"Great Value | Golden Sweet Whole Kernel Corn",
+"Great Value | N/S Whole Kernel Corn",
+"Great Value | Whole Kernel Corn"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Golden Sweet Whole Kernel Corn"
+}
+},
+{
+"chain": "walmart",
+"type": "corn_can",
+"name": "Great Value Whole Kernel Sweet Corn, Gluten-Free, 29 oz Can",
+"brand": null,
+"price": 1.22,
+"size": [
+29.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Whole-Kernel-Sweet-Corn-Gluten-Free-29-oz-Can/15544057",
+"price_range": null,
+"unit": "67.3 \u00a2/lb",
+"read_at": "2026-10-18T04:28:44.315Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Whole Kernel Sweet Corn, Gluten-Free | Great Value whole kernel corn canned"
+}
+},
+{
+"chain": "walmart",
+"type": "corn_can",
+"name": "Great Value Golden Sweet Whole Kernel Corn, 106 oz",
+"brand": null,
+"price": 6.22,
+"size": [
+106.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Golden-Sweet-Whole-Kernel-Corn-106-oz/905420204",
+"price_range": null,
+"unit": "5.9 \u00a2/oz",
+"read_at": "2026-10-18T04:28:44.315Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-0AFF922",
+"OUV7-VE2F7LX",
+"OUV7-0676CFC",
+"OUV7-96GYJGR",
+"OUV7-BV8TDW5",
+"OUV7-XJISJPL"
+],
+"ou_names": [
+"Great Value | Golden Sweet Whole Kernel Corn",
+"Great Value | N/S Whole Kernel Corn",
+"Great Value | Whole Kernel Corn"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Golden Sweet Whole Kernel Corn"
+}
+},
+{
+"chain": "walmart",
+"type": "corn_can",
+"name": "Great Value Gv Whole Kernel Corn 12 Oz",
+"brand": null,
+"price": 0.5,
+"size": [
+12.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Gv-Whole-Kernel-Corn-12-Oz/551932094",
+"price_range": null,
+"unit": "66.7 \u00a2/lb",
+"read_at": "2026-10-18T04:28:44.315Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-4E6F4BA"
+],
+"ou_names": [
+"Great Value | GV Golden Sweet Whole Kernel Corn"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Gv Whole Kernel Corn"
+}
+},
+{
+"chain": "walmart",
+"type": "pineapple",
+"name": "Great Value Canned Pineapple Chunks in Pineapple Juice, 20 oz",
+"brand": null,
+"price": 1.68,
+"size": [
+20.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Canned-Pineapple-Chunks-in-Pineapple-Juice-20-oz/10315437",
+"price_range": null,
+"unit": "$1.34/lb",
+"read_at": "2026-10-18T04:28:49.807Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-8CAE3D2",
+"OUV7-V0QX7KS"
+],
+"ou_names": [
+"Great Value | Pineapple Chunks"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value pineapple chunks"
+}
+},
+{
+"chain": "walmart",
+"type": "mandarin",
+"name": "Great Value Canned Mandarin Oranges, 15 oz",
+"brand": null,
+"price": 2.08,
+"size": [
+15.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Canned-Mandarin-Oranges-15-oz/28026792",
+"price_range": null,
+"unit": "$2.22/lb",
+"read_at": "2026-10-18T04:28:55.302Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-7AAEE40"
+],
+"ou_names": [
+"Great Value | Mandarin Oranges in Juice"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Canned Mandarin Oranges"
+}
+},
+{
+"chain": "walmart",
+"type": "applesauce",
+"name": "Great Value Original Applesauce, 48 oz Jar",
+"brand": null,
+"price": 3.64,
+"size": [
+48.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Original-Applesauce-48-oz-Jar/14562669",
+"price_range": null,
+"unit": "$1.21/lb",
+"read_at": "2026-10-18T04:29:00.661Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-DD94623"
+],
+"ou_names": [
+"Great Value | Original Applesauce"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Original Applesauce"
+}
+},
+{
+"chain": "walmart",
+"type": "apple_juice",
+"name": "Great Value 100% Apple Juice, 96 fl oz",
+"brand": null,
+"price": 3.64,
+"size": [
+96.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-100-Apple-Juice-96-fl-oz/10415325",
+"price_range": null,
+"unit": "$1.21/qt",
+"read_at": "2026-10-18T04:29:11.858Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value 100% Apple Juice, 96 fl oz | Great Value apple juice"
+}
+},
+{
+"chain": "walmart",
+"type": "chips_plain",
+"name": "Great Value Original Potato Chips, 2.25 oz",
+"brand": null,
+"price": 0.97,
+"size": [
+2.25,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Original-Potato-Chips-2-25-oz/6045955773",
+"price_range": null,
+"unit": "$6.90/lb",
+"read_at": "2026-10-18T04:29:18.025Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-0986418"
+],
+"ou_names": [
+"Great Value | Original Potato Chips"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Original Potato Chips"
+}
+},
+{
+"chain": "walmart",
+"type": "pretzels_twists",
+"name": "Great Value Salted Mini Pretzel Twists, 16 oz Bag",
+"brand": null,
+"price": 2.48,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Mini-Pretzel-Twists-16-oz-Bag/890488670",
+"price_range": null,
+"unit": "$2.48/lb",
+"read_at": "2026-10-18T04:29:23.534Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Salted Mini Pretzel Twists | Great Value mini twist pretzels"
+}
+},
+{
+"chain": "walmart",
+"type": "pretzels_twists",
+"name": "Great Value Tiny Pretzel Twists Low Fat 20 oz",
+"brand": null,
+"price": 1.53,
+"size": [
+20.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Tiny-Pretzel-Twists-Low-Fat-20-oz/22109594",
+"price_range": null,
+"unit": "7.7 \u00a2/oz",
+"read_at": "2026-10-18T04:29:23.534Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Tiny Pretzel Twists Low Fat | Great Value mini twist pretzels"
+}
+},
+{
+"chain": "walmart",
+"type": "tortilla_chips",
+"name": "Great Value Restaurant Style Tortilla Chips Party Size, 17 oz",
+"brand": null,
+"price": 2.44,
+"size": [
+17.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Restaurant-Style-Tortilla-Chips-Party-Size-17-oz-Bag/5212541519",
+"price_range": null,
+"unit": "$2.30/lb",
+"read_at": "2026-10-18T04:29:28.585Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Restaurant Style Tortilla Chips Party Size | Great Value restaurant style tortilla chips"
+}
+},
+{
+"chain": "walmart",
+"type": "tortilla_chips",
+"name": "Great Value Lightly Salted Restaurant Style Tortilla Chips, 13 oz Bag",
+"brand": null,
+"price": 2.32,
+"size": [
+13.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Restaurant-Style-Lightly-Salted-White-Corn-Tortilla-Chips-13-oz-Bag/50003598",
+"price_range": null,
+"unit": "$2.86/lb",
+"read_at": "2026-10-18T04:29:28.585Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-XXSVEEU",
+"OUV7-AUUIKDE"
+],
+"ou_names": [
+"Great Value | Lightly Salted Restaurant Style Tortilla Chips",
+"Great Value | Lightly Salted Restaurant Tortilla Chips"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value restaurant style tortilla chips"
+}
+},
+{
+"chain": "walmart",
+"type": "tortilla_chips",
+"name": "Great Value Restaurant Style Tortilla Chips, 13 oz Bag",
+"brand": null,
+"price": 2.32,
+"size": [
+13.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Restaurant-Style-White-Corn-Tortilla-Chips-13-oz/12335104",
+"price_range": null,
+"unit": "$2.86/lb",
+"read_at": "2026-10-18T04:29:28.585Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not plain OU pareve: ['Dairy Equipment'] ['OU-DE']",
+"agency": "OU",
+"ids": [
+"OUD7-862D3B7"
+],
+"ou_names": [
+"Great Value | Restaurant Style Tortilla Chips"
+],
+"dpm": [
+"Dairy Equipment"
+],
+"de": false,
+"symbols": [
+"OU-DE"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Canada"
+],
+"query": "Great Value restaurant style tortilla chips"
+}
+},
+{
+"chain": "walmart",
+"type": "salt",
+"name": "Great Value Iodized Salt, 26 oz",
+"brand": null,
+"price": 0.94,
+"size": [
+26.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Iodized-Salt-26-oz/10448316",
+"price_range": null,
+"unit": "57.8 \u00a2/lb",
+"read_at": "2026-10-18T04:29:33.662Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Iodized Salt | Great Value iodized salt"
+}
+},
+{
+"chain": "walmart",
+"type": "baking_soda",
+"name": "Great Value Baking Soda, 1 lb",
+"brand": null,
+"price": 0.97,
+"size": [
+16.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Baking-Soda-1-Lb/10315486",
+"price_range": null,
+"unit": "97.0 \u00a2/lb",
+"read_at": "2026-10-18T04:29:38.821Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUW7-D6873A5"
+],
+"ou_names": [
+"Great Value | Baking Soda"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"Y"
+],
+"status": [
+"Symbol required. Kosher for Passover without special certification."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Baking Soda"
+}
+},
+{
+"chain": "walmart",
+"type": "baking_soda",
+"name": "Great Value Baking Soda, 4 lb",
+"brand": null,
+"price": 3.28,
+"size": [
+64.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Baking-Soda-64-Oz/583743030",
+"price_range": null,
+"unit": "82.0 \u00a2/lb",
+"read_at": "2026-10-18T04:29:38.821Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUW7-D6873A5"
+],
+"ou_names": [
+"Great Value | Baking Soda"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"Y"
+],
+"status": [
+"Symbol required. Kosher for Passover without special certification."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Baking Soda"
+}
+},
+{
+"chain": "walmart",
+"type": "baking_powder",
+"name": "Great Value Double Acting Baking Powder, 8.1 oz",
+"brand": null,
+"price": 2.08,
+"size": [
+8.1,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Double-Acting-Baking-Powder-8-1-oz/16627955",
+"price_range": null,
+"unit": "$4.11/lb",
+"read_at": "2026-10-18T04:29:44.277Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Double Acting Baking Powder | Great Value baking powder"
+}
+},
+{
+"chain": "walmart",
+"type": "bread_crumbs",
+"name": "Great Value Plain Bread Crumbs, 15 oz",
+"brand": null,
+"price": 1.27,
+"size": [
+15.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Plain-Bread-Crumbs-15-oz/10315089",
+"price_range": null,
+"unit": "$1.36/lb",
+"read_at": "2026-10-18T04:29:49.635Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Plain Bread Crumbs | Great Value plain bread crumbs"
+}
+},
+{
+"chain": "walmart",
+"type": "panko",
+"name": "Great Value Plain Panko Bread Crumbs, 8 oz",
+"brand": null,
+"price": 1.92,
+"size": [
+8.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Plain-Panko-Bread-Crumbs-8-oz/21656980",
+"price_range": null,
+"unit": "$3.84/lb",
+"read_at": "2026-10-18T04:29:55.577Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Plain Panko Bread Crumbs | Great Value panko bread crumbs"
+}
+},
+{
+"chain": "walmart",
+"type": "vanilla",
+"name": "Great Value Pure Vanilla Extract, 1 fl oz",
+"brand": null,
+"price": 3.24,
+"size": [
+1.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Pure-Vanilla-Extract-1-fl-oz-Ambient-Plastic-Container-Liquid/21368021",
+"price_range": null,
+"unit": "$51.84/pt",
+"read_at": "2026-10-18T04:30:00.804Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Pure Vanilla Extract, 1 fl oz | Great Value pure vanilla extract"
+}
+},
+{
+"chain": "walmart",
+"type": "vanilla",
+"name": "Great Value Pure Vanilla Extract, 2 fl oz",
+"brand": null,
+"price": 5.12,
+"size": [
+2.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Pure-Vanilla-Extract-2-fl-oz-Food-Form-Liquid-Plastic-Container/10314950",
+"price_range": null,
+"unit": "$40.96/pt",
+"read_at": "2026-10-18T04:30:00.804Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Pure Vanilla Extract, 2 fl oz | Great Value pure vanilla extract"
+}
+},
+{
+"chain": "walmart",
+"type": "vanilla",
+"name": "Great Value Pure Vanilla Extract, 4 fl oz (Liquid, Ambient, Plastic Container)",
+"brand": null,
+"price": 9.76,
+"size": [
+4.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Pure-Vanilla-Extract-4-fl-oz-Liquid-Ambient-Plastic-Container/585133649",
+"price_range": null,
+"unit": "$39.04/pt",
+"read_at": "2026-10-18T04:30:00.804Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Pure Vanilla Extract, 4 fl oz (Liquid, Ambient, Plastic Container) | Great Value pure vanilla extract"
+}
+},
+{
+"chain": "walmart",
+"type": "cinnamon",
+"name": "Great Value Kosher Ground Cinnamon, 2.5 oz",
+"brand": null,
+"price": 1.27,
+"size": [
+2.5,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Kosher-Ground-Cinnamon-2-5-oz/533272737",
+"price_range": null,
+"unit": "$8.13/lb",
+"read_at": "2026-10-18T04:30:06.517Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Kosher Ground Cinnamon | Great Value ground cinnamon"
+}
+},
+{
+"chain": "walmart",
+"type": "cinnamon",
+"name": "Great Value Ground Cinnamon, 4.2 oz",
+"brand": null,
+"price": 4.22,
+"size": [
+4.2,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Ground-Cinnamon-4-2-oz/349500889",
+"price_range": null,
+"unit": "$16.08/lb",
+"read_at": "2026-10-18T04:30:06.517Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-66MW0SA",
+"OUV7-E99FBBA",
+"OUV7-NVBLK6Z",
+"OUV7-U2AUCIN",
+"OUV7-UHLI9CF"
+],
+"ou_names": [
+"Great Value | Ground Cinnamon"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Ground Cinnamon"
+}
+},
+{
+"chain": "walmart",
+"type": "cinnamon",
+"name": "Great Value Ground Cinnamon, 18 oz",
+"brand": null,
+"price": 10.96,
+"size": [
+18.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Ground-Cinnamon-18-oz/46861999",
+"price_range": null,
+"unit": "$9.74/lb",
+"read_at": "2026-10-18T04:30:06.517Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"why": "",
+"agency": "OU",
+"ids": [
+"OUV7-66MW0SA",
+"OUV7-E99FBBA",
+"OUV7-NVBLK6Z",
+"OUV7-U2AUCIN",
+"OUV7-UHLI9CF"
+],
+"ou_names": [
+"Great Value | Ground Cinnamon"
+],
+"dpm": [
+"Pareve"
+],
+"de": false,
+"symbols": [
+"OU"
+],
+"passover": [
+"N"
+],
+"status": [
+"Symbol required. Not Kosher for Passover."
+],
+"company": [
+"Walmart Inc."
+],
+"query": "Great Value Ground Cinnamon"
+}
+},
+{
+"chain": "walmart",
+"type": "seltzer",
+"name": "Great Value Sodium Free Seltzer Water, 33.8 fl oz",
+"brand": null,
+"price": 0.97,
+"size": [
+33.8,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Sodium-Free-Seltzer-Water-33-8-fl-oz/10448349",
+"price_range": null,
+"unit": "91.8 \u00a2/qt",
+"read_at": "2026-10-18T04:30:12.032Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": false,
+"why": "not found on OU product search",
+"query": "Great Value Sodium Free Seltzer Water, 33.8 fl oz | Great Value plain seltzer"
+}
+},
+{
+"chain": "walmart",
+"type": "foil",
+"name": "Great Value Aluminum Foil, 25 sq ft",
+"brand": null,
+"price": 1.82,
+"size": [
+25.0,
+"sq ft"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Aluminum-Foil-25-sq-ft/347036114",
+"price_range": null,
+"unit": "$7.28/100sq ft",
+"read_at": "2026-10-18T04:30:17.360Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "foil",
+"name": "Great Value Aluminum Foil, 75 sq ft",
+"brand": null,
+"price": 4.83,
+"size": [
+75.0,
+"sq ft"
+],
+"url": "https://www.walmart.com/ip/Great-Value-75-sq-ft-Aluminum-Foil/121815660",
+"price_range": null,
+"unit": "$6.44/100sq ft",
+"read_at": "2026-10-18T04:30:17.360Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "foil",
+"name": "Great Value Aluminum Foil, 225 sq ft",
+"brand": null,
+"price": 12.28,
+"size": [
+225.0,
+"sq ft"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Aluminum-Foil-225-sq-ft/877246154",
+"price_range": null,
+"unit": "$5.46/100sq ft",
+"read_at": "2026-10-18T04:30:17.360Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "foil",
+"name": "Great Value Aluminum Foil, 150 sq ft",
+"brand": null,
+"price": 8.98,
+"size": [
+150.0,
+"sq ft"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Aluminum-Foil-150-sq-ft/923885699",
+"price_range": null,
+"unit": "$5.99/100sq ft",
+"read_at": "2026-10-18T04:30:17.360Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "plastic_wrap",
+"name": "Great Value Plastic Wrap, 200 Sq ft",
+"brand": null,
+"price": 2.14,
+"size": [
+200.0,
+"sq ft"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Plastic-Wrap-200-Sq-ft/184907101",
+"price_range": null,
+"unit": "$1.07/100sq ft",
+"read_at": "2026-10-18T04:30:23.347Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "plastic_wrap",
+"name": "Great Value Plastic Wrap, Clear, 200 sq ft",
+"brand": null,
+"price": 2.14,
+"size": [
+200.0,
+"sq ft"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Plastic-Wrap-Clear-200-sq-ft/11046698",
+"price_range": null,
+"unit": "$1.07/100sq ft",
+"read_at": "2026-10-18T04:30:23.347Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "dish_soap",
+"name": "Great Value Ultra Dish Liquid, Original, 28 fl oz",
+"brand": null,
+"price": 2.46,
+"size": [
+28.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Ultra-Dish-Liquid-Original-28-fl-oz/1906762981",
+"price_range": null,
+"unit": "$2.81/qt",
+"read_at": "2026-10-18T04:30:28.877Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "dish_soap",
+"name": "Great Value Ultra Original Dish Liquid, 70 fl oz",
+"brand": null,
+"price": 6.14,
+"size": [
+70.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Ultra-Original-Dish-Liquid-70-fl-oz/18610906544",
+"price_range": null,
+"unit": "$2.81/qt",
+"read_at": "2026-10-18T04:30:28.877Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "dish_soap",
+"name": "Great Value Ultra Original Dish Liquid, 90 fl oz",
+"brand": null,
+"price": 7.14,
+"size": [
+90.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Ultra-Original-Dish-Liquid-90-fl-oz/18611056326",
+"price_range": null,
+"unit": "$2.54/qt",
+"read_at": "2026-10-18T04:30:28.877Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "dish_soap",
+"name": "Great Value Ultra Original Dish Liquid, 18 fl oz",
+"brand": null,
+"price": 1.96,
+"size": [
+18.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Ultra-Original-Dish-Liquid-18-fl-oz/18610204851",
+"price_range": null,
+"unit": "$3.48/qt",
+"read_at": "2026-10-18T04:30:28.877Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "dish_soap",
+"name": "Great Value Ultra Dish Liquid, Original, 40 fl oz",
+"brand": null,
+"price": 4.52,
+"size": [
+40.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Ultra-Dish-Liquid-Original-40-fl-oz/1572710895",
+"price_range": null,
+"unit": "$3.62/qt",
+"read_at": "2026-10-18T04:30:28.877Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "dish_soap",
+"name": "Great Value Ultra Original Dish Liquid, 75 fl oz",
+"brand": null,
+"price": 6.14,
+"size": [
+75.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Ultra-Original-Dish-Liquid-75-fl-oz/1716496308",
+"price_range": null,
+"unit": "$2.62/qt",
+"read_at": "2026-10-18T04:30:28.877Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "bleach",
+"name": "Great Value Bleach, 43 fl oz",
+"brand": null,
+"price": 3.47,
+"size": [
+43.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Regular-Bleach-43-fl-oz/464093049",
+"price_range": null,
+"unit": "8.1 \u00a2/fl oz",
+"read_at": "2026-10-18T04:30:34.107Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "bleach",
+"name": "Great Value Bleach, 81 fl oz",
+"brand": null,
+"price": 4.88,
+"size": [
+81.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Bleach-81-fl-oz/343228788",
+"price_range": null,
+"unit": "$1.93/qt",
+"read_at": "2026-10-18T04:30:34.107Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "bleach",
+"name": "Great Value Concentrated Liquid Bleach, 121 fl oz",
+"brand": null,
+"price": 6.67,
+"size": [
+121.0,
+"oz"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Bleach-121-fl-oz/629539844",
+"price_range": null,
+"unit": "5.5 \u00a2/fl oz",
+"read_at": "2026-10-18T04:30:34.107Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "trash_13",
+"name": "Great Value 13 Gallon Strong Flex Tall Kitchen Drawstring Bags, 40 Bags",
+"brand": null,
+"price": 7.44,
+"size": [
+40.0,
+"ct"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Strong-Flex-Tall-Kitchen-Drawstring-Bags-13-Gallon-40-Count-20-PCR/17408919272",
+"price_range": null,
+"unit": "18.6 \u00a2/count",
+"read_at": "2026-10-18T04:30:39.603Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "trash_13",
+"name": "Great Value Tall Kitchen Drawstring Trash Bags, 13 gal, 80 Count",
+"brand": null,
+"price": 8.87,
+"size": [
+80.0,
+"ct"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Kitchen-Tall-Drawstring-Bags-13-Gallon-80-Count/814169793",
+"price_range": null,
+"unit": "$11.09/100ct",
+"read_at": "2026-10-18T04:30:39.603Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+},
+{
+"chain": "walmart",
+"type": "zip_gallon",
+"name": "Great Value Twist Tie Storage Bags, Gallon, 100 Count",
+"brand": null,
+"price": 3.86,
+"size": [
+100.0,
+"ct"
+],
+"url": "https://www.walmart.com/ip/Great-Value-Twist-Tie-Storage-Bags-Gallon-100-Count/11303925",
+"price_range": null,
+"unit": "$3.86/100ct",
+"read_at": "2026-10-18T04:30:45.027Z",
+"in_store_only": null,
+"own_brand": "Great Value",
+"k": {
+"ok": true,
+"agency": "none",
+"why": "",
+"nonfood": true
+}
+}
+]

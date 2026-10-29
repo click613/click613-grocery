@@ -1,0 +1,794 @@
+{
+ "v": 1,
+ "built": "2026-10-27T09:40:19Z",
+ "cities": [
+  {
+   "key": "lakewood",
+   "name": "Lakewood",
+   "short": "Lakewood",
+   "web": "https://lakewoodprices.sites.tab.bot/",
+   "words": [
+    "lakewood",
+    "toms river",
+    "jackson",
+    "howell",
+    "lkwd"
+   ],
+   "updated": "2026-10-27T09:08:44+0000",
+   "index": "https://click613grocery-api.sites.tab.bot/api/lakewood/index.json",
+   "sales": "https://click613grocery-api.sites.tab.bot/api/lakewood/sales.json",
+   "stores": [
+    {
+     "name": "Seasons Lakewood",
+     "town": "Lakewood",
+     "checked": "2026-10-27T09:05:14+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Seasons Toms River",
+     "town": "Toms River",
+     "checked": "2026-10-27T09:08:44+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Nutmeg Kosher Market",
+     "town": "Lakewood",
+     "checked": "2026-10-27T09:02:44+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Aisle 9 Lakewood",
+     "town": "Lakewood",
+     "checked": "2026-10-27T09:02:08+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Aisle 9 Jackson",
+     "town": "Jackson",
+     "checked": "2026-10-27T09:05:12+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Super Stop",
+     "town": "Lakewood",
+     "checked": "2026-10-27T09:01:57+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Kosher West",
+     "town": "Lakewood",
+     "checked": "2026-10-27T09:02:31+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Kosher Village",
+     "town": "Lakewood",
+     "checked": "2026-10-27T09:03:05+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Evergreen Kosher",
+     "town": "Lakewood",
+     "checked": "2026-10-27T09:04:53+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Gourmet Glatt",
+     "town": "Lakewood",
+     "checked": "2026-10-27T09:04:56+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "NPGS",
+     "town": "Jackson",
+     "checked": "2026-10-27T09:04:33+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Foodex",
+     "town": "Lakewood",
+     "checked": "2026-10-27T09:03:09+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Bingo (approx.)",
+     "town": "Lakewood",
+     "checked": "2026-10-18T12:00:00+0000",
+     "approx": true,
+     "note": "Bingo has no price website. Estimated from Bingo's Instacart prices with Instacart's 17.5% markup removed, read Oct 18. Confirm in store."
+    }
+   ],
+   "big_chains": [
+    "Walmart",
+    "Aldi",
+    "Amazon",
+    "Costco",
+    "Stop & Shop",
+    "Lidl"
+   ]
+  },
+  {
+   "key": "boropark",
+   "name": "Brooklyn: Boro Park & Flatbush",
+   "short": "Boro Park & Flatbush",
+   "web": "https://brooklynprices.sites.tab.bot/",
+   "words": [
+    "boro park",
+    "borough park",
+    "boropark",
+    "bp",
+    "flatbush",
+    "midwood",
+    "kensington",
+    "brooklyn"
+   ],
+   "updated": "2026-10-27T08:26:58+0000",
+   "index": "https://click613grocery-api.sites.tab.bot/api/boropark/index.json",
+   "sales": "https://click613grocery-api.sites.tab.bot/api/boropark/sales.json",
+   "stores": [
+    {
+     "name": "Breadberry",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:26:58+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Certo Market",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:19:43+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Mega 53 Market",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:20:24+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Landau's Kosher Supermarket",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:19:09+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Mountain Fruit",
+     "town": "Flatbush",
+     "checked": "2026-10-27T08:18:01+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Einhorn's Supermarket",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:18:34+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Paperific Supermarket",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:17:49+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Fischman's Grocery",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:17:37+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Wiesner's Market",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:17:20+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Rubin's Grocery",
+     "town": "Boro Park",
+     "checked": "2026-10-26T09:10:19+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Posner's Food Center",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:18:32+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Appel's Grocery",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:18:34+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Spot Kosher Market Boro Park",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:18:57+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Kol Tuv Supermarket",
+     "town": "Boro Park",
+     "checked": "2026-10-27T08:19:35+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Moisha's Discount Supermarket",
+     "town": "Flatbush",
+     "checked": "2026-10-27T08:19:15+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Pomegranate",
+     "town": "Flatbush",
+     "checked": "2026-10-27T08:20:06+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Glatt Mart",
+     "town": "Flatbush",
+     "checked": "2026-10-27T08:19:00+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Kosher Corner Supermarket",
+     "town": "Flatbush",
+     "checked": "2026-10-27T08:18:34+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Bingo (approx.)",
+     "town": "Boro Park",
+     "checked": "2026-10-18T12:00:00+0000",
+     "approx": true,
+     "note": "Bingo has no price website. Estimated from Bingo's Instacart prices with Instacart's 17.5% markup removed, read Oct 18. Confirm in store."
+    }
+   ],
+   "big_chains": [
+    "Walmart via Instacart",
+    "Aldi",
+    "Amazon",
+    "Costco",
+    "Stop & Shop via Instacart (approx.)",
+    "Lidl"
+   ]
+  },
+  {
+   "key": "williamsburg",
+   "name": "Brooklyn: Williamsburg",
+   "short": "Williamsburg",
+   "web": "https://williamsburgprices.sites.tab.bot/",
+   "words": [
+    "williamsburg",
+    "wburg",
+    "w burg",
+    "willy",
+    "vilyamsburg"
+   ],
+   "updated": "2026-10-27T08:21:51+0000",
+   "index": "https://click613grocery-api.sites.tab.bot/api/williamsburg/index.json",
+   "sales": "https://click613grocery-api.sites.tab.bot/api/williamsburg/sales.json",
+   "stores": [
+    {
+     "name": "Rosemary Kosher Supermarket",
+     "town": "Williamsburg",
+     "checked": "2026-10-27T08:19:02+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "All Fresh Supermarket",
+     "town": "Williamsburg",
+     "checked": "2026-10-27T08:18:09+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Schwartz Supermarket",
+     "town": "Williamsburg",
+     "checked": "2026-10-27T08:20:00+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Food Pyramid",
+     "town": "Williamsburg",
+     "checked": "2026-10-27T08:19:58+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Southside Food Plaza",
+     "town": "Williamsburg",
+     "checked": "2026-10-27T08:19:54+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Spot Kosher Market Williamsburg",
+     "town": "Williamsburg",
+     "checked": "2026-10-27T08:20:11+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Hatzlacha Supermarket",
+     "town": "Williamsburg",
+     "checked": "2026-10-27T08:21:51+0000",
+     "approx": false,
+     "note": null
+    }
+   ],
+   "big_chains": [
+    "Walmart via Instacart",
+    "Aldi",
+    "Amazon",
+    "Costco",
+    "Stop & Shop via Instacart (approx.)",
+    "Lidl"
+   ]
+  },
+  {
+   "key": "crownheights",
+   "name": "Brooklyn: Crown Heights",
+   "short": "Crown Heights",
+   "web": "https://crownheightsprices.sites.tab.bot/",
+   "words": [
+    "crown heights",
+    "crownheights",
+    "ch"
+   ],
+   "updated": "2026-10-27T08:19:15+0000",
+   "index": "https://click613grocery-api.sites.tab.bot/api/crownheights/index.json",
+   "sales": "https://click613grocery-api.sites.tab.bot/api/crownheights/sales.json",
+   "stores": [
+    {
+     "name": "The Market Place (KosherFamily)",
+     "town": "Crown Heights",
+     "checked": "2026-10-27T08:19:09+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Empire Kosher Supermarket",
+     "town": "Crown Heights",
+     "checked": "2026-10-27T08:18:16+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Kahan's Superette",
+     "town": "Crown Heights",
+     "checked": "2026-10-27T08:19:15+0000",
+     "approx": false,
+     "note": null
+    }
+   ],
+   "big_chains": [
+    "Walmart via Instacart",
+    "Aldi",
+    "Amazon",
+    "Costco",
+    "Stop & Shop via Instacart (approx.)",
+    "Lidl"
+   ]
+  },
+  {
+   "key": "fivetowns",
+   "name": "Five Towns",
+   "short": "Five Towns",
+   "web": "https://fivetownsprices.sites.tab.bot/",
+   "words": [
+    "five towns",
+    "5 towns",
+    "fivetowns",
+    "5towns",
+    "lawrence",
+    "cedarhurst",
+    "woodmere",
+    "inwood",
+    "hewlett"
+   ],
+   "updated": "2026-10-27T08:36:08+0000",
+   "index": "https://click613grocery-api.sites.tab.bot/api/fivetowns/index.json",
+   "sales": "https://click613grocery-api.sites.tab.bot/api/fivetowns/sales.json",
+   "stores": [
+    {
+     "name": "Seasons Lawrence",
+     "town": "Lawrence",
+     "checked": "2026-10-27T08:22:32+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "I & D Glatt Market",
+     "town": "West Hempstead",
+     "checked": "2026-10-27T08:36:08+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Gourmet Glatt",
+     "town": "Cedarhurst",
+     "checked": "2026-10-27T08:23:00+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Rockaway Kosher",
+     "town": "Far Rockaway",
+     "checked": "2026-10-27T08:21:43+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Bingo (approx.)",
+     "town": "Inwood",
+     "checked": "2026-10-18T12:00:00+0000",
+     "approx": true,
+     "note": "Bingo has no price website. Estimated from Bingo's Instacart prices with Instacart's 17.5% markup removed, read Oct 18. Confirm in store."
+    }
+   ],
+   "big_chains": [
+    "Walmart via Instacart",
+    "Aldi",
+    "Amazon",
+    "Costco",
+    "Stop & Shop via Instacart (approx.)",
+    "Lidl"
+   ]
+  },
+  {
+   "key": "monsey",
+   "name": "Monsey",
+   "short": "Monsey",
+   "web": "https://monseyprices.sites.tab.bot/",
+   "words": [
+    "monsey",
+    "spring valley",
+    "new square",
+    "nanuet",
+    "pomona",
+    "airmont",
+    "wesley hills",
+    "suffern"
+   ],
+   "updated": "2026-10-27T08:37:28+0000",
+   "index": "https://click613grocery-api.sites.tab.bot/api/monsey/index.json",
+   "sales": "https://click613grocery-api.sites.tab.bot/api/monsey/sales.json",
+   "stores": [
+    {
+     "name": "Rockland Kosher Supermarket",
+     "town": "Monsey",
+     "checked": "2026-10-27T08:37:28+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Pineapple Supermarket",
+     "town": "Spring Valley",
+     "checked": "2026-10-27T08:24:40+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Madanim Supermarket",
+     "town": "New Square",
+     "checked": "2026-10-27T08:23:41+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "NPGS Door2Door (delivery)",
+     "town": "Nanuet",
+     "checked": "2026-10-27T08:25:06+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Evergreen Kosher Market",
+     "town": "Monsey",
+     "checked": "2026-10-27T08:27:35+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Wesley Kosher",
+     "town": "Monsey",
+     "checked": "2026-10-26T09:20:16+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Monsey Glatt",
+     "town": "Monsey",
+     "checked": "2026-10-27T08:27:32+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Newday Market",
+     "town": "Airmont",
+     "checked": "2026-10-27T08:26:41+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Bingo (approx.)",
+     "town": "Spring Valley",
+     "checked": "2026-10-18T12:00:00+0000",
+     "approx": true,
+     "note": "Bingo has no price website. Estimated from Bingo's Instacart prices with Instacart's 17.5% markup removed, read Oct 18. Confirm in store."
+    }
+   ],
+   "big_chains": [
+    "Walmart via Instacart",
+    "Aldi",
+    "Amazon",
+    "Costco",
+    "Stop & Shop via Instacart (approx.)",
+    "Lidl"
+   ]
+  },
+  {
+   "key": "kj",
+   "name": "KJ / Monroe",
+   "short": "KJ / Monroe",
+   "web": "https://kjprices.sites.tab.bot/",
+   "words": [
+    "kj",
+    "kiryas joel",
+    "kiryas yoel",
+    "monroe",
+    "palm tree"
+   ],
+   "updated": "2026-10-27T08:24:08+0000",
+   "index": "https://click613grocery-api.sites.tab.bot/api/kj/index.json",
+   "sales": "https://click613grocery-api.sites.tab.bot/api/kj/sales.json",
+   "stores": [
+    {
+     "name": "Landau's Supermarket KJ",
+     "town": "Monroe",
+     "checked": "2026-10-27T08:22:56+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Healthway Shop (health food)",
+     "town": "Kiryas Joel",
+     "checked": "2026-10-27T08:22:49+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Gesheft",
+     "town": "Kiryas Joel",
+     "checked": "2026-10-27T08:24:08+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Refresh Supermarket",
+     "town": "Kiryas Joel",
+     "checked": "2026-10-27T08:23:44+0000",
+     "approx": false,
+     "note": null
+    }
+   ],
+   "big_chains": []
+  },
+  {
+   "key": "teaneck",
+   "name": "Teaneck",
+   "short": "Teaneck",
+   "web": "https://teaneckprices.sites.tab.bot/",
+   "words": [
+    "teaneck",
+    "bergenfield",
+    "fair lawn",
+    "fairlawn",
+    "englewood",
+    "new milford"
+   ],
+   "updated": "2026-10-27T08:37:30+0000",
+   "index": "https://click613grocery-api.sites.tab.bot/api/teaneck/index.json",
+   "sales": "https://click613grocery-api.sites.tab.bot/api/teaneck/sales.json",
+   "stores": [
+    {
+     "name": "Grand & Essex Market",
+     "town": "Bergenfield",
+     "checked": "2026-10-27T08:27:35+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Food Showcase",
+     "town": "Fair Lawn",
+     "checked": "2026-10-27T08:27:52+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Glatt Express",
+     "town": "Teaneck",
+     "checked": "2026-10-26T09:22:34+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Cedar Market",
+     "town": "Teaneck",
+     "checked": "2026-10-27T08:37:30+0000",
+     "approx": false,
+     "note": null
+    }
+   ],
+   "big_chains": []
+  },
+  {
+   "key": "passaic",
+   "name": "Passaic / Clifton",
+   "short": "Passaic / Clifton",
+   "web": "https://passaicprices.sites.tab.bot/",
+   "words": [
+    "passaic",
+    "clifton"
+   ],
+   "updated": "2026-10-27T08:37:30+0000",
+   "index": "https://click613grocery-api.sites.tab.bot/api/passaic/index.json",
+   "sales": "https://click613grocery-api.sites.tab.bot/api/passaic/sales.json",
+   "stores": [
+    {
+     "name": "Food Showcase",
+     "town": "Fair Lawn",
+     "checked": "2026-10-27T08:27:52+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Grand & Essex Market",
+     "town": "Bergenfield",
+     "checked": "2026-10-27T08:27:35+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Aisle One",
+     "town": "Passaic",
+     "checked": "2026-10-26T09:24:22+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Glatt Express",
+     "town": "Teaneck",
+     "checked": "2026-10-26T09:22:34+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Cedar Market",
+     "town": "Teaneck",
+     "checked": "2026-10-27T08:37:30+0000",
+     "approx": false,
+     "note": null
+    }
+   ],
+   "big_chains": []
+  },
+  {
+   "key": "queens",
+   "name": "Queens (Kew Gardens Hills)",
+   "short": "Queens",
+   "web": "https://queensprices.sites.tab.bot/",
+   "words": [
+    "queens",
+    "kew gardens hills",
+    "kew gardens",
+    "kgh",
+    "flushing",
+    "forest hills",
+    "rego park",
+    "fresh meadows",
+    "jamaica estates",
+    "hillcrest"
+   ],
+   "updated": "2026-10-27T08:25:48+0000",
+   "index": "https://click613grocery-api.sites.tab.bot/api/queens/index.json",
+   "sales": "https://click613grocery-api.sites.tab.bot/api/queens/sales.json",
+   "stores": [
+    {
+     "name": "Seasons Queens",
+     "town": "Kew Gardens Hills",
+     "checked": "2026-10-26T09:17:31+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Wasserman Supermarket",
+     "town": "Kew Gardens Hills",
+     "checked": "2026-10-27T08:25:48+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Aron's Kissena Farms",
+     "town": "Queens",
+     "checked": "2026-10-26T09:22:54+0000",
+     "approx": false,
+     "note": null
+    }
+   ],
+   "big_chains": []
+  },
+  {
+   "key": "farrockaway",
+   "name": "Far Rockaway",
+   "short": "Far Rockaway",
+   "web": "https://farrockawayprices.sites.tab.bot/",
+   "words": [
+    "far rockaway",
+    "rockaway",
+    "far rock",
+    "bayswater",
+    "wavecrest",
+    "arverne"
+   ],
+   "updated": "2026-10-27T08:23:00+0000",
+   "index": "https://click613grocery-api.sites.tab.bot/api/farrockaway/index.json",
+   "sales": "https://click613grocery-api.sites.tab.bot/api/farrockaway/sales.json",
+   "stores": [
+    {
+     "name": "Seasons Lawrence",
+     "town": "Lawrence",
+     "checked": "2026-10-27T08:22:32+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Rockaway Kosher",
+     "town": "Far Rockaway",
+     "checked": "2026-10-27T08:21:43+0000",
+     "approx": false,
+     "note": null
+    },
+    {
+     "name": "Gourmet Glatt",
+     "town": "Cedarhurst",
+     "checked": "2026-10-27T08:23:00+0000",
+     "approx": false,
+     "note": null
+    }
+   ],
+   "big_chains": []
+  }
+ ]
+}

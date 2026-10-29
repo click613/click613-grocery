@@ -1,0 +1,202 @@
+{
+"chain": "Amazon",
+"store": "Amazon.com online (price varies, may include shipping)",
+"source": "amazon.com public search pages",
+"read_at": "2026-10-16T04:45:18.776Z",
+"status": "ok",
+"note": "Searched on amazon.com by name. Listing price as shown, often a third-party seller, so prices vary and may include shipping. Listings far above the local stores' price are left out.",
+"items": [
+{
+"upc": "710069017405",
+"name": "GefenMayonnaise, Lite, 32 Ounce 32 Ounce",
+"size": "32 Oz",
+"price": 19.99,
+"url": "https://www.amazon.com/dp/B0012GSGB6",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490128332",
+"name": "kedemSparkling Blush Grape Juice, 25.4 oz Blush25.4 Fl Oz (Pack of 1)",
+"size": "25.4 Oz",
+"price": 16.49,
+"url": "https://www.amazon.com/dp/B000YG51MM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "49200056004",
+"name": "DominoSugar, Sugar Dark Brown, 16 Ounce 16 Ounce (Pack of 1)",
+"size": "1 Lb",
+"price": 2.49,
+"url": "https://www.amazon.com/dp/B01GHECGE0",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73416197633",
+"name": "LundbergShort Grain Brown Rice, Regenerative Organic Certified \u2013 Slightly Nutty, Sticky Rice Responsibly Grown in California, 32 Oz",
+"size": "32 Oz",
+"price": 8.49,
+"url": "https://www.amazon.com/dp/B001O8MOMO",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "19900338021",
+"name": "Davis Double Acting Baking Powder, 8.1 Ounce 8.1 Ounce (Pack of 1)",
+"size": "8.1 Oz",
+"price": 6.61,
+"url": "https://www.amazon.com/dp/B005ER56CG",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490123849",
+"name": "kedemTea Biscuit Chocolate, 4.2 Oz 4.2 Ounce (Pack of 1)",
+"size": "4.2 Oz",
+"price": 0.79,
+"url": "https://www.amazon.com/dp/B0011BPNXG",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "70577000390",
+"name": "Wolffs Kasha Medium, 13 oz",
+"size": "13 Oz",
+"price": 6.69,
+"url": "https://www.amazon.com/dp/B0005ZIWV4",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "70577000383",
+"name": "Wolffs Kasha Whole, 13 oz 13 Ounce (Pack of 1)",
+"size": "13 Oz",
+"price": 9.95,
+"url": "https://www.amazon.com/dp/B0005ZGHWK",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "54600105689",
+"name": "FantastikAll Purpose Cleaner with Bleach, Removes Grease & Mold, 32 oz Multisurface Cleaner Eliminates Tough Stains with Bleach, Removes Grease, Food, Mold, Stains & More",
+"size": "32 Oz",
+"price": 3.64,
+"url": "https://www.amazon.com/dp/B005Y2WVUG",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "17929000202",
+"name": "Red Star, Yeast Active Dry, 0.25 Ounce, 3 Count-SET OF 2",
+"size": "0.25 oz",
+"price": 8.99,
+"url": "https://www.amazon.com/dp/B08KY31J8X",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "70227500010",
+"name": "Streit'sMatzos Lightly Salted, 11 Ounce Organic11 Ounce (Pack of 1)",
+"size": "11 Oz",
+"price": 9.75,
+"url": "https://www.amazon.com/dp/B0083CQZNS",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "70227500065",
+"name": "Streits Whole Wheat Matzos, 11 OZ Whole Wheat Matzo11 Ounce (Pack of 1)",
+"size": "11 Oz",
+"price": 5.47,
+"url": "https://www.amazon.com/dp/B0DPHMLFCX",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "33200011101",
+"name": "ARM & HAMMERBaking Soda, 1 lb 100+ Household Uses, For Baking & Cleaning, Odor Control, Trusted For 170+ Years",
+"size": "1 Lb",
+"price": 1.69,
+"url": "https://www.amazon.com/dp/B000PYF8VM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "41570068366",
+"name": "Blue Diamond, Almond Milk Vanilla, 32 Fl Oz Vanilla",
+"size": "32 Oz",
+"price": 2.78,
+"url": "https://www.amazon.com/dp/B0005ZZMSK",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069044357",
+"name": "GefenCorn Starch, 100% Pure, 16oz Canister with Resealable Lid, Kosher, Great Flour Alternative, Twice the Thickening Power of Flour 16 Ounce (Pack of 1)",
+"size": "16 Oz",
+"price": 8.79,
+"url": "https://www.amazon.com/dp/B00DOBKBO2",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069021303",
+"name": "GefenCorn Whole Kernel 15.25 oz.",
+"size": "15.25 Oz",
+"price": 49.99,
+"url": "https://www.amazon.com/dp/B06X3RL3RW",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "41457043912",
+"name": "GOODYSmoothing Hairbrush with Natural Boar Bristles for Frizz Control, Flyaway Control, Smooth Shiny Finish, Wooden Styling Brush for All Hair Types 1 Count (Pack of 1)",
+"size": "1 Pc",
+"price": 7.28,
+"url": "https://www.amazon.com/dp/B00DLWO7D0",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490124426",
+"name": "Kedem Cooking Wine Red, 12.7 oz Red",
+"size": "12.7 Oz",
+"price": 3.29,
+"url": "https://www.amazon.com/dp/B004LTZLX2",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "23872002002",
+"name": "Manamim, Chocolate Wafers Cubites, 7 Ounce",
+"size": "7 Oz",
+"price": 11.67,
+"url": "https://www.amazon.com/dp/B0FM4DL4JZ",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "70881233064",
+"name": "BrilloStrip & Shine Steel Wool Balls, 6-Count",
+"size": "6 Pc",
+"price": 5.89,
+"url": "https://www.amazon.com/dp/B00423GRHQ",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "652010000077",
+"name": "Red Cross Table salt 26 oz 26 Ounce (Pack of 1)",
+"size": "26 Oz",
+"price": 7.99,
+"url": "https://www.amazon.com/dp/B004NY34GQ",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "41457015384",
+"name": "GOODYStyling Essentials Bobby Pins, Black, 2 Inches, 60 Count (Pack of 1) 60 Count (Pack of 1)",
+"size": "60 Ct",
+"price": 2.79,
+"url": "https://www.amazon.com/dp/B00ELDPMZK",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "815871017718",
+"name": "Lays, Grilled Pork Flavor Potato Chips, 6 Ounce",
+"size": "6 Oz",
+"price": 16.9,
+"url": "https://www.amazon.com/dp/B0GTVTRB7N",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "43427161039",
+"name": "Lieber'sRainbow Sprinkles, Kosher Jimmies Dessert Topping for Baking, 11oz Colorful Sprinkles for Ice Cream, Cookies, Cakes & Cupcakes, No Confectioner's Glaze, Easy-pour Shaker Bottle for Decorating",
+"size": "11 Oz",
+"price": 12.95,
+"url": "https://www.amazon.com/dp/B08TYGDCTJ",
+"note": "Amazon, price varies, may include shipping"
+}
+]
+}

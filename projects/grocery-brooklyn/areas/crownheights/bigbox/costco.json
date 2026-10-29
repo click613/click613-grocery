@@ -1,0 +1,9 @@
+{
+"chain": "Costco",
+"store": "costco.com online price",
+"source": "costco.com public search, one search per national brand",
+"read_at": "2026-10-16T05:13:18.060Z",
+"status": "ok",
+"note": "costco.com prices are public (no login). Costco sells most of these brands only as club multipacks, so same-size matches are rare.",
+"items": []
+}

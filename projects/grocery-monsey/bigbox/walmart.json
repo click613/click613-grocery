@@ -1,0 +1,18 @@
+{
+ "chain": "Walmart via Instacart",
+ "store": "in-store prices per Instacart (Instacart lists Walmart with “No markups”) · read Oct 18",
+ "source": "Instacart's Walmart storefront for this area's address, read logged out",
+ "read_at": "2026-10-18T08:18:56.714Z",
+ "status": "name_size",
+ "note": "Read on Instacart's Walmart storefront for this area (logged out, Oct 18). Instacart lists Walmart with “No markups”, so prices are shown as listed. Matched by exact brand, product and size (Instacart shows no barcodes). Instacart's delivery and service fees are not included.",
+ "items": [
+  {
+   "upc": "30772199381",
+   "name": "Febreze Air Mist Air Freshener Spray, Linen & Sky Scent · 8.1 oz",
+   "size": "8.1 oz",
+   "price": 3.44,
+   "url": "https://www.instacart.com/products/90266230-febreze-air-linen-and-sky?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  }
+ ]
+}

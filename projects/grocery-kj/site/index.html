@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en" data-city="kj">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>KJ / Monroe Grocery Prices: compare kosher stores</title>
+<meta name="description" content="Compare kosher grocery prices across Kiryas Joel and Monroe stores. Prices come from each store's own website.">
+<meta property="og:title" content="KJ / Monroe Grocery Prices">
+<meta property="og:description" content="Kosher grocery prices side by side across Kiryas Joel and Monroe. By Click613.">
+<meta name="theme-color" content="#1e4d35">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500;700&family=Heebo:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=20261027r0816">
+<link rel="stylesheet" href="chains.css?v=20261027r0816">
+<script src="cities.js"></script>
+<script>(function(){var q=new URLSearchParams(location.search);var c=document.documentElement.classList;if(q.get('skin')==='click613'||(/^kjprices\./.test(location.hostname)&&q.get('skin')!=='luach'))c.add('skin-click613');if(q.get('embed')==='1')c.add('embed');})();</script>
+</head>
+<body>
+<header class="top" id="top">
+  <div class="wrap brand">
+    <a class="mark luach-only" href="https://thelakewoodluach.com/" target="_top"><span class="m1">The Lakewood Luach</span></a>
+    <a class="mark c613-only" href="https://click613.com/" target="_top"><img src="click613-wordmark.png" alt="Click613" width="160" height="34"></a>
+    <h1>KJ / Monroe Grocery Prices</h1>
+  </div>
+</header>
+<main class="wrap" id="main">
+  <nav class="cities" id="cities" aria-label="City"></nav>
+  <aside class="c613wa" aria-label="Click613 on WhatsApp">
+    <h2>Click613 on WhatsApp</h2>
+    <a class="wa1" href="https://wa.me/18484808677" target="_blank" rel="noopener">Chat with the Click613 bot · <span class="wan">848-480-8677</span></a>
+    <a class="wa2" href="https://wa.me/16467251420" target="_blank" rel="noopener">Get our WhatsApp Status updates · <span class="wan">646-725-1420</span></a>
+    <p class="wasub">Save <span class="wan">646-725-1420</span> in your contacts to see our Status</p>
+  </aside>
+  <p class="updated" id="updated">Loading prices…</p>
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="items" aria-selected="true">Prices</button>
+    <button role="tab" data-tab="sales" aria-selected="false">Best sales <span id="salescount" class="pill sale" hidden>0</span></button>
+    <button role="tab" data-tab="chains" aria-selected="false">Big chains</button>
+    <button role="tab" data-tab="order" aria-selected="false">My list <span id="ordercount" class="pill" hidden>0</span></button>
+    <button role="tab" data-tab="flyers" aria-selected="false">Flyer specials <span id="flyercount" class="pill" hidden>0</span></button>
+    <button role="tab" data-tab="stores" aria-selected="false">Stores</button>
+    <button role="tab" data-tab="how" aria-selected="false">How it works</button>
+  </nav>
+
+  <section id="tab-items" class="tab">
+    <div class="salesteaser" id="salesteaser" hidden></div>
+    <div class="search"><input id="q" type="search" placeholder="Search: eggs, challah, Kedem 64 oz…" autocomplete="off" aria-label="Search products"></div>
+    <div class="filters">
+      <select id="dept" aria-label="Category"><option value="">All categories</option></select>
+      <select id="store" aria-label="Store"><option value="">All stores</option></select>
+    </div>
+    <div class="chips" role="group" aria-label="Show">
+      <button class="chip" data-mode="all" aria-pressed="true">Top items</button>
+      <button class="chip" data-mode="multi" aria-pressed="false">At 2+ stores</button>
+      <button class="chip" data-mode="sale" aria-pressed="false">On sale</button>
+    </div>
+    <div class="deptchips" id="deptchips" aria-label="Browse by category"></div>
+    <p class="count" id="count"></p>
+    <ol class="list" id="list"></ol>
+    <button class="more" id="more" hidden>Show more</button>
+  </section>
+
+  <section id="tab-sales" class="tab" hidden>
+    <div id="sales"><p class="hint">Loading sales…</p></div>
+  </section>
+
+  <section id="tab-order" class="tab" hidden>
+    <p class="hint">Tap “+ Add” on any item. Your list stays on this phone; nothing personal is collected.</p>
+    <ol class="olist" id="olist"></ol>
+    <div id="totals"></div>
+    <div id="towns"></div>
+    <button class="ghost" id="clear" hidden>Clear my list</button>
+    <div id="shopview" hidden></div>
+  </section>
+
+  <section id="tab-flyers" class="tab" hidden>
+    <h3>Weekly flyer specials</h3>
+    <p class="hint">From each store's own weekly flyer, with the dates it runs. Expired specials are hidden.</p>
+    <div id="flyers"></div>
+  </section>
+
+  <section id="tab-stores" class="tab" hidden>
+    <p class="hint">Delivery and pickup details are from each store's own website. Please confirm with the store.</p>
+    <div id="storelist"></div>
+    <div id="bigstores"></div>
+    <h3>Coming soon</h3>
+    <ul class="soon" id="soon"></ul>
+  </section>
+
+  <section id="tab-chains" class="tab" hidden>
+    <h3>Kosher alternatives at big chains</h3>
+    <p class="bc-intro"><b>Aldi, Lidl, Amazon and Costco</b> mostly sell their own brands, so the exact same product usually isn't there. Each KJ / Monroe kosher-store item below sits next to a <b>similar item, not the same brand</b>, priced per ounce so the comparison is fair. An item shows only if its hechsher was confirmed on the certifying agency's own product list.</p>
+    <p class="bc-note">Similar item, not the same brand. Compared per ounce (or per count). Always check the hechsher on the package and ask your Rav. Click613 does not certify kashrus.</p>
+    <div class="bc-controls">
+      <input id="bc-q" type="search" placeholder="Search: ketchup, oil, rice, foil…" autocomplete="off" aria-label="Search big-chain items">
+      <div class="bc-depts" id="bc-depts" role="group" aria-label="Category"></div>
+    </div>
+    <div id="bc-list"><p class="hint">Loading…</p></div>
+    <section class="bc-box" id="bc-rules"></section>
+    <section class="bc-box" id="bc-src"></section>
+    <p class="bc-foot" id="bc-built"></p>
+    <p class="disclaimer">Big-chain prices are read from each chain's public website and can differ in your local store. They are not in the KJ / Monroe totals. Similar item, not the same brand; check the hechsher on the package and ask your Rav. Click613 does not certify kashrus.</p>
+  </section>
+
+  <section id="tab-how" class="tab" hidden>
+    <h3>How it works</h3>
+    <ul class="how">
+      <li>We read each store's public online price list, the same prices you see on its website. The time of the last read is shown at the top.</li>
+      <li>We match items by barcode first. Without a barcode, we match only the exact same name and size, marked “matched by name”. Only items sold at 2 or more stores are listed.</li>
+      <li>Different sizes are never ranked against each other. Use the unit price (per oz, per lb or per count) to compare sizes.</li>
+      <li>Sale prices are shown as the store lists them, with the regular price crossed out. “4 for $5” deals are compared per item.</li>
+      <li>A price that looks like a different pack (for example a whole case under the same barcode) is greyed out and left out of totals.</li>
+      <li>“My list” adds up each store's prices for the items it carries, and says how many items it's missing.</li>
+      <li>“Best sales” lists only real sales: a store's own sale price next to its own regular price (from its website or its weekly flyer), ranked by % off. Items under $1, likely typos and “regular” prices far above other stores are left out. “Lowest in town by far” is not a sale: the same barcode, 25%+ cheaper than the next store.</li>
+      <li>“Flyer specials” are each store's weekly flyer specials, with the dates they run. They are not in the totals.</li>
+    </ul>
+    <p class="disclaimer">Prices come from each store's website; in-store prices may differ. Some stores need a minimum order for sale prices online. Always confirm with the store.</p>
+    <p class="hint">For the bot: <a href="meta.json">meta.json</a> · <a href="data.json.gz">data.json.gz</a> · <a href="api/search?q=eggs">/api/search?q=eggs</a></p>
+  </section>
+</main>
+<div class="c613legal-out" style="max-width:1100px;margin:16px auto 0;padding:0 16px"><p class="c613legal" style="margin:10px 0 6px;font-size:13px;line-height:1.45;color:inherit;opacity:.9">Prices are collected from public sources and may be wrong or out of date. Always confirm price, availability and kashrus in store. Click613 is not responsible for errors. <a href="disclaimer.html" target="_blank" rel="noopener" style="color:inherit;font-weight:700;text-decoration:underline">Terms &amp; disclaimer</a></p><style>.embed .c613legal-out{padding-bottom:84px!important}</style></div><!--/c613legal-->
+<footer class="foot">
+  <div class="wrap">
+    <p class="c613wa-slim">Click613 on WhatsApp: <a href="https://wa.me/18484808677" target="_blank" rel="noopener">bot 848-480-8677</a> · <a href="https://wa.me/16467251420" target="_blank" rel="noopener">Status 646-725-1420</a></p>
+    <p class="disclaimer">Prices come from each store's website; in-store prices may differ.</p>
+    <p class="small"><span class="luach-only">Brought to you by The Lakewood Luach and Click613.</span><span class="c613-only">Brought to you by Click613.</span> Questions or a store to add: <a href="mailto:admin@click613.com">admin@click613.com</a></p>
+  </div>
+</footer>
+<div class="obar" id="obar" hidden><button id="obarbtn"><span id="obartext"></span></button></div>
+<script src="app.js?v=20261027r0816"></script>
+<script src="deals.js"></script>
+<script src="shop.js"></script>
+<script src="chains.js?v=20261027r0816"></script>
+</body>
+</html>

@@ -1,0 +1,1058 @@
+{
+"built": "2026-10-27T08:37:39Z",
+"lakewood_updated": "2026-10-27T08:36:08+0000",
+"rules": {
+"accepted_agencies": {
+"OU": "Orthodox Union",
+"OK": "OK Kosher",
+"Star-K": "Star-K",
+"Kof-K": "Kof-K",
+"cRc": "Chicago Rabbinical Council"
+},
+"dairy_rule": "Only cholov yisroel dairy. Any OU-D / dairy item that is not explicitly cholov yisroel is left out.",
+"exclude_dairy_equipment": true,
+"meat_fish_rule": "Meat, poultry and fish only when the retailer's own product title/description names the hechsher (Paltiel, Oct 18 2026). None shown in this preview.",
+"plain_k_or_unknown_symbol": "excluded",
+"nonfood_no_hechsher_needed": true,
+"note": "Edit accepted_agencies to change which hechsherim count. An agency not listed here is never shown."
+},
+"chains": {
+"aldi": {
+"name": "Aldi",
+"store": "The Brooklyn NY ALDI store aldi.us assigned from a New York connection (each item shows its store). A store can't be chosen without an account.",
+"source": "aldi.us public product search",
+"status": "ok"
+},
+"lidl": {
+"name": "Lidl",
+"store": "lidl.com online price (default region; a store can't be chosen without the app). Price can vary by region; the range is shown.",
+"source": "lidl.com public search",
+"status": "ok"
+},
+"amazon": {
+"name": "Amazon",
+"store": "amazon.com listing price, sold by Amazon itself (no third-party sellers), as seen from a New Jersey connection (marked NJ price). Price varies, may include shipping; the date it was read is on each card.",
+"source": "amazon.com public search and product pages",
+"status": "ok",
+"own_brands": "Amazon Grocery (formerly Happy Belly / Amazon Fresh), Amazon Basics, Solimo, Aplenty"
+},
+"costco": {
+"name": "Costco",
+"store": "costco.com public prices (no login), Kirkland Signature only, bulk sizes. The price shown is the in-warehouse price costco.com displays for the warehouse it assigned from a New York connection (Rego Park, Queens NY); the 2-Day Delivery online price, which includes delivery, is noted beside it. Costco membership required; warehouse price may differ by location. Compared per unit.",
+"source": "costco.com public search and product pages",
+"status": "ok",
+"own_brands": "Kirkland Signature"
+},
+"walmart": {
+"name": "Walmart",
+"store": "Howell NJ Supercenter #2195",
+"source": "walmart.com public search",
+"status": "limited",
+"note": "walmart.com shows a robot check after a couple of searches. We don't get past robot checks, so Walmart prices aren't in this preview yet."
+}
+},
+"types": [
+{
+"key": "canola_oil",
+"label": "Canola oil",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "fl oz",
+"local": [
+{
+"name": "Canola oil \u00b7 40 fl oz",
+"size": 40.0,
+"price": 5.99,
+"was": 8.99,
+"store": "Seasons",
+"town": "Lawrence",
+"link": "https://www.seasonskosher.com/Lawrence/product/382323",
+"unit_price": 0.1497
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Carlini Pure Canola Oil 48 fl oz",
+"brand": "Carlini",
+"size": 48.0,
+"price": 4.15,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/20047404-carlini-canola-oil-48-fl-oz",
+"read": "2026-10-23T05:05:33.813Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Brooklyn NY",
+"unit_price": 0.0865,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Carlini \u2014 Pure Canola Oil",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Carlini%20Pure%20Canola%20Oil",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Carlini%20Pure%20Canola%20Oil%2048%20fl%20oz",
+"read": "2026-10-18",
+"ids": [
+"OUV7-D4D5A42",
+"OUV7-9EE9B5C",
+"OUV7-76144CA",
+"OUV7-E5262DC"
+]
+},
+"vs_local_pct": -42
+},
+{
+"chain": "lidl",
+"name": "100% pure canola oil 48 fl.oz.",
+"brand": "Lidl",
+"size": 48.0,
+"price": 3.79,
+"was": null,
+"url": "https://www.lidl.com/p/100-pure-canola-oil/p11249793",
+"read": "2026-10-18T04:14:31Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+3.79,
+4.29
+],
+"store": null,
+"unit_price": 0.079,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Canola Oil",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Canola%20Oil",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20100%25%20pure%20canola%20oil",
+"read": "2026-10-18",
+"ids": [
+"OUV7-WN3PWEO",
+"OUV7-B2465A8"
+]
+},
+"vs_local_pct": -47
+},
+{
+"chain": "costco",
+"name": "Canola Oil, 3 qt, 2-count",
+"brand": "Kirkland Signature",
+"size": 192.0,
+"price": 15.49,
+"was": null,
+"url": "https://www.costco.com/kirkland-signature-canola-oil-3-qt-2-count.product.100334737.html",
+"read": "2026-10-23T05:14:18.647Z",
+"pack": null,
+"price_note": "Costco \u00b7 Kirkland Signature \u00b7 bulk size \u00b7 costco.com price, membership required; warehouse price may differ",
+"seller": null,
+"costco": {
+"online": 14.99,
+"warehouse": 15.49,
+"unit_line": "$2.64/per liter",
+"labels": [
+"2-Day Delivery",
+"In Stock",
+"In-Warehouse",
+"Same-Day Delivery Pricing May Vary",
+"prices may vary"
+],
+"wh": "Rego Park",
+"item": "906410"
+},
+"bulk": true,
+"nj_price": false,
+"price_range": null,
+"store": "In-warehouse price costco.com shows for the Rego Park (Queens) NY warehouse",
+"unit_price": 0.0807,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Kirkland Signature \u2014 Canola Oil",
+"company": "Costco Wholesale",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Kirkland%20Signature%20Canola%20Oil",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Kirkland%20Signature%20Canola%20Oil",
+"read": "2026-10-18T05:58:38Z",
+"ids": [
+"OUV7-EA8DBAD"
+]
+},
+"vs_local_pct": -46
+}
+]
+},
+{
+"key": "rice_basmati",
+"label": "Basmati rice",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "lb",
+"local": [
+{
+"name": "Lior Basmati Rice, 2.2 lb",
+"size": 35.2,
+"price": 6.69,
+"was": null,
+"store": "I&D Glatt",
+"town": "West Hempstead",
+"link": "https://ianddglattmarket.com/index.php?main_page=product_info&products_id=28732",
+"unit_price": 3.0409
+}
+],
+"alts": [
+{
+"chain": "lidl",
+"name": "Lidl Preferred Selection white basmati rice 32 oz.",
+"brand": "Lidl Preferred Selection",
+"size": 32.0,
+"price": 3.59,
+"was": null,
+"url": "https://www.lidl.com/p/lidl-preferred-selection-white-basmati-rice/p11243245",
+"read": "2026-10-18T04:14:53Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+3.55,
+4.09
+],
+"store": null,
+"unit_price": 1.795,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl Preferred Selection \u2014 White Basmati Rice",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Preferred%20Selection%20White%20Basmati%20Rice",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20white%20basmati%20rice",
+"read": "2026-10-18",
+"ids": [
+"OUV7-FSWYAKH"
+]
+},
+"vs_local_pct": -41
+}
+]
+},
+{
+"key": "corn_can",
+"label": "Whole kernel corn (canned)",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Gefen Whole Kernel Corn, 15.25 Oz",
+"size": 15.25,
+"price": 1.99,
+"was": null,
+"store": "Gourmet Glatt",
+"town": "Cedarhurst",
+"link": "https://www.gourmetglattonline.com/?catalogProduct=183412",
+"unit_price": 0.1305
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Happy Harvest Canned Whole Kernel Golden Sweet Corn 15.25 oz",
+"brand": "Happy Harvest",
+"size": 15.25,
+"price": 0.55,
+"was": 0.95,
+"url": "https://www.aldi.us/store/aldi/products/20363173-happy-harvest-whole-kernel-corn-15-25-oz",
+"read": "2026-10-23T05:08:58.850Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Brooklyn NY",
+"unit_price": 0.0361,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Happy Harvest \u2014 Whole Kernel Corn",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Happy%20Harvest%20Whole%20Kernel%20Corn",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Happy%20Harvest%20Canned%20Whole%20Kernel%20Golden%20Sweet%20Corn",
+"read": "2026-10-18",
+"ids": [
+"OUV7-DIJBA48"
+]
+},
+"vs_local_pct": -72
+},
+{
+"chain": "lidl",
+"name": "whole kernel super sweet corn 15.25 oz.",
+"brand": "Lidl",
+"size": 15.25,
+"price": 0.83,
+"was": null,
+"url": "https://www.lidl.com/p/whole-kernel-super-sweet-corn/p11238028",
+"read": "2026-10-18T04:15:19Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+0.83,
+0.94
+],
+"store": null,
+"unit_price": 0.0544,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Whole Kernel Sweet Corn 15.25oz",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Whole%20Kernel%20Sweet%20Corn%2015.25oz",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20whole%20kernel%20super%20sweet%20corn",
+"read": "2026-10-18",
+"ids": [
+"OUV7-DEAOJZ1",
+"OUV7-AITGFNA",
+"OUV7-6KBKGSW"
+]
+},
+"vs_local_pct": -58
+},
+{
+"chain": "lidl",
+"name": "whole kernel sweet corn 8.5 oz.",
+"brand": "Lidl",
+"size": 8.5,
+"price": 0.68,
+"was": null,
+"url": "https://www.lidl.com/p/whole-kernel-sweet-corn/p11248180",
+"read": "2026-10-18T04:15:19Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+0.68,
+0.77
+],
+"store": null,
+"unit_price": 0.08,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Whole Kernel Sweet Corn 8.5oz",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Whole%20Kernel%20Sweet%20Corn%208.5oz",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20whole%20kernel%20sweet%20corn",
+"read": "2026-10-18",
+"ids": [
+"OUV7-DEAOJZ1",
+"OUV7-AITGFNA",
+"OUV7-6KBKGSW"
+]
+},
+"vs_local_pct": -39
+}
+]
+},
+{
+"key": "cinnamon",
+"label": "Ground cinnamon",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Gefen Ground Cinnamon, 2.25 Oz",
+"size": 2.25,
+"price": 2.69,
+"was": null,
+"store": "I&D Glatt",
+"town": "West Hempstead",
+"link": "https://ianddglattmarket.com/index.php?main_page=product_info&products_id=29538",
+"unit_price": 1.1956
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Stonemill Ground Cinnamon 2.4 oz",
+"brand": "Stonemill",
+"size": 2.4,
+"price": 1.09,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/129291410-stonemill-cinnamon-1-each",
+"read": "2026-10-23T05:10:46.351Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Brooklyn NY",
+"unit_price": 0.4542,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Stonemill Essentials \u2014 Cinnamon Ground",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Stonemill%20Essentials%20Cinnamon%20Ground",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Stonemill%20Ground%20Cinnamon",
+"read": "2026-10-18",
+"ids": [
+"OUV7-7477985",
+"OUV7-WABRCW9",
+"OUV7-1C02CB7",
+"OUV7-4AR2T4D",
+"OUV7-KM3JSIQ"
+]
+},
+"vs_local_pct": -62
+},
+{
+"chain": "lidl",
+"name": "LIDL ground cinnamon 1.52 oz.",
+"brand": "Lidl",
+"size": 1.52,
+"price": 0.99,
+"was": null,
+"url": "https://www.lidl.com/p/lidl-ground-cinnamon/p11237215",
+"read": "2026-10-18T04:15:43Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+0.99,
+1.09
+],
+"store": null,
+"unit_price": 0.6513,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Cinnamon Ground",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Cinnamon%20Ground",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20ground%20cinnamon",
+"read": "2026-10-18",
+"ids": [
+"OUV7-7AF7F7E"
+]
+},
+"vs_local_pct": -46
+},
+{
+"chain": "lidl",
+"name": "ground cinnamon 1.41 oz.",
+"brand": "Lidl",
+"size": 1.41,
+"price": 0.99,
+"was": null,
+"url": "https://www.lidl.com/p/ground-cinnamon/p11242845",
+"read": "2026-10-18T04:15:43Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+0.99,
+1.15
+],
+"store": null,
+"unit_price": 0.7021,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Cinnamon Ground",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Cinnamon%20Ground",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20ground%20cinnamon",
+"read": "2026-10-18",
+"ids": [
+"OUV7-7AF7F7E"
+]
+},
+"vs_local_pct": -41
+}
+]
+},
+{
+"key": "black_pepper",
+"label": "Ground black pepper",
+"dept": "Spices",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Pereg Black Pepper Powder, 4.2 Oz",
+"size": 4.2,
+"price": 5.69,
+"was": null,
+"store": "Rockaway Kosher",
+"town": "Far Rockaway",
+"link": "https://www.frankelskosher.com/?catalogProduct=177655",
+"unit_price": 1.3548
+}
+],
+"alts": [
+{
+"chain": "costco",
+"name": "Fine Ground Black Pepper, 12.3 oz",
+"brand": "Kirkland Signature",
+"size": 12.3,
+"price": 5.79,
+"was": null,
+"url": "https://www.costco.com/kirkland-signature-fine-ground-black-pepper-123-oz.product.100334958.html",
+"read": "2026-10-23T05:14:18.647Z",
+"pack": null,
+"price_note": "Costco \u00b7 Kirkland Signature \u00b7 bulk size \u00b7 costco.com price, membership required; warehouse price may differ",
+"seller": null,
+"costco": {
+"online": 7.89,
+"warehouse": 5.79,
+"unit_line": "$10.25/per pound",
+"labels": [
+"2-Day Delivery",
+"In Stock",
+"In-Warehouse",
+"Same-Day Delivery Pricing May Vary",
+"prices may vary"
+],
+"wh": "Rego Park",
+"item": "164981"
+},
+"bulk": true,
+"nj_price": false,
+"price_range": null,
+"store": "In-warehouse price costco.com shows for the Rego Park (Queens) NY warehouse",
+"unit_price": 0.4707,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Kirkland Signature \u2014 Fine Ground Black Pepper",
+"company": "Costco Wholesale",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Kirkland%20Signature%20Fine%20Ground%20Black%20Pepper",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Kirkland%20Signature%20Fine%20Ground%20Black%20Pepper",
+"read": "2026-10-18T06:42:44Z",
+"ids": [
+"OUV7-AJYSHDB",
+"OUV7-FCBEOIL",
+"OUV7-MA8U1WC",
+"OUV7-45K4P4M"
+]
+},
+"vs_local_pct": -65
+}
+]
+},
+{
+"key": "garlic_powder",
+"label": "Garlic powder / granulated garlic",
+"dept": "Spices",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Gefen Garlic Powder, 2.82 Oz",
+"size": 2.82,
+"price": 2.79,
+"was": null,
+"store": "Rockaway Kosher",
+"town": "Far Rockaway",
+"link": "https://www.frankelskosher.com/?catalogProduct=297672",
+"unit_price": 0.9894
+},
+{
+"name": "Pereg Garlic Powder, 4.2 Oz",
+"size": 4.2,
+"price": 5.39,
+"was": null,
+"store": "I&D Glatt",
+"town": "West Hempstead",
+"link": "https://ianddglattmarket.com/index.php?main_page=product_info&products_id=29639",
+"unit_price": 1.2833
+},
+{
+"name": "Pereg Granulated Garlic, 5.3 Oz",
+"size": 5.3,
+"price": 5.79,
+"was": null,
+"store": "Rockaway Kosher",
+"town": "Far Rockaway",
+"link": "https://www.frankelskosher.com/?catalogProduct=299253",
+"unit_price": 1.0925
+}
+],
+"alts": [
+{
+"chain": "costco",
+"name": "Granulated Garlic, 15.5 oz",
+"brand": "Kirkland Signature",
+"size": 15.5,
+"price": 7.69,
+"was": null,
+"url": "https://www.costco.com/kirkland-signature-granulated-garlic-155-oz.product.4201004798.html",
+"read": "2026-10-23T05:14:18.647Z",
+"pack": null,
+"price_note": "Costco \u00b7 Kirkland Signature \u00b7 bulk size \u00b7 costco.com price, membership required; warehouse price may differ",
+"seller": null,
+"costco": {
+"online": 8.99,
+"warehouse": 7.69,
+"unit_line": "$0.58/per ounce",
+"labels": [
+"2-Day Delivery",
+"In Stock",
+"In-Warehouse",
+"Same-Day Delivery Pricing May Vary",
+"prices may vary"
+],
+"wh": "Rego Park",
+"item": "2047526"
+},
+"bulk": true,
+"nj_price": false,
+"price_range": null,
+"store": "In-warehouse price costco.com shows for the Rego Park (Queens) NY warehouse",
+"unit_price": 0.4961,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Kirkland Signature \u2014 Granulated Garlic",
+"company": "Costco Wholesale",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Kirkland%20Signature%20Granulated%20Garlic",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Kirkland%20Signature%20Granulated%20Garlic",
+"read": "2026-10-18T06:13:05Z",
+"ids": [
+"OUV7-N18XQKW",
+"OUV7-W9IR9PQ",
+"OUV7-F08A607"
+]
+},
+"vs_local_pct": -50
+}
+]
+}
+],
+"excluded": [
+{
+"chain": "aldi",
+"type": "brown_sugar",
+"name": "Baker's Corner Light Brown Sugar 32 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "brown_sugar",
+"name": "Dakota's Pride Brown Sugar & Hickory Baked Beans 28 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "peanut_butter",
+"name": "Simply Nature Gluten Free Creamy Peanut Butter 16 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "rice_jasmine",
+"name": "Earthly Grains Thai Fragrant Long Grain Jasmine Rice 80 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "cranberries",
+"name": "Tuscan Garden Honey Roasted Sliced Almonds & Dried Cranberries Salad Toppings 3 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "penne",
+"name": "Reggano Penne Rigate Pasta 16 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "bread_crumbs",
+"name": "Chefs' Cupboard Plain Bread Crumbs 15 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "rice_long",
+"name": "Earthly Grains Gluten Free Enriched Long Grain White Rice 48 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "baking_powder",
+"name": "Baker's Corner Baking Powder 8.1 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "oats",
+"name": "Millville Old Fashioned Rolled Oats 42 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "cooking_spray",
+"name": "Carlini Canola Cooking Spray 8 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "sugar",
+"name": "Baker's Corner Granulated Sugar 4 lb",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "baking_soda",
+"name": "Baker's Corner Baking Soda 16 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "quick_oats",
+"name": "Millville Quick Oats 42 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "quinoa",
+"name": "Simply Nature Organic Gluten Free Quinoa 16 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "chips_plain",
+"name": "Clancy's Avo Oil Sweet Potato Chips, Original 5 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "apple_juice",
+"name": "Sweet Harvest Pineapple Slices in Pineapple Juice 20 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "tortilla_chips",
+"name": "Clancy's Restaurant Style Tortilla Chips 13 oz",
+"why": "dairy equipment (OU-DE)"
+},
+{
+"chain": "aldi",
+"type": "tortilla_chips",
+"name": "Clancy's Bite Size Round Tortilla Chips 13 oz",
+"why": "dairy equipment (OU-DE)"
+},
+{
+"chain": "aldi",
+"type": "pistachios",
+"name": "Southern Grove Pistachios Roasted with Sea Salt 16 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "pistachios",
+"name": "Southern Grove Unsalted Roasted Pistachios 10 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "cashews",
+"name": "Simply Nature Organic Raw Unsalted Cashews 14 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "powdered_sugar",
+"name": "Baker's Corner Powdered Sugar 2 lb",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "vanilla",
+"name": "Stonemill Gluten Free Pure Vanilla Extract 2 fl oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "olive_oil",
+"name": "Priano Extra Virgin Olive Oil 33.8 fl oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "avocado_oil",
+"name": "Savoritz Avocado Oil Sea Salt Crackers 5 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "salt",
+"name": "Stonemill Iodized Salt 26 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "coconut_oil",
+"name": "Clancy's Gluten Free Himalayan Pink Salt Organic Coconut Oil Popcorn, 4.6 oz 4.6 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "rice_basmati",
+"name": "Earthly Grains Gluten Free Basmati Rice 32 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "pretzels_twists",
+"name": "Clancy's Original Homestyle Seasoned Pretzel Twists 16 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "pancake_syrup",
+"name": "Millville Original Pancake Syrup 24 fl oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "mayo",
+"name": "real mayonnaise 30 fl.oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "olive_oil",
+"name": "extra virgin olive oil 25.3 fl.oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "sugar",
+"name": "granulated sugar 64 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "brown_sugar",
+"name": "dark brown sugar 32 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "brown_sugar",
+"name": "light brown sugar 32 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "powdered_sugar",
+"name": "confectioners sugar 32 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "flour",
+"name": "all purpose flour 80 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "flour",
+"name": "all purpose flour 32 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "rice_long",
+"name": "enriched long grain rice 48 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "rice_jasmine",
+"name": "Lidl Preferred Selection Thai horn mali Jasmine rice 80 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "quick_oats",
+"name": "quick-1-minute oats 42 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "honey",
+"name": "honey, family size 40 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "honey",
+"name": "Lidl Preferred Selection aromatic forest honey 17.6 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "chickpeas",
+"name": "garbanzo beans chick peas 15.5 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "pineapple",
+"name": "pineapple chunks in juice 20 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "salt",
+"name": "iodized salt 26 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "baking_powder",
+"name": "baking powder 5.3 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "bread_crumbs",
+"name": "bread crumbs, plain 15 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "panko",
+"name": "plain panko bread crumbs, Japanese style 8 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "vanilla",
+"name": "pure vanilla extract 2 fl.oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "amazon",
+"type": "olive_oil",
+"name": "Amazon Fresh, Extra Virgin Olive Oil, First Cold Extracted, 51 Oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "vegetable_oil",
+"name": "Vegetable Oil, 3 qt, 2-Count",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "olive_oil",
+"name": "Organic Extra Virgin Olive Oil, 2 L",
+"why": "symbol/status not plain OU pareve"
+},
+{
+"chain": "costco",
+"type": "rice_jasmine",
+"name": "Thai Hom Mali Jasmine Rice, 25 lbs",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "peanut_butter",
+"name": "Organic Peanut Butter, 28 oz, 2-count",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "honey",
+"name": "Wildflower Honey, 5 lbs",
+"why": "symbol/status not plain OU pareve"
+},
+{
+"chain": "costco",
+"type": "honey",
+"name": "Organic Raw Honey, 24 oz, 3-count",
+"why": "symbol/status not plain OU pareve"
+},
+{
+"chain": "costco",
+"type": "vanilla",
+"name": "Pure Vanilla Extract, 16 fl oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "walnuts",
+"name": "Walnut Halves, 3 lbs",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "pistachios",
+"name": "In-Shell Pistachios, Salted, 3 lbs",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "coconut_oil",
+"name": "Organic Virgin Coconut Oil, 84 fl oz",
+"why": "not found on OU's product search"
+}
+]
+}

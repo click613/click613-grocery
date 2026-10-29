@@ -1,0 +1,9 @@
+{
+"chain": "Stop & Shop",
+"store": "not read",
+"source": "stopandshop.com",
+"read_at": "2026-10-18T06:26:46.571164Z",
+"status": "walled",
+"note": "stopandshop.com shows a robot check on the first page view (Oct 18 2026). We never solve those, so no Stop & Shop prices are shown.",
+"items": []
+}

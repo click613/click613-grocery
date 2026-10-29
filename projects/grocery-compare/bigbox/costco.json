@@ -1,0 +1,9 @@
+{
+"chain": "Costco",
+"store": "costco.com (warehouse shown: Edison NJ)",
+"source": "costco.com public search, one search per national brand",
+"read_at": "2026-10-16T05:20:42.629Z",
+"status": "ok",
+"note": "costco.com prices are public (no login needed), but Costco sells these brands only as club multipacks (e.g. Heinz ketchup 44 oz 3-count, Hellmann's 64 oz), so none of the 800 items exists there in the same single size. 49 national-brand searches read (warehouse shown: Edison NJ); 0 same-size matches.",
+"items": []
+}

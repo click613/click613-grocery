@@ -1,0 +1,34 @@
+.preview-flag{margin:12px 0 4px;display:inline-block;background:var(--acc2);color:#1d1d1d;font:700 13px var(--body);padding:3px 10px;border-radius:99px}
+.intro{color:var(--muted);font-size:15px;margin:8px 0 12px}
+.ka-controls{position:sticky;top:0;background:var(--bg);padding:8px 0;z-index:5}
+.ka-controls input{width:100%;font:16px var(--body);padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card)}
+.chips{display:flex;gap:6px;overflow-x:auto;margin-top:8px}
+.chips button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:99px;padding:5px 12px;font:500 14px var(--body);white-space:nowrap;cursor:pointer}
+.chips button.on{background:var(--pri);color:#fff;border-color:var(--pri)}
+.ka-card{background:var(--card);border:1px solid var(--line);border-radius:14px;margin:12px 0;padding:12px 14px}
+.ka-card h2{margin:0 0 8px;font:700 19px/1.25 var(--head)}
+.ka-sub{font:700 12px var(--body);letter-spacing:.04em;text-transform:uppercase;color:var(--muted);margin:10px 0 4px}
+.ka-row{display:grid;grid-template-columns:1fr auto;gap:2px 10px;padding:7px 0;border-top:1px dashed var(--line)}
+.ka-row:first-of-type{border-top:0}
+.ka-name{font-weight:500}
+.ka-name a{color:inherit;text-decoration:none;border-bottom:1px dotted var(--muted)}
+.ka-meta{grid-column:1/2;color:var(--muted);font-size:13px}
+.ka-price{text-align:right;font-weight:700;white-space:nowrap}
+.ka-unit{grid-column:2/3;text-align:right;color:var(--muted);font-size:13px;white-space:nowrap}
+.ka-alt{background:rgba(30,77,53,.04);border-radius:10px;padding:8px 10px;margin-top:6px;border:1px solid var(--line)}
+.ka-alt .ka-row{border-top:0;padding:0}
+.ka-chain{display:inline-block;font:700 12px var(--body);padding:1px 8px;border-radius:6px;color:#fff;margin-right:6px;vertical-align:1px}
+.ka-chain.aldi{background:#00205b}.ka-chain.lidl{background:#0050aa}.ka-chain.walmart{background:#0071ce}.ka-chain.amazon{background:#232f3e}.ka-chain.costco{background:#e31837}
+.ka-similar{font-size:12px;color:var(--muted);font-style:italic}
+.ka-badges{grid-column:1/3;display:flex;flex-wrap:wrap;gap:6px;margin-top:6px;align-items:center;font-size:13px}
+.ka-hech{background:var(--pri);color:#fff;border-radius:6px;padding:1px 8px;font-weight:700}
+.ka-nf{background:#6b7280;color:#fff;border-radius:6px;padding:1px 8px;font-weight:700}
+.ka-pesach{background:#fff3cd;color:#6b4e00;border:1px solid #e9d38a;border-radius:6px;padding:0 7px}
+.ka-save{color:var(--ok);font-weight:700}
+.ka-more{color:var(--muted)}
+.ka-badges a{font-size:13px}
+.ka-rules,.ka-chains{background:var(--card);border:1px solid var(--line);border-radius:14px;margin:18px 0;padding:12px 16px;font-size:14px}
+.ka-rules h3,.ka-chains h3{margin:0 0 6px;font:700 17px var(--head)}
+.ka-rules li,.ka-chains li{margin:4px 0}
+.foot-note{color:var(--muted);font-size:13px}
+.empty{color:var(--muted);padding:20px 0;text-align:center}

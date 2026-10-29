@@ -1,0 +1,9 @@
+{
+  "name": "click613-grocery",
+  "private": true,
+  "type": "module",
+  "description": "Store readers that need a real browser (fetch_v2.mjs) use Playwright.",
+  "dependencies": {
+    "playwright": "1.48.2"
+  }
+}

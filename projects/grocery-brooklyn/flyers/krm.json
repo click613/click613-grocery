@@ -1,0 +1,854 @@
+{
+ "store": "KRM Kollel",
+ "key": "krm",
+ "town": "Boro Park",
+ "address": "1325 39th St, Brooklyn · 718-436-7701",
+ "source": "KRM Kollel weekly circular, valid Wed Oct 21 – Tue Oct 27, 2026 (as printed in the Weekly Link “Weekly Specials”, week of Oct 20, 2026, pp. 2-3)",
+ "source_url": "https://publuu.com/flip-book/1000259/2672304",
+ "valid_from": "2026-10-21",
+ "valid_to": "2026-10-27",
+ "read_at": "2026-10-21T14:15:07+00:00",
+ "note": "Dates printed in the ad: Specials Valid Wed. 10.21.26 - Tues. 10.27.26. Ad terms: sale items limited to 3 per family with a $10 non-sale purchase; meat department items, eggs, grape juice and newspapers are not counted in the $10. Some takeout items Wed, Thu & Fri only. Read from the printed pages (text layer checked against the page images).",
+ "items": [
+  {
+   "name": "Extra Thin'n Trimmed Chicken Cutlets (Family Pack)",
+   "brand": "Marvid-Hisachdus",
+   "size": "per lb",
+   "price": 9.99,
+   "price_text": "$9.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Ground Chicken (Family Pack)",
+   "brand": "Marvid-Hisachdus",
+   "size": "per lb",
+   "price": 5.49,
+   "price_text": "$5.49/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chicken Tenders (Family Pack)",
+   "brand": "Marvid-Hisachdus",
+   "size": "per lb",
+   "price": 7.99,
+   "price_text": "$7.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chicken Thighs (Family Pack)",
+   "brand": "Marvid-Hisachdus or Weissmandl",
+   "size": "per lb",
+   "price": 2.79,
+   "price_text": "$2.79/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chicken Drumsticks (Family Pack)",
+   "brand": "Marvid-Hisachdus or Weissmandl",
+   "size": "per lb",
+   "price": 3.49,
+   "price_text": "$3.49/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chicken Cutlets (Family Pack)",
+   "brand": "Marvid-Hisachdus or Weissmandl",
+   "size": "per lb",
+   "price": 6.79,
+   "price_text": "$6.79/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chicken Wings (Family Pack)",
+   "brand": "Marvid-Hisachdus or Weissmandl",
+   "size": "per lb",
+   "price": 1.99,
+   "price_text": "$1.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chicken Rib Steak (Family Pack)",
+   "brand": "KJ",
+   "size": "per lb",
+   "price": 5.99,
+   "price_text": "$5.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Club Steak (Family Pack) Grain Finished",
+   "brand": "Tevya's Ranch-Weissmandl",
+   "size": "per lb",
+   "price": 12.99,
+   "price_text": "$12.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Delmonico Club Roast Grain Finished",
+   "brand": "Tevya's Ranch-Weissmandl",
+   "size": "per lb",
+   "price": 12.99,
+   "price_text": "$12.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Shabbos Meat (Middle Chuck) Grain Finished",
+   "brand": "Tevya's Ranch-Weissmandl",
+   "size": "per lb",
+   "price": 11.99,
+   "price_text": "$11.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chuck Eye Roast Grain Finished",
+   "brand": "Tevya's Ranch-Weissmandl",
+   "size": "per lb",
+   "price": 11.99,
+   "price_text": "$11.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Black Angus London Broil Grain Finished",
+   "brand": "Tevya's Ranch-Weissmandl",
+   "size": "per lb",
+   "price": 10.99,
+   "price_text": "$10.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Black Angus Flank Steak Grain Finished",
+   "brand": "Tevya's Ranch-Weissmandl",
+   "size": "per lb",
+   "price": 12.99,
+   "price_text": "$12.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "1st Cut Brisket Grain Finished",
+   "brand": "Tevya's Ranch-Weissmandl",
+   "size": "per lb",
+   "price": 10.99,
+   "price_text": "$10.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Mixed Grind Beef + Chicken",
+   "brand": "Tevya's Ranch-Weissmandl",
+   "size": "per lb",
+   "price": 4.99,
+   "price_text": "$4.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Gourmet Oven Ready Pickled Corned Beef Kolichel (Mock Tender)",
+   "brand": "",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Gourmet Oven Ready Pastrami Kolichel (Mock Tender)",
+   "brand": "",
+   "size": "per lb",
+   "price": 9.99,
+   "price_text": "$9.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Gourmet Oven Ready Pepper Crusted / Coffee Rubbed / Classic Roast Beef",
+   "brand": "",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Gourmet Oven Ready Seasoned Spatchcock Chicken, Assorted Varieties",
+   "brand": "",
+   "size": "per lb",
+   "price": 3.99,
+   "price_text": "$3.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Gourmet Oven Ready Crispy Onion Chicken Fingers",
+   "brand": "",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Gourmet Oven Ready Breaded Dark Chicken Cutlets",
+   "brand": "",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Gourmet Oven Ready Seasoned Chicken Rib Steak",
+   "brand": "",
+   "size": "per lb",
+   "price": 7.99,
+   "price_text": "$7.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Gourmet Oven Ready Marinated Chicken Wings, Assorted Varieties",
+   "brand": "",
+   "size": "per lb",
+   "price": 2.49,
+   "price_text": "$2.49/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chicken Legs (Family Pack)",
+   "brand": "David Elliot",
+   "size": "per lb",
+   "price": 2.59,
+   "price_text": "$2.59/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chicken Thighs (Family Pack)",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 2.59,
+   "price_text": "$2.59/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chicken Drumsticks (Family Pack)",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 3.29,
+   "price_text": "$3.29/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chicken Cutlets (Family Pack)",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 6.79,
+   "price_text": "$6.79/lb",
+   "deal": ""
+  },
+  {
+   "name": "Club Steak (Family Pack) Grain Finished",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 12.99,
+   "price_text": "$12.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Delmonico Club Roast Grain Finished",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 12.99,
+   "price_text": "$12.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Shabbos Meat (Middle Chuck) Grain Finished",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 11.99,
+   "price_text": "$11.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chuck Eye Roast Grain Finished",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 11.99,
+   "price_text": "$11.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Black Angus London Broil Grain Finished",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 10.99,
+   "price_text": "$10.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Black Angus Flank Steak Grain Finished",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 12.99,
+   "price_text": "$12.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "1st Cut Brisket Grain Finished",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 10.99,
+   "price_text": "$10.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Pickled Corned Beef Kolichel (Mock Tender)",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Pastrami Kolichel (Mock Tender)",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 9.99,
+   "price_text": "$9.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Pepper Crusted / Coffee Rubbed / Classic Roast Beef",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Seasoned Spatchcock Chicken, Assorted Varieties",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 3.99,
+   "price_text": "$3.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Crispy Onion Chicken Fingers",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Breaded Dark Chicken Cutlets",
+   "brand": "Lamed-K",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Dark Chicken Cutlets (Family Pack)",
+   "brand": "Belz-Eckstien",
+   "size": "per lb",
+   "price": 6.99,
+   "price_text": "$6.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Chicken Cutlets (Family Pack)",
+   "brand": "Belz-Eckstien",
+   "size": "per lb",
+   "price": 6.99,
+   "price_text": "$6.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "London Broil Grain Finished",
+   "brand": "Belz-Eckstien",
+   "size": "per lb",
+   "price": 9.99,
+   "price_text": "$9.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Silver Tip Roast Grain Finished",
+   "brand": "Belz-Eckstien",
+   "size": "per lb",
+   "price": 12.99,
+   "price_text": "$12.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Premium Pepper Steak Grain Finished",
+   "brand": "Belz-Eckstien",
+   "size": "per lb",
+   "price": 12.99,
+   "price_text": "$12.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Flank Steak Grain Finished",
+   "brand": "Belz-Eckstien",
+   "size": "per lb",
+   "price": 12.99,
+   "price_text": "$12.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Real Boneless Flanken Grain Finished",
+   "brand": "Belz-Eckstien",
+   "size": "per lb",
+   "price": 19.99,
+   "price_text": "$19.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Real Boneless Flanken Roast Grain Finished",
+   "brand": "Belz-Eckstien",
+   "size": "per lb",
+   "price": 19.99,
+   "price_text": "$19.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Breaded Dark Chicken Cutlets",
+   "brand": "Belz-Eckstien",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Crispy Onion Chicken Fingers",
+   "brand": "Belz-Eckstien",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Assorted Chicken Fingers (takeout)",
+   "brand": "KRM",
+   "size": "per lb",
+   "price": 15.99,
+   "price_text": "$15.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Grilled Chicken Cutlets (takeout)",
+   "brand": "KRM",
+   "size": "per lb",
+   "price": 14.99,
+   "price_text": "$14.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Deli Roll (takeout)",
+   "brand": "KRM",
+   "size": "per lb",
+   "price": 8.99,
+   "price_text": "$8.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Broccoli w/ Sesame (takeout)",
+   "brand": "KRM",
+   "size": "per lb",
+   "price": 6.99,
+   "price_text": "$6.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Potato Kugel, Large (takeout)",
+   "brand": "KRM",
+   "size": "large",
+   "price": 7.99,
+   "price_text": "$7.99 ea",
+   "deal": "Wed, Thu & Fri only"
+  },
+  {
+   "name": "Chicken Combo, 1 Main & 2 Side Dishes (takeout)",
+   "brand": "KRM",
+   "size": "each",
+   "price": 14.99,
+   "price_text": "$14.99 ea",
+   "deal": ""
+  },
+  {
+   "name": "Roasted Mushroom Dip",
+   "brand": "KRM",
+   "size": "8 oz",
+   "price": 3.99,
+   "price_text": "$3.99 ea",
+   "deal": "Wed, Thu & Fri only"
+  },
+  {
+   "name": "Sweet Onion Dip",
+   "brand": "KRM",
+   "size": "8 oz",
+   "price": 3.99,
+   "price_text": "$3.99 ea",
+   "deal": "Wed, Thu & Fri only"
+  },
+  {
+   "name": "Sour Pickle Salad",
+   "brand": "KRM",
+   "size": "8 oz",
+   "price": 3.99,
+   "price_text": "$3.99 ea",
+   "deal": "Wed, Thu & Fri only"
+  },
+  {
+   "name": "Chamutzim Dip",
+   "brand": "KRM",
+   "size": "8 oz",
+   "price": 3.99,
+   "price_text": "$3.99 ea",
+   "deal": "Wed, Thu & Fri only"
+  },
+  {
+   "name": "Angel Hair Pasta Salad",
+   "brand": "KRM",
+   "size": "16 oz",
+   "price": 5.99,
+   "price_text": "$5.99 ea",
+   "deal": "Wed, Thu & Fri only"
+  },
+  {
+   "name": "Jumbo Extra Fancy Cortland Apples, loose only",
+   "brand": "",
+   "size": "per lb",
+   "price": 0.99,
+   "price_text": "99¢/lb",
+   "deal": ""
+  },
+  {
+   "name": "Organic Pomegranate, size #28",
+   "brand": "",
+   "size": "each",
+   "price": 1.5,
+   "price_text": "2/$3",
+   "deal": ""
+  },
+  {
+   "name": "Green Giant Yukon Potatoes, 5 lb bag",
+   "brand": "Green Giant",
+   "size": "5 lb",
+   "price": 3.49,
+   "price_text": "$3.49 ea",
+   "deal": ""
+  },
+  {
+   "name": "Large Green Squash",
+   "brand": "",
+   "size": "per lb",
+   "price": 0.69,
+   "price_text": "69¢/lb",
+   "deal": ""
+  },
+  {
+   "name": "Greens Rugalech, Chocolate, Cinnamon or Vanilla",
+   "brand": "Greens",
+   "size": "14 oz",
+   "price": 5.79,
+   "price_text": "$5.79 ea",
+   "deal": ""
+  },
+  {
+   "name": "Reismans Mini Brownie Bars",
+   "brand": "Reismans",
+   "size": "15 oz",
+   "price": 4.99,
+   "price_text": "$4.99 ea",
+   "deal": ""
+  },
+  {
+   "name": "Sterns Cheese Buns",
+   "brand": "Sterns",
+   "size": "13 oz",
+   "price": 5.49,
+   "price_text": "$5.49 ea",
+   "deal": ""
+  },
+  {
+   "name": "Sterns Sesame Sticks",
+   "brand": "Sterns",
+   "size": "3 pk",
+   "price": 1.79,
+   "price_text": "$1.79 ea",
+   "deal": ""
+  },
+  {
+   "name": "Golden Flow Juice Blends, Orange/Mango, Orange/Straw, Orange/Passion or Blood Orange",
+   "brand": "Golden Flow",
+   "size": "59 oz",
+   "price": 3.49,
+   "price_text": "$3.49",
+   "deal": ""
+  },
+  {
+   "name": "Golden Flow Strawberries",
+   "brand": "Golden Flow",
+   "size": "16 oz",
+   "price": 3.79,
+   "price_text": "$3.79",
+   "deal": ""
+  },
+  {
+   "name": "Pas Baguettes, Original or Whole Wheat",
+   "brand": "Pas",
+   "size": "12 pk",
+   "price": 4.99,
+   "price_text": "$4.99",
+   "deal": ""
+  },
+  {
+   "name": "Mount Ridge Pizza Squares",
+   "brand": "Mount Ridge",
+   "size": "11 oz",
+   "price": 3.49,
+   "price_text": "$3.49",
+   "deal": ""
+  },
+  {
+   "name": "Gefen Garlic Cubes",
+   "brand": "Gefen",
+   "size": "2.8 oz",
+   "price": 2.19,
+   "price_text": "$2.19",
+   "deal": ""
+  },
+  {
+   "name": "Belaves Corn Riblets, Supersweet or Sweet Chili",
+   "brand": "Belaves",
+   "size": "17.64 oz",
+   "price": 4.79,
+   "price_text": "$4.79",
+   "deal": ""
+  },
+  {
+   "name": "David's Choc Chip Cookie Dough",
+   "brand": "David's",
+   "size": "24 oz",
+   "price": 4.49,
+   "price_text": "$4.49",
+   "deal": ""
+  },
+  {
+   "name": "Tuscanini High Gluten Flour",
+   "brand": "Tuscanini",
+   "size": "5 lb",
+   "price": 5.79,
+   "price_text": "$5.79",
+   "deal": ""
+  },
+  {
+   "name": "Belaves Medjool Pitted Dates",
+   "brand": "Belaves",
+   "size": "9 oz",
+   "price": 4.99,
+   "price_text": "$4.99",
+   "deal": ""
+  },
+  {
+   "name": "Haddar Flavored Mini Choc Chips",
+   "brand": "Haddar",
+   "size": "9 oz",
+   "price": 1.79,
+   "price_text": "$1.79",
+   "deal": ""
+  },
+  {
+   "name": "Bakol Organic Maple Syrup",
+   "brand": "Bakol",
+   "size": "8 oz",
+   "price": 5.99,
+   "price_text": "$5.99",
+   "deal": ""
+  },
+  {
+   "name": "Bakol Vitamin Gummies, Vitamin C or Multivitamin",
+   "brand": "Bakol",
+   "size": "60 pc",
+   "price": 5.99,
+   "price_text": "$5.99",
+   "deal": ""
+  },
+  {
+   "name": "Tuscanini Yellowfin Tuna in Olive Oil, Orig or Chili",
+   "brand": "Tuscanini",
+   "size": "3 pk / 2.8 oz",
+   "price": 4.99,
+   "price_text": "$4.99",
+   "deal": ""
+  },
+  {
+   "name": "Gefen Mayonnaise, Original or Lite",
+   "brand": "Gefen",
+   "size": "30 oz",
+   "price": 3.59,
+   "price_text": "$3.59",
+   "deal": ""
+  },
+  {
+   "name": "Lundberg White Basmati Rice",
+   "brand": "Lundberg",
+   "size": "32 oz",
+   "price": 4.89,
+   "price_text": "$4.89",
+   "deal": ""
+  },
+  {
+   "name": "Lieber's Corn Flake Crumbs, Bag",
+   "brand": "Lieber's",
+   "size": "12 oz",
+   "price": 2.19,
+   "price_text": "$2.19",
+   "deal": ""
+  },
+  {
+   "name": "Haddar Matzo Meal",
+   "brand": "Haddar",
+   "size": "12 oz",
+   "price": 1.79,
+   "price_text": "$1.79",
+   "deal": ""
+  },
+  {
+   "name": "Similac Mehadrin, Powder",
+   "brand": "Similac",
+   "size": "24.7 oz",
+   "price": 9.99,
+   "price_text": "$9.99",
+   "deal": ""
+  },
+  {
+   "name": "Wissotzky Tea, Chamomile, Fruit Galore, Strawberry or Wildberry",
+   "brand": "Wissotzky",
+   "size": "20 bags",
+   "price": 2.29,
+   "price_text": "$2.29",
+   "deal": ""
+  },
+  {
+   "name": "Goldbaum's Almond Bliss, Original Unsweetened",
+   "brand": "Goldbaum's",
+   "size": "32 oz",
+   "price": 2.29,
+   "price_text": "$2.29",
+   "deal": ""
+  },
+  {
+   "name": "Sunshine Choc Granola Cereal",
+   "brand": "Sunshine",
+   "size": "10 oz",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": ""
+  },
+  {
+   "name": "Manischewitz Tam Tams, Original or Everything",
+   "brand": "Manischewitz",
+   "size": "9.6 oz",
+   "price": 2.49,
+   "price_text": "$2.49",
+   "deal": ""
+  },
+  {
+   "name": "Lieber's Brittle Milk Choc Rice Cakes",
+   "brand": "Lieber's",
+   "size": "3.7 oz",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": ""
+  },
+  {
+   "name": "Kitov Microwave Popcorn, All Varieties",
+   "brand": "Kitov",
+   "size": "6 pk",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": ""
+  },
+  {
+   "name": "Bloom's Corn Chips, Original or BBQ",
+   "brand": "Bloom's",
+   "size": "11 oz",
+   "price": 1.79,
+   "price_text": "$1.79",
+   "deal": ""
+  },
+  {
+   "name": "Shefa Mini Fruit Sticks, Cherry, Strawberry or Raspberry",
+   "brand": "Shefa",
+   "size": "24 pk",
+   "price": 4.79,
+   "price_text": "$4.79",
+   "deal": ""
+  },
+  {
+   "name": "Dee Best Strawberry Sour Cubes",
+   "brand": "Dee Best",
+   "size": "per lb",
+   "price": 4.99,
+   "price_text": "$4.99/lb",
+   "deal": ""
+  },
+  {
+   "name": "Elite Pesek Zman Bar",
+   "brand": "Elite",
+   "size": "1.59 oz",
+   "price": 1.2,
+   "price_text": "5/$6",
+   "deal": ""
+  },
+  {
+   "name": "Pantene Shampoo, 2 in 1 Classic",
+   "brand": "Pantene",
+   "size": "12 oz",
+   "price": 3.99,
+   "price_text": "$3.99",
+   "deal": ""
+  },
+  {
+   "name": "Windex Blue, Trigger",
+   "brand": "Windex",
+   "size": "32 oz",
+   "price": 2.89,
+   "price_text": "$2.89",
+   "deal": ""
+  },
+  {
+   "name": "Heaven & Earth Veggie Sticks",
+   "brand": "Heaven & Earth",
+   "size": "1 oz",
+   "price": 0.63,
+   "price_text": "3/$1.89",
+   "deal": "case of 36: $21.99"
+  },
+  {
+   "name": "Pressels Sesame Pretzels",
+   "brand": "Pressels",
+   "size": "2.1 oz",
+   "price": 0.75,
+   "price_text": "4/$3",
+   "deal": "case of 24: $16.99"
+  },
+  {
+   "name": "Best Select Corn Cones",
+   "brand": "Best Select",
+   "size": "0.53 oz",
+   "price": 0.55,
+   "price_text": "2/$1.09",
+   "deal": "case of 36: $18.99"
+  },
+  {
+   "name": "Lieber's Sandwich Minios, Choc or Vanilla",
+   "brand": "Lieber's",
+   "size": "2 oz",
+   "price": 0.55,
+   "price_text": "2/$1.09",
+   "deal": "case of 60: $29.99"
+  },
+  {
+   "name": "Kleenex Facial Tissues, 230 ct",
+   "brand": "Kleenex",
+   "size": "10 pk",
+   "price": 18.99,
+   "price_text": "$18.99",
+   "deal": ""
+  }
+ ]
+}

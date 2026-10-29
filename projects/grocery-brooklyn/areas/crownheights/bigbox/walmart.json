@@ -1,0 +1,74 @@
+{
+ "chain": "Walmart via Instacart",
+ "store": "in-store prices per Instacart (Instacart lists Walmart with “No markups”) · read Oct 18",
+ "source": "Instacart's Walmart storefront for this area's address, read logged out",
+ "read_at": "2026-10-18T08:06:21.986Z",
+ "status": "name_size",
+ "note": "Read on Instacart's Walmart storefront for this area (logged out, Oct 18). Instacart lists Walmart with “No markups”, so prices are shown as listed. Matched by exact brand, product and size (Instacart shows no barcodes). Instacart's delivery and service fees are not included.",
+ "items": [
+  {
+   "upc": "1312102",
+   "name": "Heinz Tomato Ketchup Value Size · 64 oz",
+   "size": "64 oz",
+   "price": 7.98,
+   "url": "https://www.instacart.com/products/41158-heinz-tomato-ketchup-64-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "13000007993",
+   "name": "Heinz Tomato Ketchup with No Sugar Added · 13 oz",
+   "size": "13 oz",
+   "price": 3.98,
+   "url": "https://www.instacart.com/products/96429-heinz-tomato-ketchup-with-no-sugar-added-13-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "13000626057",
+   "name": "Heinz Organic Tomato Ketchup · 32 oz",
+   "size": "32 oz",
+   "price": 7.48,
+   "url": "https://www.instacart.com/products/2759476-heinz-organic-tomato-ketchup-32-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "13124038",
+   "name": "Heinz Tomato Ketchup · 14 oz",
+   "size": "14 oz",
+   "price": 3.28,
+   "url": "https://www.instacart.com/products/2676457-heinz-tomato-ketchup-14-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "75724436",
+   "name": "Poland Spring Maine Spring Water, 1-gallon jug · 128 fl oz",
+   "size": "128 fl oz",
+   "price": 2.34,
+   "url": "https://www.instacart.com/products/98918-poland-spring-100-natural-spring-water-1-g?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "37000523666",
+   "name": "Dawn Platinum Plus Powerwash Dish Spray Fresh Clean Scent · 16 fl oz",
+   "size": "16 fl oz",
+   "price": 4.94,
+   "url": "https://www.instacart.com/products/20960408-dawn-platinum-dish-spray-dish-soap-fresh-scent-16-0-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "30772094037",
+   "name": "Dawn Ultra Dish Soap, Original · 18 fl oz",
+   "size": "18 fl oz",
+   "price": 2.94,
+   "url": "https://www.instacart.com/products/28964931-dawn-ultra-dishwashing-liquid-18-00-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "41192100437",
+   "name": "Kellogg's Frosted Flakes Breakfast Cereal · 12 oz",
+   "size": "12 oz",
+   "price": 3.98,
+   "url": "https://www.instacart.com/products/33230672-frosted-flakes-breakfast-cereal-kids-cereal-family-breakfast-original-12-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  }
+ ]
+}

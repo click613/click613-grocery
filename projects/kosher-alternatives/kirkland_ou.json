@@ -1,0 +1,2382 @@
+{
+ "read": "2026-10-18T06:14:28Z",
+ "source": "OU product search, brand Kirkland Signature, company Costco Wholesale (US)",
+ "types": {
+  "mayo": {
+   "label": "Mayonnaise",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Real Mayonnaise",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-0BCBAC5"
+    },
+    {
+     "product": "Real Mayonnaise",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-49B4818"
+    },
+    {
+     "product": "Real Mayonnaise",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-5FA2959"
+    },
+    {
+     "product": "Light Mayonnaise Type Dressing",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-D279EA2"
+    }
+   ]
+  },
+  "canola_oil": {
+   "label": "Canola oil",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Canola Oil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-EA8DBAD"
+    }
+   ]
+  },
+  "olive_oil": {
+   "label": "Extra virgin olive oil",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "refined olive oil and 15% extra virgin olive oil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-LR6HWAA"
+    },
+    {
+     "product": "Toscano P.G.I. Extra Virgin Olive Oil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-10DB9W2"
+    },
+    {
+     "product": "Signature 100% Italian Extra Virgin Olive Oil 68 Oz",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW7-NUG9IVV"
+    },
+    {
+     "product": "Kirkland Signature Spanish Extra Virgin Olive Oil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-P8WMTYA"
+    },
+    {
+     "product": "Tuscan PGI Extra Virgin Olive Oil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW7-JEWWLWE"
+    },
+    {
+     "product": "100% Italian Extra Virgin Olive Oil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW7-KR8XYUD"
+    },
+    {
+     "product": "Organic Extra Virgin Olive Oil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW7-0RYEUH2"
+    },
+    {
+     "product": "Organic Extra Virgin Olive Oil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW7-HS9WTT4"
+    },
+    {
+     "product": "Organic Extra Virgin Olive Oil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU-P"
+     ],
+     "passover": false,
+     "status": "Symbol required. Kosher for Passover ONLY when bearing special certification.",
+     "ok": false,
+     "id": "OUW7-38Z2YRK"
+    },
+    {
+     "product": "Extra Virgin Olive Oil - 100% Italian",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW7-ED5B8B4"
+    },
+    {
+     "product": "Extra virgin olive oil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW7-JULNKZN"
+    },
+    {
+     "product": "Extra virgin Olive Oil \"OLIO DI ROMA\" - Protected Geographical Indication",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-OKGBX6F"
+    },
+    {
+     "product": "Extra Virgin Olive Oil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW7-OOHQWHN"
+    },
+    {
+     "product": "Extra Virgin Olive oil Baena",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW7-P9NAMYD"
+    }
+   ]
+  },
+  "brown_sugar": {
+   "label": "Brown sugar",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Organic Brown Sugar",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-713A62E"
+    }
+   ]
+  },
+  "flour": {
+   "label": "All purpose flour",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Organic Unbleached All-Purpose Flour",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-0Z4BX9K"
+    },
+    {
+     "product": "Organic Unbleached All Purpose Flour",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-336YGDP"
+    }
+   ]
+  },
+  "rice_basmati": {
+   "label": "Basmati rice",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "White Basmati Rice",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-28E4B49"
+    },
+    {
+     "product": "Basmati Rice",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-3F5A3F3"
+    }
+   ]
+  },
+  "peanut_butter": {
+   "label": "Peanut butter (creamy)",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Milk Chocolate Peanut Butter Cups",
+     "dpm": "Dairy",
+     "de": false,
+     "symbol": [
+      "OU-D"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": false,
+     "id": "OUD3-AMLVOAK"
+    },
+    {
+     "product": "Chocolate Peanut Butter Chunk Protein Bar",
+     "dpm": "Dairy",
+     "de": false,
+     "symbol": [
+      "OU-D"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": false,
+     "id": "OUD7-BDB3460"
+    },
+    {
+     "product": "Peanut Butter Chocolate Chip Protein Bar",
+     "dpm": "Dairy",
+     "de": false,
+     "symbol": [
+      "OU-D"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": false,
+     "id": "OUD7-11475FE"
+    }
+   ]
+  },
+  "honey": {
+   "label": "Honey",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-B8A22A3"
+    },
+    {
+     "product": "U.S. Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-74911DD"
+    },
+    {
+     "product": "Northwest Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-QZOWUTP"
+    },
+    {
+     "product": "Great Lakes Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-F3A2691"
+    },
+    {
+     "product": "Dakota Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-AAA5A62"
+    },
+    {
+     "product": "Montana Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-CZMEQUM"
+    },
+    {
+     "product": "Montana Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-PUQ5VPS"
+    },
+    {
+     "product": "Southern Californian Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-EDBA08C"
+    },
+    {
+     "product": "Oregon Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-CXN8BE0"
+    },
+    {
+     "product": "Oregon Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-ER74KF3"
+    },
+    {
+     "product": "NorCal Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-PK4SWXE"
+    },
+    {
+     "product": "Louisiana Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-AF7D679"
+    },
+    {
+     "product": "Southwest  Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-C21FCCC"
+    },
+    {
+     "product": "Arizona Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-0AD2677"
+    },
+    {
+     "product": "Southeast Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-9B2CE34"
+    },
+    {
+     "product": "Arkansas Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-FA3719F"
+    },
+    {
+     "product": "Idaho Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-D31PP1X"
+    },
+    {
+     "product": "Idaho Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-V5P3RF7"
+    },
+    {
+     "product": "Central Coast Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-9618291"
+    },
+    {
+     "product": "Washington Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-GRQTOB8"
+    },
+    {
+     "product": "Washington Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-SOQ2GZE"
+    },
+    {
+     "product": "Utah Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-NQMCYLR"
+    },
+    {
+     "product": "Utah Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-RXUQYSP"
+    },
+    {
+     "product": "Colorado Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-D2A9BCA"
+    },
+    {
+     "product": "Michigan Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-F873D74"
+    },
+    {
+     "product": "Florida Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-892947C"
+    },
+    {
+     "product": "Florida Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-CAC2FCB"
+    },
+    {
+     "product": "Missouri Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-A46A57D"
+    },
+    {
+     "product": "Texas Raw Unfilitered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-8CBAE2C"
+    },
+    {
+     "product": "Minnesota Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-0370495"
+    },
+    {
+     "product": "Wisconsin Raw Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-E4B4886"
+    },
+    {
+     "product": "Raw & Unfiltered Wildflower Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU-P"
+     ],
+     "passover": false,
+     "status": "Symbol required. Kosher for Passover ONLY when bearing special certification.",
+     "ok": false,
+     "id": "OUW7-A758D74"
+    },
+    {
+     "product": "Regional Raw Pacific Northwest Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU-P"
+     ],
+     "passover": false,
+     "status": "Symbol required. Kosher for Passover ONLY when bearing special certification.",
+     "ok": false,
+     "id": "OUW7-45BB21E"
+    },
+    {
+     "product": "Organic Raw  Unfiltered Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU-P"
+     ],
+     "passover": false,
+     "status": "Symbol required. Kosher for Passover ONLY when bearing special certification.",
+     "ok": false,
+     "id": "OUW7-225FCE0"
+    },
+    {
+     "product": "Wildflower Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU-P"
+     ],
+     "passover": false,
+     "status": "Symbol required. Kosher for Passover ONLY when bearing special certification.",
+     "ok": false,
+     "id": "OUW7-04A7F75"
+    },
+    {
+     "product": "Wildflower Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU-P"
+     ],
+     "passover": false,
+     "status": "Symbol required. Kosher for Passover ONLY when bearing special certification.",
+     "ok": false,
+     "id": "OUW7-3F63BB0"
+    },
+    {
+     "product": "Clover Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU-P"
+     ],
+     "passover": false,
+     "status": "Symbol required. Kosher for Passover ONLY when bearing special certification.",
+     "ok": false,
+     "id": "OUW7-B116264"
+    },
+    {
+     "product": "Organic Raw Honey",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU-P"
+     ],
+     "passover": false,
+     "status": "Symbol required. Kosher for Passover ONLY when bearing special certification.",
+     "ok": false,
+     "id": "OUW7-44D1F8A"
+    },
+    {
+     "product": "Honey Roasted Macadamia Nuts V372",
+     "dpm": "Dairy",
+     "de": false,
+     "symbol": [
+      "OU-D"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": false,
+     "id": "OUD7-PA3RRRL"
+    },
+    {
+     "product": "Honey Roasted Super Extra Large Peanuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-JGMH6MD"
+    }
+   ]
+  },
+  "maple_syrup": {
+   "label": "Pure maple syrup",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "100% Pure Maple Syrup",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-ECBA6CC"
+    },
+    {
+     "product": "100% Pure Maple Syrup",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-U5FAIFA"
+    },
+    {
+     "product": "Pure Maple Syrup Grade A Dark Color Robust Taste",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-KODVYIO"
+    }
+   ]
+  },
+  "tomato_sauce": {
+   "label": "Tomato sauce (canned)",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Organic Tomato Sauce",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-VR47HSQ"
+    }
+   ]
+  },
+  "tomato_paste": {
+   "label": "Tomato paste",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Organic Tomato Paste",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-8MKFGYM"
+    }
+   ]
+  },
+  "diced_tom": {
+   "label": "Diced tomatoes",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Organic Diced Tomatoes",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-DYHSFPW"
+    }
+   ]
+  },
+  "applesauce": {
+   "label": "Applesauce (jar)",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Organic Fruit Pouches - Apple Sauce",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-1MH94NW"
+    },
+    {
+     "product": "APPLE SAUCE POUCH STRAWBERRY SPINACH ORGANIC",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-YPOT1K4"
+    },
+    {
+     "product": "Organic Apple Sauce",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-0F61825"
+    }
+   ]
+  },
+  "apple_juice": {
+   "label": "Apple juice",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Fresh Press Apple Juice",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-CE0A1C8"
+    }
+   ]
+  },
+  "tortilla_chips": {
+   "label": "Tortilla chips (restaurant style)",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Organic Tortilla Chips- Restaurant Style",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-WY6ZKNE"
+    },
+    {
+     "product": "Kirkland Signature Costco Tortilla Chips -Australia, Korea, Taiwan.",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-TQNTM1J"
+    },
+    {
+     "product": "Organic Nacho Cheese Multigrain Tortilla Chips",
+     "dpm": "Dairy",
+     "de": false,
+     "symbol": [
+      "OU-D"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": false,
+     "id": "OUD7-HGECQIO"
+    },
+    {
+     "product": "Organic Tortilla Chips",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-AE5ET6A"
+    },
+    {
+     "product": "Organic Tortilla Chips - Japan",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-NUHP2KO"
+    },
+    {
+     "product": "Organic Tortilla Chips - UK, France, Spain, Iceland",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-ADMHCHZ"
+    },
+    {
+     "product": "Organic Tortilla Chips - Taiwan , Korea",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-B2EF63B"
+    }
+   ]
+  },
+  "cinnamon": {
+   "label": "Ground cinnamon",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Saigon Cinnamon Ground",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-C4B371B"
+    }
+   ]
+  },
+  "zip_gallon": {
+   "label": "Gallon zipper storage bags",
+   "nonfood": true,
+   "listings": [
+    {
+     "product": "Variety Pack Food Bags (Gallon Storage Bags, Half Gallon Storage Bags, Quart Storage Bags, Sandwich Plus Bags )",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-1ZUFY49"
+    }
+   ]
+  },
+  "almonds": {
+   "label": "Almonds (whole)",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Whole Raw Almonds Amandes Entieres",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required.  Kosher for Passover without special certification. Raw. No additives.",
+     "ok": true,
+     "id": "OUW3-HXUJ8FW"
+    },
+    {
+     "product": "Raw Whole Almonds",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required.  Kosher for Passover without special certification. Raw. No additives.",
+     "ok": true,
+     "id": "OUW7-038EE75"
+    },
+    {
+     "product": "Supreme Whole Almonds",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-ACGL0EO"
+    },
+    {
+     "product": "Supreme Whole Almonds",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-B7A27F5"
+    },
+    {
+     "product": "Organic Almonds From California",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-DEFJG1Q"
+    },
+    {
+     "product": "Organic Almonds From California Nonpareil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-BKHID4I"
+    },
+    {
+     "product": "Organic Almonds From California Nonpareil",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-63195F1"
+    },
+    {
+     "product": "Dry Roasted and Salted Almonds",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-KI98GYI"
+    },
+    {
+     "product": "Marcona Almonds",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-5FACF10"
+    },
+    {
+     "product": "Almonds",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-EI2XN79"
+    },
+    {
+     "product": "Roasted and Salted Almonds",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-A5A59DB"
+    },
+    {
+     "product": "KS Marcona Almonds 20.7",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-SXEPQOD"
+    },
+    {
+     "product": "Almonds Dry Roasted",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-8F261E8"
+    },
+    {
+     "product": "Milk Chocolate Almonds",
+     "dpm": "Dairy",
+     "de": false,
+     "symbol": [
+      "OU-D"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": false,
+     "id": "OUD3-E52EE48"
+    },
+    {
+     "product": "Raw Almonds",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required.  Kosher for Passover without special certification. Raw. No additives.",
+     "ok": true,
+     "id": "OUW3-E9BDEDE"
+    }
+   ]
+  },
+  "cashews": {
+   "label": "Cashews (whole)",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Nueces De La India Enteras Sin Tostar Y Sin Sal Organicas (Organic Whole Cashews Unsalted Unroasted) V134",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-SLWTJD7"
+    },
+    {
+     "product": "Organic Whole Cashews",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-STWGUDV"
+    },
+    {
+     "product": "Nueces De La India (Whole Fancy Cashews) V163",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-9YXQN3J"
+    },
+    {
+     "product": "Organic Whole Cashews Unsalted Unroasted",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-HM0H0Y1"
+    },
+    {
+     "product": "Organic Whole Cashews Unsalted Unroasted V134",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-D42DF32"
+    },
+    {
+     "product": "Fancy Whole Cashews With Sea Salt",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-VFZXSRD"
+    },
+    {
+     "product": "Fancy Whole Cashews with Sea Salt V163",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-NGEAQSC"
+    },
+    {
+     "product": "Whole Fancy Unsalted Cashews V199",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-1F03AAB"
+    },
+    {
+     "product": "Whole Fancy Unsalted Cashews",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-187F425"
+    },
+    {
+     "product": "Fancy Whole Unsalted Cashews",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-LTRQSDW"
+    },
+    {
+     "product": "Roasted & Salted Cashews",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-4NDUPIO"
+    },
+    {
+     "product": "Roasted and Salted Cashews",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-JB5BXMY"
+    }
+   ]
+  },
+  "walnuts": {
+   "label": "Walnuts",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Walnuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-HOPG3P2"
+    },
+    {
+     "product": "Walnuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-IB149NP"
+    },
+    {
+     "product": "Raw Walnuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required.  Kosher for Passover without special certification. Raw. No additives.",
+     "ok": true,
+     "id": "OUW3-0B3DDCA"
+    },
+    {
+     "product": "Organic Walnuts From California",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-SO4OWIE"
+    },
+    {
+     "product": "Shelled Walnuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-41277BF"
+    },
+    {
+     "product": "Nut Gift Box (Cashews, Pistachios, Walnuts)",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-ZWBXRFH"
+    },
+    {
+     "product": "Hand-Cracked Walnut Halves",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-IPGSDVP"
+    }
+   ]
+  },
+  "pecans": {
+   "label": "Pecans",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Organic Pecan Junior Mammoth Halves",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW7-QTVB9E0"
+    },
+    {
+     "product": "Pecan Halves",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-Y97MFMD"
+    },
+    {
+     "product": "Pecan Halves",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW3-ABF378C"
+    },
+    {
+     "product": "Pecan Halves",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW7-39D8284"
+    },
+    {
+     "product": "Pecan Halves & Pieces",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-14AE30E"
+    },
+    {
+     "product": "Organic Pecans",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": true,
+     "status": "Symbol required. Kosher for Passover without special certification.",
+     "ok": true,
+     "id": "OUW3-WTEK3YA"
+    },
+    {
+     "product": "Praline Pecans V489",
+     "dpm": "Dairy",
+     "de": false,
+     "symbol": [
+      "OU-D"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": false,
+     "id": "OUD7-TA8C4ES"
+    },
+    {
+     "product": "Praline Pecans - V489",
+     "dpm": "Dairy",
+     "de": false,
+     "symbol": [
+      "OU-D"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": false,
+     "id": "OUD7-MHTQTEO"
+    }
+   ]
+  },
+  "pistachios": {
+   "label": "Pistachios (in shell)",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Salt & Pepper Pistachios",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-ACD0D05"
+    },
+    {
+     "product": "Roasted and Salted Pistachios",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-CD1006A"
+    },
+    {
+     "product": "Roasted & Salted Pistachios",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-4656318"
+    },
+    {
+     "product": "Roasted Salted Pistachios",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-9AECCF8"
+    },
+    {
+     "product": "California Pistachios Salted & Roasted",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-C14D77E"
+    },
+    {
+     "product": "Shelled Pistachios Roasted & Salted",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-A0A2CD0"
+    }
+   ]
+  },
+  "mixed_nuts": {
+   "label": "Mixed nuts",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Unsalted Mixed Nuts (Nueces Mixtas Sin Sal) V187",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-0CB6CED"
+    },
+    {
+     "product": "Roasted and Salted Mixed Nuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-SOXZLW5"
+    },
+    {
+     "product": "Extra Fancy Unsalted Mixed Nuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-UDQAHIK"
+    },
+    {
+     "product": "Extra Fancy Unsalted Mixed Nuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-RLGOTO2"
+    },
+    {
+     "product": "Extra Fancy Unsalted Mixed Nuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-ZLYAHSM"
+    },
+    {
+     "product": "Extra Fancy Unsalted Mixed Nuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-XL0TN5S"
+    },
+    {
+     "product": "Extra Fancy Salted Mixed Nuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-8RX9AQ2"
+    },
+    {
+     "product": "Extra Fancy Salted Mixed Nuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-X94ID23"
+    },
+    {
+     "product": "Extra Fancy Roasted & Unsalted Mixed Nuts V187",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-8BA834D"
+    },
+    {
+     "product": "Extra Fancy Mixed Nuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-HZWUUXJ"
+    },
+    {
+     "product": "Heart Healthy Mixed Nuts",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-GOVU7X9"
+    },
+    {
+     "product": "Mixed Nuts (Nueces Surtidas) V188",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-0C3CC20"
+    },
+    {
+     "product": "Mixed Nuts Extra Fancy V188",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-C2EF30B"
+    }
+   ]
+  },
+  "raisins": {
+   "label": "Raisins",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Milk Chocolate Raisins",
+     "dpm": "Dairy",
+     "de": false,
+     "symbol": [
+      "OU-D"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": false,
+     "id": "OUD3-A374331"
+    },
+    {
+     "product": "Chocolate Covered Raisins",
+     "dpm": "Dairy",
+     "de": false,
+     "symbol": [
+      "OU-D"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": false,
+     "id": "OUD3-4CFD6F8"
+    },
+    {
+     "product": "Chocolate Covered Raisins",
+     "dpm": "Dairy",
+     "de": false,
+     "symbol": [
+      "OU-D"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": false,
+     "id": "OUD3-FDF6961"
+    }
+   ]
+  },
+  "dried_mango": {
+   "label": "Dried mango",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Organic Dried Mangoes / Mangues Sechees Biologiques",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-AKNSU9K"
+    },
+    {
+     "product": "Organic Dried Mangoes",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-C12F26B"
+    },
+    {
+     "product": "Organic Dried Mangoes",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-EY6XIBI"
+    },
+    {
+     "product": "Organic Dried Mangos",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-9237819"
+    },
+    {
+     "product": "Organic Dried Mangoes",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-5DA74A9"
+    }
+   ]
+  },
+  "black_pepper": {
+   "label": "Ground black pepper",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Coarse Ground Malabar Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-B8652AC"
+    },
+    {
+     "product": "Coarse Ground Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-4N0SN8X"
+    },
+    {
+     "product": "Coarse Ground Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-ESXUVBX"
+    },
+    {
+     "product": "Coarse Ground Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-HCDNA8Y"
+    },
+    {
+     "product": "Fine Ground Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-AJYSHDB"
+    },
+    {
+     "product": "Fine Ground Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-FCBEOIL"
+    },
+    {
+     "product": "Fine Ground Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-MA8U1WC"
+    },
+    {
+     "product": "Whole Black Pepper Grinder",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-66670F3"
+    },
+    {
+     "product": "Black Pepper Grinder - 3133113",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-KB9IOCD"
+    },
+    {
+     "product": "Black Pepper Grinder",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-I9QDFBT"
+    },
+    {
+     "product": "Fine Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-45K4P4M"
+    },
+    {
+     "product": "Whole Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-51F269B"
+    },
+    {
+     "product": "Whole Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-E007B0E"
+    },
+    {
+     "product": "Whole Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-OC0NVXF"
+    },
+    {
+     "product": "Whole Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-WIXN7G2"
+    },
+    {
+     "product": "Black Pepper",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-UCZZ418"
+    },
+    {
+     "product": "Black Pepper - Shrink Wrap",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-VCF1LQX"
+    }
+   ]
+  },
+  "garlic_powder": {
+   "label": "Garlic powder / granulated garlic",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "California Granulated Garlic",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-BAYTU3Q"
+    },
+    {
+     "product": "Granulated Garlic",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-N18XQKW"
+    },
+    {
+     "product": "Granulated Garlic",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-W9IR9PQ"
+    },
+    {
+     "product": "Granulated Garlic Domestic",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-F1B0E4E"
+    },
+    {
+     "product": "Granulated Garlic 173964",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-F08A607"
+    }
+   ]
+  },
+  "almond_butter": {
+   "label": "Almond butter (creamy)",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Kirkland Signature Creamy Almond Butter - USA",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-HCGLPP9"
+    },
+    {
+     "product": "Organic Creamy Almond Butter",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-7X7LNQX"
+    },
+    {
+     "product": "Creamy Almond Butter",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-B73CEBC"
+    },
+    {
+     "product": "Creamy Almond Butter",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-2ZON8VU"
+    }
+   ]
+  },
+  "quinoa": {
+   "label": "Quinoa",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "Organic QUINOA",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV3-VTMHRHD"
+    }
+   ]
+  },
+  "cooking_spray": {
+   "label": "Canola cooking spray",
+   "nonfood": false,
+   "listings": [
+    {
+     "product": "14 OZ Canola Spray BOV UK Iceland 24PK",
+     "dpm": "Pareve",
+     "de": false,
+     "symbol": [
+      "OU"
+     ],
+     "passover": false,
+     "status": "Symbol required. Not Kosher for Passover.",
+     "ok": true,
+     "id": "OUV7-OZPFSDW"
+    }
+   ]
+  }
+ }
+}

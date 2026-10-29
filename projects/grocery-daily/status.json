@@ -1,0 +1,124 @@
+{
+ "bpflatbush": {
+  "area": "bpflatbush",
+  "slug": "brooklynprices",
+  "started": "2026-10-27T08:27:04Z",
+  "live_built_before": "2026-10-26T09:16:04+00:00",
+  "products": 26032,
+  "live_products": 25991,
+  "flyers": [
+   "KRM Kollel"
+  ],
+  "built": "2026-10-27T08:27:12+00:00",
+  "result": "published + verified",
+  "live_version": "20261027r0816"
+ },
+ "williamsburg": {
+  "area": "williamsburg",
+  "slug": "williamsburgprices",
+  "started": "2026-10-27T08:36:14Z",
+  "live_built_before": "2026-10-26T09:17:52+00:00",
+  "products": 10312,
+  "live_products": 10335,
+  "flyers": [],
+  "built": "2026-10-27T08:36:18+00:00",
+  "result": "published + verified",
+  "live_version": "20261027r0816"
+ },
+ "teaneck": {
+  "area": "teaneck",
+  "slug": "teaneckprices",
+  "started": "2026-10-27T08:39:26Z",
+  "live_built_before": "2026-10-26T09:22:52+00:00",
+  "products": 6207,
+  "live_products": 6185,
+  "flyers": [],
+  "built": "2026-10-27T08:39:28+00:00",
+  "result": "published + verified",
+  "live_version": "20261027r0816"
+ },
+ "kj": {
+  "area": "kj",
+  "slug": "kjprices",
+  "started": "2026-10-27T08:24:16Z",
+  "live_built_before": "2026-10-26T09:19:11+00:00",
+  "products": 4173,
+  "live_products": 4201,
+  "flyers": [],
+  "built": "2026-10-27T08:24:18+00:00",
+  "result": "published + verified",
+  "live_version": "20261027r0816"
+ },
+ "crownheights": {
+  "area": "crownheights",
+  "slug": "crownheightsprices",
+  "started": "2026-10-27T08:36:57Z",
+  "live_built_before": "2026-10-26T09:18:44+00:00",
+  "products": 5588,
+  "live_products": 5647,
+  "flyers": [],
+  "built": "2026-10-27T08:37:00+00:00",
+  "result": "published + verified",
+  "live_version": "20261027r0816"
+ },
+ "fivetowns": {
+  "area": "fivetowns",
+  "slug": "fivetownsprices",
+  "started": "2026-10-27T08:37:24Z",
+  "live_built_before": "2026-10-26T09:25:44+00:00",
+  "products": 3999,
+  "live_products": 4039,
+  "flyers": [],
+  "built": "2026-10-27T08:37:27+00:00",
+  "result": "published + verified",
+  "live_version": "20261027r0816"
+ },
+ "monsey": {
+  "area": "monsey",
+  "slug": "monseyprices",
+  "started": "2026-10-27T08:38:01Z",
+  "live_built_before": "2026-10-26T09:20:34+00:00",
+  "products": 21981,
+  "live_products": 22007,
+  "flyers": [],
+  "built": "2026-10-27T08:38:08+00:00",
+  "result": "published + verified",
+  "live_version": "20261027r0816"
+ },
+ "queens": {
+  "area": "queens",
+  "slug": "queensprices",
+  "started": "2026-10-27T08:40:32Z",
+  "live_built_before": "2026-10-26T09:23:19+00:00",
+  "products": 2486,
+  "live_products": 2486,
+  "flyers": [],
+  "built": "2026-10-27T08:40:35+00:00",
+  "result": "published + verified",
+  "live_version": "20261027r0816"
+ },
+ "farrockaway": {
+  "area": "farrockaway",
+  "slug": "farrockawayprices",
+  "started": "2026-10-27T08:40:57Z",
+  "live_built_before": "2026-10-26T09:26:19+00:00",
+  "products": 3617,
+  "live_products": 3598,
+  "flyers": [],
+  "built": "2026-10-27T08:40:59+00:00",
+  "result": "published + verified",
+  "live_version": "20261027r0816"
+ },
+ "passaic": {
+  "area": "passaic",
+  "slug": "passaicprices",
+  "started": "2026-10-27T08:40:04Z",
+  "live_built_before": "2026-10-26T09:24:32+00:00",
+  "products": 4833,
+  "live_products": 4815,
+  "flyers": [],
+  "built": "2026-10-27T08:40:07+00:00",
+  "result": "published + verified",
+  "live_version": "20261027r0816"
+ }
+}

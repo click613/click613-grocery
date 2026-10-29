@@ -1,0 +1,74 @@
+{
+ "chain": "Stop & Shop via Instacart (approx.)",
+ "store": "Instacart's price for Stop & Shop, approx. · read Oct 18",
+ "source": "Instacart's Stop & Shop storefront for this area's address, read logged out",
+ "read_at": "2026-10-18T08:32:28.792Z",
+ "status": "name_size",
+ "note": "Read on Instacart's Stop & Shop storefront for this area (logged out, Oct 18). Instacart shows a pricing-policy link for Stop & Shop, not a “no markups” label, so these prices are approximate: Stop & Shop's own site blocks automated reading, so in-store prices could not be checked. Every price read ends like a normal shelf price (.99, .69, .49), which a percentage markup would not leave, so no markup was taken off. Matched by exact brand, product and size. Instacart's fees are not included. Confirm in store.",
+ "items": [
+  {
+   "upc": "16000125063",
+   "name": "General Mills Honey Nut Cheerios Large Size Cereal · 15.4 oz",
+   "size": "15.4 oz",
+   "price": 5.99,
+   "url": "https://www.instacart.com/products/18446662-honey-nut-cheerios-breakfast-cereal-with-oats-gluten-free-15-400-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "1312102",
+   "name": "Heinz Tomato Ketchup Value Size · 64 oz",
+   "size": "64 oz",
+   "price": 10.99,
+   "url": "https://www.instacart.com/products/41158-heinz-tomato-ketchup-64-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "13000007993",
+   "name": "Heinz Tomato Ketchup with No Sugar Added · 13 oz",
+   "size": "13 oz",
+   "price": 6.99,
+   "url": "https://www.instacart.com/products/96429-heinz-tomato-ketchup-with-no-sugar-added-13-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "13000626057",
+   "name": "Heinz Organic Tomato Ketchup · 32 oz",
+   "size": "32 oz",
+   "price": 11.99,
+   "url": "https://www.instacart.com/products/2759476-heinz-organic-tomato-ketchup-32-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "13124038",
+   "name": "Heinz Tomato Ketchup · 14 oz",
+   "size": "14 oz",
+   "price": 3.99,
+   "url": "https://www.instacart.com/products/2676457-heinz-tomato-ketchup-14-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "16000141551",
+   "name": "General Mills Honey Nut Cheerios Cereal Cup · 1.8 oz",
+   "size": "1.8 oz",
+   "price": 1.79,
+   "url": "https://www.instacart.com/products/99617-honey-nut-cheerios-cups-breakfast-cereal-with-oats-1-800-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "16000124790",
+   "name": "General Mills Honey Nut Cheerios Cereal · 10.8 oz",
+   "size": "10.8 oz",
+   "price": 5.99,
+   "url": "https://www.instacart.com/products/18487456-honey-nut-cheerios-gluten-free-breakfast-cereal-10-800-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "37000350385",
+   "name": "Puffs Plus Lotion Facial Tissues · 56 ct",
+   "size": "56 ct",
+   "price": 2.99,
+   "url": "https://www.instacart.com/products/73658-puffs-plus-lotion-facial-tissues-56-ct?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  }
+ ]
+}

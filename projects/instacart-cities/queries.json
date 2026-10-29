@@ -1,0 +1,3912 @@
+{
+"bingo-monsey": [
+{
+"q": "Lieber's Honey Potato Chips",
+"name": "Lieber's Honey Potato Chips, 0.75 Oz",
+"size": "0.75 Oz",
+"upc": "43427000901"
+},
+{
+"q": "Heaven & Earth Tuna Salad With Corn",
+"name": "Heaven & Earth Tuna Salad With Corn, 5.64 Oz",
+"size": "5.64 Oz",
+"upc": "810487064217"
+},
+{
+"q": "Taanug Sugar Puffed Wheat Cereal",
+"name": "Taanug Sugar Puffed Wheat Cereal, 15.3 Oz",
+"size": "15.3 Oz",
+"upc": "78328001931"
+},
+{
+"q": "Gefen Chocolate Pudding & Pie Filling",
+"name": "Gefen Chocolate Pudding & Pie Filling, 3.75 Oz",
+"size": "3.75 Oz",
+"upc": "710069302853"
+},
+{
+"q": "Gefen Cut Green Beans",
+"name": "Gefen Cut Green Beans, 14.5 Oz",
+"size": "14.5 Oz",
+"upc": "710069021006"
+},
+{
+"q": "Golden Taste Mild Jalapeno Dip",
+"name": "Golden Taste Mild Jalapeno Dip, 7.5 Oz",
+"size": "7.5 Oz",
+"upc": "880879001670"
+},
+{
+"q": "Tuscanini Tomato Sauce",
+"name": "Tuscanini Tomato Sauce, 17.6 Oz",
+"size": "17.6 Oz",
+"upc": "710069312104"
+},
+{
+"q": "Gefen 4.5\" Puff Pastry Squares 10 Ct",
+"name": "Gefen 4.5\" Puff Pastry Squares 10 Ct, 12.35 Oz",
+"size": "12.35 Oz",
+"upc": "710069569201"
+},
+{
+"q": "Gefen Cut Wax Beans",
+"name": "Gefen Cut Wax Beans, 14.5 Oz",
+"size": "14.5 Oz",
+"upc": "710069021204"
+},
+{
+"q": "Tuscanini Tomato Juice",
+"name": "Tuscanini Tomato Juice, 33.8 Oz",
+"size": "33.8 fl oz",
+"upc": "710069312357"
+},
+{
+"q": "Taanug Sugar Frosted Flakes Cereal",
+"name": "Taanug Sugar Frosted Flakes Cereal, 13.5 Oz",
+"size": "13.5 Oz",
+"upc": "78328031310"
+},
+{
+"q": "Taanug Whole Grain Wheat Squares Cereal",
+"name": "Taanug Whole Grain Wheat Squares Cereal, 15.5 Oz",
+"size": "15.5 Oz",
+"upc": "78328171818"
+},
+{
+"q": "Tnuva Edam Sliced Cheese",
+"name": "Tnuva Edam Sliced Cheese, 7.05 Oz",
+"size": "7.05 Oz",
+"upc": "843426001851"
+},
+{
+"q": "Lior Fine Himalayan Pink Salt",
+"name": "Lior Fine Himalayan Pink Salt, 35.2 Oz",
+"size": "35.2 Oz",
+"upc": "794711005385"
+},
+{
+"q": "Tirat Zvi Thinnies Honey Glazed Turkey Breast",
+"name": "Tirat Zvi Thinnies Honey Glazed Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": "850775007106"
+},
+{
+"q": "Tirat Zvi Thinnies Oven Roasted Turkey Breast",
+"name": "Tirat Zvi Thinnies Oven Roasted Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": "850775007120"
+},
+{
+"q": "Tirat Zvi Thinnies Smoked Turkey Breast",
+"name": "Tirat Zvi Thinnies Smoked Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": "850775007137"
+},
+{
+"q": "Davis Double Acting Baking Powder",
+"name": "Davis Double Acting Baking Powder, 8.1 Oz",
+"size": "8.1 Oz",
+"upc": "19900338021"
+},
+{
+"q": "Lay's Crunchy Potato Chips",
+"name": "Lay's Crunchy Potato Chips, 1.8 Oz",
+"size": "1.8 oz",
+"upc": "815871016650"
+},
+{
+"q": "Pereg Garlic Powder",
+"name": "Pereg Garlic Powder, 4.2 Oz",
+"size": "4.2 Oz",
+"upc": "813568000128"
+},
+{
+"q": "Bloom's Rice Cake Thins Plain",
+"name": "Bloom's Rice Cake Thins Plain, 4.6 Oz",
+"size": "4.6 oz",
+"upc": "32797014533"
+},
+{
+"q": "Elite Pesek Zman Classic Milk Chocolate Bar",
+"name": "Elite Pesek Zman Classic Milk Chocolate Bar, 1.59 Oz",
+"size": "1.59 oz",
+"upc": "815871010146"
+},
+{
+"q": "Gefen Canola Oil Cooking Spray",
+"name": "Gefen Canola Oil Cooking Spray, 6 Oz",
+"size": "6 oz",
+"upc": "710069026506"
+},
+{
+"q": "Gefen Chunk Light Tuna In Oil",
+"name": "Gefen Chunk Light Tuna In Oil, 6 Oz",
+"size": "6 oz",
+"upc": "710069012219"
+},
+{
+"q": "Gefen Creamy Peanut Butter",
+"name": "Gefen Creamy Peanut Butter, 18 Oz",
+"size": "18 oz",
+"upc": "710069016101"
+},
+{
+"q": "Gefen Crunchy Peanut Butter",
+"name": "Gefen Crunchy Peanut Butter, 18 Oz",
+"size": "18 oz",
+"upc": "710069016200"
+},
+{
+"q": "Gefen Fancy Solid White Albacore Tuna In Water",
+"name": "Gefen Fancy Solid White Albacore Tuna In Water, 6 Oz",
+"size": "6 oz",
+"upc": "710069113305"
+},
+{
+"q": "Gefen Olive Oil Spray",
+"name": "Gefen Olive Oil Spray, 5 Oz",
+"size": "5 oz",
+"upc": "710069306516"
+},
+{
+"q": "Gefen Plain Original Bread Crumbs",
+"name": "Gefen Plain Original Bread Crumbs, 15 Oz",
+"size": "15 oz",
+"upc": "710069018600"
+},
+{
+"q": "Gefen Tomato Ketchup",
+"name": "Gefen Tomato Ketchup, 28 Oz",
+"size": "28 oz",
+"upc": "710069023109"
+},
+{
+"q": "Gefen Vanilla Sugar",
+"name": "Gefen Vanilla Sugar, 12 Oz",
+"size": "12 oz",
+"upc": "710069125704"
+},
+{
+"q": "Haolam American Cheese Slice 16 Ct",
+"name": "Haolam American Cheese Slice 16 Ct, 12 Oz",
+"size": "12 Oz",
+"upc": "26638212004"
+},
+{
+"q": "Haolam Mozzarella & Cheddar Fancy Shredded Natural Cheese",
+"name": "Haolam Mozzarella & Cheddar Fancy Shredded Natural Cheese, 8 Oz",
+"size": "8 Oz.",
+"upc": "26638265000"
+},
+{
+"q": "Haolam Mozzarella Shredded Natural Cheese",
+"name": "Haolam Mozzarella Shredded Natural Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": "26638002643"
+},
+{
+"q": "Haolam Mozzarella Sliced Natural Cheese",
+"name": "Haolam Mozzarella Sliced Natural Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": "26638263334"
+},
+{
+"q": "J&J Coffee Lowfat Yogurt",
+"name": "J&J Coffee Lowfat Yogurt, 6 Oz",
+"size": "6 Oz.",
+"upc": "11274000245"
+},
+{
+"q": "J&J Garlic Cream Cheese",
+"name": "J&J Garlic Cream Cheese, 7 Oz",
+"size": "7 Oz",
+"upc": "11274000474"
+},
+{
+"q": "J&J Jalapeno Cream Cheese",
+"name": "J&J Jalapeno Cream Cheese, 7 Oz",
+"size": "7 Oz",
+"upc": "11274000481"
+},
+{
+"q": "J&J Small Curd Cottage Cheese 4% Milkfat",
+"name": "J&J Small Curd Cottage Cheese 4% Milkfat, 16 Oz",
+"size": "16 Oz.",
+"upc": "11274000702"
+},
+{
+"q": "J&J Unsalted Sweet Whipped Butter",
+"name": "J&J Unsalted Sweet Whipped Butter, 8 Oz",
+"size": "8 Oz.",
+"upc": "11274000252"
+},
+{
+"q": "J&J Whipped Cream Cheese",
+"name": "J&J Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz.",
+"upc": "11274000276"
+},
+{
+"q": "Mehadrin Blueberry Fruit On The Bottom Lowfat Yogurt",
+"name": "Mehadrin Blueberry Fruit On The Bottom Lowfat Yogurt, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353102045"
+},
+{
+"q": "Mehadrin Coffee Lowfat Yogurt",
+"name": "Mehadrin Coffee Lowfat Yogurt, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353102076"
+},
+{
+"q": "Mehadrin Greek Blueberry Nonfat Yogurt",
+"name": "Mehadrin Greek Blueberry Nonfat Yogurt, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353103240"
+},
+{
+"q": "Mehadrin Greek Strawberry Nonfat Yogurt",
+"name": "Mehadrin Greek Strawberry Nonfat Yogurt, 32 Oz",
+"size": "32 Oz.",
+"upc": "14353103387"
+},
+{
+"q": "Mehadrin Greek Vanilla Nonfat Yogurt",
+"name": "Mehadrin Greek Vanilla Nonfat Yogurt, 32 Oz",
+"size": "32 Oz.",
+"upc": "14353103363"
+},
+{
+"q": "Mehadrin Krispy Vanilla Lowfat Yogurt Plus Cookie Crumble",
+"name": "Mehadrin Krispy Vanilla Lowfat Yogurt Plus Cookie Crumble, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "14353103646"
+},
+{
+"q": "Mehadrin Krispy! Vanilla Lowfat Yogurt Plus Oats N' Choco",
+"name": "Mehadrin Krispy! Vanilla Lowfat Yogurt Plus Oats N' Choco, 5.3 Oz",
+"size": "5.3 Oz.",
+"upc": "14353103608"
+},
+{
+"q": "Mehadrin Low Fat Cottage Cheese 1% Milkfat Small Curd",
+"name": "Mehadrin Low Fat Cottage Cheese 1% Milkfat Small Curd, 16 Oz",
+"size": "16 Oz.",
+"upc": "14353000518"
+},
+{
+"q": "Mehadrin Mozzarella Natural Sliced Cheese",
+"name": "Mehadrin Mozzarella Natural Sliced Cheese, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353112105"
+},
+{
+"q": "Mehadrin Plain Lowfat Yogurt",
+"name": "Mehadrin Plain Lowfat Yogurt, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353102014"
+},
+{
+"q": "Mehadrin Small Curd Cottage Cheese 4% Milkfat",
+"name": "Mehadrin Small Curd Cottage Cheese 4% Milkfat, 16 Oz",
+"size": "16 Oz.",
+"upc": "14353000013"
+},
+{
+"q": "Mehadrin Strawberry Fruit On The Bottom Lowfat Yogurt",
+"name": "Mehadrin Strawberry Fruit On The Bottom Lowfat Yogurt, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353102021"
+},
+{
+"q": "Mehadrin Vanilla And Chocolate Ice Cream Cups 3 Oz",
+"name": "Mehadrin Vanilla And Chocolate Ice Cream Cups 3 Oz, 6 Pk",
+"size": "6 Pack / 3 Oz",
+"upc": "14353501244"
+},
+{
+"q": "Paskesz Milk Munch Minis",
+"name": "Paskesz Milk Munch Minis, 8.8 Oz",
+"size": "8.8 oz",
+"upc": "25675125889"
+},
+{
+"q": "A & B Family Pack Gefilte Fish",
+"name": "A & B Family Pack Gefilte Fish, 32 Oz",
+"size": "32 Oz",
+"upc": "732973000328"
+},
+{
+"q": "Arrowhead Mills Organic Puffed Kamut Cereal",
+"name": "Arrowhead Mills Organic Puffed Kamut Cereal, 6 Oz",
+"size": "6 oz",
+"upc": "74333474340"
+},
+{
+"q": "Arrowhead Mills Puffed Corn Cereal",
+"name": "Arrowhead Mills Puffed Corn Cereal, 6 Oz",
+"size": "6 oz",
+"upc": "74333474302"
+},
+{
+"q": "Arrowhead Mills Puffed Rice Cereal",
+"name": "Arrowhead Mills Puffed Rice Cereal, 6 Oz",
+"size": "6 oz",
+"upc": "74333474296"
+},
+{
+"q": "B'gan Diced Onions",
+"name": "B'gan Diced Onions, 16 Oz",
+"size": "16 oz",
+"upc": "633016004115"
+},
+{
+"q": "Baker's Choice Milk Chocolate Melting Truffles",
+"name": "Baker's Choice Milk Chocolate Melting Truffles, 7 Oz",
+"size": "7 oz",
+"upc": "640034009800"
+},
+{
+"q": "Bakers Choice Vanilla Sugar",
+"name": "Bakers Choice Vanilla Sugar, 12 Oz",
+"size": "12 Oz.",
+"upc": "640034007660"
+},
+{
+"q": "Dagim Cantonese Style Mini Egg Rolls 14 Pk",
+"name": "Dagim Cantonese Style Mini Egg Rolls 14 Pk, 8 Oz",
+"size": "8 oz",
+"upc": "46676911325"
+},
+{
+"q": "Domino Pourable Pure Cane Light Brown Sugar",
+"name": "Domino Pourable Pure Cane Light Brown Sugar, 10 Oz",
+"size": "10 Oz",
+"upc": "49200902943"
+},
+{
+"q": "Domino Premium Cane Powdered Sugar",
+"name": "Domino Premium Cane Powdered Sugar, 16 Oz",
+"size": "16 Oz",
+"upc": "49200051009"
+},
+{
+"q": "Domino Premium Pure Cane Sugar Dark Brown Sugar",
+"name": "Domino Premium Pure Cane Sugar Dark Brown Sugar, 16 Oz",
+"size": "16 Oz",
+"upc": "49200056004"
+},
+{
+"q": "Gevina Light Greek Strawberry Nonfat Blended Yogurt",
+"name": "Gevina Light Greek Strawberry Nonfat Blended Yogurt, 32 Oz",
+"size": "2 Lb.",
+"upc": "855499005421"
+},
+{
+"q": "Givat Whipped Cream Cheese",
+"name": "Givat Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz.",
+"upc": "14353014201"
+},
+{
+"q": "Givat Yogolite Espresso Coffee Blended Nonfat Yogurt",
+"name": "Givat Yogolite Espresso Coffee Blended Nonfat Yogurt, 5 Oz",
+"size": "5 Oz",
+"upc": "14353102632"
+},
+{
+"q": "Golden Fluff Potato Flutes Ketchup",
+"name": "Golden Fluff Potato Flutes Ketchup, 4 Oz",
+"size": "4 Oz.",
+"upc": "30047140742"
+},
+{
+"q": "Golden Taste Healthy Tuna Deluxe",
+"name": "Golden Taste Healthy Tuna Deluxe, 7 Oz",
+"size": "7 Oz",
+"upc": "880879002431"
+},
+{
+"q": "Kemach Flat Bread Everything",
+"name": "Kemach Flat Bread Everything, 5 Oz",
+"size": "5 Oz",
+"upc": "21859043383"
+},
+{
+"q": "Kemach Fruit Whirls Sugar Sweetened Cereal",
+"name": "Kemach Fruit Whirls Sugar Sweetened Cereal, 15 Oz",
+"size": "15 oz",
+"upc": "21859046254"
+},
+{
+"q": "Kemach Toasted Oats Cereal",
+"name": "Kemach Toasted Oats Cereal, 15 Oz",
+"size": "15 oz",
+"upc": "21859046155"
+},
+{
+"q": "Kosher Taste Diced Onions",
+"name": "Kosher Taste Diced Onions, 16 Oz",
+"size": "16 oz",
+"upc": "880879002813"
+},
+{
+"q": "Krispy! Vanilla Lowfat Yogurt Plus Hazelnut Crunchies",
+"name": "Krispy! Vanilla Lowfat Yogurt Plus Hazelnut Crunchies, 5.3 Oz",
+"size": "5.3 Oz.",
+"upc": "14353103622"
+},
+{
+"q": "Norman's Blueberry Greek Nonfat Yogurt",
+"name": "Norman's Blueberry Greek Nonfat Yogurt, 6 Oz",
+"size": "6 oz",
+"upc": "890360000310"
+},
+{
+"q": "Norman's French Vanilla Low Fat Yogurt",
+"name": "Norman's French Vanilla Low Fat Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360000433"
+},
+{
+"q": "Norman's Greek Creamy Blends Caramel Caffe Macchiato Yogurt",
+"name": "Norman's Greek Creamy Blends Caramel Caffe Macchiato Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360003496"
+},
+{
+"q": "Norman's Greek Creamy Blends Passion Fruit Creamy Yogurt",
+"name": "Norman's Greek Creamy Blends Passion Fruit Creamy Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360003441"
+},
+{
+"q": "Norman's Greek Light Blueberry Nonfat Yogurt",
+"name": "Norman's Greek Light Blueberry Nonfat Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360003663"
+},
+{
+"q": "Norman's Greek Light Coffee Nonfat Yogurt",
+"name": "Norman's Greek Light Coffee Nonfat Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360000945"
+},
+{
+"q": "Norman's Greek Light Pomegranate Nonfat Yogurt",
+"name": "Norman's Greek Light Pomegranate Nonfat Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360003670"
+},
+{
+"q": "Norman's Greek Light Tiramisu Nonfat Yogurt",
+"name": "Norman's Greek Light Tiramisu Nonfat Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360003687"
+},
+{
+"q": "Norman's Greek Pro+ Strawberry Yogurt",
+"name": "Norman's Greek Pro+ Strawberry Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360003526"
+},
+{
+"q": "Norman's Greek Pro+ Superfruit Greek Yogurt",
+"name": "Norman's Greek Pro+ Superfruit Greek Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360003533"
+},
+{
+"q": "Norman's Plain Greek Nonfat Yogurt",
+"name": "Norman's Plain Greek Nonfat Yogurt, 6 Oz",
+"size": "6 Oz",
+"upc": "890360000334"
+},
+{
+"q": "Norman's Taste Strawberry Nonfat Yogurt",
+"name": "Norman's Taste Strawberry Nonfat Yogurt, 5 Oz",
+"size": "5 Oz",
+"upc": "890360003014"
+},
+{
+"q": "Norman's Whipped Cream Cheese",
+"name": "Norman's Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": "890360004257"
+},
+{
+"q": "Norman's Wholesome Dulce De Leche Yogurt",
+"name": "Norman's Wholesome Dulce De Leche Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360004523"
+},
+{
+"q": "Norman's Wholesome Mocha Swiss Style Yogurt",
+"name": "Norman's Wholesome Mocha Swiss Style Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360004516"
+},
+{
+"q": "Ostreicher's Spelt Honey Cookies",
+"name": "Ostreicher's Spelt Honey Cookies, 8 Oz",
+"size": "8 Oz",
+"upc": "726046003095"
+},
+{
+"q": "Quality Flour High Gluten Unbleached Wheat Sifted Flour",
+"name": "Quality Flour High Gluten Unbleached Wheat Sifted Flour, 96 Oz",
+"size": "6 Lbs",
+"upc": "650926770442"
+},
+{
+"q": "Quality Flour High-Gluten Flour",
+"name": "Quality Flour High-Gluten Flour, 80 Oz",
+"size": "5lbs",
+"upc": "650926770114"
+},
+{
+"q": "Shemesh American Cheese Slice 24 Ct",
+"name": "Shemesh American Cheese Slice 24 Ct, 16 Oz",
+"size": "16 Oz",
+"upc": "28716412009"
+},
+{
+"q": "Taanug Corn Flakes Cereal",
+"name": "Taanug Corn Flakes Cereal, 12 Oz",
+"size": "12 oz",
+"upc": "78328031044"
+},
+{
+"q": "Taanug Rice Squares Cereal",
+"name": "Taanug Rice Squares Cereal, 12 Oz",
+"size": "12 oz",
+"upc": "78328031013"
+},
+{
+"q": "The Best Tuna Salad",
+"name": "The Best Tuna Salad, 7.5 Oz",
+"size": "7.5 Oz",
+"upc": "880879001618"
+},
+{
+"q": "Tuscanini Focaccia Bread",
+"name": "Tuscanini Focaccia Bread, 8.11 Oz",
+"size": "8.11 oz",
+"upc": "710069300101"
+},
+{
+"q": "Tuscanini Solid Light Yellowfin Tuna In Olive Oil",
+"name": "Tuscanini Solid Light Yellowfin Tuna In Olive Oil, 5.6 Oz",
+"size": "5.6 oz",
+"upc": "710069304253"
+},
+{
+"q": "Tuscanini Solid Light Yellowfin Tuna In Water",
+"name": "Tuscanini Solid Light Yellowfin Tuna In Water, 5.6 Oz",
+"size": "5.6 oz",
+"upc": "710069304260"
+},
+{
+"q": "Zeta Extra Virgin Olive Oil",
+"name": "Zeta Extra Virgin Olive Oil, 25.4 Oz",
+"size": "750 ml",
+"upc": "603741001161"
+},
+{
+"q": "Gefen 100% Corn Starch",
+"name": "Gefen 100% Corn Starch, 16 Oz",
+"size": "16 oz",
+"upc": "710069044357"
+},
+{
+"q": "Gefen Apple Sauce Original",
+"name": "Gefen Apple Sauce Original, 48 Oz",
+"size": "48 oz",
+"upc": "710069805019"
+},
+{
+"q": "Gefen Baking Powder",
+"name": "Gefen Baking Powder, 8 Oz",
+"size": "8 oz",
+"upc": "710069134300"
+},
+{
+"q": "Gefen Cranberry Beans",
+"name": "Gefen Cranberry Beans, 16 Oz",
+"size": "16 oz",
+"upc": "710069035300"
+},
+{
+"q": "Gefen Elbows Macaroni",
+"name": "Gefen Elbows Macaroni, 16 Oz",
+"size": "16 oz",
+"upc": "710069001251"
+},
+{
+"q": "Gefen Gal Gal Plain Cracker",
+"name": "Gefen Gal Gal Plain Cracker, 8 Oz",
+"size": "8 oz",
+"upc": "710069008052"
+},
+{
+"q": "Gefen Great Northern Beans",
+"name": "Gefen Great Northern Beans, 16 Oz",
+"size": "16 oz",
+"upc": "710069052208"
+},
+{
+"q": "Gefen Kettle Popped Corn Chips",
+"name": "Gefen Kettle Popped Corn Chips, 1.1 Oz",
+"size": "1.1 oz",
+"upc": "710069004511"
+},
+{
+"q": "Gefen Large Lima Beans",
+"name": "Gefen Large Lima Beans, 16 Oz",
+"size": "16 oz",
+"upc": "710069035607"
+},
+{
+"q": "Gefen Light Corn Syrup",
+"name": "Gefen Light Corn Syrup, 12 Oz",
+"size": "12 oz",
+"upc": "710069044159"
+},
+{
+"q": "Gefen Natural Unsweetened Apple Sauce",
+"name": "Gefen Natural Unsweetened Apple Sauce, 46 Oz",
+"size": "46 oz",
+"upc": "710069805026"
+},
+{
+"q": "Gefen Pure Baking Soda",
+"name": "Gefen Pure Baking Soda, 12 Oz",
+"size": "12 oz",
+"upc": "710069404311"
+},
+{
+"q": "Gefen Pure Vanilla Extract",
+"name": "Gefen Pure Vanilla Extract, 2 Oz",
+"size": "2 fl oz",
+"upc": "710069145047"
+},
+{
+"q": "Gefen Raspberry Jell Dessert",
+"name": "Gefen Raspberry Jell Dessert, 3 Oz",
+"size": "3 oz",
+"upc": "710069302303"
+},
+{
+"q": "Gefen Sliced Green Olives",
+"name": "Gefen Sliced Green Olives, 19 Oz",
+"size": "19 oz",
+"upc": "710069308411"
+},
+{
+"q": "Gefen Small White Beans",
+"name": "Gefen Small White Beans, 16 Oz",
+"size": "16 oz",
+"upc": "710069051751"
+},
+{
+"q": "Gefen Strawberry Jell Dessert",
+"name": "Gefen Strawberry Jell Dessert, 3 Oz",
+"size": "3 oz",
+"upc": "710069302259"
+},
+{
+"q": "Gefen Table Salt",
+"name": "Gefen Table Salt, 26 Oz",
+"size": "26 oz",
+"upc": "710069128101"
+},
+{
+"q": "Gefen Tomato Paste",
+"name": "Gefen Tomato Paste, 6 Oz",
+"size": "6 oz",
+"upc": "710069303454"
+},
+{
+"q": "Gefen Yellow Popcorn",
+"name": "Gefen Yellow Popcorn, 16 Oz",
+"size": "16 oz",
+"upc": "710069035843"
+},
+{
+"q": "Haddar Fruit Toffees Fruit Mix",
+"name": "Haddar Fruit Toffees Fruit Mix, 24 Oz",
+"size": "24 oz",
+"upc": "77028824109"
+},
+{
+"q": "Haolam Muenster Sliced Natural Cheese",
+"name": "Haolam Muenster Sliced Natural Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": "26638263341"
+},
+{
+"q": "Haolam Parmesan Grated Cheese",
+"name": "Haolam Parmesan Grated Cheese, 3.5 Oz",
+"size": "3.5 Oz.",
+"upc": "26638269909"
+},
+{
+"q": "Haolam Shredded Pizza Cheese",
+"name": "Haolam Shredded Pizza Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": "26638263006"
+},
+{
+"q": "Haolam Slims Muenster Natural Cheese Ultra Slim Slice 12 Ct",
+"name": "Haolam Slims Muenster Natural Cheese Ultra Slim Slice 12 Ct, 6 Oz",
+"size": "6 oz",
+"upc": "26638227602"
+},
+{
+"q": "J&J Farmer Cheese",
+"name": "J&J Farmer Cheese, 7.5 Oz",
+"size": "7.5 Oz",
+"upc": "11274000863"
+},
+{
+"q": "J&J Lite Sour Cream",
+"name": "J&J Lite Sour Cream, 16 Oz",
+"size": "16 Oz.",
+"upc": "11274000177"
+},
+{
+"q": "Kedem Raspberry And Blueberry Syrup",
+"name": "Kedem Raspberry And Blueberry Syrup, 25.4 Oz",
+"size": "25.4 fl oz",
+"upc": "73490123566"
+},
+{
+"q": "Kedem White Cooking Wine",
+"name": "Kedem White Cooking Wine, 12.7 Oz",
+"size": "12.7 fl oz",
+"upc": "73490124433"
+},
+{
+"q": "Lieber's Crispy Goodies Wavy Corn Chips",
+"name": "Lieber's Crispy Goodies Wavy Corn Chips, 1 Oz",
+"size": "1 oz",
+"upc": "43427551113"
+},
+{
+"q": "Lieber's Graham Original Crackers",
+"name": "Lieber's Graham Original Crackers, 14.4 Oz",
+"size": "14.4 oz",
+"upc": "43427099912"
+},
+{
+"q": "Lieber's Salad Seasoning",
+"name": "Lieber's Salad Seasoning, 4.25 Oz",
+"size": "4.25 Oz",
+"upc": "43427191357"
+},
+{
+"q": "Lieber's Sliced Olives",
+"name": "Lieber's Sliced Olives, 18.5 Oz",
+"size": "18.5 Oz",
+"upc": "43427222921"
+},
+{
+"q": "Mehadrin Farmer Cheese",
+"name": "Mehadrin Farmer Cheese, 16 Oz",
+"size": "1 Lb.",
+"upc": "14353100102"
+},
+{
+"q": "Mehadrin Leben Chocolate",
+"name": "Mehadrin Leben Chocolate, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353100041"
+},
+{
+"q": "Mehadrin Sour Cream",
+"name": "Mehadrin Sour Cream, 16 Oz",
+"size": "16 Oz.",
+"upc": "14353010012"
+},
+{
+"q": "Mehadrin Vanilla Leben",
+"name": "Mehadrin Vanilla Leben, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353100034"
+},
+{
+"q": "Osem Consomme Soup & Seasoning Mix",
+"name": "Osem Consomme Soup & Seasoning Mix, 14.1 Oz",
+"size": "14.1 oz",
+"upc": "77544002883"
+},
+{
+"q": "Osem Instant Pudding Chocolate",
+"name": "Osem Instant Pudding Chocolate, 3.1 Oz",
+"size": "3.1 Oz",
+"upc": "77544004078"
+},
+{
+"q": "Osem Onion Soup & Seasoning Mix",
+"name": "Osem Onion Soup & Seasoning Mix, 14.1 Oz",
+"size": "14.1 oz",
+"upc": "77544002470"
+},
+{
+"q": "Osem Sesame Crackers",
+"name": "Osem Sesame Crackers, 8.8 Oz",
+"size": "8.8 Oz.",
+"upc": "77544132009"
+},
+{
+"q": "Paskesz Cannoli Chocolate Striped Rolled Wafers",
+"name": "Paskesz Cannoli Chocolate Striped Rolled Wafers, 18 Pc",
+"size": "6.3 oz",
+"upc": "25675031500"
+},
+{
+"q": "Paskesz Crispy Crepes Chocolate Mousse Light Crispy French Wafers",
+"name": "Paskesz Crispy Crepes Chocolate Mousse Light Crispy French Wafers, 4 Oz",
+"size": "4 oz",
+"upc": "25675031753"
+},
+{
+"q": "Paskesz Crispy Crepes French Truffle Light Crispy French Wafers",
+"name": "Paskesz Crispy Crepes French Truffle Light Crispy French Wafers, 4 Oz",
+"size": "4 oz",
+"upc": "25675031784"
+},
+{
+"q": "Paskesz Funtime Candy Watches",
+"name": "Paskesz Funtime Candy Watches, 9.87 Oz",
+"size": "9.87 oz",
+"upc": "25675124691"
+},
+{
+"q": "Paskesz Lasso Strawberry Flavored Candy Laces",
+"name": "Paskesz Lasso Strawberry Flavored Candy Laces, 3.5 Oz",
+"size": "3.5 oz",
+"upc": "25675121096"
+},
+{
+"q": "Paskesz Melba Toast Multigrain",
+"name": "Paskesz Melba Toast Multigrain, 7 Oz",
+"size": "7 oz",
+"upc": "25675014916"
+},
+{
+"q": "Paskesz Nutty Chews",
+"name": "Paskesz Nutty Chews, 10 Oz",
+"size": "10 oz",
+"upc": "25675124912"
+},
+{
+"q": "Paskesz Simply Saltines Original",
+"name": "Paskesz Simply Saltines Original, 8.8 Oz",
+"size": "8.8 oz",
+"upc": "25675016200"
+},
+{
+"q": "Paskesz Sour Sticks Pink Lemonade Flavored Sticks",
+"name": "Paskesz Sour Sticks Pink Lemonade Flavored Sticks, 3.5 Oz",
+"size": "3.5 oz",
+"upc": "25675120099"
+},
+{
+"q": "Paskesz Very Berry Fruit Snacks",
+"name": "Paskesz Very Berry Fruit Snacks, 5 Oz",
+"size": "5 oz",
+"upc": "25675122208"
+},
+{
+"q": "Paskesz Wild Strawberry Fruit Snacks",
+"name": "Paskesz Wild Strawberry Fruit Snacks, 5 Oz",
+"size": "5 oz",
+"upc": "25675122253"
+},
+{
+"q": "Streit's 100% Spelt Matzos",
+"name": "Streit's 100% Spelt Matzos, 11 Oz",
+"size": "11 oz",
+"upc": "70227504001"
+},
+{
+"q": "Streit's Lightly Salted Matzos",
+"name": "Streit's Lightly Salted Matzos, 11 Oz",
+"size": "11 Oz.",
+"upc": "70227500010"
+},
+{
+"q": "Streit's Matzos Whole Wheat Everything",
+"name": "Streit's Matzos Whole Wheat Everything, 11 Oz",
+"size": "11 Oz.",
+"upc": "70227500317"
+},
+{
+"q": "Arm & Hammer Fridge-N-Freezer Baking Soda",
+"name": "Arm & Hammer Fridge-N-Freezer Baking Soda, 14 Oz",
+"size": "14 Oz",
+"upc": "33200000204"
+},
+{
+"q": "B'gan Sauerkraut",
+"name": "B'gan Sauerkraut, 19.75 Oz",
+"size": "19.75 Oz",
+"upc": "633016198128"
+},
+{
+"q": "Baker's Choice Baking Chocolate",
+"name": "Baker's Choice Baking Chocolate, 10 Oz",
+"size": "10 Oz.",
+"upc": "640034008322"
+}
+],
+"bingo-fivetowns": [
+{
+"q": "Tirat Zvi Honey Glazed Turkey Breast",
+"name": "Tirat Zvi Honey Glazed Turkey Breast , 9.5 Oz",
+"size": "9.5 Oz",
+"upc": "850775007304"
+},
+{
+"q": "Tirat Zvi Oven Roasted Turkey Breast",
+"name": "Tirat Zvi Oven Roasted Turkey Breast, 9.5 Oz",
+"size": "9.5 Oz",
+"upc": "850775007328"
+},
+{
+"q": "Pereg Garlic Powder",
+"name": "Pereg Garlic Powder, 4.2 Oz",
+"size": "4.2 Oz",
+"upc": "813568000128"
+},
+{
+"q": "Tnuva Unsalted Butter",
+"name": "Tnuva Unsalted Butter, 7.05 Oz",
+"size": "7.05 Oz",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Mexican Style Turkey Breast",
+"name": "Tirat Zvi Mexican Style Turkey Breast, 9.5 Oz",
+"size": "9.5 Oz",
+"upc": "850775007311"
+},
+{
+"q": "Gefen Chocolate Syrup",
+"name": "Gefen Chocolate Syrup, 22 Oz",
+"size": "22 Oz",
+"upc": "710069041059"
+},
+{
+"q": "Gefen Cut Green Beans",
+"name": "Gefen Cut Green Beans, 14.5 Oz",
+"size": "14.5 Oz",
+"upc": ""
+},
+{
+"q": "Golden Taste Mild Jalapeno Dip",
+"name": "Golden Taste Mild Jalapeno Dip, 7.5 Oz",
+"size": "7.5 Oz",
+"upc": "880879001670"
+},
+{
+"q": "Tuscanini Tomato Juice",
+"name": "Tuscanini Tomato Juice, 33.8 fl oz",
+"size": "33.8 fl oz",
+"upc": ""
+},
+{
+"q": "Bounty Napkins",
+"name": "Bounty Napkins, 200 ct",
+"size": "200 ct",
+"upc": ""
+},
+{
+"q": "Elite Milk Chocolate Bar",
+"name": "Elite Milk Chocolate Bar, 3 Oz",
+"size": "3 Oz",
+"upc": ""
+},
+{
+"q": "Elite Milk Chocolate",
+"name": "Elite Milk Chocolate, 3.5 Oz",
+"size": "3.5 Oz",
+"upc": "7290000170053"
+},
+{
+"q": "Empire Smoked Turkey Breast",
+"name": "Empire Smoked Turkey Breast, 7 Oz",
+"size": "7 Oz",
+"upc": "71627559608"
+},
+{
+"q": "Empire Uncured Turkey Bacon",
+"name": "Empire Uncured Turkey Bacon, 8 Oz",
+"size": "8 Oz",
+"upc": "71627009813"
+},
+{
+"q": "Gefen Canola oil Cooking Spray",
+"name": "Gefen Canola oil Cooking Spray, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Cholent Mix",
+"name": "Gefen Cholent Mix, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Chunk Light Tuna in Water",
+"name": "Gefen Chunk Light Tuna in Water, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Chunk Light Tuna, In Oil",
+"name": "Gefen Chunk Light Tuna, In Oil, 6 Oz",
+"size": "6 Oz",
+"upc": "710069012219"
+},
+{
+"q": "Gefen Egg Roll Wrap",
+"name": "Gefen Egg Roll Wrap, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Extra Virgin Olive Oil",
+"name": "Gefen Extra Virgin Olive Oil, 33 fl oz",
+"size": "33 fl oz",
+"upc": ""
+},
+{
+"q": "Gefen Matzah Meal",
+"name": "Gefen Matzah Meal, 12 Oz",
+"size": "12 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Solid White Albacore in Water",
+"name": "Gefen Solid White Albacore in Water, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Tomato Ketchup",
+"name": "Gefen Tomato Ketchup, 28 Oz",
+"size": "28 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Vanilla Sugar",
+"name": "Gefen Vanilla Sugar, 12 Oz",
+"size": "12 Oz",
+"upc": "710069125704"
+},
+{
+"q": "Haolam Mozzarella & Cheddar Cheese Fancy Shredded",
+"name": "Haolam Mozzarella & Cheddar Cheese Fancy Shredded, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Mozzarella Cheese Shredded",
+"name": "Haolam Mozzarella Cheese Shredded, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sliced Mozzarella Cheese",
+"name": "Haolam Sliced Mozzarella Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sliced Mozzarella",
+"name": "Haolam Sliced Mozzarella, 6 Oz",
+"size": "6 Oz",
+"upc": "26638221501"
+},
+{
+"q": "Haolam Sliced Oven Smoked Mozzarella",
+"name": "Haolam Sliced Oven Smoked Mozzarella, 5 Oz",
+"size": "5 Oz",
+"upc": ""
+},
+{
+"q": "J&J Cottage Cheese",
+"name": "J&J Cottage Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": "11274000702"
+},
+{
+"q": "J&j Deluxe Blueberry Yogurt",
+"name": "J&j Deluxe Blueberry Yogurt, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "J&j Small Curd Cottage Cheese",
+"name": "J&j Small Curd Cottage Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "J&J Whipped Cream Cheese",
+"name": "J&J Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": "11274000276"
+},
+{
+"q": "Kedem Gourmet Gefilte Fish",
+"name": "Kedem Gourmet Gefilte Fish, 24 Oz",
+"size": "24 Oz",
+"upc": ""
+},
+{
+"q": "Kedem Light Grape Juice Beverage",
+"name": "Kedem Light Grape Juice Beverage, 50 fl oz",
+"size": "50 fl oz",
+"upc": ""
+},
+{
+"q": "Kedem Light Grape Juice",
+"name": "Kedem Light Grape Juice, 64 fl oz",
+"size": "64 fl oz",
+"upc": ""
+},
+{
+"q": "Kedem Sparkling Blush Grape Juice",
+"name": "Kedem Sparkling Blush Grape Juice, 25 fl oz",
+"size": "25 fl oz",
+"upc": ""
+},
+{
+"q": "Lieber's Chicken Flavor Consomme Soup Mix",
+"name": "Lieber's Chicken Flavor Consomme Soup Mix, 14 Oz",
+"size": "14 Oz",
+"upc": ""
+},
+{
+"q": "Lieber's Consomme Chicken Flavor",
+"name": "Lieber's Consomme Chicken Flavor, 14 Oz",
+"size": "14 Oz",
+"upc": "43427195201"
+},
+{
+"q": "Lieber's Onion Consomme Instant Soup Mix",
+"name": "Lieber's Onion Consomme Instant Soup Mix, 14 Oz",
+"size": "14 Oz",
+"upc": ""
+},
+{
+"q": "Mehadrin 4% Milkfat Small Curd Cottage Cheese",
+"name": "Mehadrin 4% Milkfat Small Curd Cottage Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Mehadrin Fit 'N Free Light Blended Yogurt Strawberry",
+"name": "Mehadrin Fit 'N Free Light Blended Yogurt Strawberry, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Mehadrin Fit 'N Free Light Blended Yogurt Vanilla",
+"name": "Mehadrin Fit 'N Free Light Blended Yogurt Vanilla, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Natural & Kosher Mozzarella Shredded Cheese",
+"name": "Natural & Kosher Mozzarella Shredded Cheese, 2 lb",
+"size": "2 lb",
+"upc": ""
+},
+{
+"q": "Natural & Kosher Shredded Mozzarella 2 Lbs",
+"name": "Natural & Kosher Shredded Mozzarella 2 Lbs",
+"size": "2 Lbs",
+"upc": "651219205535"
+},
+{
+"q": "Natural & Kosher Shredded Mozzarella Cheese",
+"name": "Natural & Kosher Shredded Mozzarella Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Paskesz Whole Grain Chocolate Rice Squares",
+"name": "Paskesz Whole Grain Chocolate Rice Squares, 2.6 Oz",
+"size": "2.6 Oz",
+"upc": ""
+},
+{
+"q": "Dagim Chunk Light Tuna in Water",
+"name": "Dagim Chunk Light Tuna in Water, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Domino Dark Brown Sugar",
+"name": "Domino Dark Brown Sugar, 1 Lb",
+"size": "1 Lb",
+"upc": "49200056004"
+},
+{
+"q": "Domino Premium Pure Cane Dark Brown Sugar",
+"name": "Domino Premium Pure Cane Dark Brown Sugar, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Domino Sugar Pourable Brown Light Brown Pure Cane Sugar",
+"name": "Domino Sugar Pourable Brown Light Brown Pure Cane Sugar, 10 Oz",
+"size": "10 Oz",
+"upc": ""
+},
+{
+"q": "Drizzilicious Salted Caramel Bites Mini Rice Cakes",
+"name": "Drizzilicious Salted Caramel Bites Mini Rice Cakes, 4 Oz",
+"size": "4 Oz",
+"upc": ""
+},
+{
+"q": "Franczoz Whole Wheat Bread",
+"name": "Franczoz Whole Wheat Bread, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "French's Original Crispy Fried Onions",
+"name": "French's Original Crispy Fried Onions, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Fresh & Healthy Whipped Cream Cheese",
+"name": "Fresh & Healthy Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Freund's Gefilte Fish",
+"name": "Freund's Gefilte Fish, 20 Oz",
+"size": "20 Oz",
+"upc": ""
+},
+{
+"q": "General Mills Honey Nut Cheerios",
+"name": "General Mills Honey Nut Cheerios, 15.4 Oz",
+"size": "15.4 Oz",
+"upc": ""
+},
+{
+"q": "Gevina Farms Whole Milk Plain Greek Yogurt",
+"name": "Gevina Farms Whole Milk Plain Greek Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": ""
+},
+{
+"q": "Golden Taste Healthy Tuna Deluxe",
+"name": "Golden Taste Healthy Tuna Deluxe, 7 Oz",
+"size": "7 Oz",
+"upc": ""
+},
+{
+"q": "Golden Taste Tuna Deluxe",
+"name": "Golden Taste Tuna Deluxe, 7 Oz",
+"size": "7 Oz",
+"upc": ""
+},
+{
+"q": "Kiddie Strawberry Banana Flavored Whole Milk Yogurt",
+"name": "Kiddie Strawberry Banana Flavored Whole Milk Yogurt, 4 Oz",
+"size": "4 Oz",
+"upc": ""
+},
+{
+"q": "King Arthur Flour Unbleached Bread Flour",
+"name": "King Arthur Flour Unbleached Bread Flour, 5 lb",
+"size": "5 lb",
+"upc": ""
+},
+{
+"q": "Kosher Taste Diced Onions",
+"name": "Kosher Taste Diced Onions, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Kosher'US Chicken Pelmeni",
+"name": "Kosher'US Chicken Pelmeni, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Norman's 80 Lite Strawberry Yogurt",
+"name": "Norman's 80 Lite Strawberry Yogurt, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Norman's Greek Creamy Blends Caramel Caffe Macchiato Yogurt",
+"name": "Norman's Greek Creamy Blends Caramel Caffe Macchiato Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": ""
+},
+{
+"q": "Norman's Greek Creamy Passion Fruit Yogurt",
+"name": "Norman's Greek Creamy Passion Fruit Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": ""
+},
+{
+"q": "Norman's Nonfat Greek Yogurt Peach",
+"name": "Norman's Nonfat Greek Yogurt Peach, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Norman's Nonfat Greek Yogurt Plain",
+"name": "Norman's Nonfat Greek Yogurt Plain, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Norman's Whipped Cream Cheese",
+"name": "Norman's Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Old Williamsburg Smoked Nova Salmon",
+"name": "Old Williamsburg Smoked Nova Salmon, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Rice Dream Original Enriched Rice Drink",
+"name": "Rice Dream Original Enriched Rice Drink, 32 fl oz",
+"size": "32 fl oz",
+"upc": ""
+},
+{
+"q": "Salad Mate Hot Honey",
+"name": "Salad Mate Hot Honey, 12 Oz",
+"size": "12 Oz",
+"upc": ""
+},
+{
+"q": "Schtark Shredded Mozzarella Cheese",
+"name": "Schtark Shredded Mozzarella Cheese, 2 lb",
+"size": "2 lb",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Smoked Turkey Breast",
+"name": "Tirat Zvi Smoked Turkey Breast, 12 Oz",
+"size": "12 Oz",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Thinnies Honey Glazed Turkey Breast",
+"name": "Tirat Zvi Thinnies Honey Glazed Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Thinnies Mexican Style Turkey Breast",
+"name": "Tirat Zvi Thinnies Mexican Style Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Thinnies Oven Roasted Turkey Breast",
+"name": "Tirat Zvi Thinnies Oven Roasted Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Thinnies Smoked Turkey Breast",
+"name": "Tirat Zvi Thinnies Smoked Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": ""
+},
+{
+"q": "Tov Meod Golden Baked Breaded Chicken Nuggets",
+"name": "Tov Meod Golden Baked Breaded Chicken Nuggets, 32 Oz",
+"size": "32 Oz",
+"upc": ""
+},
+{
+"q": "Whole Milk Vanilla Greek Yogurt",
+"name": "Whole Milk Vanilla Greek Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": ""
+},
+{
+"q": "Wise Honey Bbq Potato Chips",
+"name": "Wise Honey Bbq Potato Chips, 0.75 Oz",
+"size": "0.75 Oz",
+"upc": ""
+},
+{
+"q": "Elite Turkish Ground Roasted Coffee",
+"name": "Elite Turkish Ground Roasted Coffee, 3.5 Oz",
+"size": "3.5 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Almond Extract Imitation",
+"name": "Gefen Almond Extract Imitation, 2 fl oz",
+"size": "2 fl oz",
+"upc": ""
+},
+{
+"q": "Gefen Baking Powder",
+"name": "Gefen Baking Powder, 8 Oz",
+"size": "8 Oz",
+"upc": "710069134300"
+},
+{
+"q": "Gefen Chocolate Chips Semi-Sweet",
+"name": "Gefen Chocolate Chips Semi-Sweet, 9 Oz",
+"size": "9 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Chocolate Pudding & Pie Filling",
+"name": "Gefen Chocolate Pudding & Pie Filling, 3.75 Oz",
+"size": "3.75 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Chocolate Wafers",
+"name": "Gefen Chocolate Wafers, 14 Oz",
+"size": "14 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Corn Starch",
+"name": "Gefen Corn Starch, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Cranberry Beans",
+"name": "Gefen Cranberry Beans, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Fat Free Classic Marinara Pasta Sauce",
+"name": "Gefen Fat Free Classic Marinara Pasta Sauce, 26 Oz",
+"size": "26 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Great Northern Beans",
+"name": "Gefen Great Northern Beans, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Green Split Peas",
+"name": "Gefen Green Split Peas, 16 Oz",
+"size": "16 Oz",
+"upc": "710069035959"
+},
+{
+"q": "Gefen Hearts Of Palm Whole",
+"name": "Gefen Hearts Of Palm Whole, 14 Oz",
+"size": "14 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Imitation Vanilla Extract",
+"name": "Gefen Imitation Vanilla Extract, 2 fl oz",
+"size": "2 fl oz",
+"upc": ""
+},
+{
+"q": "Gefen Large Limas",
+"name": "Gefen Large Limas, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Mandarin Oranges Whole Segments in Light Syrup",
+"name": "Gefen Mandarin Oranges Whole Segments in Light Syrup, 11 Oz",
+"size": "11 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Natural Unsweetened Apple Sauce",
+"name": "Gefen Natural Unsweetened Apple Sauce, 46 Oz",
+"size": "46 Oz",
+"upc": ""
+},
+{
+"q": "Gefen New York Deli Style Mustard",
+"name": "Gefen New York Deli Style Mustard, 12 Oz",
+"size": "12 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Pearl Barley",
+"name": "Gefen Pearl Barley, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Peas & Carrots",
+"name": "Gefen Peas & Carrots, 15 Oz",
+"size": "15 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Pitted Green Olives",
+"name": "Gefen Pitted Green Olives, 19 Oz",
+"size": "19 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Pure Vanilla Extract",
+"name": "Gefen Pure Vanilla Extract, 2 fl oz",
+"size": "2 fl oz",
+"upc": ""
+},
+{
+"q": "Gefen Ramen Noodles Oriental-style Vegetable",
+"name": "Gefen Ramen Noodles Oriental-style Vegetable, 3 Oz",
+"size": "3 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Raspberry Jell Dessert",
+"name": "Gefen Raspberry Jell Dessert, 3 Oz",
+"size": "3 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Sliced Beets",
+"name": "Gefen Sliced Beets, 15 Oz",
+"size": "15 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Sliced Black Olives",
+"name": "Gefen Sliced Black Olives, 19 Oz",
+"size": "19 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Sliced Green Olives",
+"name": "Gefen Sliced Green Olives, 19 Oz",
+"size": "19 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Square Wonton Wraps",
+"name": "Gefen Square Wonton Wraps, 12 Oz",
+"size": "12 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Strawberry Jell Dessert",
+"name": "Gefen Strawberry Jell Dessert, 3 Oz",
+"size": "3 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Table Salt",
+"name": "Gefen Table Salt, 26 Oz",
+"size": "26 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Tomato Paste",
+"name": "Gefen Tomato Paste, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Gefen White Small Beans",
+"name": "Gefen White Small Beans, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Whole Hearts Of Palm",
+"name": "Gefen Whole Hearts Of Palm, 14.1 Oz",
+"size": "14.1 Oz",
+"upc": "710069013308"
+},
+{
+"q": "Gefen Yellow Popcorn",
+"name": "Gefen Yellow Popcorn, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Yellow Split Peas",
+"name": "Gefen Yellow Split Peas, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Cheddar Shredded Natural Cheese",
+"name": "Haolam Cheddar Shredded Natural Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Cheddar Sliced Cheese",
+"name": "Haolam Cheddar Sliced Cheese, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Muenster Cheese Shredded",
+"name": "Haolam Muenster Cheese Shredded, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Muenster Sliced Cheese",
+"name": "Haolam Muenster Sliced Cheese, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Oven Smoked American Sliced Cheese",
+"name": "Haolam Oven Smoked American Sliced Cheese, 5 Oz",
+"size": "5 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sandwich Style Muenster Sliced Cheese",
+"name": "Haolam Sandwich Style Muenster Sliced Cheese, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Shredded Muenster",
+"name": "Haolam Shredded Muenster, 8 Oz",
+"size": "8 Oz",
+"upc": "26638267004"
+},
+{
+"q": "Haolam Shredded Natural Cheese Pizza",
+"name": "Haolam Shredded Natural Cheese Pizza, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sliced Muenster Cheese",
+"name": "Haolam Sliced Muenster Cheese, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sliced Muenster Natural Cheese",
+"name": "Haolam Sliced Muenster Natural Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sliced Natural Gouda Cheese",
+"name": "Haolam Sliced Natural Gouda Cheese, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Slims Muenster 12 Slices",
+"name": "Haolam Slims Muenster 12 Slices, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Smoked American Sliced Cheese",
+"name": "Haolam Smoked American Sliced Cheese, 5 Oz",
+"size": "5 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Wisconsin Swiss Cheese Sliced",
+"name": "Haolam Wisconsin Swiss Cheese Sliced, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+}
+],
+"kolsave": [
+{
+"q": "Tirat Zvi Honey Glazed Turkey Breast",
+"name": "Tirat Zvi Honey Glazed Turkey Breast , 9.5 Oz",
+"size": "9.5 Oz",
+"upc": "850775007304"
+},
+{
+"q": "Tirat Zvi Oven Roasted Turkey Breast",
+"name": "Tirat Zvi Oven Roasted Turkey Breast, 9.5 Oz",
+"size": "9.5 Oz",
+"upc": "850775007328"
+},
+{
+"q": "Pereg Garlic Powder",
+"name": "Pereg Garlic Powder, 4.2 Oz",
+"size": "4.2 Oz",
+"upc": "813568000128"
+},
+{
+"q": "Tnuva Unsalted Butter",
+"name": "Tnuva Unsalted Butter, 7.05 Oz",
+"size": "7.05 Oz",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Mexican Style Turkey Breast",
+"name": "Tirat Zvi Mexican Style Turkey Breast, 9.5 Oz",
+"size": "9.5 Oz",
+"upc": "850775007311"
+},
+{
+"q": "Gefen Chocolate Syrup",
+"name": "Gefen Chocolate Syrup, 22 Oz",
+"size": "22 Oz",
+"upc": "710069041059"
+},
+{
+"q": "Gefen Cut Green Beans",
+"name": "Gefen Cut Green Beans, 14.5 Oz",
+"size": "14.5 Oz",
+"upc": ""
+},
+{
+"q": "Golden Taste Mild Jalapeno Dip",
+"name": "Golden Taste Mild Jalapeno Dip, 7.5 Oz",
+"size": "7.5 Oz",
+"upc": "880879001670"
+},
+{
+"q": "Tuscanini Tomato Juice",
+"name": "Tuscanini Tomato Juice, 33.8 fl oz",
+"size": "33.8 fl oz",
+"upc": ""
+},
+{
+"q": "Bounty Napkins",
+"name": "Bounty Napkins, 200 ct",
+"size": "200 ct",
+"upc": ""
+},
+{
+"q": "Elite Milk Chocolate Bar",
+"name": "Elite Milk Chocolate Bar, 3 Oz",
+"size": "3 Oz",
+"upc": ""
+},
+{
+"q": "Elite Milk Chocolate",
+"name": "Elite Milk Chocolate, 3.5 Oz",
+"size": "3.5 Oz",
+"upc": "7290000170053"
+},
+{
+"q": "Empire Smoked Turkey Breast",
+"name": "Empire Smoked Turkey Breast, 7 Oz",
+"size": "7 Oz",
+"upc": "71627559608"
+},
+{
+"q": "Empire Uncured Turkey Bacon",
+"name": "Empire Uncured Turkey Bacon, 8 Oz",
+"size": "8 Oz",
+"upc": "71627009813"
+},
+{
+"q": "Gefen Canola oil Cooking Spray",
+"name": "Gefen Canola oil Cooking Spray, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Cholent Mix",
+"name": "Gefen Cholent Mix, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Chunk Light Tuna in Water",
+"name": "Gefen Chunk Light Tuna in Water, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Chunk Light Tuna, In Oil",
+"name": "Gefen Chunk Light Tuna, In Oil, 6 Oz",
+"size": "6 Oz",
+"upc": "710069012219"
+},
+{
+"q": "Gefen Egg Roll Wrap",
+"name": "Gefen Egg Roll Wrap, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Extra Virgin Olive Oil",
+"name": "Gefen Extra Virgin Olive Oil, 33 fl oz",
+"size": "33 fl oz",
+"upc": ""
+},
+{
+"q": "Gefen Matzah Meal",
+"name": "Gefen Matzah Meal, 12 Oz",
+"size": "12 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Solid White Albacore in Water",
+"name": "Gefen Solid White Albacore in Water, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Tomato Ketchup",
+"name": "Gefen Tomato Ketchup, 28 Oz",
+"size": "28 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Vanilla Sugar",
+"name": "Gefen Vanilla Sugar, 12 Oz",
+"size": "12 Oz",
+"upc": "710069125704"
+},
+{
+"q": "Haolam Mozzarella & Cheddar Cheese Fancy Shredded",
+"name": "Haolam Mozzarella & Cheddar Cheese Fancy Shredded, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Mozzarella Cheese Shredded",
+"name": "Haolam Mozzarella Cheese Shredded, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sliced Mozzarella Cheese",
+"name": "Haolam Sliced Mozzarella Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sliced Mozzarella",
+"name": "Haolam Sliced Mozzarella, 6 Oz",
+"size": "6 Oz",
+"upc": "26638221501"
+},
+{
+"q": "Haolam Sliced Oven Smoked Mozzarella",
+"name": "Haolam Sliced Oven Smoked Mozzarella, 5 Oz",
+"size": "5 Oz",
+"upc": ""
+},
+{
+"q": "J&J Cottage Cheese",
+"name": "J&J Cottage Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": "11274000702"
+},
+{
+"q": "J&j Deluxe Blueberry Yogurt",
+"name": "J&j Deluxe Blueberry Yogurt, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "J&j Small Curd Cottage Cheese",
+"name": "J&j Small Curd Cottage Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "J&J Whipped Cream Cheese",
+"name": "J&J Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": "11274000276"
+},
+{
+"q": "Kedem Gourmet Gefilte Fish",
+"name": "Kedem Gourmet Gefilte Fish, 24 Oz",
+"size": "24 Oz",
+"upc": ""
+},
+{
+"q": "Kedem Light Grape Juice Beverage",
+"name": "Kedem Light Grape Juice Beverage, 50 fl oz",
+"size": "50 fl oz",
+"upc": ""
+},
+{
+"q": "Kedem Light Grape Juice",
+"name": "Kedem Light Grape Juice, 64 fl oz",
+"size": "64 fl oz",
+"upc": ""
+},
+{
+"q": "Kedem Sparkling Blush Grape Juice",
+"name": "Kedem Sparkling Blush Grape Juice, 25 fl oz",
+"size": "25 fl oz",
+"upc": ""
+},
+{
+"q": "Lieber's Chicken Flavor Consomme Soup Mix",
+"name": "Lieber's Chicken Flavor Consomme Soup Mix, 14 Oz",
+"size": "14 Oz",
+"upc": ""
+},
+{
+"q": "Lieber's Consomme Chicken Flavor",
+"name": "Lieber's Consomme Chicken Flavor, 14 Oz",
+"size": "14 Oz",
+"upc": "43427195201"
+},
+{
+"q": "Lieber's Onion Consomme Instant Soup Mix",
+"name": "Lieber's Onion Consomme Instant Soup Mix, 14 Oz",
+"size": "14 Oz",
+"upc": ""
+},
+{
+"q": "Mehadrin 4% Milkfat Small Curd Cottage Cheese",
+"name": "Mehadrin 4% Milkfat Small Curd Cottage Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Mehadrin Fit 'N Free Light Blended Yogurt Strawberry",
+"name": "Mehadrin Fit 'N Free Light Blended Yogurt Strawberry, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Mehadrin Fit 'N Free Light Blended Yogurt Vanilla",
+"name": "Mehadrin Fit 'N Free Light Blended Yogurt Vanilla, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Natural & Kosher Mozzarella Shredded Cheese",
+"name": "Natural & Kosher Mozzarella Shredded Cheese, 2 lb",
+"size": "2 lb",
+"upc": ""
+},
+{
+"q": "Natural & Kosher Shredded Mozzarella 2 Lbs",
+"name": "Natural & Kosher Shredded Mozzarella 2 Lbs",
+"size": "2 Lbs",
+"upc": "651219205535"
+},
+{
+"q": "Natural & Kosher Shredded Mozzarella Cheese",
+"name": "Natural & Kosher Shredded Mozzarella Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Paskesz Whole Grain Chocolate Rice Squares",
+"name": "Paskesz Whole Grain Chocolate Rice Squares, 2.6 Oz",
+"size": "2.6 Oz",
+"upc": ""
+},
+{
+"q": "Dagim Chunk Light Tuna in Water",
+"name": "Dagim Chunk Light Tuna in Water, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Domino Dark Brown Sugar",
+"name": "Domino Dark Brown Sugar, 1 Lb",
+"size": "1 Lb",
+"upc": "49200056004"
+},
+{
+"q": "Domino Premium Pure Cane Dark Brown Sugar",
+"name": "Domino Premium Pure Cane Dark Brown Sugar, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Domino Sugar Pourable Brown Light Brown Pure Cane Sugar",
+"name": "Domino Sugar Pourable Brown Light Brown Pure Cane Sugar, 10 Oz",
+"size": "10 Oz",
+"upc": ""
+},
+{
+"q": "Drizzilicious Salted Caramel Bites Mini Rice Cakes",
+"name": "Drizzilicious Salted Caramel Bites Mini Rice Cakes, 4 Oz",
+"size": "4 Oz",
+"upc": ""
+},
+{
+"q": "Franczoz Whole Wheat Bread",
+"name": "Franczoz Whole Wheat Bread, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "French's Original Crispy Fried Onions",
+"name": "French's Original Crispy Fried Onions, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Fresh & Healthy Whipped Cream Cheese",
+"name": "Fresh & Healthy Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Freund's Gefilte Fish",
+"name": "Freund's Gefilte Fish, 20 Oz",
+"size": "20 Oz",
+"upc": ""
+},
+{
+"q": "General Mills Honey Nut Cheerios",
+"name": "General Mills Honey Nut Cheerios, 15.4 Oz",
+"size": "15.4 Oz",
+"upc": ""
+},
+{
+"q": "Gevina Farms Whole Milk Plain Greek Yogurt",
+"name": "Gevina Farms Whole Milk Plain Greek Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": ""
+},
+{
+"q": "Golden Taste Healthy Tuna Deluxe",
+"name": "Golden Taste Healthy Tuna Deluxe, 7 Oz",
+"size": "7 Oz",
+"upc": ""
+},
+{
+"q": "Golden Taste Tuna Deluxe",
+"name": "Golden Taste Tuna Deluxe, 7 Oz",
+"size": "7 Oz",
+"upc": ""
+},
+{
+"q": "Kiddie Strawberry Banana Flavored Whole Milk Yogurt",
+"name": "Kiddie Strawberry Banana Flavored Whole Milk Yogurt, 4 Oz",
+"size": "4 Oz",
+"upc": ""
+},
+{
+"q": "King Arthur Flour Unbleached Bread Flour",
+"name": "King Arthur Flour Unbleached Bread Flour, 5 lb",
+"size": "5 lb",
+"upc": ""
+},
+{
+"q": "Kosher Taste Diced Onions",
+"name": "Kosher Taste Diced Onions, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Kosher'US Chicken Pelmeni",
+"name": "Kosher'US Chicken Pelmeni, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Norman's 80 Lite Strawberry Yogurt",
+"name": "Norman's 80 Lite Strawberry Yogurt, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Norman's Greek Creamy Blends Caramel Caffe Macchiato Yogurt",
+"name": "Norman's Greek Creamy Blends Caramel Caffe Macchiato Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": ""
+},
+{
+"q": "Norman's Greek Creamy Passion Fruit Yogurt",
+"name": "Norman's Greek Creamy Passion Fruit Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": ""
+},
+{
+"q": "Norman's Nonfat Greek Yogurt Peach",
+"name": "Norman's Nonfat Greek Yogurt Peach, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Norman's Nonfat Greek Yogurt Plain",
+"name": "Norman's Nonfat Greek Yogurt Plain, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Norman's Whipped Cream Cheese",
+"name": "Norman's Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Old Williamsburg Smoked Nova Salmon",
+"name": "Old Williamsburg Smoked Nova Salmon, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Rice Dream Original Enriched Rice Drink",
+"name": "Rice Dream Original Enriched Rice Drink, 32 fl oz",
+"size": "32 fl oz",
+"upc": ""
+},
+{
+"q": "Salad Mate Hot Honey",
+"name": "Salad Mate Hot Honey, 12 Oz",
+"size": "12 Oz",
+"upc": ""
+},
+{
+"q": "Schtark Shredded Mozzarella Cheese",
+"name": "Schtark Shredded Mozzarella Cheese, 2 lb",
+"size": "2 lb",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Smoked Turkey Breast",
+"name": "Tirat Zvi Smoked Turkey Breast, 12 Oz",
+"size": "12 Oz",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Thinnies Honey Glazed Turkey Breast",
+"name": "Tirat Zvi Thinnies Honey Glazed Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Thinnies Mexican Style Turkey Breast",
+"name": "Tirat Zvi Thinnies Mexican Style Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Thinnies Oven Roasted Turkey Breast",
+"name": "Tirat Zvi Thinnies Oven Roasted Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": ""
+},
+{
+"q": "Tirat Zvi Thinnies Smoked Turkey Breast",
+"name": "Tirat Zvi Thinnies Smoked Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": ""
+},
+{
+"q": "Tov Meod Golden Baked Breaded Chicken Nuggets",
+"name": "Tov Meod Golden Baked Breaded Chicken Nuggets, 32 Oz",
+"size": "32 Oz",
+"upc": ""
+},
+{
+"q": "Whole Milk Vanilla Greek Yogurt",
+"name": "Whole Milk Vanilla Greek Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": ""
+},
+{
+"q": "Wise Honey Bbq Potato Chips",
+"name": "Wise Honey Bbq Potato Chips, 0.75 Oz",
+"size": "0.75 Oz",
+"upc": ""
+},
+{
+"q": "Elite Turkish Ground Roasted Coffee",
+"name": "Elite Turkish Ground Roasted Coffee, 3.5 Oz",
+"size": "3.5 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Almond Extract Imitation",
+"name": "Gefen Almond Extract Imitation, 2 fl oz",
+"size": "2 fl oz",
+"upc": ""
+},
+{
+"q": "Gefen Baking Powder",
+"name": "Gefen Baking Powder, 8 Oz",
+"size": "8 Oz",
+"upc": "710069134300"
+},
+{
+"q": "Gefen Chocolate Chips Semi-Sweet",
+"name": "Gefen Chocolate Chips Semi-Sweet, 9 Oz",
+"size": "9 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Chocolate Pudding & Pie Filling",
+"name": "Gefen Chocolate Pudding & Pie Filling, 3.75 Oz",
+"size": "3.75 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Chocolate Wafers",
+"name": "Gefen Chocolate Wafers, 14 Oz",
+"size": "14 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Corn Starch",
+"name": "Gefen Corn Starch, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Cranberry Beans",
+"name": "Gefen Cranberry Beans, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Fat Free Classic Marinara Pasta Sauce",
+"name": "Gefen Fat Free Classic Marinara Pasta Sauce, 26 Oz",
+"size": "26 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Great Northern Beans",
+"name": "Gefen Great Northern Beans, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Green Split Peas",
+"name": "Gefen Green Split Peas, 16 Oz",
+"size": "16 Oz",
+"upc": "710069035959"
+},
+{
+"q": "Gefen Hearts Of Palm Whole",
+"name": "Gefen Hearts Of Palm Whole, 14 Oz",
+"size": "14 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Imitation Vanilla Extract",
+"name": "Gefen Imitation Vanilla Extract, 2 fl oz",
+"size": "2 fl oz",
+"upc": ""
+},
+{
+"q": "Gefen Large Limas",
+"name": "Gefen Large Limas, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Mandarin Oranges Whole Segments in Light Syrup",
+"name": "Gefen Mandarin Oranges Whole Segments in Light Syrup, 11 Oz",
+"size": "11 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Natural Unsweetened Apple Sauce",
+"name": "Gefen Natural Unsweetened Apple Sauce, 46 Oz",
+"size": "46 Oz",
+"upc": ""
+},
+{
+"q": "Gefen New York Deli Style Mustard",
+"name": "Gefen New York Deli Style Mustard, 12 Oz",
+"size": "12 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Pearl Barley",
+"name": "Gefen Pearl Barley, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Peas & Carrots",
+"name": "Gefen Peas & Carrots, 15 Oz",
+"size": "15 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Pitted Green Olives",
+"name": "Gefen Pitted Green Olives, 19 Oz",
+"size": "19 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Pure Vanilla Extract",
+"name": "Gefen Pure Vanilla Extract, 2 fl oz",
+"size": "2 fl oz",
+"upc": ""
+},
+{
+"q": "Gefen Ramen Noodles Oriental-style Vegetable",
+"name": "Gefen Ramen Noodles Oriental-style Vegetable, 3 Oz",
+"size": "3 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Raspberry Jell Dessert",
+"name": "Gefen Raspberry Jell Dessert, 3 Oz",
+"size": "3 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Sliced Beets",
+"name": "Gefen Sliced Beets, 15 Oz",
+"size": "15 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Sliced Black Olives",
+"name": "Gefen Sliced Black Olives, 19 Oz",
+"size": "19 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Sliced Green Olives",
+"name": "Gefen Sliced Green Olives, 19 Oz",
+"size": "19 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Square Wonton Wraps",
+"name": "Gefen Square Wonton Wraps, 12 Oz",
+"size": "12 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Strawberry Jell Dessert",
+"name": "Gefen Strawberry Jell Dessert, 3 Oz",
+"size": "3 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Table Salt",
+"name": "Gefen Table Salt, 26 Oz",
+"size": "26 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Tomato Paste",
+"name": "Gefen Tomato Paste, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Gefen White Small Beans",
+"name": "Gefen White Small Beans, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Whole Hearts Of Palm",
+"name": "Gefen Whole Hearts Of Palm, 14.1 Oz",
+"size": "14.1 Oz",
+"upc": "710069013308"
+},
+{
+"q": "Gefen Yellow Popcorn",
+"name": "Gefen Yellow Popcorn, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Gefen Yellow Split Peas",
+"name": "Gefen Yellow Split Peas, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Cheddar Shredded Natural Cheese",
+"name": "Haolam Cheddar Shredded Natural Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Cheddar Sliced Cheese",
+"name": "Haolam Cheddar Sliced Cheese, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Muenster Cheese Shredded",
+"name": "Haolam Muenster Cheese Shredded, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Muenster Sliced Cheese",
+"name": "Haolam Muenster Sliced Cheese, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Oven Smoked American Sliced Cheese",
+"name": "Haolam Oven Smoked American Sliced Cheese, 5 Oz",
+"size": "5 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sandwich Style Muenster Sliced Cheese",
+"name": "Haolam Sandwich Style Muenster Sliced Cheese, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Shredded Muenster",
+"name": "Haolam Shredded Muenster, 8 Oz",
+"size": "8 Oz",
+"upc": "26638267004"
+},
+{
+"q": "Haolam Shredded Natural Cheese Pizza",
+"name": "Haolam Shredded Natural Cheese Pizza, 8 Oz",
+"size": "8 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sliced Muenster Cheese",
+"name": "Haolam Sliced Muenster Cheese, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sliced Muenster Natural Cheese",
+"name": "Haolam Sliced Muenster Natural Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Sliced Natural Gouda Cheese",
+"name": "Haolam Sliced Natural Gouda Cheese, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Slims Muenster 12 Slices",
+"name": "Haolam Slims Muenster 12 Slices, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Smoked American Sliced Cheese",
+"name": "Haolam Smoked American Sliced Cheese, 5 Oz",
+"size": "5 Oz",
+"upc": ""
+},
+{
+"q": "Haolam Wisconsin Swiss Cheese Sliced",
+"name": "Haolam Wisconsin Swiss Cheese Sliced, 6 Oz",
+"size": "6 Oz",
+"upc": ""
+}
+],
+"bingo-bp": [
+{
+"q": "Davis Baking Powder",
+"name": "Davis Baking Powder, 8.1 Oz",
+"size": "8.1 Oz",
+"upc": "19900338021"
+},
+{
+"q": "General Mills Honey Nut Cheerios",
+"name": "General Mills Honey Nut Cheerios, 15.4 Oz",
+"size": "15.4 Oz",
+"upc": "16000125063"
+},
+{
+"q": "Kemach Minestrone Soup Mix",
+"name": "Kemach Minestrone Soup Mix, 5 Oz",
+"size": "5 Oz",
+"upc": "21859040375"
+},
+{
+"q": "Lieber's Semi Sweet Chocolate Chips",
+"name": "Lieber's Semi Sweet Chocolate Chips, 9 Oz",
+"size": "9 Oz.",
+"upc": "43427100120"
+},
+{
+"q": "Kemach Vegetable Soup With Mushrooms",
+"name": "Kemach Vegetable Soup With Mushrooms, 6 Oz",
+"size": "6 Oz",
+"upc": "21859040351"
+},
+{
+"q": "Kitov Onion Rings",
+"name": "Kitov Onion Rings",
+"size": "0.75 Oz",
+"upc": "76784004121"
+},
+{
+"q": "Dagim Solid White Tuna In Water",
+"name": "Dagim Solid White Tuna In Water, 6 Oz",
+"size": "6 oz",
+"upc": "46676182121"
+},
+{
+"q": "Tuscanini Solid Light Yellowfin Tuna In Olive Oil",
+"name": "Tuscanini Solid Light Yellowfin Tuna In Olive Oil, 5.6 Oz",
+"size": "5.6 Oz",
+"upc": "710069304253"
+},
+{
+"q": "Tuscanini Tuna Solid Light In Water",
+"name": "Tuscanini Tuna Solid Light In Water, 5.6 Oz",
+"size": "5.6 Oz",
+"upc": "710069304260"
+},
+{
+"q": "Tuscanini Tomato Sauce",
+"name": "Tuscanini Tomato Sauce, 17.6 Oz",
+"size": "17.6 Oz",
+"upc": "710069312104"
+},
+{
+"q": "Bloom's Rice Cake Thins Plain",
+"name": "Bloom's Rice Cake Thins Plain, 4.6 Oz",
+"size": "4.6 oz",
+"upc": "32797014533"
+},
+{
+"q": "Haolam Mozzarella & Cheddar Fancy Shredded Natural Cheese",
+"name": "Haolam Mozzarella & Cheddar Fancy Shredded Natural Cheese, 8 Oz",
+"size": "8 Oz.",
+"upc": "26638265000"
+},
+{
+"q": "J&J Whipped Cream Cheese",
+"name": "J&J Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz.",
+"upc": "11274000276"
+},
+{
+"q": "Lieber's Honey Grahams",
+"name": "Lieber's Honey Grahams, 14.4 Oz",
+"size": "14.4 oz",
+"upc": "43427130417"
+},
+{
+"q": "Mehadrin Strawberry Lowfat Yogurt",
+"name": "Mehadrin Strawberry Lowfat Yogurt, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353102021"
+},
+{
+"q": "Mehadrin Vanilla Lowfat Yogurt",
+"name": "Mehadrin Vanilla Lowfat Yogurt, 32 Oz",
+"size": "32 Oz.",
+"upc": "14353103028"
+},
+{
+"q": "Dagim Chunk Light Tuna In Oil",
+"name": "Dagim Chunk Light Tuna In Oil, 6 Oz",
+"size": "6 oz",
+"upc": "46676131525"
+},
+{
+"q": "Domino Sugar Dark Brown Sugar",
+"name": "Domino Sugar Dark Brown Sugar, 1 Lb",
+"size": "1 Lb",
+"upc": "49200056004"
+},
+{
+"q": "Kemach Toasted Oats Cereal",
+"name": "Kemach Toasted Oats Cereal, 15 Oz",
+"size": "15 oz",
+"upc": "21859046155"
+},
+{
+"q": "Norman's Low Fat Pomegranate Yogurt",
+"name": "Norman's Low Fat Pomegranate Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360000419"
+},
+{
+"q": "Skippy Creamy Peanut Butter",
+"name": "Skippy Creamy Peanut Butter, 16.3 Oz",
+"size": "16.3 Oz",
+"upc": "37600110754"
+},
+{
+"q": "Taanug Honey Nut Toasted Oats Cereal",
+"name": "Taanug Honey Nut Toasted Oats Cereal, 12.25 Oz",
+"size": "12.25 oz",
+"upc": "78328031457"
+},
+{
+"q": "Taanug Toasted Oats Cereal",
+"name": "Taanug Toasted Oats Cereal, 14 Oz",
+"size": "14 oz",
+"upc": "78328031303"
+},
+{
+"q": "Tirat Zvi Thinnies Oven Roasted Turkey Breast",
+"name": "Tirat Zvi Thinnies Oven Roasted Turkey Breast, 6.5 Oz",
+"size": "6.5 Oz",
+"upc": "850775007120"
+},
+{
+"q": "Lieber's Pure Honey 2 Lb",
+"name": "Lieber's Pure Honey 2 Lb, 32 Oz",
+"size": "2 Lbs.",
+"upc": "43427022460"
+},
+{
+"q": "Norman's French Vanilla Low Fat Yogurt",
+"name": "Norman's French Vanilla Low Fat Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360000433"
+},
+{
+"q": "Lieber's Honey Potato Chips",
+"name": "Lieber's Honey Potato Chips, 0.74 Oz",
+"size": "0.75 oz",
+"upc": "43427000901"
+},
+{
+"q": "Haolam Parmesan Grated Cheese",
+"name": "Haolam Parmesan Grated Cheese, 3.5 Oz",
+"size": "3.5 Oz.",
+"upc": "26638269909"
+},
+{
+"q": "J&J Farmer Cheese",
+"name": "J&J Farmer Cheese, 16 Oz",
+"size": "1 Lb.",
+"upc": "11274000436"
+},
+{
+"q": "J&J Sour Cream",
+"name": "J&J Sour Cream, 8 Oz",
+"size": "8 Oz.",
+"upc": "11274000160"
+},
+{
+"q": "Kedem White Cooking Wine",
+"name": "Kedem White Cooking Wine, 12.7 Oz",
+"size": "12.7 fl oz",
+"upc": "73490124433"
+},
+{
+"q": "Lieber's Apricot Preserve",
+"name": "Lieber's Apricot Preserve, 18 Oz",
+"size": "18 oz",
+"upc": "43427011648"
+},
+{
+"q": "Lieber's Mini Dill Gherkins",
+"name": "Lieber's Mini Dill Gherkins, 24 Oz",
+"size": "24.3 Fl Oz.",
+"upc": "43427007559"
+},
+{
+"q": "Lieber's Original Corn Chips",
+"name": "Lieber's Original Corn Chips, 11 Oz",
+"size": "11 Oz",
+"upc": "43427181143"
+},
+{
+"q": "Paskesz Sour Belts Raspberry",
+"name": "Paskesz Sour Belts Raspberry, 4 Oz",
+"size": "4 oz",
+"upc": "25675121041"
+},
+{
+"q": "Arm & Hammer Fridge-N-Freezer Baking Soda",
+"name": "Arm & Hammer Fridge-N-Freezer Baking Soda, 14 Oz",
+"size": "14 Oz",
+"upc": "33200000204"
+},
+{
+"q": "Kemach Corn Flakes",
+"name": "Kemach Corn Flakes, 18 Oz",
+"size": "18 oz",
+"upc": "21859046100"
+},
+{
+"q": "Kemach Graham Pie Crust",
+"name": "Kemach Graham Pie Crust, 6 Oz",
+"size": "6 Oz.",
+"upc": "21859050251"
+},
+{
+"q": "Taanug Corn Flakes",
+"name": "Taanug Corn Flakes, 12 Oz",
+"size": "12 oz",
+"upc": "78328031044"
+},
+{
+"q": "Bloom's BBQ Flavored Corn Chips",
+"name": "Bloom's BBQ Flavored Corn Chips, 1 Oz",
+"size": "1 oz",
+"upc": "32797005784"
+},
+{
+"q": "Lieber's Crispy Goodies Wavy Corn Chips",
+"name": "Lieber's Crispy Goodies Wavy Corn Chips, 1 Oz",
+"size": "1 oz",
+"upc": "43427551113"
+},
+{
+"q": "Haolam Shredded Mozzarella Cheese",
+"name": "Haolam Shredded Mozzarella Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": "26638002643"
+},
+{
+"q": "J&J Cottage Cheese Whipped",
+"name": "J&J Cottage Cheese Whipped, 16 Oz",
+"size": "16 Oz.",
+"upc": "11274000733"
+},
+{
+"q": "J&J Lowfat Cottage Cheese 2% Milkfat",
+"name": "J&J Lowfat Cottage Cheese 2% Milkfat, 16 Oz",
+"size": "16 Oz.",
+"upc": "11274000726"
+},
+{
+"q": "Lieber's Extra Virgin Olive Oil Cooking Spray",
+"name": "Lieber's Extra Virgin Olive Oil Cooking Spray, 5 Oz",
+"size": "5 Oz",
+"upc": "43427112093"
+},
+{
+"q": "Mehadrin Plain Lowfat Yogurt",
+"name": "Mehadrin Plain Lowfat Yogurt, 32 Oz",
+"size": "32 Oz.",
+"upc": "14353103011"
+},
+{
+"q": "Heaven & Earth Tuna Salad With Corn",
+"name": "Heaven & Earth Tuna Salad With Corn, 5.64 Oz",
+"size": "5.64 Oz",
+"upc": "810487064217"
+},
+{
+"q": "Norman's Greek Light Blueberry Nonfat Yogurt",
+"name": "Norman's Greek Light Blueberry Nonfat Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360003663"
+},
+{
+"q": "Norman's Greek Light Coffee Nonfat Yogurt",
+"name": "Norman's Greek Light Coffee Nonfat Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360000945"
+},
+{
+"q": "Norman's Greek Light Tiramisu Nonfat Yogurt",
+"name": "Norman's Greek Light Tiramisu Nonfat Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360003687"
+},
+{
+"q": "Norman's Whipped Cream Cheese",
+"name": "Norman's Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz",
+"upc": "890360004257"
+},
+{
+"q": "Ostreicher's Low Fat Honey Cookies",
+"name": "Ostreicher's Low Fat Honey Cookies, 10 Oz",
+"size": "10 Oz",
+"upc": "726046080003"
+},
+{
+"q": "Shemesh American Cheese 24 Slice",
+"name": "Shemesh American Cheese 24 Slice, 16 Oz",
+"size": "16 Oz",
+"upc": "28716412009"
+},
+{
+"q": "Taanug Rice Squares Cereal",
+"name": "Taanug Rice Squares Cereal, 12 Oz",
+"size": "12 oz",
+"upc": "78328031013"
+},
+{
+"q": "Taanug Sugar Frosted Flakes Cereal",
+"name": "Taanug Sugar Frosted Flakes Cereal, 13.5 Oz",
+"size": "13.5 oz",
+"upc": "78328031310"
+},
+{
+"q": "Gefen Apple Sauce Original",
+"name": "Gefen Apple Sauce Original, 48 Oz",
+"size": "48 oz",
+"upc": "710069805019"
+},
+{
+"q": "Gefen Pure Baking Soda",
+"name": "Gefen Pure Baking Soda, 12 Oz",
+"size": "12 oz",
+"upc": "710069404311"
+},
+{
+"q": "Haolam Pepper Jack Cheese Slims",
+"name": "Haolam Pepper Jack Cheese Slims, 6 Oz",
+"size": "6 Oz",
+"upc": "26638227640"
+},
+{
+"q": "Haolam Sliced Muenster Natural Cheese",
+"name": "Haolam Sliced Muenster Natural Cheese, 16 Oz",
+"size": "16 Oz",
+"upc": "26638263341"
+},
+{
+"q": "J&J Sour Cream Lite",
+"name": "J&J Sour Cream Lite, 16 Oz",
+"size": "16 Oz.",
+"upc": "11274000177"
+},
+{
+"q": "Lieber's Chocolate Chunks",
+"name": "Lieber's Chocolate Chunks, 9 Oz",
+"size": "9 Oz.",
+"upc": "43427222907"
+},
+{
+"q": "Lieber's Crushed Pineapple",
+"name": "Lieber's Crushed Pineapple, 20 Oz",
+"size": "20 oz",
+"upc": "43427317009"
+},
+{
+"q": "Lieber's Kosher Dill Gherkins",
+"name": "Lieber's Kosher Dill Gherkins, 24 Oz",
+"size": "24.3 Fl Oz",
+"upc": "43427006743"
+},
+{
+"q": "Lieber's Original Graham Crackers",
+"name": "Lieber's Original Graham Crackers, 14.4 Oz",
+"size": "14.4 oz",
+"upc": "43427099912"
+},
+{
+"q": "Lieber's Stuffed Manzanilla Olives",
+"name": "Lieber's Stuffed Manzanilla Olives, 10 Oz",
+"size": "10 Oz",
+"upc": "43427201049"
+},
+{
+"q": "Mehadrin Sour Cream",
+"name": "Mehadrin Sour Cream, 16 Oz",
+"size": "16 Oz.",
+"upc": "14353010012"
+},
+{
+"q": "Osem Consomme Soup & Seasoning Mix",
+"name": "Osem Consomme Soup & Seasoning Mix, 14.1 Oz",
+"size": "14.1 oz",
+"upc": "77544002883"
+},
+{
+"q": "Streit's Lightly Salted Matzos",
+"name": "Streit's Lightly Salted Matzos, 11 Oz",
+"size": "11 Oz.",
+"upc": "70227500010"
+},
+{
+"q": "Golden Taste Mild Jalapeno Dip",
+"name": "Golden Taste Mild Jalapeno Dip, 7.5 Oz",
+"size": "7.5 Oz",
+"upc": "880879001670"
+},
+{
+"q": "Klik Cookies",
+"name": "Klik Cookies, 2.64 Oz",
+"size": "2.64 Oz",
+"upc": "13495113506"
+},
+{
+"q": "Klik Kariot Pillows",
+"name": "Klik Kariot Pillows, 2.6 Oz",
+"size": "2.6 Oz",
+"upc": "13495113582"
+},
+{
+"q": "Klik Party Mix",
+"name": "Klik Party Mix, 2.64 Oz",
+"size": "2.64 Oz",
+"upc": "84685000111"
+},
+{
+"q": "Klik Vanilla n' Fudge",
+"name": "Klik Vanilla n' Fudge, 2.64 Oz",
+"size": "2.64 Oz",
+"upc": "13495113537"
+},
+{
+"q": "Lay's Crunchy Potato Chips",
+"name": "Lay's Crunchy Potato Chips, 1.8 Oz",
+"size": "1.8 oz",
+"upc": "815871016650"
+},
+{
+"q": "Pardes Farms Cauliflower Florets",
+"name": "Pardes Farms Cauliflower Florets, 24 Oz",
+"size": "24 Oz",
+"upc": "880879002264"
+},
+{
+"q": "Lieber's Onion Rings",
+"name": "Lieber's Onion Rings, 0.5 Oz",
+"size": "0.5 Oz",
+"upc": "43427181488"
+},
+{
+"q": "Lieber's Vanilla Minios",
+"name": "Lieber's Vanilla Minios, 2 Oz",
+"size": "2 oz",
+"upc": "43427011044"
+},
+{
+"q": "Gefen Cholent Mix",
+"name": "Gefen Cholent Mix, 16 Oz",
+"size": "16 oz",
+"upc": "710069035003"
+},
+{
+"q": "Haolam American Cheese 16 Slice",
+"name": "Haolam American Cheese 16 Slice, 12 Oz",
+"size": "12 Oz",
+"upc": "26638212004"
+},
+{
+"q": "J&J Cream Cheese Jalapeno",
+"name": "J&J Cream Cheese Jalapeno, 7 Oz",
+"size": "7 Oz",
+"upc": "11274000481"
+},
+{
+"q": "J&J Garlic Cream Cheese",
+"name": "J&J Garlic Cream Cheese, 7 Oz",
+"size": "7 Oz",
+"upc": "11274000474"
+},
+{
+"q": "J&J Yogurt Deluxe Strawberry",
+"name": "J&J Yogurt Deluxe Strawberry, 6 Oz",
+"size": "6 Oz",
+"upc": "11274001532"
+},
+{
+"q": "Lieber's Crushed Tomatoes",
+"name": "Lieber's Crushed Tomatoes, 28 Oz",
+"size": "28 Oz",
+"upc": "43427201223"
+},
+{
+"q": "Mehadrin Greek Light Fit 'n Free Vanilla Yogurt",
+"name": "Mehadrin Greek Light Fit 'n Free Vanilla Yogurt, 5.3 Oz",
+"size": "5.3 Oz.",
+"upc": "14353103707"
+},
+{
+"q": "Mehadrin Krispy Vanilla Lowfat Yogurt with Hazelnut Crunchies",
+"name": "Mehadrin Krispy Vanilla Lowfat Yogurt with Hazelnut Crunchies, 5.3 Oz",
+"size": "5.3 Oz.",
+"upc": "14353103622"
+},
+{
+"q": "Dagim Chunk Light Tuna In Water",
+"name": "Dagim Chunk Light Tuna In Water, 6 Oz",
+"size": "6 oz",
+"upc": "46676132522"
+},
+{
+"q": "Landau Milk Chocolate Granola",
+"name": "Landau Milk Chocolate Granola, 11.4 Oz",
+"size": "11.4 oz",
+"upc": "78328002808"
+},
+{
+"q": "Norman's 80 Lite Strawberry Yogurt",
+"name": "Norman's 80 Lite Strawberry Yogurt, 6 Oz",
+"size": "6 Oz",
+"upc": "890360000839"
+},
+{
+"q": "Norman's Peach Greek Nonfat Yogurt",
+"name": "Norman's Peach Greek Nonfat Yogurt, 6 Oz",
+"size": "6 Oz",
+"upc": "890360000327"
+},
+{
+"q": "Norman's Taste Strawberry Nonfat Yogurt",
+"name": "Norman's Taste Strawberry Nonfat Yogurt, 5 Oz",
+"size": "5 Oz",
+"upc": "890360003014"
+},
+{
+"q": "Royal Gefilte Fish",
+"name": "Royal Gefilte Fish, 22 Oz",
+"size": "22 Oz",
+"upc": "32673000018"
+},
+{
+"q": "Taanug Sugar Puffed Wheat Cereal",
+"name": "Taanug Sugar Puffed Wheat Cereal, 15.3 Oz",
+"size": "15.3 oz",
+"upc": "78328001931"
+},
+{
+"q": "Gefen Baking Powder",
+"name": "Gefen Baking Powder, 8 Oz",
+"size": "8 oz",
+"upc": "710069134300"
+},
+{
+"q": "Gefen Chocolate Syrup",
+"name": "Gefen Chocolate Syrup, 22 Oz",
+"size": "22 oz",
+"upc": "710069041059"
+},
+{
+"q": "Gefen Corn Starch",
+"name": "Gefen Corn Starch, 16 Oz",
+"size": "16 oz",
+"upc": "710069044357"
+},
+{
+"q": "Gefen Corn Syrup Light",
+"name": "Gefen Corn Syrup Light, 12 Oz",
+"size": "12 oz",
+"upc": "710069044159"
+},
+{
+"q": "Gefen Great Northern Beans",
+"name": "Gefen Great Northern Beans, 16 Oz",
+"size": "16 oz",
+"upc": "710069052208"
+},
+{
+"q": "Gefen Large Lima Beans",
+"name": "Gefen Large Lima Beans, 16 Oz",
+"size": "16 oz",
+"upc": "710069035607"
+},
+{
+"q": "Gefen Peas & Carrots",
+"name": "Gefen Peas & Carrots, 15 Oz",
+"size": "15 oz",
+"upc": "710069021808"
+},
+{
+"q": "Gefen Sliced Green Olives",
+"name": "Gefen Sliced Green Olives, 18.5 Oz",
+"size": "18.5 oz",
+"upc": "710069036918"
+},
+{
+"q": "Gefen Sweet Peas",
+"name": "Gefen Sweet Peas, 15 Oz",
+"size": "15 oz",
+"upc": "710069021600"
+},
+{
+"q": "Gefen Table Salt",
+"name": "Gefen Table Salt, 26 Oz",
+"size": "26 oz",
+"upc": "710069128101"
+},
+{
+"q": "Gefen Whole Segments Mandarin Oranges In Light Syrup",
+"name": "Gefen Whole Segments Mandarin Oranges In Light Syrup, 11 Oz",
+"size": "11 oz",
+"upc": "710069104907"
+},
+{
+"q": "Gefen Yellow Popcorn",
+"name": "Gefen Yellow Popcorn, 16 Oz",
+"size": "16 oz",
+"upc": "710069035843"
+},
+{
+"q": "Haolam Muenster Sliced Natural Cheese",
+"name": "Haolam Muenster Sliced Natural Cheese, 6 Oz",
+"size": "6 Oz",
+"upc": "26638200117"
+},
+{
+"q": "Haolam Slims Muenster Ultra Slim Natural Cheese Slice 12 Ct",
+"name": "Haolam Slims Muenster Ultra Slim Natural Cheese Slice 12 Ct, 6 Oz",
+"size": "6 oz",
+"upc": "26638227602"
+},
+{
+"q": "Lieber's Cherry Pie Filling",
+"name": "Lieber's Cherry Pie Filling, 21 Oz",
+"size": "21 Oz",
+"upc": "43427160407"
+},
+{
+"q": "Lieber's Corn Flake Crumbs",
+"name": "Lieber's Corn Flake Crumbs, 12 Oz",
+"size": "12 Oz.",
+"upc": "43427200646"
+},
+{
+"q": "Lieber's Tomato Juice",
+"name": "Lieber's Tomato Juice, 46 Oz",
+"size": "46 fl oz",
+"upc": "43427200356"
+},
+{
+"q": "Lieber's Unsweetened Apple Sauce",
+"name": "Lieber's Unsweetened Apple Sauce, 46 Oz",
+"size": "46 Oz.",
+"upc": "43427200523"
+},
+{
+"q": "Meal Mart Kishka",
+"name": "Meal Mart Kishka, 16 Oz",
+"size": "16 Oz",
+"upc": "51328117321"
+},
+{
+"q": "Mehadrin Farmer Cheese",
+"name": "Mehadrin Farmer Cheese , 16 Oz",
+"size": "1 Lb.",
+"upc": "14353100102"
+},
+{
+"q": "Mehadrin Leben Chocolate",
+"name": "Mehadrin Leben Chocolate, 6 Oz",
+"size": "6 Oz",
+"upc": "14353100041"
+},
+{
+"q": "Mehadrin Leben Vanilla",
+"name": "Mehadrin Leben Vanilla, 6 Oz",
+"size": "6 Oz",
+"upc": "14353100034"
+},
+{
+"q": "Mehadrin Teyva Original Cheese Snack",
+"name": "Mehadrin Teyva Original Cheese Snack, 2.5 Oz",
+"size": "2.5 oz",
+"upc": "14353120117"
+},
+{
+"q": "Osem Consomme Parve Soup & Seasoning Mix",
+"name": "Osem Consomme Parve Soup & Seasoning Mix, 14.1 Oz",
+"size": "14.1 Oz",
+"upc": "77544527409"
+},
+{
+"q": "Paskesz Cannoli Chocolate Striped",
+"name": "Paskesz Cannoli Chocolate Striped, 6.3 Oz",
+"size": "6.3 oz",
+"upc": "25675031500"
+},
+{
+"q": "Paskesz Melba Toast Multigrain",
+"name": "Paskesz Melba Toast Multigrain, 7 Oz",
+"size": "7 Oz",
+"upc": "25675014916"
+},
+{
+"q": "Paskesz Sour Mini Belts Strawberry",
+"name": "Paskesz Sour Mini Belts Strawberry, 4.1 Oz",
+"size": "4 oz",
+"upc": "25675121171"
+},
+{
+"q": "Paskesz Very Berry Fruit Snacks",
+"name": "Paskesz Very Berry Fruit Snacks, 5 Oz",
+"size": "5 Oz",
+"upc": "25675122208"
+}
+],
+"central": [
+{
+"q": "Lieber's Honey Potato Chips",
+"name": "Lieber's Honey Potato Chips, 0.75 Oz",
+"size": "0.75 oz",
+"upc": "43427000901"
+},
+{
+"q": "Dagim Fancy Albacore Solid White Tuna In Water",
+"name": "Dagim Fancy Albacore Solid White Tuna In Water, 6 Oz",
+"size": "6 oz",
+"upc": "46676182121"
+},
+{
+"q": "Kemach Minestrone Soup Mix",
+"name": "Kemach Minestrone Soup Mix, 5 Oz",
+"size": "5 Oz",
+"upc": "21859040375"
+},
+{
+"q": "Taanug Sugar Frosted Flakes Cereal",
+"name": "Taanug Sugar Frosted Flakes Cereal, 13.5 Oz",
+"size": "13.5 oz",
+"upc": "78328031310"
+},
+{
+"q": "Gefen Cut Green Beans",
+"name": "Gefen Cut Green Beans, 14.5 Oz",
+"size": "14.5 oz",
+"upc": "710069021006"
+},
+{
+"q": "Golden Taste Mild Jalapeno Dip",
+"name": "Golden Taste Mild Jalapeno Dip, 7.5 Oz",
+"size": "7.5 Oz",
+"upc": "880879001670"
+},
+{
+"q": "Lay's Salted Potato Chips",
+"name": "Lay's Salted Potato Chips, 1.8 Oz",
+"size": "1.8 oz",
+"upc": "815871015929"
+},
+{
+"q": "A&B Gefilte Fish",
+"name": "A&B Gefilte Fish, 22 Oz",
+"size": "22 Oz",
+"upc": "32973000015"
+},
+{
+"q": "Bloom's Plain Rice Cake Thins",
+"name": "Bloom's Plain Rice Cake Thins, 4.6 Oz",
+"size": "4.6 oz",
+"upc": "32797014533"
+},
+{
+"q": "Gefen Canola Oil Cooking Spray",
+"name": "Gefen Canola Oil Cooking Spray, 6 Oz",
+"size": "6 oz",
+"upc": "710069026506"
+},
+{
+"q": "Gefen Cholent Mix",
+"name": "Gefen Cholent Mix, 16 Oz",
+"size": "16 oz",
+"upc": "710069035003"
+},
+{
+"q": "Gefen Chunk Light Tuna In Oil",
+"name": "Gefen Chunk Light Tuna In Oil, 6 Oz",
+"size": "6 oz",
+"upc": "710069012219"
+},
+{
+"q": "Gefen Chunk Light Tuna In Water",
+"name": "Gefen Chunk Light Tuna In Water, 6 Oz",
+"size": "6 oz",
+"upc": "710069113602"
+},
+{
+"q": "Gefen Creamy Peanut Butter",
+"name": "Gefen Creamy Peanut Butter, 18 Oz",
+"size": "18 oz",
+"upc": "710069016101"
+},
+{
+"q": "Gefen Crunchy Peanut Butter",
+"name": "Gefen Crunchy Peanut Butter, 18 Oz",
+"size": "18 oz",
+"upc": "710069016200"
+},
+{
+"q": "Gefen Egg Roll Wraps",
+"name": "Gefen Egg Roll Wraps, 1 Lb",
+"size": "16 oz",
+"upc": "710069569126"
+},
+{
+"q": "Gefen Fancy Solid White Albacore In Water",
+"name": "Gefen Fancy Solid White Albacore In Water, 6 Oz",
+"size": "6 oz",
+"upc": "710069113305"
+},
+{
+"q": "Gefen Plain Original Bread Crumbs",
+"name": "Gefen Plain Original Bread Crumbs, 15 Oz",
+"size": "15 oz",
+"upc": "710069018600"
+},
+{
+"q": "J&J Cream Cheese Whipped",
+"name": "J&J Cream Cheese Whipped, 8 Oz",
+"size": "8 Oz.",
+"upc": "11274000276"
+},
+{
+"q": "J&J Nonfat Strawberry Yogurt",
+"name": "J&J Nonfat Strawberry Yogurt, 32 Oz",
+"size": "32 Oz.",
+"upc": "11274007220"
+},
+{
+"q": "J&J Whipped Cottage Cheese",
+"name": "J&J Whipped Cottage Cheese, 16 Oz",
+"size": "16 Oz.",
+"upc": "11274000733"
+},
+{
+"q": "J&J Yogurt Vanilla",
+"name": "J&J Yogurt Vanilla, 6 Oz",
+"size": "6 Oz.",
+"upc": "11274000238"
+},
+{
+"q": "Lieber's Milk Chocolate Biscolat",
+"name": "Lieber's Milk Chocolate Biscolat, 6.35 Oz",
+"size": "6.35 Oz",
+"upc": "43427222754"
+},
+{
+"q": "Meal Mart Turkey Roll",
+"name": "Meal Mart Turkey Roll, 6 Oz",
+"size": "6 Oz",
+"upc": "51328104017"
+},
+{
+"q": "Mehadrin Butter Whipped",
+"name": "Mehadrin Butter Whipped, 8 Oz",
+"size": "8 Oz.",
+"upc": "14353110026"
+},
+{
+"q": "Mehadrin Fit 'N Free Light Strawberry Yogurt",
+"name": "Mehadrin Fit 'N Free Light Strawberry Yogurt, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353102335"
+},
+{
+"q": "Mehadrin Fit 'N Free Light Vanilla Yogurt",
+"name": "Mehadrin Fit 'N Free Light Vanilla Yogurt, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353102342"
+},
+{
+"q": "Mehadrin Greek Yogurt Cappuccino",
+"name": "Mehadrin Greek Yogurt Cappuccino, 32 Oz",
+"size": "32 Oz.",
+"upc": "14353103370"
+},
+{
+"q": "Mehadrin Lowfat Plain Yogurt",
+"name": "Mehadrin Lowfat Plain Yogurt, 32 Oz",
+"size": "32 Oz.",
+"upc": "14353103011"
+},
+{
+"q": "Mehadrin Lowfat Vanilla Yogurt",
+"name": "Mehadrin Lowfat Vanilla Yogurt, 32 Oz",
+"size": "32 Oz.",
+"upc": "14353103028"
+},
+{
+"q": "Mehadrin Shredded Mozzarella Cheese",
+"name": "Mehadrin Shredded Mozzarella Cheese, 8 Oz",
+"size": "8 Oz.",
+"upc": "14353112150"
+},
+{
+"q": "Arrowhead Mills Organic Puffed Kamut Cereal",
+"name": "Arrowhead Mills Organic Puffed Kamut Cereal, 6 Oz",
+"size": "6 oz",
+"upc": "74333474340"
+},
+{
+"q": "Arrowhead Mills Puffed Corn Cereal",
+"name": "Arrowhead Mills Puffed Corn Cereal, 6 Oz",
+"size": "6 oz",
+"upc": "74333474302"
+},
+{
+"q": "B'gan Diced Onions",
+"name": "B'gan Diced Onions, 16 Oz",
+"size": "16 oz",
+"upc": "633016004115"
+},
+{
+"q": "Domino Dark Brown Sugar",
+"name": "Domino Dark Brown Sugar, 1 Lb",
+"size": "1 Lb",
+"upc": "49200056004"
+},
+{
+"q": "Domino Pourable Light Brown Sugar",
+"name": "Domino Pourable Light Brown Sugar, 10 Oz",
+"size": "10 Oz",
+"upc": "49200902943"
+},
+{
+"q": "Domino Powdered Sugar",
+"name": "Domino Powdered Sugar, 1 Lb",
+"size": "1 Lb",
+"upc": "49200051009"
+},
+{
+"q": "Gevina Plain Whole Milk Greek Yogurt",
+"name": "Gevina Plain Whole Milk Greek Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "855499005919"
+},
+{
+"q": "Givat Slim 60 Strawberry Yogurt",
+"name": "Givat Slim 60 Strawberry Yogurt, 5 Oz",
+"size": "5 Oz",
+"upc": "14353102939"
+},
+{
+"q": "Givat Whipped Cream Cheese",
+"name": "Givat Whipped Cream Cheese, 8 Oz",
+"size": "8 Oz.",
+"upc": "14353014201"
+},
+{
+"q": "Golden Taste Nova Atlantic Salmon",
+"name": "Golden Taste Nova Atlantic Salmon, 6 Oz",
+"size": "6 Oz",
+"upc": "758259771706"
+},
+{
+"q": "Golden Taste Sugar Free Cole Slaw",
+"name": "Golden Taste Sugar Free Cole Slaw, 14 Oz",
+"size": "14 Oz",
+"upc": "880879002202"
+},
+{
+"q": "Golden Taste Tuna Deluxe",
+"name": "Golden Taste Tuna Deluxe, 7.5 Oz",
+"size": "7.5 Oz",
+"upc": "758259771157"
+},
+{
+"q": "Heaven & Earth No Added Sugar Milk Chocolate",
+"name": "Heaven & Earth No Added Sugar Milk Chocolate, 3.5 Oz",
+"size": "3.5 oz",
+"upc": "810487007818"
+},
+{
+"q": "Heaven & Earth Tuna Salad With Corn",
+"name": "Heaven & Earth Tuna Salad With Corn, 5.64 Oz",
+"size": "5.64 oz",
+"upc": "810487064217"
+},
+{
+"q": "Kemach Corn Flakes Cereal",
+"name": "Kemach Corn Flakes Cereal, 18 Oz",
+"size": "18 oz",
+"upc": "21859046100"
+},
+{
+"q": "Kemach Everything Crispy Crusts Flat Bread",
+"name": "Kemach Everything Crispy Crusts Flat Bread, 5 Oz",
+"size": "5 Oz",
+"upc": "21859043383"
+},
+{
+"q": "Kemach Fruit Whirls Sugar Sweetened Cereal",
+"name": "Kemach Fruit Whirls Sugar Sweetened Cereal, 15 Oz",
+"size": "15 oz",
+"upc": "21859046254"
+},
+{
+"q": "Kemach Toasted Oats Cereal",
+"name": "Kemach Toasted Oats Cereal, 15 Oz",
+"size": "15 oz",
+"upc": "21859046155"
+},
+{
+"q": "KJ Poultry Sliced Pastrami",
+"name": "KJ Poultry Sliced Pastrami, 6 Oz",
+"size": "6 Oz.",
+"upc": "894792002171"
+},
+{
+"q": "KJ Poultry Sliced Turkey Roll",
+"name": "KJ Poultry Sliced Turkey Roll, 6 Oz",
+"size": "6 Oz",
+"upc": "894792002058"
+},
+{
+"q": "Norman's Cream Cheese Whipped",
+"name": "Norman's Cream Cheese Whipped, 8 Oz",
+"size": "8 Oz",
+"upc": "890360004257"
+},
+{
+"q": "Norman's Greek Pro+Yogurt Strawberry",
+"name": "Norman's Greek Pro+Yogurt Strawberry, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360003526"
+},
+{
+"q": "Norman's Greek Pro+Yogurt Superfruit",
+"name": "Norman's Greek Pro+Yogurt Superfruit, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360003533"
+},
+{
+"q": "Norman's Mocha Wholesome Yogurt",
+"name": "Norman's Mocha Wholesome Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360004516"
+},
+{
+"q": "Norman's Plain Greek Yogurt",
+"name": "Norman's Plain Greek Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360000334"
+},
+{
+"q": "Norman's Strawberry Wholesome Yogurt",
+"name": "Norman's Strawberry Wholesome Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360004509"
+},
+{
+"q": "Norman's Vanilla Wholesome Yogurt",
+"name": "Norman's Vanilla Wholesome Yogurt, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360004530"
+},
+{
+"q": "Norman's Yogurt Cappuccino Low Fat",
+"name": "Norman's Yogurt Cappuccino Low Fat, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360000440"
+},
+{
+"q": "Norman's Yogurt French Vanilla Low Fat",
+"name": "Norman's Yogurt French Vanilla Low Fat, 5.3 Oz",
+"size": "5.3 Oz",
+"upc": "890360000433"
+},
+{
+"q": "Ostreicher's Spelt Honey Cookies",
+"name": "Ostreicher's Spelt Honey Cookies, 8 Oz",
+"size": "8 Oz",
+"upc": "726046003095"
+},
+{
+"q": "Quality Flour High Gluten Flour",
+"name": "Quality Flour High Gluten Flour, 5 Lb",
+"size": "5lbs",
+"upc": "650926770114"
+},
+{
+"q": "Silktouch Dinner Napkins",
+"name": "Silktouch Dinner Napkins, 100 Ct",
+"size": "100 Ct",
+"upc": "893033002031"
+},
+{
+"q": "Taanug Corn Flakes Cereal",
+"name": "Taanug Corn Flakes Cereal, 12 Oz",
+"size": "12 oz",
+"upc": "78328031044"
+},
+{
+"q": "Taanug Rice Squares Cereal",
+"name": "Taanug Rice Squares Cereal, 12 Oz",
+"size": "12 oz",
+"upc": "78328031013"
+},
+{
+"q": "Taanug Sugar Puffed Wheat Cereal",
+"name": "Taanug Sugar Puffed Wheat Cereal, 15.3 Oz",
+"size": "15.3 oz",
+"upc": "78328001931"
+},
+{
+"q": "The Best Tuna Salad",
+"name": "The Best Tuna Salad, 7.5 Oz",
+"size": "7.5 Oz",
+"upc": "880879001618"
+},
+{
+"q": "Gefen Baking Powder",
+"name": "Gefen Baking Powder, 8 Oz",
+"size": "8 oz",
+"upc": "710069134300"
+},
+{
+"q": "Gefen Baking Soda",
+"name": "Gefen Baking Soda, 12 Oz",
+"size": "12 oz",
+"upc": "710069404311"
+},
+{
+"q": "Gefen Chocolate Wafers",
+"name": "Gefen Chocolate Wafers, 14.1 Oz",
+"size": "14.1 oz",
+"upc": "710069315600"
+},
+{
+"q": "Gefen Corn Starch",
+"name": "Gefen Corn Starch, 16 Oz",
+"size": "16 oz",
+"upc": "710069044357"
+},
+{
+"q": "Gefen Cranberry Beans",
+"name": "Gefen Cranberry Beans, 16 Oz",
+"size": "16 oz",
+"upc": "710069035300"
+},
+{
+"q": "Gefen Cut Wax Beans",
+"name": "Gefen Cut Wax Beans, 14.5 Oz",
+"size": "14.5 Oz",
+"upc": "710069021204"
+},
+{
+"q": "Gefen Fruit Mix",
+"name": "Gefen Fruit Mix, 29 Oz",
+"size": "29 oz",
+"upc": "710069020337"
+},
+{
+"q": "Gefen Great Northern Beans",
+"name": "Gefen Great Northern Beans, 16 Oz",
+"size": "16 oz",
+"upc": "710069052208"
+},
+{
+"q": "Gefen Green Split Peas",
+"name": "Gefen Green Split Peas, 16 Oz",
+"size": "16 oz",
+"upc": "710069035959"
+},
+{
+"q": "Gefen Large Lima Beans",
+"name": "Gefen Large Lima Beans, 16 Oz",
+"size": "16 oz",
+"upc": "710069035607"
+},
+{
+"q": "Gefen Light Corn Syrup",
+"name": "Gefen Light Corn Syrup, 12 Oz",
+"size": "12 oz",
+"upc": "710069044159"
+},
+{
+"q": "Gefen Original BBQ Sauce",
+"name": "Gefen Original BBQ Sauce, 18 Oz",
+"size": "18 oz",
+"upc": "710069074156"
+},
+{
+"q": "Gefen Pearl Barley",
+"name": "Gefen Pearl Barley, 16 Oz",
+"size": "16 oz",
+"upc": "710069035102"
+},
+{
+"q": "Gefen Peas & Carrots",
+"name": "Gefen Peas & Carrots, 15 Oz",
+"size": "15 oz",
+"upc": "710069021808"
+},
+{
+"q": "Gefen Pitted Green Olives",
+"name": "Gefen Pitted Green Olives, 19 Oz",
+"size": "19 oz",
+"upc": "710069138308"
+},
+{
+"q": "Gefen Pure Vanilla Extract",
+"name": "Gefen Pure Vanilla Extract, 2 Oz",
+"size": "2 fl oz",
+"upc": "710069145047"
+},
+{
+"q": "Gefen Raspberry Jell Dessert",
+"name": "Gefen Raspberry Jell Dessert, 3 Oz",
+"size": "3 oz",
+"upc": "710069302303"
+},
+{
+"q": "Gefen Sliced Beets",
+"name": "Gefen Sliced Beets, 15 Oz",
+"size": "15 oz",
+"upc": "710069122604"
+},
+{
+"q": "Gefen Sliced Black Olives",
+"name": "Gefen Sliced Black Olives, 19 Oz",
+"size": "19 oz",
+"upc": "710069308428"
+},
+{
+"q": "Gefen Sliced Green Olives",
+"name": "Gefen Sliced Green Olives, 19 Oz",
+"size": "19 oz",
+"upc": "710069308411"
+},
+{
+"q": "Gefen Small White Beans",
+"name": "Gefen Small White Beans, 16 Oz",
+"size": "16 oz",
+"upc": "710069051751"
+},
+{
+"q": "Gefen Strawberry Jell Dessert",
+"name": "Gefen Strawberry Jell Dessert, 3 Oz",
+"size": "3 oz",
+"upc": "710069302259"
+},
+{
+"q": "Gefen Sweet Peas",
+"name": "Gefen Sweet Peas, 15 Oz",
+"size": "15 oz",
+"upc": "710069021600"
+},
+{
+"q": "Gefen Table Salt",
+"name": "Gefen Table Salt, 26 Oz",
+"size": "26 oz",
+"upc": "710069128101"
+},
+{
+"q": "Gefen Unsweetened Apple Sauce",
+"name": "Gefen Unsweetened Apple Sauce, 46 Oz",
+"size": "46 oz",
+"upc": "710069805026"
+},
+{
+"q": "Gefen Vegetable Flavor Ramen Noodles",
+"name": "Gefen Vegetable Flavor Ramen Noodles, 3 Oz",
+"size": "3 oz",
+"upc": "710069601017"
+},
+{
+"q": "Gefen Whipped Topping",
+"name": "Gefen Whipped Topping, 16 Oz",
+"size": "16 oz",
+"upc": "710069056220"
+},
+{
+"q": "Gefen Whole Beets",
+"name": "Gefen Whole Beets, 15 Oz",
+"size": "15 oz",
+"upc": "710069122703"
+},
+{
+"q": "Gefen Whole Hearts Of Palm",
+"name": "Gefen Whole Hearts Of Palm, 14.1 Oz",
+"size": "14.1 oz",
+"upc": "710069013308"
+},
+{
+"q": "Gefen Yellow Popcorn",
+"name": "Gefen Yellow Popcorn, 1 Lb",
+"size": "16 oz",
+"upc": "710069035843"
+},
+{
+"q": "Gefen Yellow Split Peas",
+"name": "Gefen Yellow Split Peas, 16 Oz",
+"size": "16 oz",
+"upc": "710069035904"
+},
+{
+"q": "J&J Farmer Cheese 1 Lb",
+"name": "J&J Farmer Cheese 1 Lb, 16 Oz",
+"size": "1 Lb.",
+"upc": "11274000436"
+},
+{
+"q": "Kedem Original Tea Biscuits",
+"name": "Kedem Original Tea Biscuits, 4.2 Oz",
+"size": "4.2 oz",
+"upc": "73490123504"
+},
+{
+"q": "Kedem White Cooking Wine",
+"name": "Kedem White Cooking Wine, 12.7 Oz",
+"size": "12.7 fl oz",
+"upc": "73490124433"
+},
+{
+"q": "Lieber's Crushed Pineapple",
+"name": "Lieber's Crushed Pineapple, 20 Oz",
+"size": "20 oz",
+"upc": "43427317009"
+},
+{
+"q": "Lieber's Mini Wow's Bite Size Mini Chocolate Chip Cookies",
+"name": "Lieber's Mini Wow's Bite Size Mini Chocolate Chip Cookies, 1 Oz",
+"size": "1 oz",
+"upc": "43427000864"
+},
+{
+"q": "Lieber's Tomato Juice",
+"name": "Lieber's Tomato Juice, 46 Oz",
+"size": "46 fl oz",
+"upc": "43427200356"
+},
+{
+"q": "Meal Mart Kishka",
+"name": "Meal Mart Kishka, 16 Oz",
+"size": "16 Oz",
+"upc": "51328117321"
+},
+{
+"q": "Mehadrin Cheese Snack 3.8 Oz.",
+"name": "Mehadrin Cheese Snack 3.8 Oz.",
+"size": "3 Oz.",
+"upc": "14353120018"
+},
+{
+"q": "Mehadrin Farmer Cheese 1 Lb.",
+"name": "Mehadrin Farmer Cheese 1 Lb., 16 Oz",
+"size": "1 Lb.",
+"upc": "14353100102"
+},
+{
+"q": "Mehadrin Leben Chocolate",
+"name": "Mehadrin Leben Chocolate, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353100041"
+},
+{
+"q": "Mehadrin Muenster Sliced",
+"name": "Mehadrin Muenster Sliced, 6 Oz",
+"size": "6 Oz.",
+"upc": "14353112051"
+},
+{
+"q": "Mehadrin Red Light Green Light Pops",
+"name": "Mehadrin Red Light Green Light Pops, 35 Oz",
+"size": "35 Oz",
+"upc": "14353508502"
+}
+]
+}

@@ -1,0 +1,154 @@
+{
+"chain": "Walmart",
+"store": "Howell NJ 07731 (Walmart Supercenter #2195, 4900 US-9) \u2014 in-store/pickup price",
+"source": "walmart.com public search pages, store set to Howell NJ",
+"read_at": "2026-10-16T05:22:27.891Z",
+"status": "ok",
+"note": "800 of 800 searched by name (UPC search returns nothing on walmart.com). Only items sold by Walmart.com with the Howell NJ store set (in-store/pickup price); marketplace sellers excluded. 18 same-size matches.",
+"items": [
+{
+"upc": "73490123610",
+"name": "Kedem Concord Sparkling Grape Juice, 25.4floz",
+"size": "25.4 Oz",
+"price": 4.97,
+"url": "https://www.walmart.com/ip/Kedem-Concord-Sparkling-Grape-Juice-25-4floz/10421810",
+"note": "$6.26/qt"
+},
+{
+"upc": "48001213586",
+"name": "Hellmann's Light Mayonnaise, Sandwich Spread Condiments, 30 fl oz Jar",
+"size": "30 Oz",
+"price": 6.52,
+"url": "https://www.walmart.com/ip/Hellmann-s-Made-with-Cage-Free-Eggs-Light-Mayonnaise-Condiments-30-fl-oz-Jar/10291733",
+"note": "$6.96/qt"
+},
+{
+"upc": "48001213487",
+"name": "Hellmann's Real Mayonnaise, Sandwich Spread Condiments, 30 fl oz Jar",
+"size": "30 Oz",
+"price": 6.52,
+"url": "https://www.walmart.com/ip/Hellmann-s-Real-Mayonnaise-Condiment-Gluten-Free-Made-with-Cage-Free-Eggs-Condiments-30-oz/10312980",
+"note": "$6.96/qt"
+},
+{
+"upc": "71012041053",
+"name": "King Arthur Baking Company Non-GMO Project Verified, Certified Kosher Unbleached Bread Flour, 5 lb Bag",
+"size": "5 Lb",
+"price": 5.98,
+"url": "https://www.walmart.com/ip/King-Arthur-Unbleached-Flour-5-lbs/10535108",
+"note": "$1.20/lb"
+},
+{
+"upc": "36602300019",
+"name": "Ricola Honey Herb Cough Drops, Soothing Relief for Dry, Sore Throat, 24 Count",
+"size": "24 Pc",
+"price": 2.66,
+"url": "https://www.walmart.com/ip/Ricola-Honey-Herb-Soothing-Cough-Drops-Throat-Relief-Cough-Suppressant-45-Count/10291163",
+"note": "11.1 \u00a2/count"
+},
+{
+"upc": "786162010001",
+"name": "vitaminwater Power-C Dragonfruit Flavored Water Beverage Bottle, 20 fl oz",
+"size": "20 Oz",
+"price": 1.88,
+"url": "https://www.walmart.com/ip/vitaminwater-Power-C-Dragonfruit-Flavored-Water-Beverage-20-fl-oz-Bottle/15716875",
+"note": "$3.01/qt"
+},
+{
+"upc": "682430611744",
+"name": "Voss Artesian Still Bottled Water, 800 ml / 27.65 fl oz Glass Bottle",
+"size": "800 Ml",
+"price": 4.18,
+"url": "https://www.walmart.com/ip/Voss-Artesian-Still-Bottled-Water-24-fl-oz-Glass-Bottle/36333183",
+"note": "15.5 \u00a2/fl oz"
+},
+{
+"upc": "710069061378",
+"name": "Gefen No Msg Instant Chicken Noodle Soup, 2.3 oz",
+"size": "2.3 Oz",
+"price": 1.62,
+"url": "https://www.walmart.com/ip/Gefen-No-Msg-Instant-Chicken-Noodle-Soup-2-3-oz/29835407",
+"note": "$11.27/lb"
+},
+{
+"upc": "27000379097",
+"name": "Hunt\u2019s Crushed Tomatoes, Canned Tomatoes Perfect for Chili & Soups, 28 oz. Can",
+"size": "28 Oz",
+"price": 2.27,
+"url": "https://www.walmart.com/ip/Hunt-s-Crushed-Tomatoes-28-oz/10295069",
+"note": "$1.30/lb"
+},
+{
+"upc": "27000378823",
+"name": "Hunt\u2019s Diced Tomatoes, Perfect for Chili & Soups, 28 oz. Can",
+"size": "28 Oz",
+"price": 2.27,
+"url": "https://www.walmart.com/ip/Hunt-s-Diced-Tomatoes-28-oz-Can/10295067",
+"note": "$1.30/lb"
+},
+{
+"upc": "37000862130",
+"name": "Pampers Baby Dry Ultra Cushiony Diapers, Size 6 (23-44 lbs), 21 Count, Up to 100% leakproof disposable diaper",
+"size": "21 Ct",
+"price": 9.97,
+"url": "https://www.walmart.com/ip/Pampers-Baby-Dry-Baby-Diapers-Size-6-21-Count-Select-for-More-Options/27280862",
+"note": "47.5 \u00a2/count"
+},
+{
+"upc": "71262041872",
+"name": "Tabatchnick Classic Wholesome Chicken Broth, 32.0 FL OZ",
+"size": "32 Oz",
+"price": 2.97,
+"url": "https://www.walmart.com/ip/Tabatchnick-Classic-Wholesome-Chicken-Broth-32-0-FL-OZ/10413750",
+"note": "$1.49/lb"
+},
+{
+"upc": "37000348856",
+"name": "Bounty Paper Napkins, White, 200 Count",
+"size": "200 Ct",
+"price": 3.48,
+"url": "https://www.walmart.com/ip/Bounty-Paper-Napkins-White-200-Count/23814513",
+"note": "$1.74/100 ct"
+},
+{
+"upc": "710069128903",
+"name": "Gefen 100% Clover  Honey Bear, 12oz",
+"size": "12 Oz",
+"price": 3.97,
+"url": "https://www.walmart.com/ip/Gefen-100-Clover-Honey-Bear-12oz/10423188",
+"note": "$5.29/lb"
+},
+{
+"upc": "13124038",
+"name": "Heinz Tomato Ketchup, 14 oz Bottle",
+"size": "14 Oz",
+"price": 3.28,
+"url": "https://www.walmart.com/ip/Heinz-Tomato-Ketchup-14-oz-Bottle/15718136",
+"note": "$3.75/lb"
+},
+{
+"upc": "73490123559",
+"name": "Kedem Apple Juice, 64 fl oz",
+"size": "64 Oz",
+"price": 5.56,
+"url": "https://www.walmart.com/ip/Kedem-Apple-Juice-64-fl-oz/10421800",
+"note": "8.7 \u00a2/fl oz"
+},
+{
+"upc": "75720431151",
+"name": "Poland Spring Maine Spring Water, Sport Cap, 23.7 fl oz, Single Plastic Bottle",
+"size": "23.7 Oz",
+"price": 2.28,
+"url": "https://www.walmart.com/ip/POLAND-SPRING-Brand-100-Natural-Spring-Water-23-7-ounce-plastic-bottle/47711096",
+"note": "51.3 \u00a2/qt"
+},
+{
+"upc": "48500018330",
+"name": "Tropicana Pure Premium 100% Orange Juice Original, No Pulp, 89 fl oz jug",
+"size": "89 Oz",
+"price": 7.97,
+"url": "https://www.walmart.com/ip/Tropicana-Pure-Premium-No-Pulp-Original-Orange-Juice-89-Oz/22282247",
+"note": "$2.87/qt"
+}
+]
+}

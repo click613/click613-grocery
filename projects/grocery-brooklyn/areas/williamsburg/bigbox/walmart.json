@@ -1,0 +1,42 @@
+{
+ "chain": "Walmart via Instacart",
+ "store": "in-store prices per Instacart (Instacart lists Walmart with “No markups”) · read Oct 18",
+ "source": "Instacart's Walmart storefront for this area's address, read logged out",
+ "read_at": "2026-10-18T07:24:19.856Z",
+ "status": "name_size",
+ "note": "Read on Instacart's Walmart storefront for this area (logged out, Oct 18). Instacart lists Walmart with “No markups”, so prices are shown as listed. Matched by exact brand, product and size (Instacart shows no barcodes). Instacart's delivery and service fees are not included.",
+ "items": [
+  {
+   "upc": "73416004306",
+   "name": "Lundberg Family Farms Gourmet Wild Blend Rice · 16 oz",
+   "size": "16 oz",
+   "price": 5.52,
+   "url": "https://www.instacart.com/products/24442-lundberg-family-farms-rice-wild-blend-16-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "761720071045",
+   "name": "Argo Corn Starch · 16 oz",
+   "size": "16 oz",
+   "price": 2.48,
+   "url": "https://www.instacart.com/products/69452-argo-100-pure-corn-starch-16-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "70074559643",
+   "name": "Similac Soy Isomil For Fussiness and Gas Infant Formula Powder Can · 12.4 oz",
+   "size": "12.4 oz",
+   "price": 24.48,
+   "url": "https://www.instacart.com/products/68779-similac-soy-isomil-for-fussiness-and-gas-infant-formula-powder-can-12-4-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "761720071328",
+   "name": "Argo Corn Starch · 16 oz",
+   "size": "16 oz",
+   "price": 2.48,
+   "url": "https://www.instacart.com/products/69452-argo-100-pure-corn-starch-16-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  }
+ ]
+}

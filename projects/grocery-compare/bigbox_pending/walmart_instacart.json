@@ -1,0 +1,35 @@
+{
+ "chain": "Walmart via Instacart",
+ "store": "in-store prices per Instacart (Instacart lists Walmart with \u201cNo markups\u201d) \u00b7 read Oct 18",
+ "source": "Instacart's Walmart storefront for this area's address, read logged out",
+ "read_at": "2026-10-18T08:56:12.981Z",
+ "status": "name_size",
+ "note": "Read on Instacart's Walmart storefront for this area (logged out, Oct 18). Instacart lists Walmart with \u201cNo markups\u201d, so prices are shown as listed. Matched by exact brand, product and size (Instacart shows no barcodes). Instacart's delivery and service fees are not included. PARTIAL: only a few searches were read before the browser session ran out (Oct 18); not published, for review.",
+ "items": [
+  {
+   "upc": "78000082401",
+   "name": "Dr Pepper Soda \u00b7 20 fl oz",
+   "size": "20 fl oz",
+   "price": 2.58,
+   "url": "https://www.instacart.com/products/2204-dr-pepper-soda-20-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart \u00b7 in-store prices per Instacart \u00b7 read Oct 18"
+  },
+  {
+   "upc": "12000002304",
+   "name": "Pepsi Soda \u00b7 2.1 qt",
+   "size": "2.1 qt",
+   "price": 2.97,
+   "url": "https://www.instacart.com/products/2577418-pepsi-cola-soda-2-liter?retailerSlug=walmart",
+   "note": "Walmart via Instacart \u00b7 in-store prices per Instacart \u00b7 read Oct 18"
+  },
+  {
+   "upc": "49000072358",
+   "name": "Diet Coke Soda Bottle \u00b7 2 L",
+   "size": "2 L",
+   "price": 3.02,
+   "url": "https://www.instacart.com/products/17019058-diet-coke-soda-soft-drink-2-ltr?retailerSlug=walmart",
+   "note": "Walmart via Instacart \u00b7 in-store prices per Instacart \u00b7 read Oct 18"
+  }
+ ],
+ "storefront_label": "View cart\nWalmart\nNo markups\nShop"
+}

@@ -1,0 +1,154 @@
+{
+"chain": "Amazon",
+"store": "Amazon.com online (price varies, may include shipping)",
+"source": "amazon.com public search pages",
+"read_at": "2026-10-16T04:46:30.542Z",
+"status": "ok",
+"note": "Searched on amazon.com by name. Listing price as shown, often a third-party seller, so prices vary and may include shipping. Listings far above the local stores' price are left out.",
+"items": [
+{
+"upc": "49200056004",
+"name": "DominoSugar, Sugar Dark Brown, 16 Ounce 16 Ounce (Pack of 1)",
+"size": "1 Lb",
+"price": 2.49,
+"url": "https://www.amazon.com/dp/B01GHECGE0",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "840762001200",
+"name": "Glicks Presifted Enriched All Purpose Flour (5 Pounds), No Preservatives or Bleach, Certified Kosher 5 Pound (Pack of 1)",
+"size": "5 Lb",
+"price": 12.99,
+"url": "https://www.amazon.com/dp/B008YGO6LG",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069012219",
+"name": "GefenChunk Light Tuna in Oil 6oz.",
+"size": "6 Oz",
+"price": 9.99,
+"url": "https://www.amazon.com/dp/B006JI2ADM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069021303",
+"name": "GefenCorn Whole Kernel 15.25 oz.",
+"size": "15.25 Oz",
+"price": 49.99,
+"url": "https://www.amazon.com/dp/B06X3RL3RW",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490124426",
+"name": "Kedem Cooking Wine Red, 12.7 oz Red",
+"size": "12.7 Oz",
+"price": 3.29,
+"url": "https://www.amazon.com/dp/B004LTZLX2",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "76183643563",
+"name": "SnapplePeach Tea, 64 fl oz bottle Black64 Fl Oz (Pack of 1)",
+"size": "64 Oz",
+"price": 3.19,
+"url": "https://www.amazon.com/dp/B00061ERHU",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "76183000496",
+"name": "SnappleMango Madness, 64 fl oz bottle Mango64 Fl Oz (Pack of 1)",
+"size": "64 Oz",
+"price": 11.99,
+"url": "https://www.amazon.com/dp/B00FFJ1LBI",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "43427161039",
+"name": "Lieber'sRainbow Sprinkles, Kosher Jimmies Dessert Topping for Baking, 11oz Colorful Sprinkles for Ice Cream, Cookies, Cakes & Cupcakes, No Confectioner's Glaze, Easy-pour Shaker Bottle for Decorating",
+"size": "11 Oz",
+"price": 12.95,
+"url": "https://www.amazon.com/dp/B08TYGDCTJ",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490000065",
+"name": "kedemRed Wine Vinegar, 12.7 oz 12.7 Fl Oz (Pack of 1)",
+"size": "12.7 Oz",
+"price": 8.79,
+"url": "https://www.amazon.com/dp/B00XBIMN58",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "761720988183",
+"name": "ArgoBaking Powder-12 OZ",
+"size": "12 Oz",
+"price": 7.32,
+"url": "https://www.amazon.com/dp/B00N9TX628",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "31500005394",
+"name": "B&GEaston Sweet Pickle Relish, 10 oz",
+"size": "10 Oz",
+"price": 27.79,
+"url": "https://www.amazon.com/dp/B0005ZJ182",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "754496111220",
+"name": "Bone Suckin, Sauce Barbeque Thicker Hot, 16 Ounce Hot1 Pound (Pack of 1)",
+"size": "16 Oz",
+"price": 21.0,
+"url": "https://www.amazon.com/dp/B002JVJU6S",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "38261857361",
+"name": "BubbiesKosher Dill Pickles 33 oz Glass Jar",
+"size": "33 Oz",
+"price": 10.49,
+"url": "https://www.amazon.com/dp/B00119TD2K",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "38261857477",
+"name": "bubbiesSauerkraut 25 oz Glass Jar",
+"size": "25 Oz",
+"price": 10.99,
+"url": "https://www.amazon.com/dp/B000WM1DNO",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "14200003259",
+"name": "Charmsfluffy stuff cotton candy 2.5oz single",
+"size": "2.5 Oz",
+"price": 8.98,
+"url": "https://www.amazon.com/dp/B00KB5UN74",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "30271034077",
+"name": "Don PepinoPizza Sauce, (6)- 15 oz. Cans Pizza",
+"size": "15 Oz",
+"price": 19.73,
+"url": "https://www.amazon.com/dp/B0083P1MF6",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "71481011601",
+"name": "Friendship Farmer Cheese 1 Pound",
+"size": "16 Oz",
+"price": 51.99,
+"url": "https://www.amazon.com/dp/B0787YGQ2L",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069152779",
+"name": "GEFEN Sour Salt, NET WT 5.5 oz (156g) 5.5 Ounce (Pack of 1)",
+"size": "5.5 Oz",
+"price": 7.99,
+"url": "https://www.amazon.com/dp/B01DP9BZ1U",
+"note": "Amazon, price varies, may include shipping"
+}
+]
+}

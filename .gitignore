@@ -1,0 +1,46 @@
+# built output (GitHub Pages gets it from the workflow, never committed)
+/site/
+/run-steps.json
+# per-run working files
+projects/grocery-daily/stage/
+projects/*/raw/prev/
+projects/*/raw/*.sample.json
+projects/luach/luach-cache/
+projects/luach/luach-index/
+projects/grocery-bot-api/site.new/
+*.log
+*.out
+*.bak*
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+*.pem
+*.key
+cookies*.json
+.DS_Store
+# the Lakewood refresh copies the other areas into its own folder (old one-site setup); rebuilt every run, not served
+projects/grocery-compare/site/bpflatbush/
+projects/grocery-compare/site/williamsburg/
+projects/grocery-compare/site/crownheights/
+projects/grocery-compare/site/fivetowns/
+projects/grocery-compare/site/monsey/
+projects/grocery-compare/site/kj/
+projects/grocery-compare/site/teaneck/
+projects/grocery-compare/site/brooklyn/
+PUBLISHING.txt
+projects/grocery-bot-api/test/w.mjs.bak*
+
+# big data files: kept in git as <file>.seed.xz (pipeline/seed.py puts them back)
+/projects/grocery-brooklyn/site/data.json
+/projects/grocery-compare/site/data.json
+/projects/grocery-bot-api/site/api/lakewood/index.json
+/projects/grocery-brooklyn/areas/bpflatbush/site/data.json
+/projects/kosher-alternatives/ou_cache.json
+/projects/grocery-bot-api/site/api/boropark/index.json
+/projects/grocery-monsey/site/data.json
+/projects/grocery-bot-api/site/api/monsey/index.json
+/projects/grocery-brooklyn/areas/williamsburg/site/data.json
+/projects/grocery-bot-api/site/api/williamsburg/index.json
+/projects/grocery-brooklyn/site/data.json.gz

@@ -1,0 +1,15 @@
+{
+ "accepted_agencies": {
+  "OU": "Orthodox Union",
+  "OK": "OK Kosher",
+  "Star-K": "Star-K",
+  "Kof-K": "Kof-K",
+  "cRc": "Chicago Rabbinical Council"
+ },
+ "dairy_rule": "Only cholov yisroel dairy. Any OU-D / dairy item that is not explicitly cholov yisroel is left out.",
+ "exclude_dairy_equipment": true,
+ "meat_fish_rule": "Meat, poultry and fish only when the retailer's own product title/description names the hechsher (Paltiel, Oct 18 2026). None shown in this preview.",
+ "plain_k_or_unknown_symbol": "excluded",
+ "nonfood_no_hechsher_needed": true,
+ "note": "Edit accepted_agencies to change which hechsherim count. An agency not listed here is never shown."
+}

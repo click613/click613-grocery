@@ -1,0 +1,191 @@
+{
+ "generated": "2026-10-29T04:40:18+00:00",
+ "run_started": "2026-10-29T04:37:35+00:00",
+ "all_ok": true,
+ "stale_areas": [],
+ "bot_api_built": "2026-10-29T04:40:18Z",
+ "crashed_steps": [],
+ "areas": [
+  {
+   "area": "lakewood",
+   "name": "Lakewood",
+   "last_updated": "2026-10-29T04:17:37+00:00",
+   "last_updated_date_et": "2026-10-29",
+   "age_hours": 0.4,
+   "stale": false,
+   "stores_not_refreshed_this_run": [
+    "Seasons Lakewood",
+    "Seasons Toms River",
+    "Nutmeg Kosher Market",
+    "Aisle 9 Lakewood",
+    "Aisle 9 Jackson",
+    "Super Stop",
+    "Kosher West",
+    "Kosher Village",
+    "Evergreen Kosher",
+    "Gourmet Glatt",
+    "NPGS",
+    "Foodex"
+   ]
+  },
+  {
+   "area": "bpflatbush",
+   "name": "Boro Park & Flatbush",
+   "last_updated": "2026-10-27T08:26:58+00:00",
+   "last_updated_date_et": "2026-10-27",
+   "age_hours": 44.2,
+   "stale": false,
+   "stores_not_refreshed_this_run": [
+    "Breadberry",
+    "Certo Market",
+    "Mega 53 Market",
+    "Landau's Kosher Supermarket",
+    "Mountain Fruit",
+    "Einhorn's Supermarket",
+    "Paperific Supermarket",
+    "Fischman's Grocery",
+    "Wiesner's Market",
+    "Rubin's Grocery",
+    "Posner's Food Center",
+    "Appel's Grocery",
+    "Spot Kosher Market Boro Park",
+    "Kol Tuv Supermarket",
+    "Moisha's Discount Supermarket",
+    "Pomegranate",
+    "Glatt Mart",
+    "Kosher Corner Supermarket"
+   ]
+  },
+  {
+   "area": "williamsburg",
+   "name": "Williamsburg",
+   "last_updated": "2026-10-27T08:21:51+00:00",
+   "last_updated_date_et": "2026-10-27",
+   "age_hours": 44.3,
+   "stale": false,
+   "stores_not_refreshed_this_run": [
+    "Rosemary Kosher Supermarket",
+    "All Fresh Supermarket",
+    "Schwartz Supermarket",
+    "Food Pyramid",
+    "Southside Food Plaza",
+    "Spot Kosher Market Williamsburg",
+    "Hatzlacha Supermarket"
+   ]
+  },
+  {
+   "area": "crownheights",
+   "name": "Crown Heights",
+   "last_updated": "2026-10-27T08:19:15+00:00",
+   "last_updated_date_et": "2026-10-27",
+   "age_hours": 44.4,
+   "stale": false,
+   "stores_not_refreshed_this_run": [
+    "The Market Place (KosherFamily)",
+    "Empire Kosher Supermarket",
+    "Kahan's Superette"
+   ]
+  },
+  {
+   "area": "fivetowns",
+   "name": "Five Towns",
+   "last_updated": "2026-10-27T08:36:08+00:00",
+   "last_updated_date_et": "2026-10-27",
+   "age_hours": 44.1,
+   "stale": false,
+   "stores_not_refreshed_this_run": [
+    "Seasons Lawrence",
+    "I & D Glatt Market",
+    "Gourmet Glatt",
+    "Rockaway Kosher"
+   ]
+  },
+  {
+   "area": "monsey",
+   "name": "Monsey",
+   "last_updated": "2026-10-27T08:37:28+00:00",
+   "last_updated_date_et": "2026-10-27",
+   "age_hours": 44.0,
+   "stale": false,
+   "stores_not_refreshed_this_run": [
+    "Rockland Kosher Supermarket",
+    "Pineapple Supermarket",
+    "Madanim Supermarket",
+    "NPGS Door2Door (delivery)",
+    "Evergreen Kosher Market",
+    "Wesley Kosher",
+    "Monsey Glatt",
+    "Newday Market"
+   ]
+  },
+  {
+   "area": "kj",
+   "name": "KJ / Monroe",
+   "last_updated": "2026-10-27T08:24:08+00:00",
+   "last_updated_date_et": "2026-10-27",
+   "age_hours": 44.3,
+   "stale": false,
+   "stores_not_refreshed_this_run": [
+    "Landau's Supermarket KJ",
+    "Healthway Shop (health food)",
+    "Gesheft",
+    "Refresh Supermarket"
+   ]
+  },
+  {
+   "area": "teaneck",
+   "name": "Teaneck / Bergenfield",
+   "last_updated": "2026-10-27T08:37:30+00:00",
+   "last_updated_date_et": "2026-10-27",
+   "age_hours": 44.0,
+   "stale": false,
+   "stores_not_refreshed_this_run": [
+    "Grand & Essex Market",
+    "Food Showcase",
+    "Glatt Express",
+    "Cedar Market"
+   ]
+  },
+  {
+   "area": "passaic",
+   "name": "Passaic / Clifton",
+   "last_updated": "2026-10-27T08:37:30+00:00",
+   "last_updated_date_et": "2026-10-27",
+   "age_hours": 44.0,
+   "stale": false,
+   "stores_not_refreshed_this_run": [
+    "Food Showcase",
+    "Grand & Essex Market",
+    "Aisle One",
+    "Glatt Express",
+    "Cedar Market"
+   ]
+  },
+  {
+   "area": "queens",
+   "name": "Queens (Kew Gardens Hills)",
+   "last_updated": "2026-10-27T08:25:48+00:00",
+   "last_updated_date_et": "2026-10-27",
+   "age_hours": 44.2,
+   "stale": false,
+   "stores_not_refreshed_this_run": [
+    "Seasons Queens",
+    "Wasserman Supermarket",
+    "Aron's Kissena Farms"
+   ]
+  },
+  {
+   "area": "farrockaway",
+   "name": "Far Rockaway",
+   "last_updated": "2026-10-27T08:23:00+00:00",
+   "last_updated_date_et": "2026-10-27",
+   "age_hours": 44.3,
+   "stale": false,
+   "stores_not_refreshed_this_run": [
+    "Seasons Lawrence",
+    "Rockaway Kosher",
+    "Gourmet Glatt"
+   ]
+  }
+ ]
+}

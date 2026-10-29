@@ -1,0 +1,9 @@
+{
+"chain": "Stop & Shop",
+"store": "not read",
+"source": "stopandshop.com public search",
+"read_at": "2026-10-16T05:20:09.060694Z",
+"status": "blocked",
+"note": "stopandshop.com answered a 'Maintenance' page (website and app unavailable) on 3 tries between 04:43 and 05:02 UTC Oct 16; plain requests get a 403 bot wall. Re-run `node fetch_bigbox.mjs stopandshop` when the site is back.",
+"items": []
+}

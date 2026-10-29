@@ -1,0 +1,862 @@
+{
+ "store": "Gourmet Glatt",
+ "key": "gourmetglatt",
+ "town": "Lakewood",
+ "address": "1700 Madison Ave, Lakewood (also 1328 River Ave, Lakewood and 2275 W County Line Rd, Jackson)",
+ "source": "The Voice of Lakewood, issue 962 (Oct 15 2026), pp. 12-13 (flipbook pages 14-15)",
+ "source_url": "https://issues.thevoiceoflakewood.com/3dissue/101526/index.html",
+ "valid_from": "2026-10-18",
+ "valid_to": "2026-10-23",
+ "read_at": "2026-10-16T04:28:12+00:00",
+ "note": "Sale dates printed in the ad: October 18-23, 2026. Ad says 'all 3 locations' for the grocery buys; a few meat items are marked Seagull & Jackson only. Limits per family as printed. Read from the page images.",
+ "items": [
+  {
+   "name": "Coca-Cola Sodas, All Varieties",
+   "brand": "Coca-Cola",
+   "size": "2 liter",
+   "price": 2.29,
+   "price_text": "$2.29",
+   "deal": "limit 16 total per family"
+  },
+  {
+   "name": "Wise Chips (All Chips, Dipsy Doodles, Onion Rings)",
+   "brand": "Wise",
+   "size": ".5 oz - 1 oz",
+   "price": 0.4,
+   "price_text": "10/$4",
+   "deal": "limit 80 each per family"
+  },
+  {
+   "name": "Shibolim Whole Wheat Flour, Original or White",
+   "brand": "Shibolim",
+   "size": "5 lb",
+   "price": 7.99,
+   "price_text": "$7.99",
+   "deal": null
+  },
+  {
+   "name": "Gefen Fat-Free or Rice Noodle Cup-a-Soup",
+   "brand": "Gefen",
+   "size": "1.94 oz - 2.3 oz",
+   "price": 1.2,
+   "price_text": "5/$6",
+   "deal": "limit 30 total per family"
+  },
+  {
+   "name": "Klik Choco Kid or Cookies n Cream Bars",
+   "brand": "Klik",
+   "size": "1.34 oz",
+   "price": 1.33,
+   "price_text": "3/$4",
+   "deal": "limit 15 each per family"
+  },
+  {
+   "name": "Lieber's Thin Rice Cakes",
+   "brand": "Lieber's",
+   "size": "3.1 oz",
+   "price": 0.99,
+   "price_text": "99¢",
+   "deal": "limit 10 per family"
+  },
+  {
+   "name": "Simply Lev Pasta, All Varieties",
+   "brand": "Simply Lev",
+   "size": "16 oz",
+   "price": 0.89,
+   "price_text": "89¢",
+   "deal": null
+  },
+  {
+   "name": "Gefen Chunk Light Tuna in Water",
+   "brand": "Gefen",
+   "size": "6 oz",
+   "price": 1.5,
+   "price_text": "2/$3",
+   "deal": "limit 48 per family"
+  },
+  {
+   "name": "Simply Lev Barley",
+   "brand": "Simply Lev",
+   "size": "16 oz",
+   "price": 0.67,
+   "price_text": "3/$2",
+   "deal": null
+  },
+  {
+   "name": "Simply Lev Cholent Mix",
+   "brand": "Simply Lev",
+   "size": "16 oz",
+   "price": 0.99,
+   "price_text": "99¢",
+   "deal": null
+  },
+  {
+   "name": "Streit's Whole Wheat Matzah, All Varieties",
+   "brand": "Streit's",
+   "size": "11 oz",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": "limit 5 each per family"
+  },
+  {
+   "name": "Wondermill Sifted High Gluten Flour",
+   "brand": "Wondermill",
+   "size": "6 lb",
+   "price": 6.99,
+   "price_text": "$6.99",
+   "deal": null
+  },
+  {
+   "name": "Near East Rice Pilaf, Original Only",
+   "brand": "Near East",
+   "size": "6 pack",
+   "price": 7.99,
+   "price_text": "$7.99",
+   "deal": null
+  },
+  {
+   "name": "Gefen Creamy Peanut Butter",
+   "brand": "Gefen",
+   "size": "18 oz",
+   "price": 4.29,
+   "price_text": "$4.29",
+   "deal": null
+  },
+  {
+   "name": "Unger's Breadcrumbs, Plain or Flavored",
+   "brand": "Unger's",
+   "size": "15 oz",
+   "price": 2.69,
+   "price_text": "$2.69",
+   "deal": null
+  },
+  {
+   "name": "Lieber's Chic Peas",
+   "brand": "Lieber's",
+   "size": "15.5 oz",
+   "price": 1.2,
+   "price_text": "5/$6",
+   "deal": null
+  },
+  {
+   "name": "Imperial Dill Gherkins",
+   "brand": "Imperial",
+   "size": "24 oz",
+   "price": 1.59,
+   "price_text": "$1.59",
+   "deal": null
+  },
+  {
+   "name": "Bakol No Corn Syrup Ketchup",
+   "brand": "Bakol",
+   "size": "38 oz",
+   "price": 3.29,
+   "price_text": "$3.29",
+   "deal": null
+  },
+  {
+   "name": "Imperial Hot & Sweet Sliced Jalapenos",
+   "brand": "Imperial",
+   "size": "12 oz",
+   "price": 1.5,
+   "price_text": "2/$3",
+   "deal": null
+  },
+  {
+   "name": "Gefen Ramen Noodles, All Varieties",
+   "brand": "Gefen",
+   "size": "3 oz",
+   "price": 0.6,
+   "price_text": "5/$3",
+   "deal": null
+  },
+  {
+   "name": "Gefen Corn Flake Crumbs",
+   "brand": "Gefen",
+   "size": "12 oz",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": null
+  },
+  {
+   "name": "Gefen Canola Spray (large size)",
+   "brand": "Gefen",
+   "size": "14 oz",
+   "price": 3.99,
+   "price_text": "$3.99",
+   "deal": null
+  },
+  {
+   "name": "Lieber's Sweet Chili Sauce",
+   "brand": "Lieber's",
+   "size": "16.8 oz",
+   "price": 2.49,
+   "price_text": "$2.49",
+   "deal": null
+  },
+  {
+   "name": "Gefen Israeli Couscous",
+   "brand": "Gefen",
+   "size": "8.8 oz",
+   "price": 0.89,
+   "price_text": "89¢",
+   "deal": null
+  },
+  {
+   "name": "Gefen Avocado or Olive Oil Mayo",
+   "brand": "Gefen",
+   "size": "30 oz",
+   "price": 4.79,
+   "price_text": "$4.79",
+   "deal": null
+  },
+  {
+   "name": "Haddar Tomato Sauce",
+   "brand": "Haddar",
+   "size": "15 oz",
+   "price": 0.99,
+   "price_text": "99¢",
+   "deal": null
+  },
+  {
+   "name": "Gefen Applesauce Cups",
+   "brand": "Gefen",
+   "size": "6 pack",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": null
+  },
+  {
+   "name": "Haddar Bow Ties or Orzo",
+   "brand": "Haddar",
+   "size": "16 oz",
+   "price": 0.89,
+   "price_text": "89¢",
+   "deal": null
+  },
+  {
+   "name": "Gefen Instant Hot Chocolate Mix",
+   "brand": "Gefen",
+   "size": "21 oz",
+   "price": 6.49,
+   "price_text": "$6.49",
+   "deal": null
+  },
+  {
+   "name": "Shwartz Whole Mandarins",
+   "brand": "Shwartz",
+   "size": "11 oz",
+   "price": 0.99,
+   "price_text": "99¢",
+   "deal": null
+  },
+  {
+   "name": "Lieber's Vegetarian Baked Beans",
+   "brand": "Lieber's",
+   "size": "16 oz",
+   "price": 1.59,
+   "price_text": "$1.59",
+   "deal": null
+  },
+  {
+   "name": "Gefen Sweet & Sour Duck Sauce",
+   "brand": "Gefen",
+   "size": "40 oz",
+   "price": 4.29,
+   "price_text": "$4.29",
+   "deal": null
+  },
+  {
+   "name": "Haddar Ketchup",
+   "brand": "Haddar",
+   "size": "24 oz",
+   "price": 1.59,
+   "price_text": "$1.59",
+   "deal": null
+  },
+  {
+   "name": "Gefen 13-17 Cucumbers in Brine",
+   "brand": "Gefen",
+   "size": "19 oz",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": null
+  },
+  {
+   "name": "Hadar Tirosh Half Moon Biscuits",
+   "brand": "Hadar Tirosh",
+   "size": "6.1 oz",
+   "price": 1.33,
+   "price_text": "3/$4",
+   "deal": null
+  },
+  {
+   "name": "Lieber's Chocolate Coated Rice Cakes, Dairy or Parve",
+   "brand": "Lieber's",
+   "size": "3.1 oz",
+   "price": 2.0,
+   "price_text": "3/$6",
+   "deal": null
+  },
+  {
+   "name": "Made Good Mini Granola Bites, All Varieties (organic)",
+   "brand": "Made Good",
+   "size": "5 pack",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": null
+  },
+  {
+   "name": "Ha'olam Sliced Muenster",
+   "brand": "Ha'olam",
+   "size": "6 oz",
+   "price": 2.29,
+   "price_text": "$2.29",
+   "deal": null
+  },
+  {
+   "name": "Mehadrin Fit n Free Yogurts, All Varieties",
+   "brand": "Mehadrin",
+   "size": "6 oz",
+   "price": 1.2,
+   "price_text": "5/$6",
+   "deal": null
+  },
+  {
+   "name": "Mehadrin American Cheese",
+   "brand": "Mehadrin",
+   "size": "12 oz",
+   "price": 3.99,
+   "price_text": "$3.99",
+   "deal": "limit 5 per family"
+  },
+  {
+   "name": "Golden Taste Sour Pickles, Original or Half",
+   "brand": "Golden Taste",
+   "size": "28 oz",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": "limit 3 each per family"
+  },
+  {
+   "name": "Meal Mart Dry Rub Pastrami",
+   "brand": "Meal Mart",
+   "size": "6 oz",
+   "price": 4.49,
+   "price_text": "$4.49",
+   "deal": "limit 5 per family"
+  },
+  {
+   "name": "Solomon's Beef Franks",
+   "brand": "Solomon's",
+   "size": "40 oz",
+   "price": 16.99,
+   "price_text": "$16.99",
+   "deal": "limit 4 per family"
+  },
+  {
+   "name": "Broadway J2 Pizza, Original Only",
+   "brand": "Broadway J2",
+   "size": "8 slice",
+   "price": 8.49,
+   "price_text": "$8.49",
+   "deal": "limit 4 per family"
+  },
+  {
+   "name": "Macabee Pizza Bagels",
+   "brand": "Macabee",
+   "size": "6 pack",
+   "price": 3.49,
+   "price_text": "$3.49",
+   "deal": "limit 5 per family"
+  },
+  {
+   "name": "Hoffman's Pizza Snaps",
+   "brand": "Hoffman's",
+   "size": "20 oz",
+   "price": 6.99,
+   "price_text": "$6.99",
+   "deal": "limit 4 per family"
+  },
+  {
+   "name": "Meal Mart Chik'n Turkey Shape Nuggets",
+   "brand": "Meal Mart",
+   "size": "32 oz",
+   "price": 10.99,
+   "price_text": "$10.99",
+   "deal": "limit 3 per family"
+  },
+  {
+   "name": "Upstream Flounder Fillets",
+   "brand": "Upstream",
+   "size": "14 oz",
+   "price": 4.49,
+   "price_text": "$4.49",
+   "deal": null
+  },
+  {
+   "name": "Fialkoff's Pizza Balls",
+   "brand": "Fialkoff's",
+   "size": "18 oz",
+   "price": 7.49,
+   "price_text": "$7.49",
+   "deal": "limit 4 per family"
+  },
+  {
+   "name": "Ha'olam Shredded Cheddar or Mozzarella Cheese",
+   "brand": "Ha'olam",
+   "size": "8 oz",
+   "price": 3.49,
+   "price_text": "$3.49",
+   "deal": null
+  },
+  {
+   "name": "Givat YoGo Lite Yogurts",
+   "brand": "Givat",
+   "size": "5 oz",
+   "price": 0.8,
+   "price_text": "10/$8",
+   "deal": null
+  },
+  {
+   "name": "Banner Bagel Cut Lox",
+   "brand": "Banner",
+   "size": "12 oz",
+   "price": 16.49,
+   "price_text": "$16.49",
+   "deal": null
+  },
+  {
+   "name": "Sabra Hummus, All Varieties",
+   "brand": "Sabra",
+   "size": "8 oz",
+   "price": 2.49,
+   "price_text": "$2.49",
+   "deal": null
+  },
+  {
+   "name": "Golden Taste Spanish Eggplant",
+   "brand": "Golden Taste",
+   "size": "7 oz",
+   "price": 2.79,
+   "price_text": "$2.79",
+   "deal": null
+  },
+  {
+   "name": "Meal Mart Salami Chub",
+   "brand": "Meal Mart",
+   "size": "12 oz",
+   "price": 6.99,
+   "price_text": "$6.99",
+   "deal": null
+  },
+  {
+   "name": "Hod Golan Thin Turkey Slices, All Varieties",
+   "brand": "Hod Golan",
+   "size": "7 oz",
+   "price": 5.49,
+   "price_text": "$5.49",
+   "deal": null
+  },
+  {
+   "name": "Meal Mart Classic Franks",
+   "brand": "Meal Mart",
+   "size": "16 oz",
+   "price": 5.79,
+   "price_text": "$5.79",
+   "deal": null
+  },
+  {
+   "name": "B'gan Long Stem Broccoli Florets",
+   "brand": "B'gan",
+   "size": "24 oz",
+   "price": 5.99,
+   "price_text": "$5.99",
+   "deal": null
+  },
+  {
+   "name": "Beleaves Corn on the Cob, Original Only",
+   "brand": "Beleaves",
+   "size": "21.17 oz",
+   "price": 6.59,
+   "price_text": "$6.59",
+   "deal": null
+  },
+  {
+   "name": "Beleaves California or Roasting Vegetable Blend",
+   "brand": "Beleaves",
+   "size": "24 oz",
+   "price": 5.49,
+   "price_text": "$5.49",
+   "deal": null
+  },
+  {
+   "name": "B'gan Sweet Potato Fries",
+   "brand": "B'gan",
+   "size": "19 oz",
+   "price": 3.49,
+   "price_text": "$3.49",
+   "deal": null
+  },
+  {
+   "name": "Broadway J2 Falafel Balls",
+   "brand": "Broadway J2",
+   "size": "12 oz",
+   "price": 3.89,
+   "price_text": "$3.89",
+   "deal": null
+  },
+  {
+   "name": "Dagim Breaded Tilapia",
+   "brand": "Dagim",
+   "size": "14 oz",
+   "price": 5.29,
+   "price_text": "$5.29",
+   "deal": null
+  },
+  {
+   "name": "Beleaves Onion Rings",
+   "brand": "Beleaves",
+   "size": "24 oz",
+   "price": 3.99,
+   "price_text": "$3.99",
+   "deal": null
+  },
+  {
+   "name": "Mehadrin Frozen Yogurt, All Varieties",
+   "brand": "Mehadrin",
+   "size": "32 oz tub",
+   "price": 5.99,
+   "price_text": "$5.99",
+   "deal": null
+  },
+  {
+   "name": "Shoulder London Broil (American beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 13.99,
+   "price_text": "$13.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Corned Beef, variety cuts",
+   "brand": null,
+   "size": "per lb",
+   "price": 10.99,
+   "price_text": "$10.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Chicken Cutlets, untrimmed, Super Family Pack",
+   "brand": null,
+   "size": "per lb",
+   "price": 7.49,
+   "price_text": "$7.49/lb",
+   "deal": null
+  },
+  {
+   "name": "1st Cut Brisket (American beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 15.99,
+   "price_text": "$15.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Shabbos Meat (American beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 15.99,
+   "price_text": "$15.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Beef Deckle Roast (American beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 14.99,
+   "price_text": "$14.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Ground Chuck, Super Family Pack",
+   "brand": null,
+   "size": "per lb",
+   "price": 8.79,
+   "price_text": "$8.79/lb",
+   "deal": null
+  },
+  {
+   "name": "Beef Sliders",
+   "brand": null,
+   "size": "per lb",
+   "price": 9.99,
+   "price_text": "$9.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Minute Steak, Family Pack (imported beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 13.99,
+   "price_text": "$13.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Minute Roast (imported beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 13.49,
+   "price_text": "$13.49/lb",
+   "deal": null
+  },
+  {
+   "name": "Beef Flanken (imported beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 24.49,
+   "price_text": "$24.49/lb",
+   "deal": null
+  },
+  {
+   "name": "Flat London Broil (imported beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 14.49,
+   "price_text": "$14.49/lb",
+   "deal": null
+  },
+  {
+   "name": "Extra Lean Beef Stew, Family Pack (imported beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 9.49,
+   "price_text": "$9.49/lb",
+   "deal": null
+  },
+  {
+   "name": "Chicken Breast, wing on",
+   "brand": null,
+   "size": "per lb",
+   "price": 2.99,
+   "price_text": "$2.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Honey Mustard Chicken Legs (seasoned)",
+   "brand": null,
+   "size": "per lb",
+   "price": 4.99,
+   "price_text": "$4.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Honey Mustard Half Spatchcock Chicken (seasoned)",
+   "brand": null,
+   "size": "per lb",
+   "price": 5.99,
+   "price_text": "$5.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Honey Mustard White Cutlets (seasoned)",
+   "brand": null,
+   "size": "per lb",
+   "price": 9.99,
+   "price_text": "$9.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Boneless Flanken (American beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 20.99,
+   "price_text": "$20.99/lb",
+   "deal": "Seagull & Jackson locations only"
+  },
+  {
+   "name": "Thin Sliced Pepper Steak (American beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 16.99,
+   "price_text": "$16.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Baby Kolichel (American beef)",
+   "brand": null,
+   "size": "per lb",
+   "price": 13.99,
+   "price_text": "$13.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Chicken, whole or cut-up",
+   "brand": null,
+   "size": "per lb",
+   "price": 3.19,
+   "price_text": "$3.19/lb",
+   "deal": null
+  },
+  {
+   "name": "Red Seedless Grapes",
+   "brand": null,
+   "size": "per lb",
+   "price": 2.49,
+   "price_text": "$2.49/lb",
+   "deal": null
+  },
+  {
+   "name": "Red Potatoes",
+   "brand": null,
+   "size": "5 lb bag",
+   "price": 3.99,
+   "price_text": "$3.99",
+   "deal": null
+  },
+  {
+   "name": "Large Pink Grapefruit",
+   "brand": null,
+   "size": "each",
+   "price": 1.0,
+   "price_text": "5/$5",
+   "deal": null
+  },
+  {
+   "name": "Bosc Pears",
+   "brand": null,
+   "size": "each",
+   "price": 1.29,
+   "price_text": "$1.29",
+   "deal": null
+  },
+  {
+   "name": "Persian Cucumbers",
+   "brand": null,
+   "size": "package",
+   "price": 1.33,
+   "price_text": "3/$4",
+   "deal": null
+  },
+  {
+   "name": "Mini Peeled Carrots",
+   "brand": null,
+   "size": "1 lb bag",
+   "price": 1.5,
+   "price_text": "2/$3",
+   "deal": null
+  },
+  {
+   "name": "Lieber's Hot or Dashers Chips",
+   "brand": "Lieber's",
+   "size": ".75 oz",
+   "price": 0.4,
+   "price_text": "10/$4",
+   "deal": null
+  },
+  {
+   "name": "7th Heaven Cereal Bites or Cream Puffs Chocolates",
+   "brand": "7th Heaven",
+   "size": "2.3 oz",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": null
+  },
+  {
+   "name": "Gefen Apple Juice Box Drinks",
+   "brand": "Gefen",
+   "size": "3 pack",
+   "price": 1.89,
+   "price_text": "$1.89",
+   "deal": null
+  },
+  {
+   "name": "Bakol WayBetter Snacks, All Varieties",
+   "brand": "Bakol",
+   "size": "5.5 oz",
+   "price": 3.59,
+   "price_text": "$3.59",
+   "deal": null
+  },
+  {
+   "name": "Popcorners Sea Salt or Kettle (not Gefen)",
+   "brand": "Popcorners",
+   "size": "5 oz",
+   "price": 2.59,
+   "price_text": "$2.59",
+   "deal": null
+  },
+  {
+   "name": "Paskesz Nutty Chews",
+   "brand": "Paskesz",
+   "size": "10 oz",
+   "price": 4.99,
+   "price_text": "$4.99",
+   "deal": null
+  },
+  {
+   "name": "Haddar Soft Baked Chocolate Chip Cookies",
+   "brand": "Haddar",
+   "size": "10.5 oz",
+   "price": 3.59,
+   "price_text": "$3.59",
+   "deal": null
+  },
+  {
+   "name": "Heaven & Earth Sour Filled Candies or Double Sour Power Pops",
+   "brand": "Heaven & Earth",
+   "size": "8.8 oz - 10.6 oz",
+   "price": 3.79,
+   "price_text": "$3.79",
+   "deal": null
+  },
+  {
+   "name": "Shwartz Pretzels, All Varieties (large bags)",
+   "brand": "Shwartz",
+   "size": "12 oz",
+   "price": 1.25,
+   "price_text": "4/$5",
+   "deal": "limit 4 each per family"
+  },
+  {
+   "name": "Gefen Tacoroos, All Varieties",
+   "brand": "Gefen",
+   "size": "1 oz",
+   "price": 0.7,
+   "price_text": "10/$7",
+   "deal": null
+  },
+  {
+   "name": "Paskesz Wowzers, All Varieties",
+   "brand": "Paskesz",
+   "size": ".88 oz",
+   "price": 0.22,
+   "price_text": "4/88¢",
+   "deal": null
+  },
+  {
+   "name": "Mentos, All Varieties",
+   "brand": "Mentos",
+   "size": "30 pack",
+   "price": 2.49,
+   "price_text": "$2.49",
+   "deal": "limit 10 each per family"
+  },
+  {
+   "name": "3D Gleezies Assorted Flavors (candy dept.)",
+   "brand": null,
+   "size": "per lb",
+   "price": 7.99,
+   "price_text": "$7.99/lb",
+   "deal": null
+  },
+  {
+   "name": "Pardes Viennese Crunch (candy dept.)",
+   "brand": "Pardes",
+   "size": "per lb",
+   "price": 11.99,
+   "price_text": "$11.99/lb",
+   "deal": null
+  }
+ ]
+}

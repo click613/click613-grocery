@@ -1,0 +1,9 @@
+{
+"chain": "Walmart",
+"store": "not read (nearest Walmart: Valley Stream NY, Supercenter #5293, 77 Green Acres Rd (New York City has no Walmart))",
+"source": "walmart.com public search pages",
+"read_at": "2026-10-18T06:47:31.049745Z",
+"status": "walled",
+"note": "walmart.com shows its robot check ('Robot or human? press and hold') after a couple of searches. We never solve those, so no Walmart prices are shown here. Nearest Walmart: Valley Stream NY, Supercenter #5293, 77 Green Acres Rd (New York City has no Walmart).",
+"items": []
+}

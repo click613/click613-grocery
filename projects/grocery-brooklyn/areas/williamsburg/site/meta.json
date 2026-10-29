@@ -1,0 +1,143 @@
+{
+ "updated": "2026-10-27T08:21:51+0000",
+ "built": "2026-10-27T08:36:18+00:00",
+ "products": 10312,
+ "at_2plus_stores": 10312,
+ "rows": 60052,
+ "stores": [
+  {
+   "key": "rosemary",
+   "name": "Rosemary Kosher Supermarket",
+   "town": "Williamsburg",
+   "items": 12663,
+   "checked": "2026-10-27T08:19:02+0000",
+   "status": null
+  },
+  {
+   "key": "all-fresh",
+   "name": "All Fresh Supermarket",
+   "town": "Williamsburg",
+   "items": 9275,
+   "checked": "2026-10-27T08:18:09+0000",
+   "status": null
+  },
+  {
+   "key": "schwartz",
+   "name": "Schwartz Supermarket",
+   "town": "Williamsburg",
+   "items": 9411,
+   "checked": "2026-10-27T08:20:00+0000",
+   "status": null
+  },
+  {
+   "key": "food-pyramid",
+   "name": "Food Pyramid",
+   "town": "Williamsburg",
+   "items": 9386,
+   "checked": "2026-10-27T08:19:58+0000",
+   "status": null
+  },
+  {
+   "key": "southside",
+   "name": "Southside Food Plaza",
+   "town": "Williamsburg",
+   "items": 6380,
+   "checked": "2026-10-27T08:19:54+0000",
+   "status": null
+  },
+  {
+   "key": "spot-wbg",
+   "name": "Spot Kosher Market Williamsburg",
+   "town": "Williamsburg",
+   "items": 4110,
+   "checked": "2026-10-27T08:20:11+0000",
+   "status": null
+  },
+  {
+   "key": "hatzlacha",
+   "name": "Hatzlacha Supermarket",
+   "town": "Williamsburg",
+   "items": 8827,
+   "checked": "2026-10-27T08:21:51+0000",
+   "status": null
+  }
+ ],
+ "data_url": "data.json.gz",
+ "fields": [
+  "name",
+  "size",
+  "qty",
+  "unit",
+  "dept",
+  "upc",
+  "per",
+  "offers[[store,price_each,was,id,deal_qty,deal_total,odd]]",
+  "match(1=barcode,2=name+size,3=barcode, plus stores without barcodes matched by exact name+size)",
+  "big[[chain,price,url,name,size,note]] (optional, same barcode)"
+ ],
+ "big_chains": [
+  {
+   "key": "walmart",
+   "name": "Walmart via Instacart",
+   "label": "Walmart via Instacart",
+   "store": "in-store prices per Instacart (Instacart lists Walmart with \u201cNo markups\u201d) \u00b7 read Oct 18",
+   "status": "name_size",
+   "items": 4,
+   "read": "2026-10-18T07:24:19.856Z",
+   "note": "Read on Instacart's Walmart storefront for this area (logged out, Oct 18). Instacart lists Walmart with \u201cNo markups\u201d, so prices are shown as listed. Matched by exact brand, product and size (Instacart shows no barcodes). Instacart's delivery and service fees are not included."
+  },
+  {
+   "key": "aldi",
+   "name": "Aldi",
+   "label": "Aldi",
+   "store": "aldi.us online price, ALDI Bay Shore NY (the store aldi.us set for this area; a closer store can't be picked without an account)",
+   "status": "ok",
+   "items": 0,
+   "read": "2026-10-18T06:15:54.682Z",
+   "note": "Searched on aldi.us (its online shop, run on Instacart's storefront) for the national brands among these items. Aldi sells almost only its own brands, so same-product matches are rare. Online prices may be higher than in store."
+  },
+  {
+   "key": "amazon",
+   "name": "Amazon",
+   "label": "Amazon (price varies, may include shipping)",
+   "store": "Amazon.com online (price varies, may include shipping)",
+   "status": "ok",
+   "items": 25,
+   "read": "2026-10-16T04:45:18.776Z",
+   "note": "Searched on amazon.com by name. Listing price as shown, often a third-party seller, so prices vary and may include shipping. Listings far above the local stores' price are left out."
+  },
+  {
+   "key": "costco",
+   "name": "Costco",
+   "label": "Costco",
+   "store": "costco.com online price",
+   "status": "ok",
+   "items": 0,
+   "read": "2026-10-16T05:13:11.966Z",
+   "note": "costco.com prices are public (no login). Costco sells most of these brands only as club multipacks, so same-size matches are rare."
+  },
+  {
+   "key": "stopandshop",
+   "name": "Stop & Shop via Instacart (approx.)",
+   "label": "Stop & Shop via Instacart (approx.)",
+   "store": "Instacart's price for Stop & Shop, approx. \u00b7 read Oct 18",
+   "status": "name_size",
+   "items": 7,
+   "read": "2026-10-18T08:28:05.693Z",
+   "note": "Read on Instacart's Stop & Shop storefront for this area (logged out, Oct 18). Instacart shows a pricing-policy link for Stop & Shop, not a \u201cno markups\u201d label, so these prices are approximate: Stop & Shop's own site blocks automated reading, so in-store prices could not be checked. Every price read ends like a normal shelf price (.99, .69, .49), which a percentage markup would not leave, so no markup was taken off. Matched by exact brand, product and size. Instacart's fees are not included. Confirm in store."
+  },
+  {
+   "key": "lidl",
+   "name": "Lidl",
+   "label": "Lidl",
+   "store": "lidl.com default price (in-store items; the regional price range is in the item note; a local store can't be chosen on lidl.com without the app)",
+   "status": "ok",
+   "items": 0,
+   "read": "2026-10-16T05:01:03Z",
+   "note": "Searched on lidl.com. Lidl stocks mostly its own brands, so only national brands can match. Price is lidl.com's default region; the item note carries the regional range."
+  }
+ ],
+ "big_matched_products": 18,
+ "flyers": [],
+ "note": "Prices come from each store's own website. In-store prices may differ."
+}

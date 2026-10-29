@@ -1,0 +1,72 @@
+{
+ "made_at": "2026-10-27T17:16:31+00:00",
+ "voice": {
+  "issue_base": "https://issues.thevoiceoflakewood.com/3dissue/102226/",
+  "issue": [
+   "963",
+   "october 22, 2026"
+  ],
+  "viewer_page_note": "viewer page = printed page + 2 (front section)",
+  "ad_pages": [
+   {
+    "page": 16,
+    "prices_in_text": 54,
+    "stores": [],
+    "dates": [
+     "Sale Dates: October 25 th - 30 th 2026 NOW 3 LOCATI"
+    ],
+    "image": "https://issues.thevoiceoflakewood.com/3dissue/102226/files/pages/large/16.jpg",
+    "snippet": "Sale Dates: October 25 th - 30 th 2026 NOW 3 LOCATIONS! Weekly Grocery Sales! Buys of the Week! Snapple Iced Teas Simila"
+   },
+   {
+    "page": 17,
+    "prices_in_text": 40,
+    "stores": [
+     "gourmet glatt"
+    ],
+    "dates": [
+     "Sale Dates: October 25 th - 30 th 2026 Specials BON"
+    ],
+    "image": "https://issues.thevoiceoflakewood.com/3dissue/102226/files/pages/large/17.jpg",
+    "snippet": "Sale Dates: October 25 th - 30 th 2026 Specials BONELESS RIB EYE STEAK 16 99 lb. $ SHABBOS JUICY & TENDER Snack & Nosh S"
+   },
+   {
+    "page": 23,
+    "prices_in_text": 38,
+    "stores": [
+     "seasons",
+     "yossi"
+    ],
+    "dates": [
+     "10/25/26 - 10/30/26"
+    ],
+    "image": "https://issues.thevoiceoflakewood.com/3dissue/102226/files/pages/large/23.jpg",
+    "snippet": "10/25/26 - 10/30/26 *NOT RESPONSIBLE FOR TYPOGRAPHICAL ERRORS. WHILE SUPPLIES LAST. shoulder boneless london flanken bro"
+   },
+   {
+    "page": 46,
+    "prices_in_text": 35,
+    "stores": [],
+    "dates": [],
+    "image": "https://issues.thevoiceoflakewood.com/3dissue/102226/files/pages/large/46.jpg",
+    "snippet": "PUBLIC NOTICE LAKEWOOD TOWNSHIP RESIDENTIAL ASSISTANCE PROGRAM (LTRAP) SECTION 8 HOUSING CHOICE VOUCHER PROGRAM The Lake"
+   },
+   {
+    "page": 107,
+    "prices_in_text": 57,
+    "stores": [],
+    "dates": [],
+    "image": "https://issues.thevoiceoflakewood.com/3dissue/102226/files/pages/large/107.jpg",
+    "snippet": "OV ER 100 PL US CA RS IN ST OC K 732.719.5454 SALES . FINANCING . LEASING AUTO AU TO SERVIC SE RVICE E 2025 Toyota sienn"
+   }
+  ]
+ },
+ "bingo": {
+  "page": "https://www.bingowholesale.com/weeklydeals",
+  "how": "open in the browser, read the app.pdf-viewer-pro.com iframe's pdf.pdf-viewer-pro.com/...pdf resource (signed URL), download it"
+ },
+ "lakewood_shopper": {
+  "page": "https://lakewoodshopper.com/ (redirects to flipbookserver.com/?ID=10006519_<issue>)",
+  "how": "flipbook server was erroring on Oct 16 2026 ('Too many connections'); try in the browser"
+ }
+}

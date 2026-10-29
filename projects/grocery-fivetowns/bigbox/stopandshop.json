@@ -1,0 +1,66 @@
+{
+ "chain": "Stop & Shop via Instacart (approx.)",
+ "store": "Instacart's price for Stop & Shop, approx. · read Oct 18",
+ "source": "Instacart's Stop & Shop storefront for this area's address, read logged out",
+ "read_at": "2026-10-18T08:37:09.498Z",
+ "status": "name_size",
+ "note": "Read on Instacart's Stop & Shop storefront for this area (logged out, Oct 18). Instacart shows a pricing-policy link for Stop & Shop, not a “no markups” label, so these prices are approximate: Stop & Shop's own site blocks automated reading, so in-store prices could not be checked. Every price read ends like a normal shelf price (.99, .69, .49), which a percentage markup would not leave, so no markup was taken off. Matched by exact brand, product and size. Instacart's fees are not included. Confirm in store.",
+ "items": [
+  {
+   "upc": "75720904044",
+   "name": "Poland Spring Sparkling Water, Black Cherry, 33.8 oz. Bottle · 33.8 fl oz",
+   "size": "33.8 fl oz",
+   "price": 1.69,
+   "url": "https://www.instacart.com/products/202574-poland-spring-sparkling-water-black-cherry-33-8-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "75720000012",
+   "name": "Poland Spring Sparkling Water, Simply Bubbles, 33.8 oz. Bottle · 33.8 fl oz",
+   "size": "33.8 fl oz",
+   "price": 1.69,
+   "url": "https://www.instacart.com/products/54403-poland-spring-sparkling-water-simply-bubbles-33-8-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "73410005002",
+   "name": "Arnold Brick Oven Enriched Premium White Bread · 32 oz",
+   "size": "32 oz",
+   "price": 7.59,
+   "url": "https://www.instacart.com/products/182732-brownberry-arnold-oroweat-brick-oven-premium-white-bread-32-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "73410022504",
+   "name": "Arnold Stone Ground 100% Whole Wheat Bread, 16 oz · 1 lb",
+   "size": "1 lb",
+   "price": 4.99,
+   "url": "https://www.instacart.com/products/287593-brownberry-arnold-oroweat-stone-ground-100-whole-wheat-bread-16-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200056004",
+   "name": "Domino Premium Pure Cane Dark Brown Sugar · 1 lb",
+   "size": "1 lb",
+   "price": 2.99,
+   "url": "https://www.instacart.com/products/69466-domino-premium-pure-cane-dark-brown-sugar-1-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200056752",
+   "name": "Domino Premium Pure Cane Light Brown Sugar · 1 lb",
+   "size": "1 lb",
+   "price": 2.99,
+   "url": "https://www.instacart.com/products/69469-domino-premium-pure-cane-light-brown-sugar-1-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "850004207093",
+   "name": "Beyond Meat Beyond Beef, Plant-Based Ground · 16 oz",
+   "size": "16 oz",
+   "price": 12.99,
+   "url": "https://www.instacart.com/products/19976005-beyond-meat-beyond-beef-plant-based-ground-16-0-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  }
+ ]
+}

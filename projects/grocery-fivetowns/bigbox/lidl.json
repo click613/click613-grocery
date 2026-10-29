@@ -1,0 +1,58 @@
+{
+"chain": "Lidl",
+"store": "lidl.com default price (in-store items; the regional price range is in the item note; a local store can't be chosen on lidl.com without the app)",
+"source": "lidl.com public search pages",
+"read_at": "2026-10-16T05:02:03Z",
+"status": "ok",
+"note": "Searched on lidl.com. Lidl stocks mostly its own brands, so only national brands can match. Price is lidl.com's default region; the item note carries the regional range.",
+"items": [
+{
+"upc": "52000135176",
+"name": "Gatorade\u00ae sports drink, cool blue 28 fl.oz.",
+"size": "28 Oz",
+"price": 1.78,
+"url": "https://www.lidl.com/p/gatorade-sports-drink-cool-blue/p11607499",
+"note": "$ 0.06 per fl.oz.; lidl.com price; varies by region $1.78-$2.19"
+},
+{
+"upc": "41331124669",
+"name": "Goya\u00ae black beans 15.5 oz.",
+"size": "15.5 Oz",
+"price": 1.36,
+"url": "https://www.lidl.com/p/goya-black-beans/p11241002",
+"note": "$ 0.09 per oz.; lidl.com price; varies by region $1.36-$1.55"
+},
+{
+"upc": "40000000327",
+"name": "M&M's\u00ae peanut, single 1.74 oz.",
+"size": "1.74 Oz",
+"price": 1.57,
+"url": "https://www.lidl.com/p/m-m-s-peanut-single/p11244769",
+"note": "$ 0.90 per oz.; lidl.com price; varies by region $1.57-$1.79"
+},
+{
+"upc": "40000422068",
+"name": "Milky Way\u00ae bar 1.84 oz.",
+"size": "1.84 Oz",
+"price": 1.45,
+"url": "https://www.lidl.com/p/milky-way-bar/p11251509",
+"note": "$ 0.79 per oz.; lidl.com price; varies by region $1.45-$1.65"
+},
+{
+"upc": "3444009",
+"name": "Reese's\u00ae peanut butter cups 1.5 oz.",
+"size": "1.5 Oz",
+"price": 1.62,
+"url": "https://www.lidl.com/p/reese-s-peanut-butter-cups/p11245158",
+"note": "$ 1.08 per oz.; lidl.com price; varies by region $1.62-$1.85"
+},
+{
+"upc": "16571952105",
+"name": "Sparkling Ice\u00ae black cherry sparkling water 17 fl.oz.",
+"size": "17 Oz",
+"price": 1.27,
+"url": "https://www.lidl.com/p/sparkling-ice-black-cherry-sparkling-water/p11248600",
+"note": "$ 0.07 per fl.oz.; lidl.com price; varies by region $1.27-$1.59"
+}
+]
+}

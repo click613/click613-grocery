@@ -1,0 +1,189 @@
+:root{--bg:#faf6ec;--card:#fffdf8;--ink:#1d2a22;--muted:#5d6b62;--pri:#1e4d35;--pri2:#163a27;--acc:#c89522;--acc2:#e4b543;--ok:#2f684c;--line:#e6dcc4;--sale:#b3261e;--head:'Frank Ruhl Libre',Georgia,serif;--body:'Heebo',system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.skin-click613{--bg:#F7F4EE;--card:#fff;--ink:#0B2A4A;--muted:#4a5a6e;--pri:#0E6B3F;--pri2:#0B2A4A;--acc:#C9A227;--acc2:#C9A227;--ok:#0E6B3F;--line:#e3ddd0;--head:'Heebo',system-ui,sans-serif}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 var(--body)}
+a{color:var(--pri)}
+.wrap{max-width:720px;margin:0 auto;padding:0 14px}
+.top{background:var(--pri2);color:#fff;border-bottom:4px solid var(--acc);padding:12px 0 10px}
+.skin-click613 .top{background:var(--bg);color:var(--ink);border-bottom:3px solid var(--acc)}
+.brand{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.brand h1{margin:0;font:700 22px/1.2 var(--head);color:inherit}
+.mark{text-decoration:none;color:var(--acc2);font:700 15px var(--head);letter-spacing:.02em}
+.mark img{display:block;height:34px;width:auto}
+.c613-only{display:none}.skin-click613 .c613-only{display:inline}.skin-click613 .luach-only{display:none}
+.skin-click613 .brand{align-items:center}
+.embed .top,.embed .foot{display:none}
+.updated{margin:10px 0 6px;color:var(--muted);font-size:14px}
+.updated b{color:var(--ink)}
+.tabs{display:flex;gap:4px;overflow-x:auto;border-bottom:1px solid var(--line);margin:0 -2px 10px;position:sticky;top:0;background:var(--bg);z-index:5;padding:6px 2px 0}
+.tabs button{flex:0 0 auto;border:0;background:none;padding:10px 9px;font:500 14.5px var(--body);color:var(--muted);border-bottom:3px solid transparent;cursor:pointer;min-height:44px}
+.tabs button[aria-selected=true]{color:var(--pri);border-bottom-color:var(--acc)}
+.pill{display:inline-block;background:var(--acc);color:#fff;border-radius:10px;padding:0 7px;font-size:12px;margin-left:2px}
+.search input{width:100%;font:16px var(--body);padding:12px 14px;border:1.5px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink)}
+.search input:focus,select:focus,button:focus-visible{outline:3px solid var(--acc2);outline-offset:1px}
+.filters{display:flex;gap:8px;margin:8px 0}
+.filters select{flex:1;min-width:0;font:15px var(--body);padding:10px;border:1.5px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);min-height:44px}
+.chips,.deptchips{display:flex;gap:6px;overflow-x:auto;padding:2px 0 6px;scrollbar-width:none}
+.chip,.dchip{flex:0 0 auto;border:1.5px solid var(--line);background:var(--card);color:var(--ink);border-radius:20px;padding:7px 13px;font:500 14px var(--body);cursor:pointer;min-height:38px}
+.chip[aria-pressed=true],.dchip[aria-pressed=true]{background:var(--pri);border-color:var(--pri);color:#fff}
+.dchip{font-size:13px;padding:6px 11px;min-height:34px}
+.count{color:var(--muted);font-size:13px;margin:4px 0}
+.list,.olist{list-style:none;margin:0;padding:0}
+.item{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;margin:0 0 10px}
+.ih{display:flex;gap:10px;align-items:flex-start;justify-content:space-between}
+.iname{font-weight:500;line-height:1.3}
+.imeta{color:var(--muted);font-size:13px;margin-top:2px}
+.add{flex:0 0 auto;border:1.5px solid var(--pri);color:var(--pri);background:transparent;border-radius:10px;padding:6px 12px;font:600 14px var(--body);cursor:pointer;min-height:38px}
+.add.in{background:var(--pri);color:#fff}
+.offers{list-style:none;margin:8px 0 0;padding:0}
+.offers li{display:grid;grid-template-columns:1fr auto;gap:2px 8px;padding:6px 0;border-top:1px dashed var(--line);font-size:15px}
+.offers li:first-child{border-top:0}
+.st{min-width:0}
+.st a{color:var(--ink);text-decoration:none}
+.st small{display:block;color:var(--muted);font-size:12px}
+.pr{text-align:right;font-variant-numeric:tabular-nums;font-weight:600;white-space:nowrap}
+.pr small{display:block;font-weight:400;color:var(--muted);font-size:12px}
+.best .pr{color:var(--ok)}
+.best .st a{font-weight:600}
+.tag{display:inline-block;font-size:11px;font-weight:700;border-radius:6px;padding:1px 6px;margin-left:4px;vertical-align:1px}
+.tag.low{background:var(--ok);color:#fff}.tag.sale{background:var(--sale);color:#fff}.tag.deal{background:var(--acc);color:#fff}
+s{color:var(--muted);font-weight:400}
+.oddrow{opacity:.55}
+.more,.ghost{display:block;width:100%;margin:6px 0 18px;padding:12px;border:1.5px solid var(--pri);background:var(--card);color:var(--pri);border-radius:12px;font:600 15px var(--body);cursor:pointer}
+.hint{color:var(--muted);font-size:14px}
+.oi{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 10px;margin-bottom:6px}
+.oi .n{flex:1;min-width:0;font-size:14px}
+.qty{display:flex;align-items:center;gap:4px}
+.qty button{width:34px;height:34px;border-radius:8px;border:1.5px solid var(--line);background:var(--bg);font:600 17px var(--body);color:var(--ink);cursor:pointer}
+.qty span{min-width:22px;text-align:center;font-weight:600}
+table.tot{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;margin:10px 0;font-size:15px}
+table.tot th,table.tot td{padding:9px 10px;border-top:1px solid var(--line);text-align:left}
+table.tot th{background:var(--pri2);color:#fff;font-weight:500;border-top:0}
+.skin-click613 table.tot th{background:var(--ink)}
+table.tot td.r,table.tot th.r{text-align:right;font-variant-numeric:tabular-nums}
+table.tot tr.win td{color:var(--ok);font-weight:700}
+.miss{color:var(--sale);font-size:12px;display:block;font-weight:400}
+.store{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;margin-bottom:10px}
+.store h4{margin:0 0 2px;font:700 17px var(--head);color:var(--pri)}
+.store ul{margin:6px 0;padding-left:18px;font-size:14px}
+.store .src{font-size:13px}
+.soon{padding-left:18px}
+.how li{margin-bottom:6px}
+h3{font:700 19px var(--head);color:var(--pri);margin:16px 0 6px}
+.disclaimer{font-size:13px;color:var(--muted)}
+.foot{border-top:1px solid var(--line);margin-top:20px;padding:12px 0 90px}
+.small{font-size:13px;color:var(--muted)}
+.obar{position:fixed;left:0;right:0;bottom:0;padding:8px 12px calc(8px + env(safe-area-inset-bottom));background:linear-gradient(transparent,var(--bg) 30%);z-index:9}
+.obar button{display:block;width:100%;max-width:700px;margin:0 auto;border:0;border-radius:14px;padding:13px;background:var(--pri);color:#fff;font:600 15px var(--body);box-shadow:0 4px 14px rgba(0,0,0,.18);cursor:pointer}
+.empty{padding:20px;text-align:center;color:var(--muted)}
+@media (min-width:600px){.brand h1{font-size:26px}}
+.tabs,.chips,.deptchips{scrollbar-width:none}.tabs::-webkit-scrollbar,.chips::-webkit-scrollbar,.deptchips::-webkit-scrollbar{display:none}
+
+.big{margin-top:6px;border-top:1px dashed var(--line);padding-top:4px}
+.bigh{font:600 12.5px var(--body);color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.bigh small{text-transform:none;letter-spacing:0;font-weight:400;margin-left:4px}
+.big .offers li{opacity:.92}
+.flyer{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;margin:0 0 12px}
+.flyer h4{margin:4px 0 0;font:700 17px var(--head)}
+.badge{display:inline-block;background:var(--acc);color:#fff;border-radius:6px;padding:1px 8px;font:600 11.5px var(--body);text-transform:uppercase;letter-spacing:.04em}
+.fwhen{font-weight:600;color:var(--pri);font-size:14px;margin-top:2px}
+.fitems{list-style:none;margin:8px 0 6px;padding:0}
+.fitems li{display:flex;justify-content:space-between;gap:10px;padding:6px 0;border-top:1px solid var(--line)}
+.fitems .fn{min-width:0;overflow-wrap:anywhere}
+.fitems small{display:block;color:var(--muted);font-size:12.5px}
+.fitems .fp{font-weight:700;white-space:nowrap;color:var(--sale)}
+.flyer .src{font-size:12.5px;color:var(--muted)}
+
+/* Best sales tab (deals.js) */
+.deals{list-style:none;margin:0 0 14px;padding:0}
+.deal{display:flex;gap:10px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;margin:0 0 8px}
+.dpct{flex:0 0 54px;height:54px;border-radius:10px;background:var(--sale);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1}
+.dpct b{font:700 18px var(--body)}.dpct span{font-size:11px;margin-top:2px}
+.deal.low .dpct{background:var(--pri)}
+.dbody{min-width:0;flex:1}
+.dn{font-weight:600;line-height:1.25}.dn small{color:var(--muted);font-weight:400}
+.dstore{font-size:14px;color:var(--pri);font-weight:500}
+.dprice{margin:2px 0}.dprice b{font-size:17px}.dprice s{color:var(--muted);font-size:14px}.dsave{color:var(--sale);font-size:13px;font-weight:600}
+.dsmall{font-size:13px;color:var(--muted)}
+.dmeta,.dnote,.dsrc{font-size:12.5px;color:var(--muted)}.dnote{font-style:italic}
+.dsrc .badge{font-size:10px;padding:0 6px;vertical-align:1px}.badge.bst{background:var(--pri)}.badge.bfl{background:var(--acc)}.badge.blow{background:var(--muted)}
+.salesteaser{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--sale);border-radius:10px;padding:8px 10px;margin:0 0 10px;font-size:14px}
+.salesteaser ul{list-style:none;margin:4px 0;padding:0}.salesteaser li{margin:2px 0}.salesteaser small{color:var(--muted)}
+.salesteaser .tp{display:inline-block;min-width:62px;color:var(--sale);font-weight:700}
+.linkbtn{border:0;background:none;color:var(--pri);font:600 14px var(--body);padding:6px 0;cursor:pointer;text-decoration:underline;min-height:36px}
+
+/* Shop at <store> (shop.js) */
+.tot .shopbtn{border:0;background:var(--pri);color:#fff;border-radius:9px;padding:6px 10px;font:600 13.5px var(--body);min-height:36px;white-space:nowrap;cursor:pointer}
+.tot td.r:last-child{width:1%;padding-left:6px}
+.shophint{margin-top:6px}
+#tab-order.shopping>:not(#shopview){display:none}
+.shopsum{margin:2px 0 6px;font-size:15px}
+.shoplist{list-style:none;padding:0;margin:8px 0}
+.shoplist li{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;margin-bottom:8px}
+.shoplist .chk{flex:1;display:flex;gap:10px;align-items:flex-start;min-width:0;cursor:pointer}
+.shoplist input{width:22px;height:22px;margin:1px 0 0;accent-color:var(--pri);flex:0 0 auto}
+.shoplist .sn{min-width:0;overflow-wrap:anywhere;font-size:15px}
+.shoplist small{display:block;color:var(--muted);font-size:12.5px}
+.shoplist li.done .sn{text-decoration:line-through;color:var(--muted)}
+.openit{flex:0 0 auto;border:1.5px solid var(--pri);color:var(--pri);border-radius:10px;padding:7px 11px;font:600 14px var(--body);text-decoration:none;min-height:38px;display:inline-flex;align-items:center}
+.shopbtns{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.bigbtn{flex:1 1 auto;text-align:center;background:var(--pri);color:#fff;border-radius:12px;padding:12px 14px;font:600 15.5px var(--body);text-decoration:none;min-height:46px;box-sizing:border-box}
+.shopmiss{background:var(--card);border:1px dashed var(--acc);border-radius:10px;padding:8px 10px;font-size:14px;margin:6px 0}
+.deal .dadd{float:right;margin:0 0 4px 8px}
+.shopbtns .ghost{width:auto;flex:0 0 auto;margin:0}
+.ghost.back{display:inline-block;width:auto;padding:8px 14px;margin:0 0 6px}
+
+/* city picker */
+.cities{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin:10px 0 2px}
+.cities .clab{font-size:13px;color:var(--muted);margin-right:2px}
+.cities .cbtn{display:inline-block;padding:6px 14px;min-height:34px;border-radius:999px;border:1.5px solid var(--line);background:var(--card);font:700 14px var(--body);text-decoration:none;color:var(--pri)}
+.cities .cbtn.on{background:var(--pri);border-color:var(--pri);color:#fff}
+
+.pill[hidden]{display:none}   /* a hidden tab badge stays hidden (it showed "0" before) */
+
+/* Cheaper kosher option at Aldi/Lidl (kosher.json) — Click613 brand colours */
+.kbtn{display:inline-flex;align-items:center;gap:6px;margin:10px 0 0;border:0;background:#0E6B3F;color:#fff;border-radius:999px;padding:8px 14px;font:600 14px var(--body);cursor:pointer;min-height:38px;line-height:1.2;text-align:left}
+.kbtn:hover{background:#0b5a35}
+.kbtn .kchev{font-size:11px;transition:transform .15s}
+.kbtn.open .kchev{transform:rotate(180deg)}
+.kpanel{margin:8px 0 0;background:#F7F4EE;border:1px solid #e3ddd0;border-left:4px solid #0E6B3F;border-radius:12px;padding:10px 12px;color:#0B2A4A}
+.kph{font-size:13px;color:#4a5a6e;margin-bottom:4px}
+.kalt{padding:9px 0;border-top:1px dashed #d9d1bf}
+.kalt:first-of-type{border-top:0}
+.kch{font-size:13px;color:#4a5a6e}
+.kch b{color:#0B2A4A;font-size:14px}
+.kname{display:block;margin:2px 0;color:#0B2A4A;font-weight:600;text-decoration:none;font-size:15px}
+.kname:hover{text-decoration:underline}
+.kpr{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px;font-size:13px;color:#4a5a6e}
+.kpr b{font-size:17px;color:#0E6B3F}
+.kless{background:#C9A227;color:#0B2A4A;font-weight:700;border-radius:8px;padding:1px 8px;font-size:12.5px}
+.ksim{font-size:12.5px;font-style:italic;color:#4a5a6e;margin-top:3px}
+.khech{margin-top:5px;font-size:13px;display:flex;flex-wrap:wrap;align-items:center;gap:4px 8px}
+.khech a{color:#0E6B3F;font-weight:600}
+.khech small{flex-basis:100%;color:#4a5a6e;font-size:12px}
+.kbadge{background:#0B2A4A;color:#fff;border-radius:6px;padding:2px 8px;font-weight:700;font-size:12.5px;letter-spacing:.02em}
+.kbadge.kbnf{background:#4a5a6e}
+.kpes{flex-basis:100%;font-size:12px;color:#0B2A4A;font-weight:600}
+.knote{margin:6px 0 0;font-size:12px;color:#4a5a6e}
+
+/* Bingo (approx.) — estimated from one Instacart read; always tagged, greyed when older than 14 days */
+.tag.approx{background:#FFF4D6;color:#7A5A00;border:1px solid #C9A227}
+.offers li.bingo{background:#FFFBEF;border-radius:6px;padding-left:6px;padding-right:6px}
+.offers li.bingo .st a{color:inherit;text-decoration:underline dotted}
+.offers li.bingo.stale,.store.bingostore.stale{opacity:.5;filter:grayscale(1)}
+.store.bingostore .bnote{margin:6px 0;font-size:14px}
+/* fix: the Best-sales card rule .deal{display:flex;padding;border} also hit the small "Deal" tag on price rows */
+.offers .tag.deal{display:inline-block;padding:1px 6px;margin:0 0 0 4px;border:0;border-radius:6px;gap:0}
+
+/* Click613 on WhatsApp card (navy / cream / green / gold), mobile-first with big tap targets */
+.c613wa{background:#0B2A4A;color:#F7F4EE;border-radius:12px;border-top:4px solid #C9A227;padding:14px 14px 12px;margin:10px 0 14px}
+.c613wa h2{margin:0 0 4px;font-size:18px;line-height:1.25;color:#F7F4EE;font-weight:700}
+.c613wa a{display:block;box-sizing:border-box;min-height:48px;margin-top:10px;padding:13px 12px;border-radius:10px;text-align:center;font-weight:700;font-size:16px;line-height:1.3;text-decoration:none}
+.c613wa a.wa1{background:#0E6B3F;color:#fff;border:2px solid #0E6B3F}
+.c613wa a.wa2{background:transparent;color:#F7F4EE;border:2px solid #C9A227}
+.c613wa a:focus-visible{outline:3px solid #C9A227;outline-offset:2px}
+.c613wa .wasub{margin:6px 0 0;font-size:13px;text-align:center;color:#F7F4EE;opacity:.85}
+.c613wa-slim{margin:0 0 8px;font-size:14px}
+.c613wa-slim a{font-weight:700;color:#0E6B3F}
+.c613wa .wan,.c613wa-slim .wan{white-space:nowrap}

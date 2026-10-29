@@ -1,0 +1,66 @@
+{
+ "chain": "Stop & Shop via Instacart (approx.)",
+ "store": "Instacart's price for Stop & Shop, approx. · read Oct 18",
+ "source": "Instacart's Stop & Shop storefront for this area's address, read logged out",
+ "read_at": "2026-10-18T08:28:05.693Z",
+ "status": "name_size",
+ "note": "Read on Instacart's Stop & Shop storefront for this area (logged out, Oct 18). Instacart shows a pricing-policy link for Stop & Shop, not a “no markups” label, so these prices are approximate: Stop & Shop's own site blocks automated reading, so in-store prices could not be checked. Every price read ends like a normal shelf price (.99, .69, .49), which a percentage markup would not leave, so no markup was taken off. Matched by exact brand, product and size. Instacart's fees are not included. Confirm in store.",
+ "items": [
+  {
+   "upc": "75720000715",
+   "name": "Poland Spring Maine Spring Water, 1.5-Liter bottle · 50.7 fl oz",
+   "size": "50.7 fl oz",
+   "price": 2.59,
+   "url": "https://www.instacart.com/products/98920-poland-spring-100-natural-spring-water-50-7-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200056004",
+   "name": "Domino Premium Pure Cane Dark Brown Sugar · 1 lb",
+   "size": "1 lb",
+   "price": 2.99,
+   "url": "https://www.instacart.com/products/69466-domino-premium-pure-cane-dark-brown-sugar-1-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200056752",
+   "name": "Domino Premium Pure Cane Light Brown Sugar · 1 lb",
+   "size": "1 lb",
+   "price": 2.99,
+   "url": "https://www.instacart.com/products/69469-domino-premium-pure-cane-light-brown-sugar-1-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200051009",
+   "name": "Domino Premium Cane Powdered Sugar · 1 lb",
+   "size": "1 lb",
+   "price": 2.99,
+   "url": "https://www.instacart.com/products/69484-domino-premium-cane-powdered-sugar-1-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200043509",
+   "name": "Domino Premium Pure Cane Granulated Sugar 2 lb. Carton · 32 oz",
+   "size": "32 oz",
+   "price": 3.99,
+   "url": "https://www.instacart.com/products/69482-domino-premium-sugar-cane-granulated-sugar-2-0-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200902936",
+   "name": "Domino Quick Dissolve Superfine Pure Cane Sugar 12 oz Flip Top Canister · 12 oz",
+   "size": "12 oz",
+   "price": 3.99,
+   "url": "https://www.instacart.com/products/122965-domino-pure-cane-sugar-12-0-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200042014",
+   "name": "Domino Premium Cane Powdered Sugar · 1 lb",
+   "size": "1 lb",
+   "price": 2.99,
+   "url": "https://www.instacart.com/products/69484-domino-premium-cane-powdered-sugar-1-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  }
+ ]
+}

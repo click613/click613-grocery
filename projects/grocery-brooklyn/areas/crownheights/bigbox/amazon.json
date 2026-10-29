@@ -1,0 +1,122 @@
+{
+"chain": "Amazon",
+"store": "Amazon.com online (price varies, may include shipping)",
+"source": "amazon.com public search pages",
+"read_at": "2026-10-16T04:45:18.776Z",
+"status": "ok",
+"note": "Searched on amazon.com by name. Listing price as shown, often a third-party seller, so prices vary and may include shipping. Listings far above the local stores' price are left out.",
+"items": [
+{
+"upc": "73490123849",
+"name": "kedemTea Biscuit Chocolate, 4.2 Oz 4.2 Ounce (Pack of 1)",
+"size": "4.2 Oz",
+"price": 0.79,
+"url": "https://www.amazon.com/dp/B0011BPNXG",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "33200011101",
+"name": "ARM & HAMMERBaking Soda, 1 lb 100+ Household Uses, For Baking & Cleaning, Odor Control, Trusted For 170+ Years",
+"size": "1 Lb",
+"price": 1.69,
+"url": "https://www.amazon.com/dp/B000PYF8VM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "41570068366",
+"name": "Blue Diamond, Almond Milk Vanilla, 32 Fl Oz Vanilla",
+"size": "32 Oz",
+"price": 2.78,
+"url": "https://www.amazon.com/dp/B0005ZZMSK",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "70881233064",
+"name": "BrilloStrip & Shine Steel Wool Balls, 6-Count",
+"size": "6 Pc",
+"price": 5.89,
+"url": "https://www.amazon.com/dp/B00423GRHQ",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "794711007112",
+"name": "LiOR Fine Himalayan Pink Salt \u2013 100% Natural, Ancient Mineral Salt, Kosher \u2013 17.6 oz Salt Shaker with Lid",
+"size": "17.6 Oz",
+"price": 17.99,
+"url": "https://www.amazon.com/dp/B09222DHKB",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490130663",
+"name": "kedemTea Biscuite, Cappuccino, 4.2 oz 4.2 Ounce (Pack of 1)",
+"size": "4.2 Oz",
+"price": 2.63,
+"url": "https://www.amazon.com/dp/B00IHO8JJK",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "40168100068",
+"name": "Adwe Laboratories Kosher Toothpaste Anti- Tartar Mountain Fresh - 6.4 OZ. Mountain Fresh",
+"size": "6.4 Oz",
+"price": 6.99,
+"url": "https://www.amazon.com/dp/B07JKWXZ17",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "74333476269",
+"name": "Arrowhead MillsOrganic Red Lentils, 16 oz Bag 16 Ounce (Pack of 1)",
+"size": "16 Oz",
+"price": 5.27,
+"url": "https://www.amazon.com/dp/B00CLATJMW",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "74333474296",
+"name": "Arrowhead MillsNatural Puffed Rice Cereal - 6 oz 6 Ounce (Pack of 1)",
+"size": "6 Oz",
+"price": 5.9,
+"url": "https://www.amazon.com/dp/B0057615JM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "30103041006",
+"name": "BalmexDiaper Rash Cream with Aloe & Vitamin E, 4 oz 4 Ounce (Pack of 1)",
+"size": "4 Oz",
+"price": 10.0,
+"url": "https://www.amazon.com/dp/B0009RFAJK",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "49000055412",
+"name": "Coca-Cola Zero1.25 Liter Zero calories, carbonated, shareable",
+"size": "1.25 Liter",
+"price": 1.47,
+"url": "https://www.amazon.com/dp/B01EN6KR6S",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "37000800682",
+"name": "BounceDryer Sheets, 80 count, Outdoor Fresh Scent, Reduces static, softens, freshens, and fights wrinkles Outdoor Fresh80 Count (Pack of 1)",
+"size": "80 Ct",
+"price": 5.05,
+"url": "https://www.amazon.com/dp/B0014E8VHA",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "31500005394",
+"name": "B&GEaston Sweet Pickle Relish, 10 oz",
+"size": "10 Oz",
+"price": 27.79,
+"url": "https://www.amazon.com/dp/B0005ZJ182",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "38261857361",
+"name": "BubbiesKosher Dill Pickles 33 oz Glass Jar",
+"size": "33 Oz",
+"price": 10.49,
+"url": "https://www.amazon.com/dp/B00119TD2K",
+"note": "Amazon, price varies, may include shipping"
+}
+]
+}

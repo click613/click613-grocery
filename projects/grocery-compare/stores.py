@@ -1,0 +1,70 @@
+# Store list for the price compare. Delivery/pickup lines are our own short summary of each store's own page
+# (read Oct 16 2026); every line links to its source. "Confirm with the store" is shown beside them.
+STORES = [
+ {"key": "seasons-lkw", "kind": "mcg", "name": "Seasons Lakewood", "short": "Seasons", "town": "Lakewood",
+  "addr": "711 Cedarbridge Ave, Lakewood", "phone": "732-813-7700", "site": "https://www.seasonskosher.com/Lakewood",
+  "link": "https://www.seasonskosher.com/Lakewood/product/{id}", "src": "https://www.seasonskosher.com/Lakewood/delivery",
+  "delivery": ["Same-day delivery or in-store pickup: order by 3 PM Sun–Wed, 12 PM Thu, 10 AM Fri.",
+               "Fees listed: Lakewood, Brick, Jackson, Toms River $7; Howell $15; pickup $5.",
+               "Sale prices need $50 of non-sale items in the order (online)."]},
+ {"key": "seasons-tr", "kind": "mcg", "name": "Seasons Toms River", "short": "Seasons TR", "town": "Toms River",
+  "addr": "2088 Lakewood Rd, Toms River", "phone": "732-605-4455", "site": "https://www.seasonskosher.com/Toms-River",
+  "link": "https://www.seasonskosher.com/Toms-River/product/{id}", "src": "https://www.seasonskosher.com/Toms-River/delivery",
+  "delivery": ["Same-day delivery or in-store pickup: order by 3 PM Sun–Wed, 12 PM Thu, 10 AM Fri.",
+               "Its page says local delivery is free for a limited time.",
+               "Sale prices need $50 of non-sale items in the order (online)."]},
+ {"key": "nutmeg", "kind": "mcg", "name": "Nutmeg Kosher Market", "short": "Nutmeg", "town": "Lakewood",
+  "addr": "485 Locust St #13, Lakewood", "phone": "732-285-9400", "site": "https://www.nutmegkoshermarket.com/",
+  "link": "https://www.nutmegkoshermarket.com/Lakewood-NJ/product/{id}", "src": "https://www.nutmegkoshermarket.com/Lakewood-NJ/delivery",
+  "delivery": ["Same-day delivery to Lakewood, Jackson, Toms River, Brick and Manchester: order by 4 PM Sun–Thu, 12 PM Fri.",
+               "$100 minimum for delivery and pickup; service fee $4.95."]},
+ {"key": "aisle9-lkw", "kind": "mcg", "name": "Aisle 9 Lakewood", "short": "Aisle 9", "town": "Lakewood",
+  "addr": "951 Madison Ave, Lakewood", "phone": "732-592-4545", "site": "https://www.aisle9market.com/lakewood",
+  "link": "https://www.aisle9market.com/lakewood/product/{id}", "src": "https://www.aisle9market.com/lakewood/delivery",
+  "delivery": ["Delivery and pickup are offered on its website; it doesn't list fees or cut-off times there."]},
+ {"key": "aisle9-jax", "kind": "mcg", "name": "Aisle 9 Jackson", "short": "Aisle 9 Jackson", "town": "Jackson",
+  "addr": "1135 E Veterans Hwy, Jackson", "phone": "732-592-6544", "site": "https://www.aisle9market.com/jackson",
+  "link": "https://www.aisle9market.com/jackson/product/{id}", "src": "https://www.aisle9market.com/jackson/delivery",
+  "delivery": ["Delivery, pickup and shipping are offered on its website (Florida orders from this location).",
+               "It doesn't list fees or cut-off times there."]},
+ {"key": "superstop", "kind": "mcg", "name": "Super Stop", "short": "Super Stop", "town": "Lakewood",
+  "addr": "1161 River Ave, Lakewood", "phone": "732-901-7867", "site": "https://www.superstopnj.com/",
+  "link": "https://www.superstopnj.com/Lakewood/product/{id}", "src": "https://www.superstopnj.com/Lakewood/delivery",
+  "delivery": ["Same-day delivery to Lakewood, Toms River, Jackson, Howell, Brick: order by 4 PM Sun, 5 PM Mon–Wed, 6 PM Thu, 1 PM Fri.",
+               "Local: $5.95 service fee, delivery free over $100 ($6 under). No minimum for pickup or local delivery.",
+               "Sale prices need $10 of non-sale items (online)."]},
+ {"key": "kosherwest", "kind": "mcg", "name": "Kosher West", "short": "Kosher West", "town": "Lakewood",
+  "addr": "136 Hillside Blvd, Lakewood", "phone": "732-886-9378", "site": "https://www.kosherwest.com/",
+  "link": "https://www.kosherwest.com/Lakewood-NJ/product/{id}", "src": "https://www.kosherwest.com/Lakewood-NJ/delivery",
+  "delivery": ["Same-day delivery to Lakewood, Toms River and Jackson: order by 4 PM Sun–Wed, 12 PM Thu, 9 AM Fri.",
+               "Delivery $7.95; pickup or curbside $4.95; $1 per box. Minimum $100 Lakewood, $150 elsewhere."]},
+ {"key": "kosher-village", "kind": "kv", "name": "Kosher Village", "short": "Kosher Village", "town": "Lakewood",
+  "addr": "911 E County Line Rd #108, Lakewood", "phone": "732-905-1115", "site": "https://www.koshervillage.com/",
+  "link": "https://www.koshervillage.com/products/{id}", "src": "https://www.koshervillage.com/",
+  "delivery": ["Online ordering on its website. Delivery and pickup terms: ask the store (Orders@koshervillage.com)."]},
+]
+SOON = [
+ {"name": "Gourmet Glatt", "town": "Lakewood", "site": "https://gourmetglattl.sites.self-point.com/", "why": "Coming soon"},
+ {"name": "NPGS", "town": "Jackson", "site": "https://www.gonpgs.com/", "why": "Coming soon"},
+ {"name": "Evergreen", "town": "Lakewood", "site": "https://www.shopevergreenkosher.com/", "why": "Coming soon"},
+ {"name": "Foodex", "town": "Lakewood", "site": "https://www.foodexsupermarket.com/", "why": "Coming soon"},
+ {"name": "Bingo Wholesale", "town": "Lakewood", "site": "https://www.instacart.com/store/bingo-wholesale", "why": "Online through Instacart only; no prices here"},
+]
+STORE_KEYS = [s["key"] for s in STORES]
+
+# Stores on the second grocery platform (Cloudflare in front; read by fetch_v2.mjs through a real browser, public JSON only).
+# They join STORES at build time only when raw/<key>.json.gz exists; otherwise they stay in SOON.
+V2_STORES = [
+ {"key": "evergreen", "kind": "v2", "name": "Evergreen Kosher", "short": "Evergreen", "town": "Lakewood",
+  "site": "https://www.shopevergreenkosher.com/", "src": "https://www.shopevergreenkosher.com/",
+  "delivery": ["Online ordering on its website. Delivery and pickup terms, fees and cut-off times: see the store's site."]},
+ {"key": "gourmet-glatt", "kind": "v2", "name": "Gourmet Glatt", "short": "Gourmet Glatt", "town": "Lakewood",
+  "site": "https://gourmetglattl.sites.self-point.com/", "src": "https://gourmetglattl.sites.self-point.com/",   # the Lakewood store's own online shop (1700 Madison Ave); gourmetglattonline.com is Cedarhurst NY
+  "delivery": ["Online ordering on its website. Delivery and pickup terms, fees and cut-off times: see the store's site."]},
+ {"key": "npgs", "kind": "v2", "name": "NPGS", "short": "NPGS", "town": "Jackson",
+  "site": "https://www.gonpgs.com/", "src": "https://www.gonpgs.com/",
+  "delivery": ["Online ordering on its website. Delivery and pickup terms, fees and cut-off times: see the store's site."]},
+ {"key": "foodex", "kind": "v2", "name": "Foodex", "short": "Foodex", "town": "Lakewood",
+  "site": "https://www.foodexsupermarket.com/", "src": "https://www.foodexsupermarket.com/",
+  "delivery": ["Online ordering on its website. Delivery and pickup terms, fees and cut-off times: see the store's site."]},
+]

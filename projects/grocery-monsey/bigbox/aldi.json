@@ -1,0 +1,9 @@
+{
+"chain": "Aldi",
+"store": "aldi.us online price, ALDI Bay Shore NY (the store aldi.us set for this area; a closer store can't be picked without an account)",
+"source": "aldi.us public storefront search, one search per national brand",
+"read_at": "2026-10-18T06:15:47.404Z",
+"status": "ok",
+"note": "Searched on aldi.us (its online shop, run on Instacart's storefront) for the national brands among these items. Aldi sells almost only its own brands, so same-product matches are rare. Online prices may be higher than in store.",
+"items": []
+}

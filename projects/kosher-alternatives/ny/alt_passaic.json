@@ -1,0 +1,2508 @@
+{
+"built": "2026-10-27T08:40:08Z",
+"lakewood_updated": "2026-10-27T08:37:30+0000",
+"rules": {
+"accepted_agencies": {
+"OU": "Orthodox Union",
+"OK": "OK Kosher",
+"Star-K": "Star-K",
+"Kof-K": "Kof-K",
+"cRc": "Chicago Rabbinical Council"
+},
+"dairy_rule": "Only cholov yisroel dairy. Any OU-D / dairy item that is not explicitly cholov yisroel is left out.",
+"exclude_dairy_equipment": true,
+"meat_fish_rule": "Meat, poultry and fish only when the retailer's own product title/description names the hechsher (Paltiel, Oct 18 2026). None shown in this preview.",
+"plain_k_or_unknown_symbol": "excluded",
+"nonfood_no_hechsher_needed": true,
+"note": "Edit accepted_agencies to change which hechsherim count. An agency not listed here is never shown."
+},
+"chains": {
+"aldi": {
+"name": "Aldi",
+"store": "The New Jersey ALDI store aldi.us assigned (mostly Bordentown NJ; each item shows its store). A local store can't be chosen without an account.",
+"source": "aldi.us public product search",
+"status": "ok"
+},
+"lidl": {
+"name": "Lidl",
+"store": "lidl.com online price (default region; the NJ store can't be chosen without the app). Price can vary by region; the range is shown.",
+"source": "lidl.com public search",
+"status": "ok"
+},
+"amazon": {
+"name": "Amazon",
+"store": "amazon.com listing price, sold by Amazon itself (no third-party sellers), as seen from a New Jersey connection. Price varies, may include shipping; the date it was read is on each card.",
+"source": "amazon.com public search and product pages",
+"status": "ok",
+"own_brands": "Amazon Grocery (formerly Happy Belly / Amazon Fresh), Amazon Basics, Solimo, Aplenty"
+},
+"costco": {
+"name": "Costco",
+"store": "costco.com public prices (no login), Kirkland Signature only, bulk sizes. The price shown is the in-warehouse price costco.com displays for the warehouse it assigned from a New Jersey connection (Cherry Hill NJ); the 2-Day Delivery online price, which includes delivery, is noted beside it. Costco membership required; warehouse price may differ by location. Compared per unit.",
+"source": "costco.com public search and product pages",
+"status": "ok",
+"own_brands": "Kirkland Signature"
+},
+"walmart": {
+"name": "Walmart",
+"store": "Howell NJ Supercenter #2195",
+"source": "walmart.com public search",
+"status": "limited",
+"note": "walmart.com shows a robot check after a couple of searches. We don't get past robot checks, so Walmart prices aren't in this preview yet."
+}
+},
+"types": [
+{
+"key": "ketchup",
+"label": "Ketchup",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Heinz Simply Tomato Ketchup, 31 Oz",
+"size": 31.0,
+"price": 8.69,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=100886",
+"unit_price": 0.2803
+},
+{
+"name": "Heinz Tomato Ketchup, 32 Oz",
+"size": 32.0,
+"price": 7.39,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=126523",
+"unit_price": 0.2309
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Burman's Tomato Ketchup 38 oz",
+"brand": "Burman's",
+"size": 38.0,
+"price": 2.15,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/20761645-burman-s-ketchup-38-oz",
+"read": "2026-10-18T05:04:17.498Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.0566,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Burman's \u2014 Tomato Ketchup",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Burman%27s%20Tomato%20Ketchup",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Burman%27s%20Tomato%20Ketchup",
+"read": "2026-10-18",
+"ids": [
+"OUV7-2861096",
+"OUV7-XECGPVP"
+]
+},
+"vs_local_pct": -75
+},
+{
+"chain": "lidl",
+"name": "tomato ketchup 38 oz.",
+"brand": "Lidl",
+"size": 38.0,
+"price": 1.75,
+"was": null,
+"url": "https://www.lidl.com/p/tomato-ketchup/p11675472",
+"read": "2026-10-18T04:14:27Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+1.75,
+1.99
+],
+"store": null,
+"unit_price": 0.0461,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Tomato Ketchup",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Tomato%20Ketchup",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20tomato%20ketchup",
+"read": "2026-10-18",
+"ids": [
+"OUV7-DEE6448",
+"OUV7-V1FUIYJ"
+]
+},
+"vs_local_pct": -80
+},
+{
+"chain": "lidl",
+"name": "tomato ketchup 24 oz.",
+"brand": "Lidl",
+"size": 24.0,
+"price": 1.69,
+"was": null,
+"url": "https://www.lidl.com/p/tomato-ketchup/p11237346",
+"read": "2026-10-18T04:14:27Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+1.69,
+1.89
+],
+"store": null,
+"unit_price": 0.0704,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Tomato Ketchup",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Tomato%20Ketchup",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20tomato%20ketchup",
+"read": "2026-10-18",
+"ids": [
+"OUV7-DEE6448",
+"OUV7-V1FUIYJ"
+]
+},
+"vs_local_pct": -70
+}
+]
+},
+{
+"key": "vegetable_oil",
+"label": "Vegetable oil",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "fl oz",
+"local": [
+{
+"name": "Vegetable oil \u00b7 40 fl oz",
+"size": 40.0,
+"price": 7.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=6301775",
+"unit_price": 0.1872
+},
+{
+"name": "Crisco Pure Vegetable Oil with Zero Trans Fat, 40 fl oz",
+"size": 40.0,
+"price": 7.99,
+"was": null,
+"store": "Glatt Express",
+"town": "Teaneck",
+"link": "https://www.glattexpressonline.com/?catalogProduct=6174759",
+"unit_price": 0.1998
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Carlini Pure Vegetable Oil 48 fl oz",
+"brand": "Carlini",
+"size": 48.0,
+"price": 4.15,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/20027984-carlini-vegetable-oil-48-fl-oz",
+"read": "2026-10-18T05:04:34.556Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.0865,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Carlini \u2014 Carlini Pure Vegetable OIl",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Carlini%20Carlini%20Pure%20Vegetable%20OIl",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Carlini%20Pure%20Vegetable%20Oil%2048%20fl%20oz",
+"read": "2026-10-18",
+"ids": [
+"OUV7-7SSY6QT",
+"OUV7-0C2EE4B",
+"OUV7-8CB366A",
+"OUV7-AA048CB",
+"OUV7-4953F0F",
+"OUV7-9B195D2",
+"OUV7-A2D8E23",
+"OUV7-435B820"
+]
+},
+"vs_local_pct": -54
+},
+{
+"chain": "lidl",
+"name": "vegetable oil 48 fl.oz.",
+"brand": "Lidl",
+"size": 48.0,
+"price": 3.35,
+"was": null,
+"url": "https://www.lidl.com/p/vegetable-oil/p11248495",
+"read": "2026-10-18T04:14:33Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+3.35,
+3.79
+],
+"store": null,
+"unit_price": 0.0698,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Vegetable Oil",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Vegetable%20Oil",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20vegetable%20oil",
+"read": "2026-10-18",
+"ids": [
+"OUV7-2MH544Z",
+"OUV7-GHZK7RI"
+]
+},
+"vs_local_pct": -63
+}
+]
+},
+{
+"key": "sugar",
+"label": "White sugar",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "lb",
+"local": [
+{
+"name": "Domino Premium Pure Cane Granulated Sugar, 3.5 lb",
+"size": 56.0,
+"price": 6.39,
+"was": null,
+"store": "Glatt Express",
+"town": "Teaneck",
+"link": "https://www.glattexpressonline.com/?catalogProduct=5796423",
+"unit_price": 1.8257
+},
+{
+"name": "Domino Pure Cane Granulated Sugar, 4 lb",
+"size": 64.0,
+"price": 4.19,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=95248",
+"unit_price": 1.0475
+},
+{
+"name": "Domino Pure Cane Sugar with Superfine Crystals, 12 Oz",
+"size": 12.0,
+"price": 3.69,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=135791",
+"unit_price": 4.92
+}
+],
+"alts": [
+{
+"chain": "costco",
+"name": "Organic Sugar, 10 lbs",
+"brand": "Kirkland Signature",
+"size": 160.0,
+"price": 11.99,
+"was": null,
+"url": "https://www.costco.com/kirkland-signature-organic-sugar-10-lbs.product.100334874.html",
+"read": "2026-10-18T06:40:10.374Z",
+"pack": null,
+"price_note": "Costco \u00b7 Kirkland Signature \u00b7 bulk size \u00b7 costco.com price, membership required; warehouse price may differ",
+"seller": null,
+"costco": {
+"online": 13.99,
+"warehouse": 11.99,
+"unit_line": "$1.40/per pound",
+"labels": [
+"2-Day Delivery",
+"In Stock",
+"In-Warehouse",
+"Same-Day Delivery Pricing May Vary",
+"prices may vary"
+],
+"wh": "Cherry Hill",
+"item": "901991"
+},
+"bulk": true,
+"nj_price": false,
+"price_range": null,
+"store": "In-warehouse price costco.com shows for the Cherry Hill NJ warehouse",
+"unit_price": 1.199,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Kirkland Signature \u2014 Organic Sugar",
+"company": "Costco Wholesale",
+"condition": "Symbol required. Kosher for Passover without special certification.",
+"passover": true,
+"source": "https://oukosher.org/product-search/#s=Kirkland%20Signature%20Organic%20Sugar",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Kirkland%20Signature%20Organic%20Sugar",
+"read": "2026-10-18T06:26:48Z",
+"ids": [
+"OUW7-4B9B24A"
+]
+},
+"vs_local_pct": 14
+}
+]
+},
+{
+"key": "flour",
+"label": "All purpose flour",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "lb",
+"local": [
+{
+"name": "Glicks Unbleached Enriched Presifted All Purpose Flour, 5 lb",
+"size": 80.0,
+"price": 4.99,
+"was": null,
+"store": "Glatt Express",
+"town": "Teaneck",
+"link": "https://www.glattexpressonline.com/?catalogProduct=185856",
+"unit_price": 0.998
+},
+{
+"name": "Heckers All Purpose Flour, 5 lb",
+"size": 80.0,
+"price": 3.99,
+"was": 4.89,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=137309",
+"unit_price": 0.798
+},
+{
+"name": "King Arthur Flour Unbleached All-Purpose Flour, 5 lb",
+"size": 80.0,
+"price": 7.09,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=125002",
+"unit_price": 1.418
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Baker's Corner All Purpose Flour 5 lb",
+"brand": "Baker's Corner",
+"size": 80.0,
+"price": 2.05,
+"was": 2.15,
+"url": "https://www.aldi.us/store/aldi/products/18648338-baker-s-corner-all-purpose-flour-5-lb",
+"read": "2026-10-18T05:05:03.222Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.41,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Baker's Corner \u2014 All Purpose Flour",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Baker%27s%20Corner%20All%20Purpose%20Flour",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Baker%27s%20Corner%20All%20Purpose%20Flour",
+"read": "2026-10-18",
+"ids": [
+"OUV7-B9554BD"
+]
+},
+"vs_local_pct": -49
+},
+{
+"chain": "costco",
+"name": "Organic Unbleached All Purpose Flour, 10 lbs, 2-count",
+"brand": "Kirkland Signature",
+"size": 320.0,
+"price": 18.79,
+"was": null,
+"url": "https://www.costco.com/kirkland-signature-organic-unbleached-all-purpose-flour-10-lbs-2-count.product.4000063331.html",
+"read": "2026-10-18T06:40:10.374Z",
+"pack": null,
+"price_note": "Costco \u00b7 Kirkland Signature \u00b7 bulk size \u00b7 costco.com price, membership required; warehouse price may differ",
+"seller": null,
+"costco": {
+"online": 19.99,
+"warehouse": 18.79,
+"unit_line": "$1.00/per pound",
+"labels": [
+"2-Day Delivery",
+"In Stock",
+"In-Warehouse",
+"Same-Day Delivery Pricing May Vary",
+"prices may vary"
+],
+"wh": "Cherry Hill",
+"item": "1485523"
+},
+"bulk": true,
+"nj_price": false,
+"price_range": null,
+"store": "In-warehouse price costco.com shows for the Cherry Hill NJ warehouse",
+"unit_price": 0.9395,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Kirkland Signature \u2014 Organic Unbleached All Purpose Flour",
+"company": "Costco Wholesale",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Kirkland%20Signature%20Organic%20Unbleached%20All%20Purpose%20Flour",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Kirkland%20Signature%20Organic%20Unbleached%20All%20Purpose%20Flour",
+"read": "2026-10-18T06:40:57Z",
+"ids": [
+"OUV7-336YGDP"
+]
+},
+"vs_local_pct": 18
+}
+]
+},
+{
+"key": "spaghetti",
+"label": "Spaghetti",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Ronzoni Spaghetti, 1 lb",
+"size": 16.0,
+"price": 1.99,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=118213",
+"unit_price": 0.1244
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Reggano Spaghetti 32 oz",
+"brand": "Reggano",
+"size": 32.0,
+"price": 2.09,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/19507517-reggano-spaghetti-enriched-macaroni-product-pastas-32-oz",
+"read": "2026-10-18T05:13:05.288Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Watchung NJ",
+"unit_price": 0.0653,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Reggano \u2014 Spaghetti Macaroni Product 32 Oz",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Reggano%20Spaghetti%20Macaroni%20Product%2032%20Oz",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Reggano%20Spaghetti",
+"read": "2026-10-18T05:15:59Z",
+"ids": [
+"OUV7-1AC348D",
+"OUV7-3CBE6B2",
+"OUV7-9E863CC",
+"OUV7-EA818F4",
+"OUV7-COIK8I2",
+"OUV7-NKPR5UV",
+"OUV7-32H2CUI"
+]
+},
+"vs_local_pct": -48
+}
+]
+},
+{
+"key": "elbows",
+"label": "Elbow macaroni",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Ronzoni Elbows Pasta, 1 lb",
+"size": 16.0,
+"price": 1.79,
+"was": 1.99,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=121268",
+"unit_price": 0.1119
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Reggano Family Size Elbow Macaroni 32 oz",
+"brand": "Reggano",
+"size": 32.0,
+"price": 2.09,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/19719380-reggano-enriched-macaroni-product-elbow-32-oz",
+"read": "2026-10-18T05:05:52.437Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.0653,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Reggano \u2014 Elbow Macaroni Macaroni Product 32 Oz",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Reggano%20Elbow%20Macaroni%20Macaroni%20Product%2032%20Oz",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Reggano%20Family%20Size%20Elbow%20Macaroni",
+"read": "2026-10-18",
+"ids": [
+"OUV7-QB4S7S3",
+"OUV7-629CB62",
+"OUV7-A19B970",
+"OUV7-EGL2YBO",
+"OUV7-H6EO4I2",
+"OUV7-F734EB2",
+"OUV7-44DC836",
+"OUV7-VJ9OQMP"
+]
+},
+"vs_local_pct": -42
+}
+]
+},
+{
+"key": "rice_jasmine",
+"label": "Jasmine rice",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Pereg Jasmine Rice, 16 Oz",
+"size": 16.0,
+"price": 4.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=2936987",
+"unit_price": 0.2806
+}
+],
+"alts": [
+{
+"chain": "lidl",
+"name": "Lidl Preferred Selection Thai Hom Mali jasmine rice 32 oz.",
+"brand": "Lidl Preferred Selection",
+"size": 32.0,
+"price": 3.55,
+"was": null,
+"url": "https://www.lidl.com/p/lidl-preferred-selection-thai-hom-mali-jasmine-rice/p11245824",
+"read": "2026-10-18T04:14:51Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+3.55,
+3.99
+],
+"store": null,
+"unit_price": 0.1109,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl Preferred Selection \u2014 Thai Hom Mali Jasmine Rice",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Preferred%20Selection%20Thai%20Hom%20Mali%20Jasmine%20Rice",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20Thai%20Hom%20Mali%20jasmine%20rice",
+"read": "2026-10-18",
+"ids": [
+"OUV7-701HIY0"
+]
+},
+"vs_local_pct": -60
+}
+]
+},
+{
+"key": "rice_basmati",
+"label": "Basmati rice",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "lb",
+"local": [
+{
+"name": "Carolina Basmati Rice, 32 Oz",
+"size": 32.0,
+"price": 5.99,
+"was": null,
+"store": "Glatt Express",
+"town": "Teaneck",
+"link": "https://www.glattexpressonline.com/?catalogProduct=881350",
+"unit_price": 2.995
+},
+{
+"name": "Carolina Basmati Rice, 5 lb",
+"size": 80.0,
+"price": 13.79,
+"was": null,
+"store": "Glatt Express",
+"town": "Teaneck",
+"link": "https://www.glattexpressonline.com/?catalogProduct=941276",
+"unit_price": 2.758
+},
+{
+"name": "Pereg Basmati Rice, 16 Oz",
+"size": 16.0,
+"price": 4.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=225858",
+"unit_price": 4.49
+}
+],
+"alts": [
+{
+"chain": "lidl",
+"name": "Lidl Preferred Selection white basmati rice 32 oz.",
+"brand": "Lidl Preferred Selection",
+"size": 32.0,
+"price": 3.59,
+"was": null,
+"url": "https://www.lidl.com/p/lidl-preferred-selection-white-basmati-rice/p11243245",
+"read": "2026-10-18T04:14:53Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+3.55,
+4.09
+],
+"store": null,
+"unit_price": 1.795,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl Preferred Selection \u2014 White Basmati Rice",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Preferred%20Selection%20White%20Basmati%20Rice",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20white%20basmati%20rice",
+"read": "2026-10-18",
+"ids": [
+"OUV7-FSWYAKH"
+]
+},
+"vs_local_pct": -35
+}
+]
+},
+{
+"key": "corn_flakes",
+"label": "Corn flakes",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Kellogg's Original Corn Flakes, 12 Oz",
+"size": 12.0,
+"price": 7.69,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=1519176",
+"unit_price": 0.6408
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Millville Corn Flakes 18 oz",
+"brand": "Millville",
+"size": 18.0,
+"price": 2.15,
+"was": 2.49,
+"url": "https://www.aldi.us/store/aldi/products/19867765-millville-corn-flakes-18-oz",
+"read": "2026-10-18T05:06:26.887Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.1194,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Millville \u2014 Corn Flakes",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover. Yoshon with Best Before date (or earlier) of 9/15/2026 (when Containing Oats). If Product Contains Wheat, It Is Winter Wheat. (Malt TBD)",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Millville%20Corn%20Flakes",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Millville%20Corn%20Flakes",
+"read": "2026-10-18",
+"ids": [
+"OUV7-DFB6E19"
+]
+},
+"vs_local_pct": -81
+},
+{
+"chain": "lidl",
+"name": "corn flakes cereal 17.6 oz.",
+"brand": "Lidl",
+"size": 17.6,
+"price": 2.19,
+"was": null,
+"url": "https://www.lidl.com/p/corn-flakes-cereal/p11238218",
+"read": "2026-10-18T04:14:58Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+2.15,
+2.39
+],
+"store": null,
+"unit_price": 0.1244,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Corn Flakes Cereal",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover. Yoshon with Best Before date (or earlier) of 9/15/2026 (when Containing Oats). If Product Contains Wheat, It Is Winter Wheat. (Malt TBD)",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Corn%20Flakes%20Cereal",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20corn%20flakes%20cereal",
+"read": "2026-10-18",
+"ids": [
+"OUV7-IOMBVJ2"
+]
+},
+"vs_local_pct": -81
+}
+]
+},
+{
+"key": "crisp_rice",
+"label": "Crispy rice cereal",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Kellogg's Rice Krispies Cereal, 12 Oz",
+"size": 12.0,
+"price": 7.29,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=2438461",
+"unit_price": 0.6075
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Millville Crispy Rice Cereal 12 oz",
+"brand": "Millville",
+"size": 12.0,
+"price": 2.15,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/19607732-millville-toasted-crispy-rice-cereal-12-oz",
+"read": "2026-10-18T05:06:39.405Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.1792,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Millville \u2014 Crispy Rice",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover. Yoshon with Best Before date (or earlier) of 9/15/2026 (when Containing Oats). If Product Contains Wheat, It Is Winter Wheat. (Malt TBD)",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Millville%20Crispy%20Rice",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Millville%20Crispy%20Rice%20Cereal",
+"read": "2026-10-18",
+"ids": [
+"OUV7-12523D0"
+]
+},
+"vs_local_pct": -71
+}
+]
+},
+{
+"key": "peanut_butter",
+"label": "Peanut butter (creamy)",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Skippy Super Chunk Peanut Butter, 16 Oz",
+"size": 16.0,
+"price": 3.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=231518",
+"unit_price": 0.2181
+}
+],
+"alts": [
+{
+"chain": "lidl",
+"name": "creamy peanut butter 18 oz.",
+"brand": "Lidl",
+"size": 18.0,
+"price": 1.59,
+"was": null,
+"url": "https://www.lidl.com/p/creamy-peanut-butter/p11240307",
+"read": "2026-10-18T04:15:02Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+1.59,
+1.79
+],
+"store": null,
+"unit_price": 0.0883,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Creamy Peanut Butter",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Creamy%20Peanut%20Butter",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20creamy%20peanut%20butter",
+"read": "2026-10-18T05:41:14Z",
+"ids": [
+"OUV7-D9E608F"
+]
+},
+"vs_local_pct": -60
+},
+{
+"chain": "lidl",
+"name": "creamy peanut butter 40 oz.",
+"brand": "Lidl",
+"size": 40.0,
+"price": 3.45,
+"was": null,
+"url": "https://www.lidl.com/p/creamy-peanut-butter/p11239190",
+"read": "2026-10-18T04:15:02Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+3.45,
+3.89
+],
+"store": null,
+"unit_price": 0.0863,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Creamy Peanut Butter",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Creamy%20Peanut%20Butter",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20creamy%20peanut%20butter",
+"read": "2026-10-18T05:41:14Z",
+"ids": [
+"OUV7-D9E608F"
+]
+},
+"vs_local_pct": -60
+},
+{
+"chain": "amazon",
+"name": "Happy Belly Creamy Peanut Butter, 2.5 Lb",
+"brand": "Happy Belly",
+"size": 40.0,
+"price": 3.79,
+"was": null,
+"url": "https://www.amazon.com/dp/B07KWGSCW2",
+"read": "2026-10-18T05:36:53.974Z",
+"pack": null,
+"price_note": "price varies, may include shipping",
+"seller": "Amazon.com",
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": null,
+"unit_price": 0.0948,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Happy Belly \u2014 Creamy Peanut Butter",
+"company": "Amazon.com Services LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Happy%20Belly%20Creamy%20Peanut%20Butter",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Happy%20Belly%20Creamy%20Peanut%20Butter",
+"read": "2026-10-18T05:42:27Z",
+"ids": [
+"OUV7-ETEQJU0"
+]
+},
+"vs_local_pct": -57
+}
+]
+},
+{
+"key": "tomato_sauce",
+"label": "Tomato sauce (canned)",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Gefen Smooth & Rich ! Premium Tomato Sauce, 15 Oz",
+"size": 15.0,
+"price": 2.19,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=6342174",
+"unit_price": 0.146
+},
+{
+"name": "Hunts Natural Tomato Sauce, 15 Oz",
+"size": 15.0,
+"price": 2.19,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=125461",
+"unit_price": 0.146
+},
+{
+"name": "Hunts Natural Tomato Sauce, 29 Oz",
+"size": 29.0,
+"price": 2.89,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=110090",
+"unit_price": 0.0997
+},
+{
+"name": "Hunts Natural Tomato Sauce, 8 Oz",
+"size": 8.0,
+"price": 1.29,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=147972",
+"unit_price": 0.1613
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Happy Harvest Tomato Sauce 8 oz",
+"brand": "Happy Harvest",
+"size": 8.0,
+"price": 0.55,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/20739259-happy-harvest-tomato-sauce-8-oz",
+"read": "2026-10-18T05:07:10.055Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.0688,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Happy Harvest \u2014 Tomato Sauce",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Happy%20Harvest%20Tomato%20Sauce",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Happy%20Harvest%20Tomato%20Sauce",
+"read": "2026-10-18",
+"ids": [
+"OUV7-DCF8BD5"
+]
+},
+"vs_local_pct": -31
+},
+{
+"chain": "lidl",
+"name": "classic tomato sauce 15 oz.",
+"brand": "Lidl",
+"size": 15.0,
+"price": 0.96,
+"was": null,
+"url": "https://www.lidl.com/p/classic-tomato-sauce/p11238750",
+"read": "2026-10-18T04:15:11Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+0.96,
+1.09
+],
+"store": null,
+"unit_price": 0.064,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Tomato Sauce",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Tomato%20Sauce",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20classic%20tomato%20sauce",
+"read": "2026-10-18",
+"ids": [
+"OUV7-8667BF9"
+]
+},
+"vs_local_pct": -36
+},
+{
+"chain": "lidl",
+"name": "tomato sauce 8 oz.",
+"brand": "Lidl",
+"size": 8.0,
+"price": 0.52,
+"was": null,
+"url": "https://www.lidl.com/p/tomato-sauce/p11238062",
+"read": "2026-10-18T04:15:11Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+0.47,
+0.59
+],
+"store": null,
+"unit_price": 0.065,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Tomato Sauce",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Tomato%20Sauce",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20tomato%20sauce",
+"read": "2026-10-18",
+"ids": [
+"OUV7-8667BF9"
+]
+},
+"vs_local_pct": -35
+},
+{
+"chain": "costco",
+"name": "Organic Tomato Sauce, 15 oz, 12-Count",
+"brand": "Kirkland Signature",
+"size": 180.0,
+"price": 13.99,
+"was": null,
+"url": "https://www.costco.com/kirkland-signature-organic-tomato-sauce-15-oz-12-count.product.100334877.html",
+"read": "2026-10-18T06:40:10.374Z",
+"pack": null,
+"price_note": "Costco \u00b7 Kirkland Signature \u00b7 bulk size \u00b7 costco.com price, membership required; warehouse price may differ",
+"seller": null,
+"costco": {
+"online": 13.49,
+"warehouse": 13.99,
+"unit_line": "$1.12/per can",
+"labels": [
+"2-Day Delivery",
+"In Stock",
+"In-Warehouse",
+"Same-Day Delivery Pricing May Vary",
+"prices may vary"
+],
+"wh": "Cherry Hill",
+"item": "633563"
+},
+"bulk": true,
+"nj_price": false,
+"price_range": null,
+"store": "In-warehouse price costco.com shows for the Cherry Hill NJ warehouse",
+"unit_price": 0.0777,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Kirkland Signature \u2014 Organic Tomato Sauce",
+"company": "Costco Wholesale",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Kirkland%20Signature%20Organic%20Tomato%20Sauce",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Kirkland%20Signature%20Organic%20Tomato%20Sauce",
+"read": "2026-10-18T06:41:25Z",
+"ids": [
+"OUV7-VR47HSQ"
+]
+},
+"vs_local_pct": -22
+}
+]
+},
+{
+"key": "tomato_paste",
+"label": "Tomato paste",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Hunt's 100% Natural Tomato Paste, 12 Oz",
+"size": 12.0,
+"price": 3.29,
+"was": null,
+"store": "Glatt Express",
+"town": "Teaneck",
+"link": "https://www.glattexpressonline.com/?catalogProduct=131988",
+"unit_price": 0.2742
+},
+{
+"name": "Hunts 100% Natural Tomato Paste, 6 Oz",
+"size": 6.0,
+"price": 1.39,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=131343",
+"unit_price": 0.2317
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Happy Harvest Tomato Paste 6 oz",
+"brand": "Happy Harvest",
+"size": 6.0,
+"price": 0.95,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/18648118-happy-harvest-tomato-paste-6-oz",
+"read": "2026-10-18T05:07:16.430Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.1583,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Happy Harvest \u2014 Tomato Paste",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Happy%20Harvest%20Tomato%20Paste",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Happy%20Harvest%20Tomato%20Paste",
+"read": "2026-10-18",
+"ids": [
+"OUV7-EA49B4F"
+]
+},
+"vs_local_pct": -32
+},
+{
+"chain": "lidl",
+"name": "tomato paste 6 oz.",
+"brand": "Lidl",
+"size": 6.0,
+"price": 0.86,
+"was": null,
+"url": "https://www.lidl.com/p/tomato-paste/p11240616",
+"read": "2026-10-18T04:15:12Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+0.86,
+0.97
+],
+"store": null,
+"unit_price": 0.1433,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Tomato Paste",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Tomato%20Paste",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20tomato%20paste",
+"read": "2026-10-18",
+"ids": [
+"OUV7-7D1CC35"
+]
+},
+"vs_local_pct": -38
+},
+{
+"chain": "costco",
+"name": "Organic Tomato Paste, 6 oz, 12-Count",
+"brand": "Kirkland Signature",
+"size": 72.0,
+"price": 10.49,
+"was": null,
+"url": "https://www.costco.com/kirkland-signature-organic-tomato-paste-6-oz-12-count.product.100334932.html",
+"read": "2026-10-18T06:40:10.374Z",
+"pack": null,
+"price_note": "Costco \u00b7 Kirkland Signature \u00b7 bulk size \u00b7 costco.com price, membership required; warehouse price may differ",
+"seller": null,
+"costco": {
+"online": 11.49,
+"warehouse": 10.49,
+"unit_line": "$0.96/per can",
+"labels": [
+"2-Day Delivery",
+"In Stock",
+"In-Warehouse",
+"Same-Day Delivery Pricing May Vary",
+"prices may vary"
+],
+"wh": "Cherry Hill",
+"item": "633564"
+},
+"bulk": true,
+"nj_price": false,
+"price_range": null,
+"store": "In-warehouse price costco.com shows for the Cherry Hill NJ warehouse",
+"unit_price": 0.1457,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Kirkland Signature \u2014 Organic Tomato Paste",
+"company": "Costco Wholesale",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Kirkland%20Signature%20Organic%20Tomato%20Paste",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Kirkland%20Signature%20Organic%20Tomato%20Paste",
+"read": "2026-10-18T06:41:32Z",
+"ids": [
+"OUV7-8MKFGYM"
+]
+},
+"vs_local_pct": -37
+}
+]
+},
+{
+"key": "crushed_tom",
+"label": "Crushed tomatoes",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Hunt's Crushed Tomatoes, 28 Oz",
+"size": 28.0,
+"price": 3.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=94814",
+"unit_price": 0.1246
+},
+{
+"name": "Tuscanini Passata Rustica Crushed Tomatoes, 24.7 Oz",
+"size": 24.7,
+"price": 3.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=2983529",
+"unit_price": 0.1413
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Happy Harvest Crushed Tomatoes 28 oz",
+"brand": "Happy Harvest",
+"size": 28.0,
+"price": 1.75,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/18648732-happy-harvest-crushed-tomatoes-28-oz",
+"read": "2026-10-18T05:07:22.432Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.0625,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Happy Harvest \u2014 Crushed Tomatoes",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Happy%20Harvest%20Crushed%20Tomatoes",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Happy%20Harvest%20Crushed%20Tomatoes",
+"read": "2026-10-18",
+"ids": [
+"OUV7-6A3D702"
+]
+},
+"vs_local_pct": -50
+},
+{
+"chain": "lidl",
+"name": "crushed tomatoes 28 oz.",
+"brand": "Lidl",
+"size": 28.0,
+"price": 1.55,
+"was": null,
+"url": "https://www.lidl.com/p/crushed-tomatoes/p11237331",
+"read": "2026-10-18T04:15:14Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+1.49,
+1.75
+],
+"store": null,
+"unit_price": 0.0554,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Crushed Tomatoes",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Crushed%20Tomatoes",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20crushed%20tomatoes",
+"read": "2026-10-18",
+"ids": [
+"OUV7-B660507"
+]
+},
+"vs_local_pct": -56
+}
+]
+},
+{
+"key": "diced_tom",
+"label": "Diced tomatoes",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Hunt's Naturally Steam Peeled Diced Tomatoes, 28 Oz",
+"size": 28.0,
+"price": 3.79,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=97035",
+"unit_price": 0.1354
+},
+{
+"name": "Tuscanini Diced Tomatoes 14.1 oz",
+"size": 14.1,
+"price": 2.59,
+"was": null,
+"store": "Glatt Express",
+"town": "Teaneck",
+"link": "https://www.glattexpressonline.com/?catalogProduct=2656239",
+"unit_price": 0.1837
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Happy Harvest Diced Tomatoes 14.5 oz",
+"brand": "Happy Harvest",
+"size": 14.5,
+"price": 1.09,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/20752467-happy-harvest-diced-tomatoes-14-5-oz",
+"read": "2026-10-18T05:07:28.358Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.0752,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Happy Harvest \u2014 Diced Tomatoes",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Happy%20Harvest%20Diced%20Tomatoes",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Happy%20Harvest%20Diced%20Tomatoes",
+"read": "2026-10-18",
+"ids": [
+"OUV7-5CDFC9D",
+"OUV7-BB70529"
+]
+},
+"vs_local_pct": -44
+},
+{
+"chain": "lidl",
+"name": "diced tomatoes 28 oz.",
+"brand": "Lidl",
+"size": 28.0,
+"price": 1.65,
+"was": null,
+"url": "https://www.lidl.com/p/diced-tomatoes/p11240557",
+"read": "2026-10-18T04:15:16Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+1.65,
+1.89
+],
+"store": null,
+"unit_price": 0.0589,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Diced Tomatoes",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Diced%20Tomatoes",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20diced%20tomatoes",
+"read": "2026-10-18",
+"ids": [
+"OUV7-BAF417D"
+]
+},
+"vs_local_pct": -56
+},
+{
+"chain": "lidl",
+"name": "diced tomatoes 14.5 oz.",
+"brand": "Lidl",
+"size": 14.5,
+"price": 0.9,
+"was": null,
+"url": "https://www.lidl.com/p/diced-tomatoes/p11245804",
+"read": "2026-10-18T04:15:16Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+0.82,
+1.05
+],
+"store": null,
+"unit_price": 0.0621,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Diced Tomatoes",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Diced%20Tomatoes",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20diced%20tomatoes",
+"read": "2026-10-18",
+"ids": [
+"OUV7-BAF417D"
+]
+},
+"vs_local_pct": -54
+},
+{
+"chain": "costco",
+"name": "Organic Diced Tomatoes, 14.5 oz, 8-Count",
+"brand": "Kirkland Signature",
+"size": 116.0,
+"price": 9.89,
+"was": null,
+"url": "https://www.costco.com/kirkland-signature-organic-diced-tomatoes-145-oz-8-count.product.100334857.html",
+"read": "2026-10-18T06:40:10.374Z",
+"pack": null,
+"price_note": "Costco \u00b7 Kirkland Signature \u00b7 bulk size \u00b7 costco.com price, membership required; warehouse price may differ",
+"seller": null,
+"costco": {
+"online": 9.99,
+"warehouse": 9.89,
+"unit_line": "$1.25/per can",
+"labels": [
+"2-Day Delivery",
+"In Stock",
+"In-Warehouse",
+"Same-Day Delivery Pricing May Vary",
+"prices may vary"
+],
+"wh": "Cherry Hill",
+"item": "633561"
+},
+"bulk": true,
+"nj_price": false,
+"price_range": null,
+"store": "In-warehouse price costco.com shows for the Cherry Hill NJ warehouse",
+"unit_price": 0.0853,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Kirkland Signature \u2014 Organic Diced Tomatoes",
+"company": "Costco Wholesale",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Kirkland%20Signature%20Organic%20Diced%20Tomatoes",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Kirkland%20Signature%20Organic%20Diced%20Tomatoes",
+"read": "2026-10-18T06:41:39Z",
+"ids": [
+"OUV7-DYHSFPW"
+]
+},
+"vs_local_pct": -37
+}
+]
+},
+{
+"key": "apple_juice",
+"label": "Apple juice",
+"dept": "Beverages",
+"nonfood": false,
+"unit": "fl oz",
+"local": [
+{
+"name": "Apple & Eve 100% Apple Juice with No Sugar Added, 64 fl oz",
+"size": 64.0,
+"price": 3.99,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=146362",
+"unit_price": 0.0623
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Nature's Nectar 100% Apple Juice 64 fl oz",
+"brand": "Nature's Nectar",
+"size": 64.0,
+"price": 2.45,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/20324471-nature-s-nectar-100-apple-juice-64-fl-oz",
+"read": "2026-10-18T05:08:36.149Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.0383,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Nature's Nectar \u2014 100% Apple Juice",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Nature%27s%20Nectar%20100%25%20Apple%20Juice",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Nature%27s%20Nectar%20100%25%20Apple%20Juice%2064%20fl%20oz",
+"read": "2026-10-18",
+"ids": [
+"OUV7-4813267",
+"OUV7-AKUMHW2",
+"OUV7-FCZT8XT",
+"OUV7-9269E87",
+"OUV7-054D3D2"
+]
+},
+"vs_local_pct": -39
+}
+]
+},
+{
+"key": "baking_soda",
+"label": "Baking soda",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Arm & Hammer Pure Baking Soda, 1 lb",
+"size": 16.0,
+"price": 1.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=99867",
+"unit_price": 0.0931
+}
+],
+"alts": [
+{
+"chain": "lidl",
+"name": "pure baking soda 16 oz.",
+"brand": "Lidl",
+"size": 16.0,
+"price": 0.98,
+"was": null,
+"url": "https://www.lidl.com/p/pure-baking-soda/p11240272",
+"read": "2026-10-18T04:15:35Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+0.89,
+1.09
+],
+"store": null,
+"unit_price": 0.0612,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Baking Soda",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Kosher for Passover without special certification.",
+"passover": true,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Baking%20Soda",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20pure%20baking%20soda",
+"read": "2026-10-18",
+"ids": [
+"OUW7-630A6F1"
+]
+},
+"vs_local_pct": -34
+}
+]
+},
+{
+"key": "cinnamon",
+"label": "Ground cinnamon",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Pereg Ground Cinnamon, 3 Oz",
+"size": 3.0,
+"price": 5.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=179222",
+"unit_price": 1.83
+}
+],
+"alts": [
+{
+"chain": "aldi",
+"name": "Stonemill Ground Cinnamon 2.4 oz",
+"brand": "Stonemill",
+"size": 2.4,
+"price": 1.09,
+"was": null,
+"url": "https://www.aldi.us/store/aldi/products/129291410-stonemill-cinnamon-1-each",
+"read": "2026-10-18T05:09:59.546Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": null,
+"store": "ALDI Bordentown NJ",
+"unit_price": 0.4542,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Stonemill Essentials \u2014 Cinnamon Ground",
+"company": "Aldi Inc.",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Stonemill%20Essentials%20Cinnamon%20Ground",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Stonemill%20Ground%20Cinnamon",
+"read": "2026-10-18",
+"ids": [
+"OUV7-7477985",
+"OUV7-WABRCW9",
+"OUV7-1C02CB7",
+"OUV7-4AR2T4D",
+"OUV7-KM3JSIQ"
+]
+},
+"vs_local_pct": -75
+},
+{
+"chain": "lidl",
+"name": "LIDL ground cinnamon 1.52 oz.",
+"brand": "Lidl",
+"size": 1.52,
+"price": 0.99,
+"was": null,
+"url": "https://www.lidl.com/p/lidl-ground-cinnamon/p11237215",
+"read": "2026-10-18T04:15:43Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+0.99,
+1.09
+],
+"store": null,
+"unit_price": 0.6513,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Cinnamon Ground",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Cinnamon%20Ground",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20ground%20cinnamon",
+"read": "2026-10-18",
+"ids": [
+"OUV7-7AF7F7E"
+]
+},
+"vs_local_pct": -64
+},
+{
+"chain": "lidl",
+"name": "ground cinnamon 1.41 oz.",
+"brand": "Lidl",
+"size": 1.41,
+"price": 0.99,
+"was": null,
+"url": "https://www.lidl.com/p/ground-cinnamon/p11242845",
+"read": "2026-10-18T04:15:43Z",
+"pack": null,
+"price_note": null,
+"seller": null,
+"costco": null,
+"bulk": false,
+"nj_price": false,
+"price_range": [
+0.99,
+1.15
+],
+"store": null,
+"unit_price": 0.7021,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Lidl \u2014 Cinnamon Ground",
+"company": "Lidl US, LLC",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Lidl%20Cinnamon%20Ground",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Lidl%20ground%20cinnamon",
+"read": "2026-10-18",
+"ids": [
+"OUV7-7AF7F7E"
+]
+},
+"vs_local_pct": -62
+}
+]
+},
+{
+"key": "black_pepper",
+"label": "Ground black pepper",
+"dept": "Spices",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Pereg Black Pepper Powder, 4.2 Oz",
+"size": 4.2,
+"price": 5.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=177655",
+"unit_price": 1.3071
+},
+{
+"name": "Pereg Classic Flavor Ground Black Pepper, 4.2 Oz",
+"size": 4.2,
+"price": 5.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=225417",
+"unit_price": 1.3071
+}
+],
+"alts": [
+{
+"chain": "costco",
+"name": "Fine Ground Black Pepper, 12.3 oz",
+"brand": "Kirkland Signature",
+"size": 12.3,
+"price": 5.79,
+"was": null,
+"url": "https://www.costco.com/kirkland-signature-fine-ground-black-pepper-123-oz.product.100334958.html",
+"read": "2026-10-18T06:40:10.374Z",
+"pack": null,
+"price_note": "Costco \u00b7 Kirkland Signature \u00b7 bulk size \u00b7 costco.com price, membership required; warehouse price may differ",
+"seller": null,
+"costco": {
+"online": 7.89,
+"warehouse": 5.79,
+"unit_line": "$10.25/per pound",
+"labels": [
+"2-Day Delivery",
+"In Stock",
+"In-Warehouse",
+"Same-Day Delivery Pricing May Vary",
+"prices may vary"
+],
+"wh": "Cherry Hill",
+"item": "164981"
+},
+"bulk": true,
+"nj_price": false,
+"price_range": null,
+"store": "In-warehouse price costco.com shows for the Cherry Hill NJ warehouse",
+"unit_price": 0.4707,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Kirkland Signature \u2014 Fine Ground Black Pepper",
+"company": "Costco Wholesale",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Kirkland%20Signature%20Fine%20Ground%20Black%20Pepper",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Kirkland%20Signature%20Fine%20Ground%20Black%20Pepper",
+"read": "2026-10-18T06:42:44Z",
+"ids": [
+"OUV7-AJYSHDB",
+"OUV7-FCBEOIL",
+"OUV7-MA8U1WC",
+"OUV7-45K4P4M"
+]
+},
+"vs_local_pct": -64
+}
+]
+},
+{
+"key": "garlic_powder",
+"label": "Garlic powder / granulated garlic",
+"dept": "Spices",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Pereg Garlic Powder, 4.2 Oz",
+"size": 4.2,
+"price": 5.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=182454",
+"unit_price": 1.3071
+},
+{
+"name": "Pereg Granulated Garlic, 5.3 Oz",
+"size": 5.3,
+"price": 5.49,
+"was": null,
+"store": "Aisle One",
+"town": "Passaic",
+"link": "https://shop.aisleonekosher.com/?catalogProduct=299253",
+"unit_price": 1.0358
+}
+],
+"alts": [
+{
+"chain": "costco",
+"name": "Granulated Garlic, 15.5 oz",
+"brand": "Kirkland Signature",
+"size": 15.5,
+"price": 7.69,
+"was": null,
+"url": "https://www.costco.com/kirkland-signature-granulated-garlic-155-oz.product.4201004798.html",
+"read": "2026-10-18T06:40:10.374Z",
+"pack": null,
+"price_note": "Costco \u00b7 Kirkland Signature \u00b7 bulk size \u00b7 costco.com price, membership required; warehouse price may differ",
+"seller": null,
+"costco": {
+"online": 8.99,
+"warehouse": 7.69,
+"unit_line": "$0.58/per ounce",
+"labels": [
+"2-Day Delivery",
+"In Stock",
+"In-Warehouse",
+"Same-Day Delivery Pricing May Vary",
+"prices may vary"
+],
+"wh": "Cherry Hill",
+"item": "2047526"
+},
+"bulk": true,
+"nj_price": false,
+"price_range": null,
+"store": "In-warehouse price costco.com shows for the Cherry Hill NJ warehouse",
+"unit_price": 0.4961,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Kirkland Signature \u2014 Granulated Garlic",
+"company": "Costco Wholesale",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Kirkland%20Signature%20Granulated%20Garlic",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Kirkland%20Signature%20Granulated%20Garlic",
+"read": "2026-10-18T06:13:05Z",
+"ids": [
+"OUV7-N18XQKW",
+"OUV7-W9IR9PQ",
+"OUV7-F08A607"
+]
+},
+"vs_local_pct": -52
+}
+]
+},
+{
+"key": "quinoa",
+"label": "Quinoa",
+"dept": "Pantry",
+"nonfood": false,
+"unit": "oz",
+"local": [
+{
+"name": "Pereg White Quinoa, 16 Oz",
+"size": 16.0,
+"price": 6.59,
+"was": null,
+"store": "Glatt Express",
+"town": "Teaneck",
+"link": "https://www.glattexpressonline.com/?catalogProduct=308749",
+"unit_price": 0.4119
+}
+],
+"alts": [
+{
+"chain": "costco",
+"name": "Organic Quinoa, 4.5 lbs",
+"brand": "Kirkland Signature",
+"size": 72.0,
+"price": 11.69,
+"was": null,
+"url": "https://www.costco.com/kirkland-signature-organic-quinoa-45-lbs.product.100336580.html",
+"read": "2026-10-18T06:40:10.374Z",
+"pack": null,
+"price_note": "Costco \u00b7 Kirkland Signature \u00b7 bulk size \u00b7 costco.com price, membership required; warehouse price may differ",
+"seller": null,
+"costco": {
+"online": 12.99,
+"warehouse": 11.69,
+"unit_line": "$0.18/per ounce",
+"labels": [
+"2-Day Delivery",
+"In Stock",
+"In-Warehouse",
+"Same-Day Delivery Pricing May Vary",
+"prices may vary"
+],
+"wh": "Cherry Hill",
+"item": "1001368"
+},
+"bulk": true,
+"nj_price": false,
+"price_range": null,
+"store": "In-warehouse price costco.com shows for the Cherry Hill NJ warehouse",
+"unit_price": 0.1624,
+"kosher": {
+"hechsher": "OU",
+"dpm": "Pareve",
+"listing": "Kirkland Signature \u2014 Organic QUINOA",
+"company": "Costco Wholesale Corporation",
+"condition": "Symbol required. Not Kosher for Passover.",
+"passover": false,
+"source": "https://oukosher.org/product-search/#s=Kirkland%20Signature%20Organic%20QUINOA",
+"api": "https://productsearch-v2.oukosher.org/api/v1/product?page=1&limit=60&query=Kirkland%20Signature%20Organic%20Quinoa",
+"read": "2026-10-18T06:42:50Z",
+"ids": [
+"OUV3-VTMHRHD"
+]
+},
+"vs_local_pct": -61
+}
+]
+}
+],
+"excluded": [
+{
+"chain": "aldi",
+"type": "olive_oil",
+"name": "Priano Extra Virgin Olive Oil 33.8 fl oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "brown_sugar",
+"name": "Baker's Corner Light Brown Sugar 32 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "brown_sugar",
+"name": "Dakota's Pride Brown Sugar & Hickory Baked Beans 28 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "powdered_sugar",
+"name": "Baker's Corner Powdered Sugar 2 lb",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "rice_long",
+"name": "Earthly Grains Gluten Free Enriched Long Grain White Rice 48 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "rice_jasmine",
+"name": "Earthly Grains Thai Fragrant Long Grain Jasmine Rice 80 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "rice_basmati",
+"name": "Earthly Grains Gluten Free Basmati Rice 32 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "oats",
+"name": "Millville Old Fashioned Rolled Oats 42 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "quick_oats",
+"name": "Millville Quick Oats 42 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "peanut_butter",
+"name": "Simply Nature Gluten Free Creamy Peanut Butter 16 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "pancake_syrup",
+"name": "Millville Original Pancake Syrup 24 fl oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "pretzels_twists",
+"name": "Clancy's Pretzel Mini Twists 16 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "pretzels_twists",
+"name": "Clancy's Original Homestyle Seasoned Pretzel Twists 16 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "tortilla_chips",
+"name": "Clancy's Restaurant Style Tortilla Chips 13 oz",
+"why": "dairy equipment (OU-DE)"
+},
+{
+"chain": "aldi",
+"type": "tortilla_chips",
+"name": "Clancy's Bite Size Round Tortilla Chips 13 oz",
+"why": "dairy equipment (OU-DE)"
+},
+{
+"chain": "aldi",
+"type": "tortilla_chips",
+"name": "Clancy's Protein Tortilla Chips, Southwest Queso 5 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "salt",
+"name": "Stonemill Iodized Salt 26 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "baking_soda",
+"name": "Baker's Corner Baking Soda 16 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "baking_powder",
+"name": "Baker's Corner Baking Powder 8.1 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "vanilla",
+"name": "Stonemill Gluten Free Pure Vanilla Extract 2 fl oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "penne",
+"name": "Reggano Penne Rigate Pasta 16 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "pineapple",
+"name": "Sweet Harvest Pineapple Chunks in Pineapple Juice 20 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "aldi",
+"type": "bread_crumbs",
+"name": "Chefs' Cupboard Plain Bread Crumbs 15 oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "mayo",
+"name": "real mayonnaise 30 fl.oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "olive_oil",
+"name": "extra virgin olive oil 25.3 fl.oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "sugar",
+"name": "granulated sugar 64 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "brown_sugar",
+"name": "dark brown sugar 32 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "brown_sugar",
+"name": "light brown sugar 32 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "powdered_sugar",
+"name": "confectioners sugar 32 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "flour",
+"name": "all purpose flour 80 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "flour",
+"name": "all purpose flour 32 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "rice_long",
+"name": "enriched long grain rice 48 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "rice_jasmine",
+"name": "Lidl Preferred Selection Thai horn mali Jasmine rice 80 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "quick_oats",
+"name": "quick-1-minute oats 42 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "honey",
+"name": "honey, family size 40 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "honey",
+"name": "Lidl Preferred Selection aromatic forest honey 17.6 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "chickpeas",
+"name": "garbanzo beans chick peas 15.5 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "pineapple",
+"name": "pineapple chunks in juice 20 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "salt",
+"name": "iodized salt 26 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "baking_powder",
+"name": "baking powder 5.3 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "bread_crumbs",
+"name": "bread crumbs, plain 15 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "panko",
+"name": "plain panko bread crumbs, Japanese style 8 oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "lidl",
+"type": "vanilla",
+"name": "pure vanilla extract 2 fl.oz.",
+"why": "not found on OU's product search"
+},
+{
+"chain": "amazon",
+"type": "olive_oil",
+"name": "Amazon Fresh, Extra Virgin Olive Oil, First Cold Extracted, 51 Oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "vegetable_oil",
+"name": "Vegetable Oil, 3 qt, 2-Count",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "olive_oil",
+"name": "Organic Extra Virgin Olive Oil, 2 L",
+"why": "symbol/status not plain OU pareve"
+},
+{
+"chain": "costco",
+"type": "rice_jasmine",
+"name": "Thai Hom Mali Jasmine Rice, 25 lbs",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "peanut_butter",
+"name": "Organic Peanut Butter, 28 oz, 2-count",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "honey",
+"name": "Wildflower Honey, 5 lbs",
+"why": "symbol/status not plain OU pareve"
+},
+{
+"chain": "costco",
+"type": "honey",
+"name": "Organic Raw Honey, 24 oz, 3-count",
+"why": "symbol/status not plain OU pareve"
+},
+{
+"chain": "costco",
+"type": "apple_juice",
+"name": "Apple Juice, 128 fl oz, 2-Count",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "vanilla",
+"name": "Pure Vanilla Extract, 16 fl oz",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "walnuts",
+"name": "Walnut Halves, 3 lbs",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "pistachios",
+"name": "In-Shell Pistachios, Salted, 3 lbs",
+"why": "not found on OU's product search"
+},
+{
+"chain": "costco",
+"type": "coconut_oil",
+"name": "Organic Virgin Coconut Oil, 84 fl oz",
+"why": "not found on OU's product search"
+}
+]
+}

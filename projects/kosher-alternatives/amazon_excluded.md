@@ -1,0 +1,73 @@
+# Amazon own-brand tiles read Oct 18 2026 that are NOT shown, and why
+- bleach | B07F246YG1 | $11.09 | Amazon Basics Disinfecting Wipes, Lemon & Fresh Scent, Sanitizes, Cleans, Disinfects & Deo — not the product type searched; no size in the title
+- bleach | B094P3XFQF | $6.91 | Amazon Basics All Purpose Cleaner, Lemon Scent, 32 fl oz, Pack of 2 — not the product type searched
+- bleach | B09CLPVN3F | $10.22 | Amazon Basics Concentrated Liquid Laundry Detergent Fresh — not the product type searched; no size in the title
+- bleach | B0CH1QH31R | $3.82 | Amazon Basics Toilet Bowl Cleaner with Cling Action Formula, Bleach, Fresh Scent, 24 Fl Oz — variety/variant excluded by the type rule
+- chips_plain | B07X1KPLNQ | $3.78 | Amazon Fresh, Wavy Potato Chips, 11 Oz — not the product type searched
+- chips_plain | B0H2LSFMQ9 | $7.96 | Amazon Fresh, Classic Potato Chips, 11 Oz (Pack of 4) — seller not confirmed as Amazon.com in the page sample; variety/variant excluded by the type rule
+- chips_plain | B0H2LYLNYL | $12.92 | Amazon Fresh, Wavy Potato Chips, 11 Oz (Pack of 4) — seller not confirmed as Amazon.com in the page sample; not the product type searched
+- cinnamon | B07VXL2JRG | $1.28 | Happy Belly Ground, Cumin — not the product type searched; no size in the title
+- cinnamon | B07W1WVMDM | $1.32 | Happy Belly Ground, Cinnamon — not the product type searched; no size in the title
+- cinnamon | B08H67J5MW | $6.70 | Happy Belly Ground Cumin, 16 ounce — not the product type searched
+- dish_soap | B08BPY986S | $4.69 | Amazon Basics Original Fresh Liquid Hand Soap with Moisturizers, 7.5 Fl Oz (Pack of 6) — not the product type searched
+- dish_soap | B08RFCCBR1 | $3.50 | Amazon Basics Heavy Duty Dual-Sided Scrub Sponges, Reusable, 4.4 x 2.7 x 0.8 in, Yellow/Gr — not the product type searched; no size in the title
+- dish_soap | B09B1T3ZF7 | $15.54 | Amazon Basics Dish Soap, Fresh Scent, 30 fl oz, Pack of 4 — variety/variant excluded by the type rule
+- dish_soap | B09B1ZW55C | $10.72 | Amazon Basics Dishwasher Rinse Aid Liquid, 32 Fl Oz — not the product type searched
+- dish_soap | B09M7FZ7KJ | $18.41 | Amazon Basics Triple Action Dishwasher Pacs, Fresh Scent, 90 Count — not the product type searched; no size in the title
+- dish_soap | B0DT6RG9YV | $31.08 | Amazon Basics Dish Soap, Fresh Scent, 30 fl oz, Pack of 8 — seller not confirmed as Amazon.com in the page sample; variety/variant excluded by the type rule
+- dish_soap | B0FBXZKMVH | $1.70 | Amazon Basics Steel Wool Soap Pads, Reusable, Cuts Grease and Removes Rust, 10 Count — not the product type searched; no size in the title
+- dish_soap | B0FNC6KN6X | $26.99 | Amazon Basics Commercial Liquid Dish Soap, 1 Gallon, Pack of 2 — variety/variant excluded by the type rule
+- dish_soap | B0G4ZYK464 | $10.79 | Amazon Basics Dishwasher Detergent Pacs, Fresh Scent, 78 Count — not the product type searched; no size in the title
+- elbows | B0D182K1TF | $4.56 | Amazon Fresh, Elbow Macaroni, 16 Oz (Pack of 3) — seller not confirmed as Amazon.com in the page sample
+- foil | B093X4M4QF | $11.77 | Amazon Basics Heavy Duty Aluminum Foil for Cooking, Grilling, Food Storage, Roasting, 125  — variety/variant excluded by the type rule
+- foil | B09KTW8731 | $17.37 | Amazon Basics Heavy Duty Aluminum Foil for Cooking, Grilling, Food Storage, Roasting, 125  — variety/variant excluded by the type rule
+- foil | B09KTXVPMN | $23.04 | Amazon Basics Aluminum Foil for Cooking, Roasting and Food Wrap, 175 Sq Ft, Pack of 2 — variety/variant excluded by the type rule
+- foil | B09NQGP4RD | $10.55 | Amazon Basics Heavy Duty Non-Stick Aluminum Foil for Cooking, Grilling and Food Storage, F — variety/variant excluded by the type rule
+- foil | B09NQGXJ5C | $7.27 | Amazon Basics Parchment Paper, 90 Sq Ft Roll — not the product type searched
+- foil | B0CH92KWTG | $3.51 | Amazon Basics Plastic Food Wrap, BPA Free, Microwavable, 200 Sq Ft — not the product type searched
+- olive_oil | B07WYXJY8J | $12.97 | Amazon Fresh, Extra Virgin Olive Oil, First Cold Extracted, 51 Oz — sold by Amazon, but OU lists Amazon Fresh olive oil only as 'Italian' and 'Mediterranean Blend'; this title names neither, so not confirmed
+- olive_oil | B0BHZXBD3Z | $13.79 | Amazon Fresh, Extra Virgin Olive Oil Mediterranean Blend, First Cold Extracted, 33.8 Oz — cannot be shipped to the NJ delivery location; variety/variant excluded by the type rule
+- olive_oil | B0CW7DKJ7L | $51.02 | Amazon Fresh, Italian Extra Virgin Olive Oil, Cold Pressed, for Cooking, 2 Liter (Pack of  — seller not confirmed as Amazon.com in the page sample
+- olive_oil | B0D14SBHX6 | $10.96 | Amazon Fresh, Italian Extra Virgin Olive Oil, First Cold Pressed, 16.9 Fl Oz (Pack of 2) — seller not confirmed as Amazon.com in the page sample
+- olive_oil | B0D14Y1BLQ | $10.96 | Amazon Fresh, Mediterranean Extra Virgin Olive Oil, 16.9 Fl Oz (Pack of 2) — seller not confirmed as Amazon.com in the page sample
+- plastic_wrap | B09KTXVPMN | $23.04 | Amazon Basics Aluminum Foil for Cooking, Roasting and Food Wrap, 175 Sq Ft, Pack of 2 — not the product type searched
+- plastic_wrap | B0CH92KWTG | $3.51 | Amazon Basics Plastic Food Wrap, BPA Free, Microwavable, 200 Sq Ft — not the product type searched
+- plastic_wrap | B0CLH1445W | $6.21 | Amazon Basics Disposable Clear Plastic Forks, Premium Quality, 100 Count, Large Pack — not the product type searched; no size in the title
+- plastic_wrap | B0CLH1VCLC | $9.49 | Amazon Basics Disposable Clear Plastic Cutlery Set, Premium Quality, Strong, 192 Count, La — not the product type searched; no size in the title
+- rice_basmati | B08B22KJ87 | $2.49 | Happy Belly Basmati Rice 2lb — cannot be shipped to the NJ delivery location
+- rice_basmati | B0C2JNGCHK | $2.04 | Amazon Fresh, Long Grain White Rice With Mixed Vegetables, Frozen, 12 Oz — cannot be shipped to the NJ delivery location; not the product type searched; excluded category (frozen/dairy/meat)
+- rice_jasmine | B08B22KJ87 | $2.49 | Happy Belly Basmati Rice 2lb — cannot be shipped to the NJ delivery location; not the product type searched
+- rice_jasmine | B08C92WFW9 | $0.05 | Happy Belly Brown Rice 2 lb — seller not confirmed as Amazon.com in the page sample; not the product type searched
+- rice_jasmine | B0C2JNGCHK | $2.04 | Amazon Fresh, Long Grain White Rice With Mixed Vegetables, Frozen, 12 Oz — cannot be shipped to the NJ delivery location; not the product type searched; excluded category (frozen/dairy/meat)
+- rice_jasmine | B0C2JQ1XXD | $2.04 | Amazon Fresh, Whole Grain Brown Rice, Frozen, 12 Oz — cannot be shipped to the NJ delivery location; not the product type searched; excluded category (frozen/dairy/meat)
+- rice_long | B08B22KJ87 | $2.49 | Happy Belly Basmati Rice 2lb — cannot be shipped to the NJ delivery location; not the product type searched
+- rice_long | B08C92WFW9 | $0.05 | Happy Belly Brown Rice 2 lb — seller not confirmed as Amazon.com in the page sample; not the product type searched
+- rice_long | B0C2JNGCHK | $2.04 | Amazon Fresh, Long Grain White Rice With Mixed Vegetables, Frozen, 12 Oz — cannot be shipped to the NJ delivery location; variety/variant excluded by the type rule; excluded category (frozen/dairy/meat)
+- rice_long | B0C2JQ1XXD | $2.04 | Amazon Fresh, Whole Grain Brown Rice, Frozen, 12 Oz — cannot be shipped to the NJ delivery location; not the product type searched; excluded category (frozen/dairy/meat)
+- tortilla_chips | B07X1KPLNB | $1.99 | Amazon Fresh, Classic Potato Chips, 11 Oz — not the product type searched
+- tortilla_chips | B07X1KPLNQ | $3.78 | Amazon Fresh, Wavy Potato Chips, 11 Oz — not the product type searched
+- tortilla_chips | B07X4TJ1GH | $2.23 | Happy Belly Lightly-Salted Pretzel Sticks, 16 ounce — not the product type searched
+- tortilla_chips | B08T31Z96Y | $2.68 | Aplenty Organic Multigrain Tortilla Chips, 7.5 Oz — cannot be shipped to the NJ delivery location; variety/variant excluded by the type rule
+- tortilla_chips | B08T32MHD7 | $3.79 | Aplenty Organic Blue Corn Tortilla Chips, 9 Oz — cannot be shipped to the NJ delivery location; variety/variant excluded by the type rule
+- tortilla_chips | B09BXKBDQB | $3.29 | Aplenty Lime Tortilla Chips, 11 Oz — cannot be shipped to the NJ delivery location; variety/variant excluded by the type rule
+- trash_13 | B092VNYHZW | $12.81 | Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags, 13 Gallon, 50 Count, Tear-Resist — variety/variant excluded by the type rule
+- trash_13 | B092VQMW7T | $18.38 | Amazon Basics Flextra Strength Tall Kitchen Drawstring Trash Bags, Fresh Scent, Tear Resis — variety/variant excluded by the type rule
+- trash_13 | B093X8QQ12 | $19.20 | Amazon Basics Trash Bags, Tall Kitchen Drawstring, Unscented, 13 Gallon, 120 Count — variety/variant excluded by the type rule
+- trash_13 | B09CD6QTPH | $23.38 | Amazon Basics Scented Trash Bags, Tall Kitchen Drawstring, Clean Scent, 13 Gallon, 200 Cou — variety/variant excluded by the type rule
+- trash_13 | B09CD6Z7GB | $28.70 | Amazon Basics Trash Bags, Tall Kitchen Drawstring, Unscented, 13 Gallon, 200 Count — variety/variant excluded by the type rule
+- trash_13 | B09CD86MCT | $8.37 | Amazon Basics Tall Kitchen Drawstring Trash Bags, Clean Scent, 13 Gallon, 45 Count — variety/variant excluded by the type rule
+- trash_13 | B0CH91K11H | $12.86 | Amazon Basics Ultra-Force Tall Kitchen Drawstring Trash Bags, Lavender Scented, 13 Gallon, — variety/variant excluded by the type rule
+- trash_13 | B0CHFRRR7N | $12.86 | Amazon Basics Ultra-Force Tall Kitchen Drawstring Trash Bags, Classic Clean Scented, 13 Ga — variety/variant excluded by the type rule
+- trash_13 | B0DKLY1Z34 | $6.69 | Amazon Basics Extra Strong & Flex Tall Kitchen Drawstring Trash Bags, Tropical Island Scen — variety/variant excluded by the type rule
+- trash_13 | B0DKMFBGK1 | $6.69 | Amazon Basics Extra Strong & Flex Tall Kitchen Drawstring Trash Bags, Citrus Scent, 13 Gal — variety/variant excluded by the type rule
+- zip_gallon | B093WMWKBP | $8.45 | Amazon Basics Reclosable Gallon Food Storage Bags with Double Zipper Seal, Stand and Fill  — not the product type searched
+- zip_gallon | B093WNNDLD | $7.46 | Amazon Basics Reclosable Freezer Quart Food Storage Bags with Zipper Seal, BPA Free, Stand — not the product type searched
+- zip_gallon | B093WPZF1Y | $9.70 | Amazon Basics Reclosable Freezer Gallon Size Bags with Double Zipper Seal, Stand-Up Bottom — not the product type searched
+- zip_gallon | B093X5W8SQ | $10.40 | Amazon Basics Slider Gallon Food Storage Bags, BPA Free, Stand-Up Bottom, Easy to Fill, 90 — not the product type searched
+- zip_gallon | B093X7TBT8 | $8.30 | Amazon Basics Slider Quart Food Storage Bags with Stand-Up Bottom, Easy to Fill, BPA Free, — not the product type searched
+- zip_gallon | B0953XG36F | $8.04 | Amazon Basics Reclosable Quart Food Storage Bags with Double Zipper Seal, BPA Free, 150 Co — not the product type searched
+- zip_gallon | B095PQ6SX7 | $8.83 | Amazon Basics Resealable Double Zipper Sandwich Storage Bags for Food Storage, 300 Count — not the product type searched
+- zip_gallon | B0CH929RS5 | $3.51 | Amazon Basics Reclosable Double Zipper Sandwich Storage Bags for Food Storage, BPA Free, 1 — not the product type searched
+- zip_gallon | B0DF327997 | $20.80 | Amazon Basics Slider Gallon Food Storage Bags, BPA Free, Stand-Up Bottom, Easy to Fill, 90 — seller not confirmed as Amazon.com in the page sample; not the product type searched
+- zip_gallon | B0DF32MG2Z | $16.90 | Amazon Basics Reclosable Gallon Food Storage Bags | Stand & Fill Base | 120 Count | Pack o — seller not confirmed as Amazon.com in the page sample; not the product type searched
+- zip_gallon | B0DF34LFVY | $19.40 | Amazon Basics Freezer Gallon Bags | Stand & Fill Base | 90 Count | Pack of 2 — seller not confirmed as Amazon.com in the page sample; not the product type searched

@@ -1,0 +1,127 @@
+name: Daily grocery price refresh
+
+# Runs every day at about 4:15 AM New York time, all year.
+# GitHub's schedule is in UTC and does not follow daylight saving time, so there are two triggers:
+#   08:15 UTC = 4:15 AM EDT (summer, March-November)    09:15 UTC = 4:15 AM EST (winter, November-March)
+# The "gate" job lets only the one that lands at 4 AM New York time through, so the job runs once a day.
+# GitHub may start scheduled runs some minutes late on busy mornings; that is normal.
+on:
+  schedule:
+    - cron: "15 8 * * *"
+    - cron: "15 9 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "full = read every store; no-fetch = rebuild from the saved reads (quick test, no store is contacted)"
+        type: choice
+        options: [full, no-fetch]
+        default: full
+
+permissions:
+  contents: write      # push the day's data to the 'state' branch and status/ to main
+  pages: write         # deploy to GitHub Pages
+  id-token: write
+
+concurrency:
+  group: daily-grocery-refresh
+  cancel-in-progress: false
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      go: ${{ steps.g.outputs.go }}
+    steps:
+      - id: g
+        run: |
+          Z=$(TZ=America/New_York date +%Z)     # EDT in summer, EST in winter
+          S="${{ github.event.schedule }}"
+          if [ "${{ github.event_name }}" != "schedule" ] || { [ "$S" = "15 8 * * *" ] && [ "$Z" = "EDT" ]; } || { [ "$S" = "15 9 * * *" ] && [ "$Z" = "EST" ]; }; then
+            echo "go=true" >> "$GITHUB_OUTPUT"; echo "running (trigger '$S', New York on $Z)"
+          else
+            echo "go=false" >> "$GITHUB_OUTPUT"; echo "skipping: trigger '$S' is the other daylight-saving slot (New York on $Z)"
+          fi
+
+  refresh:
+    needs: gate
+    if: needs.gate.outputs.go == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      TZ: America/New_York
+      # Public address of the site. Leave the repo variable unset to use the GitHub Pages address; set SITE_BASE_URL
+      # (Settings -> Secrets and variables -> Actions -> Variables) to https://click613.com/grocery once that address shows this site.
+      SITE_BASE_URL: ${{ vars.SITE_BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+      # Optional cloud browser for the stores behind a Cloudflare check (see README "If a store blocks GitHub")
+      BROWSERBASE_API_KEY: ${{ secrets.BROWSERBASE_API_KEY }}
+      BROWSERBASE_PROJECT_ID: ${{ secrets.BROWSERBASE_PROJECT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Restore yesterday's data (state branch)
+        run: |
+          if git fetch --depth 1 origin state 2>/dev/null; then
+            mkdir -p /tmp/state && git --work-tree=/tmp/state checkout FETCH_HEAD -- . && git reset -q
+            python3 pipeline/state.py restore /tmp/state
+          else
+            echo "no state branch yet: using the data committed in main"
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install browser for the store readers
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: Refresh prices and build every area
+        id: run
+        run: |
+          MODE="${{ github.event.inputs.mode || 'full' }}"
+          if [ "$MODE" = "no-fetch" ]; then python pipeline/run_all.py --no-fetch; else python pipeline/run_all.py; fi
+
+      # Deploy whatever was built, even when an area is stale, so the fresh areas still go live.
+      - name: Upload site
+        if: always() && hashFiles('site/index.html') != ''
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - name: Deploy to GitHub Pages
+        id: deploy
+        if: always() && hashFiles('site/index.html') != ''
+        uses: actions/deploy-pages@v4
+
+      - name: Save today's data (state branch) and status report (main)
+        if: always() && hashFiles('site/status.json') != ''
+        run: |
+          git config user.name "click613-grocery-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -rf /tmp/save && mkdir -p /tmp/save && python3 pipeline/state.py save /tmp/save
+          cd /tmp/save && git init -q -b state && git add -A && git -c user.name=click613-grocery-bot -c user.email=41898282+github-actions[bot]@users.noreply.github.com commit -qm "data $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" state
+          cd "$GITHUB_WORKSPACE"
+          if [ -f status/STATUS.md ]; then
+            git add status/STATUS.md status/status.json
+            git commit -qm "status $(date -u +%Y-%m-%d)" && git push -q origin HEAD:${{ github.ref_name }} || echo "status unchanged or main moved; skipped"
+          fi
+
+      - name: Email alert (optional, needs the SMTP secrets)
+        if: failure()
+        env:
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+          ALERT_EMAIL_FROM: ${{ secrets.ALERT_EMAIL_FROM }}
+        run: python3 pipeline/send_alert.py

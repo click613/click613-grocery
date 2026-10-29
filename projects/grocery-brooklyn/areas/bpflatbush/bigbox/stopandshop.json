@@ -1,0 +1,170 @@
+{
+ "chain": "Stop & Shop via Instacart (approx.)",
+ "store": "Instacart's price for Stop & Shop, approx. · read Oct 18",
+ "source": "Instacart's Stop & Shop storefront for this area's address, read logged out",
+ "read_at": "2026-10-18T08:23:26.797Z",
+ "status": "name_size",
+ "note": "Read on Instacart's Stop & Shop storefront for this area (logged out, Oct 18). Instacart shows a pricing-policy link for Stop & Shop, not a “no markups” label, so these prices are approximate: Stop & Shop's own site blocks automated reading, so in-store prices could not be checked. Every price read ends like a normal shelf price (.99, .69, .49), which a percentage markup would not leave, so no markup was taken off. Matched by exact brand, product and size. Instacart's fees are not included. Confirm in store.",
+ "items": [
+  {
+   "upc": "16000125063",
+   "name": "General Mills Honey Nut Cheerios Large Size Cereal · 15.4 oz",
+   "size": "15.4 oz",
+   "price": 5.99,
+   "url": "https://www.instacart.com/products/18446662-honey-nut-cheerios-breakfast-cereal-with-oats-gluten-free-15-400-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200056752",
+   "name": "Domino Premium Pure Cane Light Brown Sugar · 1 lb",
+   "size": "1 lb",
+   "price": 2.99,
+   "url": "https://www.instacart.com/products/69469-domino-premium-pure-cane-light-brown-sugar-1-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200056004",
+   "name": "Domino Premium Pure Cane Dark Brown Sugar · 1 lb",
+   "size": "1 lb",
+   "price": 2.99,
+   "url": "https://www.instacart.com/products/69466-domino-premium-pure-cane-dark-brown-sugar-1-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "37600110754",
+   "name": "SKIPPY Creamy Peanut Butter · 16.3 oz",
+   "size": "16.3 oz",
+   "price": 3.59,
+   "url": "https://www.instacart.com/products/285601-skippy-creamy-peanut-butter-16-3-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "54800423545",
+   "name": "Ben's Original Long Grain White Original Enriched Parboiled Rice · 1 lb",
+   "size": "1 lb",
+   "price": 3.59,
+   "url": "https://www.instacart.com/products/24607342-ben-s-original-long-grain-white-rice-1-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "78000083460",
+   "name": "Dr Pepper Soda, Diet · 2.1 qt",
+   "size": "2.1 qt",
+   "price": 3.99,
+   "url": "https://www.instacart.com/products/16847366-diet-dr-pepper-soda-2-l?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "75720904044",
+   "name": "Poland Spring Sparkling Water, Black Cherry, 33.8 oz. Bottle · 33.8 fl oz",
+   "size": "33.8 fl oz",
+   "price": 1.69,
+   "url": "https://www.instacart.com/products/202574-poland-spring-sparkling-water-black-cherry-33-8-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "75720000302",
+   "name": "Poland Spring Sparkling Water, Lime, 33.8 oz. Bottle · 33.8 fl oz",
+   "size": "33.8 fl oz",
+   "price": 1.69,
+   "url": "https://www.instacart.com/products/54400-poland-spring-sparkling-water-zesty-lime-33-8-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "16000124790",
+   "name": "General Mills Honey Nut Cheerios Cereal · 10.8 oz",
+   "size": "10.8 oz",
+   "price": 5.99,
+   "url": "https://www.instacart.com/products/18487456-honey-nut-cheerios-gluten-free-breakfast-cereal-10-800-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "3760010500",
+   "name": "SKIPPY Creamy Reduced Fat Peanut Butter Spread, 16.3 OZ · 16.3 oz",
+   "size": "16.3 oz",
+   "price": 3.59,
+   "url": "https://www.instacart.com/products/16900999-skippy-reduced-fat-creamy-peanut-butter-spread-16-3-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "37600110723",
+   "name": "SKIPPY Super Chunk® Peanut Butter Spread · 16.3 oz",
+   "size": "16.3 oz",
+   "price": 3.59,
+   "url": "https://www.instacart.com/products/16658606-skippy-super-chunk-extra-crunchy-peanut-butter-16-3-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "17400106072",
+   "name": "Carolina Yellow Rice, Seasoned Rice, Gluten Free Rice, Uncooked Rice · 5 oz",
+   "size": "5 oz",
+   "price": 1.39,
+   "url": "https://www.instacart.com/products/98663-carolina-yellow-seasoned-rice-5-0-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "37600105033",
+   "name": "SKIPPY Natural Super Chunk® Extra Crunchy Peanut Butter Spread · 15 oz",
+   "size": "15 oz",
+   "price": 3.59,
+   "url": "https://www.instacart.com/products/2683116-skippy-super-chunk-extra-crunchy-natural-peanut-butter-spread-15-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "37600105064",
+   "name": "SKIPPY Natural Peanut Butter Spread Creamy · 15 oz",
+   "size": "15 oz",
+   "price": 3.59,
+   "url": "https://www.instacart.com/products/2683128-skippy-natural-creamy-peanut-butter-spread-15-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "17400102357",
+   "name": "Carolina Jasmine Thai Fragrant Long Grain Rice · 2 lb",
+   "size": "2 lb",
+   "price": 4.99,
+   "url": "https://www.instacart.com/products/98698-carolina-jasmine-thai-fragrant-long-grain-rice-32-0-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "37600114820",
+   "name": "SKIPPY No Sugar Added Chunky Peanut Butter Spread · 16 oz",
+   "size": "16 oz",
+   "price": 3.59,
+   "url": "https://www.instacart.com/products/21722937-skippy-chunky-peanut-butter-spread-16-0-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "37600148221",
+   "name": "SKIPPY No Sugar Added Creamy Peanut Butter Spread · 16 oz",
+   "size": "16 oz",
+   "price": 3.59,
+   "url": "https://www.instacart.com/products/21722938-skippy-creamy-peanut-butter-spread-16-0-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "75720000661",
+   "name": "Poland Spring Natural Spring Water · 23.7 fl oz",
+   "size": "23.7 fl oz",
+   "price": 1.79,
+   "url": "https://www.instacart.com/products/158562-poland-spring-natural-spring-water-23-7-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "1600012479",
+   "name": "General Mills Honey Nut Cheerios Cereal · 10.8 oz",
+   "size": "10.8 oz",
+   "price": 5.99,
+   "url": "https://www.instacart.com/products/18487456-honey-nut-cheerios-gluten-free-breakfast-cereal-10-800-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49000072358",
+   "name": "Diet Coke Soda Bottle · 2 L",
+   "size": "2 L",
+   "price": 3.99,
+   "url": "https://www.instacart.com/products/17019058-diet-coke-soda-soft-drink-2-ltr?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  }
+ ]
+}

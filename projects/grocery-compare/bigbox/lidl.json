@@ -1,0 +1,58 @@
+{
+"chain": "Lidl",
+"store": "lidl.com default price (in-store items; regional price range noted per item; NJ store not selectable without the app)",
+"source": "lidl.com public search pages",
+"read_at": "2026-10-16T05:25:51Z",
+"status": "ok",
+"note": "800 of 800 searched on lidl.com (plain requests). Lidl stocks mostly its own brands; 6 same-size matches of national brands. Price is lidl.com's default region; the item note carries the regional range.",
+"items": [
+{
+"upc": "48001213487",
+"name": "Hellmann's\u00ae real mayonnaise 30 fl.oz.",
+"size": "30 Oz",
+"price": 4.97,
+"url": "https://www.lidl.com/p/hellmann-s-real-mayonnaise/p11238606",
+"note": "$ 0.17 per fl.oz.; lidl.com price; varies by region $4.97-$5.65"
+},
+{
+"upc": "71300000083",
+"name": "Ronzoni\u00ae spaghetti 16 oz.",
+"size": "16 Oz",
+"price": 1.29,
+"url": "https://www.lidl.com/p/ronzoni-spaghetti/p11248139",
+"note": "$ 0.08 per oz."
+},
+{
+"upc": "884912014269",
+"name": "Post\u00ae Honey Bunches of Oats\u00ae honey roasted, large size 18 oz.",
+"size": "18 Oz",
+"price": 4.97,
+"url": "https://www.lidl.com/p/post-honey-bunches-of-oats-honey-roasted-large-size/p11245991",
+"note": "$ 0.28 per oz.; lidl.com price; varies by region $4.97-$5.65"
+},
+{
+"upc": "884912014276",
+"name": "Post\u00ae Honey Bunches of Oats\u00ae with almonds 18 oz.",
+"size": "18 Oz",
+"price": 4.97,
+"url": "https://www.lidl.com/p/post-honey-bunches-of-oats-with-almonds/p11251413",
+"note": "$ 0.28 per oz.; lidl.com price; varies by region $4.97-$5.65"
+},
+{
+"upc": "71300000090",
+"name": "Ronzoni\u00ae thin spaghetti 16 oz.",
+"size": "16 Oz",
+"price": 1.29,
+"url": "https://www.lidl.com/p/ronzoni-thin-spaghetti/p11249946",
+"note": "$ 0.08 per oz."
+},
+{
+"upc": "48500018330",
+"name": "Tropicana\u00ae pure premium original orange juice, no pulp 89 fl.oz.",
+"size": "89 Oz",
+"price": 6.99,
+"url": "https://www.lidl.com/p/tropicana-pure-premium-original-orange-juice-no-pulp/p11249140",
+"note": "$ 0.08 per fl.oz."
+}
+]
+}

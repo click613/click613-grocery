@@ -1,0 +1,9 @@
+{
+"chain": "Walmart",
+"store": "not read (nearest Walmart: Suffern NY, #2905, 250 Route 59)",
+"source": "walmart.com public search pages",
+"read_at": "2026-10-18T06:26:46.656627Z",
+"status": "walled",
+"note": "walmart.com shows its robot check ('Robot or human? press and hold') after a couple of searches. We never solve those, so no Walmart prices are shown here. Nearest Walmart: Suffern NY, #2905, 250 Route 59.",
+"items": []
+}

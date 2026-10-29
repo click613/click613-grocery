@@ -1,0 +1,210 @@
+{
+"chain": "Amazon",
+"store": "Amazon.com online (price varies, may include shipping)",
+"source": "amazon.com public search pages",
+"read_at": "2026-10-16T04:45:18.776Z",
+"status": "ok",
+"note": "Searched on amazon.com by name. Listing price as shown, often a third-party seller, so prices vary and may include shipping. Listings far above the local stores' price are left out.",
+"items": [
+{
+"upc": "73490128332",
+"name": "kedemSparkling Blush Grape Juice, 25.4 oz Blush25.4 Fl Oz (Pack of 1)",
+"size": "25.4 Oz",
+"price": 16.49,
+"url": "https://www.amazon.com/dp/B000YG51MM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "49200056004",
+"name": "DominoSugar, Sugar Dark Brown, 16 Ounce 16 Ounce (Pack of 1)",
+"size": "1 Lb",
+"price": 2.49,
+"url": "https://www.amazon.com/dp/B01GHECGE0",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "49200045503",
+"name": "DominoSugar, Granulated, 4LB Canister 1 Count (Pack of 1)",
+"size": "4 Lb",
+"price": 18.6,
+"url": "https://www.amazon.com/dp/B0719NTWVV",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "42400137320",
+"name": "Malt-O-Meal Hot Wheat Cereal, Original Flavor, 28 oz Box Creamy Texture, Ready In Minutes And An Excellent Source Of Iron And Folate, Quick Breakfast in Minutes",
+"size": "28 Oz",
+"price": 4.48,
+"url": "https://www.amazon.com/dp/B0CD2VQDQN",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "40300033230",
+"name": "Heckers Unbleached All Purpose Flour 5 lbs 80 Ounce (Pack of 1)",
+"size": "5 Lb",
+"price": 14.82,
+"url": "https://www.amazon.com/dp/B0005ZI8RC",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73416197633",
+"name": "LundbergShort Grain Brown Rice, Regenerative Organic Certified \u2013 Slightly Nutty, Sticky Rice Responsibly Grown in California, 32 Oz",
+"size": "2 Lb",
+"price": 8.49,
+"url": "https://www.amazon.com/dp/B001O8MOMO",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069012219",
+"name": "GefenChunk Light Tuna in Oil 6oz.",
+"size": "6 Oz",
+"price": 9.99,
+"url": "https://www.amazon.com/dp/B006JI2ADM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490123832",
+"name": "kedemVanilla Tea Biscuit, 4.2 oz",
+"size": "4.2 Oz",
+"price": 1.39,
+"url": "https://www.amazon.com/dp/B0011BPNX6",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "41570054161",
+"name": "Blue Diamond Almond Breeze Unsweetened Almond Milk, Vanilla 32 fl oz (Pack of 1) Vanilla,Unsweetened32 Fl Oz (Pack of 1)",
+"size": "32 Oz",
+"price": 12.5,
+"url": "https://www.amazon.com/dp/B019Z3UZZW",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73416004306",
+"name": "LUNDBERG RICE BRWN WILD BLEND GF, 16 OZ, PK- 3",
+"size": "1 Lb",
+"price": 31.95,
+"url": "https://www.amazon.com/dp/B075WRR8YB",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "41570068366",
+"name": "Blue Diamond, Almond Milk Vanilla, 32 Fl Oz Vanilla",
+"size": "32 Oz",
+"price": 2.78,
+"url": "https://www.amazon.com/dp/B0005ZZMSK",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069044357",
+"name": "GefenCorn Starch, 100% Pure, 16oz Canister with Resealable Lid, Kosher, Great Flour Alternative, Twice the Thickening Power of Flour 16 Ounce (Pack of 1)",
+"size": "16 Oz",
+"price": 8.79,
+"url": "https://www.amazon.com/dp/B00DOBKBO2",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069021303",
+"name": "GefenCorn Whole Kernel 15.25 oz.",
+"size": "15.25 Oz",
+"price": 49.99,
+"url": "https://www.amazon.com/dp/B06X3RL3RW",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490124426",
+"name": "Kedem Cooking Wine Red, 12.7 oz Red",
+"size": "12.7 OZ",
+"price": 3.29,
+"url": "https://www.amazon.com/dp/B004LTZLX2",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "73490123504",
+"name": "kedemTea Biscuit Plain, 4.2 Oz 4.2 Ounce (Pack of 1)",
+"size": "4.2 Oz",
+"price": 1.29,
+"url": "https://www.amazon.com/dp/B0011CZ6TQ",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "43427007504",
+"name": "Liebers Sack-n-boil Bag, 8 ct",
+"size": "8 Ct",
+"price": 10.49,
+"url": "https://www.amazon.com/dp/B01GRFNS28",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "32797006149",
+"name": "Bloom's Crunchy Fries 1 oz. 1 Ounce (Pack of 1)",
+"size": "1 Oz",
+"price": 1.29,
+"url": "https://www.amazon.com/dp/B008Y6J9Y0",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "67545008397",
+"name": "Dippity-Do Sport Gel 11.8 Fl Oz (Pack of 1)",
+"size": "11.8 Oz",
+"price": 7.96,
+"url": "https://www.amazon.com/dp/B06XFJF716",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "71099070878",
+"name": "Goddard'sSilver Polish Foam, Silver Cleaner & Tarnish Remover, 18 oz Restores Shine to Silverplate and Sterling Silver, Antiques, Jewelry, Flatware, & More, Sponge Applicator Included",
+"size": "18 Oz",
+"price": 19.99,
+"url": "https://www.amazon.com/dp/B001949QRY",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "74333474340",
+"name": "Arrowhead MillsOrganic Puffed Kamut Cereal, 6 Ounce 6 Ounce (Pack of 1)",
+"size": "6 Oz",
+"price": 13.99,
+"url": "https://www.amazon.com/dp/B000VK2LEM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069113701",
+"name": "GefenChunk Light Tuna in Oil 6oz.",
+"size": "6 Oz",
+"price": 9.99,
+"url": "https://www.amazon.com/dp/B006JI2ADM",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "37000800682",
+"name": "BounceDryer Sheets, 80 count, Outdoor Fresh Scent, Reduces static, softens, freshens, and fights wrinkles Outdoor Fresh80 Count (Pack of 1)",
+"size": "80 Ct",
+"price": 5.05,
+"url": "https://www.amazon.com/dp/B0014E8VHA",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "710069044418",
+"name": "Gefen Instant Natural Dry Yeast, 1 LB Bag, Great for Breads & Challah, Certified Kosher 16 Ounce (Pack of 1)",
+"size": "1 Lb",
+"price": 9.69,
+"url": "https://www.amazon.com/dp/B006JI2RV2",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "28448002004",
+"name": "Green'sBakery Kosher Chocolate Babka - 24 oz Chocolate24 Ounce (Pack of 1)",
+"size": "24 Oz",
+"price": 18.25,
+"url": "https://www.amazon.com/dp/B001O00TNI",
+"note": "Amazon, price varies, may include shipping"
+},
+{
+"upc": "78328028501",
+"name": "Landau Protein Bar, 15 g Protein 1.6oz bar, 12 Bars (Peanut Caramel) (Hazelnut) Hazelnut",
+"size": "1.59 Oz",
+"price": 22.0,
+"url": "https://www.amazon.com/dp/B01C6G4VX2",
+"note": "Amazon, price varies, may include shipping"
+}
+]
+}

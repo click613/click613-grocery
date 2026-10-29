@@ -1,0 +1,362 @@
+{
+ "chain": "Walmart via Instacart",
+ "store": "in-store prices per Instacart (Instacart lists Walmart with “No markups”) · read Oct 18",
+ "source": "Instacart's Walmart storefront for this area's address, read logged out",
+ "read_at": "2026-10-18T07:16:03.773Z",
+ "status": "name_size",
+ "note": "Read on Instacart's Walmart storefront for this area (logged out, Oct 18). Instacart lists Walmart with “No markups”, so prices are shown as listed. Matched by exact brand, product and size (Instacart shows no barcodes). Instacart's delivery and service fees are not included.",
+ "items": [
+  {
+   "upc": "73490123610",
+   "name": "Kedem 100% Juice, Grape, Sparkling, Concord, Non Alcoholic · 25.4 fl oz",
+   "size": "25.4 fl oz",
+   "price": 4.97,
+   "url": "https://www.instacart.com/products/73280-kedem-100-juice-grape-sparkling-concord-non-alcoholic-25-4-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "75720334117",
+   "name": "Poland Spring Natural Spring Water · 101.4 fl oz",
+   "size": "101.4 fl oz",
+   "price": 1.84,
+   "url": "https://www.instacart.com/products/98917-poland-spring-natural-spring-water-101-4-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "33200000204",
+   "name": "Arm & Hammer Fridge-N-Freezer Baking Soda · 14 oz",
+   "size": "14 oz",
+   "price": 1.52,
+   "url": "https://www.instacart.com/products/3427304-arm-hammer-fridge-n-freezer-baking-soda-14-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "78000083460",
+   "name": "Dr Pepper Soda, Diet · 2.1 qt",
+   "size": "2.1 qt",
+   "price": 3.17,
+   "url": "https://www.instacart.com/products/16847366-diet-dr-pepper-soda-2-l?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "19800001285",
+   "name": "Windex® Glass Cleaner Refill Bottle, Original Blue · 67.6 fl oz",
+   "size": "67.6 fl oz",
+   "price": 6.98,
+   "url": "https://www.instacart.com/products/39453-windex-glass-cleaner-original-blue-67-6-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "632565000036",
+   "name": "FIJI Natural Artesian Bottled Water · 1.5 L",
+   "size": "1.5 L",
+   "price": 2.48,
+   "url": "https://www.instacart.com/products/27150-fiji-water-natural-artesian-water-1-5-l?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "48001354289",
+   "name": "Hellmann's Light Mayonnaise Squeeze Bottle · 20 fl oz",
+   "size": "20 fl oz",
+   "price": 6.52,
+   "url": "https://www.instacart.com/products/2004538-hellmann-s-light-mayonnaise-light-mayo-squeeze-bottle-20-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "44600012049",
+   "name": "Clorox Clean-Up All Purpose Cleaner with Bleach, Spray Bottle, Original · 32 fl oz",
+   "size": "32 fl oz",
+   "price": 5.26,
+   "url": "https://www.instacart.com/products/39402-clorox-clean-up-all-purpose-cleaner-with-bleach-spray-bottle-original-32-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "55500014026",
+   "name": "Clorox Clean-Up All Purpose Cleaner with Bleach, Spray Bottle, Original · 32 fl oz",
+   "size": "32 fl oz",
+   "price": 5.26,
+   "url": "https://www.instacart.com/products/39402-clorox-clean-up-all-purpose-cleaner-with-bleach-spray-bottle-original-32-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "58000140288",
+   "name": "Palmolive Ultra Oxy Dish Liquid · 20 fl oz",
+   "size": "20 fl oz",
+   "price": 2.68,
+   "url": "https://www.instacart.com/products/16801098-palmolive-dish-liquid-oxy-20-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "3760010500",
+   "name": "SKIPPY Creamy Reduced Fat Peanut Butter Spread, 16.3 OZ · 16.3 oz",
+   "size": "16.3 oz",
+   "price": 2.98,
+   "url": "https://www.instacart.com/products/16900999-skippy-reduced-fat-creamy-peanut-butter-spread-16-3-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "37600110723",
+   "name": "SKIPPY Super Chunk® Peanut Butter Spread · 16.3 oz",
+   "size": "16.3 oz",
+   "price": 2.98,
+   "url": "https://www.instacart.com/products/16658606-skippy-super-chunk-extra-crunchy-peanut-butter-16-3-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "710069315600",
+   "name": "Gefen Chocolate Wafers · 14.1 oz",
+   "size": "14.1 oz",
+   "price": 2.72,
+   "url": "https://www.instacart.com/products/182659-gefen-chocolate-wafers-14-1-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "15000045227",
+   "name": "Gerber Puffs Sweet Potato Puffed Grain Snack · 1.48 oz",
+   "size": "1.48 oz",
+   "price": 2.97,
+   "url": "https://www.instacart.com/products/16409182-gerber-sweet-potato-1-48-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "41192100437",
+   "name": "Kellogg's Frosted Flakes Breakfast Cereal · 12 oz",
+   "size": "12 oz",
+   "price": 3.98,
+   "url": "https://www.instacart.com/products/33230672-frosted-flakes-breakfast-cereal-kids-cereal-family-breakfast-original-12-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "28400199148",
+   "name": "Lay's Potato Chips, Classic · 8 oz",
+   "size": "8 oz",
+   "price": 2.97,
+   "url": "https://www.instacart.com/products/16758378-lay-s-classic-potato-chips-8-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "32797500043",
+   "name": "TWIZZLERS PULL 'N' PEEL Cherry Flavored Licorice Style, Chewy Candy Bag, 14 oz · 14 oz",
+   "size": "14 oz",
+   "price": 4.22,
+   "url": "https://www.instacart.com/products/16409343-twizzlers-candy-cherry-pull-n-peel-14-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "17400106072",
+   "name": "Carolina Yellow Rice, Seasoned Rice, Gluten Free Rice, Uncooked Rice · 5 oz",
+   "size": "5 oz",
+   "price": 1.12,
+   "url": "https://www.instacart.com/products/98663-carolina-yellow-seasoned-rice-5-0-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "853807005828",
+   "name": "Chosen Foods Pure Avocado Cooking Oil · 25.4 fl oz",
+   "size": "25.4 fl oz",
+   "price": 16.54,
+   "url": "https://www.instacart.com/products/16266099-chosen-foods-avocado-oil-100-pure-25-4-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "34000560431",
+   "name": "TWIZZLERS PULL 'N' PEEL Cherry Flavored Licorice Style, Chewy Candy Bag, 14 oz · 14 oz",
+   "size": "14 oz",
+   "price": 4.22,
+   "url": "https://www.instacart.com/products/16409343-twizzlers-candy-cherry-pull-n-peel-14-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "48001353664",
+   "name": "Hellmann's Real Mayonnaise Squeeze Bottle · 11.5 fl oz",
+   "size": "11.5 fl oz",
+   "price": 4.22,
+   "url": "https://www.instacart.com/products/16408886-hellmann-s-real-mayonnaise-real-mayo-squeeze-bottle-11-5-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "37600105064",
+   "name": "SKIPPY Natural Peanut Butter Spread Creamy · 15 oz",
+   "size": "15 oz",
+   "price": 3.12,
+   "url": "https://www.instacart.com/products/2683128-skippy-natural-creamy-peanut-butter-spread-15-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "30772175231",
+   "name": "Tide Plus Boost of Ultra Downy Liquid Laundry Detergent, April Fresh Scent · 73 fl oz",
+   "size": "73 fl oz",
+   "price": 12.97,
+   "url": "https://www.instacart.com/products/61345101-tide-liq-detdwny-af-52?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "17400102357",
+   "name": "Carolina Jasmine Thai Fragrant Long Grain Rice · 2 lb",
+   "size": "2 lb",
+   "price": 3.52,
+   "url": "https://www.instacart.com/products/98698-carolina-jasmine-thai-fragrant-long-grain-rice-32-0-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "37600114820",
+   "name": "SKIPPY No Sugar Added Chunky Peanut Butter Spread · 16 oz",
+   "size": "16 oz",
+   "price": 3.12,
+   "url": "https://www.instacart.com/products/21722937-skippy-chunky-peanut-butter-spread-16-0-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "37600148221",
+   "name": "SKIPPY No Sugar Added Creamy Peanut Butter Spread · 16 oz",
+   "size": "16 oz",
+   "price": 2.98,
+   "url": "https://www.instacart.com/products/21722938-skippy-creamy-peanut-butter-spread-16-0-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "35000977588",
+   "name": "Fabuloso Multi-Purpose Cleaner, Lavender · 56 fl oz",
+   "size": "56 fl oz",
+   "price": 4.97,
+   "url": "https://www.instacart.com/products/39547-fabuloso-multi-purpose-cleaner-lavender-56-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "37000748977",
+   "name": "Pampers Swaddlers Diapers, Size 3 · 26 ct",
+   "size": "26 ct",
+   "price": 9.97,
+   "url": "https://www.instacart.com/products/24259119-pampers-active-baby-diaper-size-3-26-0-ct?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "16000169685",
+   "name": "General Mills Honey Nut Cheerios Family Size Cereal · 18.8 oz",
+   "size": "18.8 oz",
+   "price": 4.97,
+   "url": "https://www.instacart.com/products/24593887-honey-nut-cheerios-gluten-free-breakfast-cereal-18-800-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "48001213449",
+   "name": "Hellmann's Mayonnaise Light · 15 fl oz",
+   "size": "15 fl oz",
+   "price": 4.27,
+   "url": "https://www.instacart.com/products/71155-hellmann-s-mayonnaise-light-15-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "48001213388",
+   "name": "Hellmann's Real Mayonnaise · 15 fl oz",
+   "size": "15 fl oz",
+   "price": 4.27,
+   "url": "https://www.instacart.com/products/16409199-hellmann-s-real-mayonnaise-real-mayo-15-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "63435891667",
+   "name": "Scotties Facial Tissue Everyday Comfort, 2-Ply · 64 ct",
+   "size": "64 ct",
+   "price": 1.32,
+   "url": "https://www.instacart.com/products/18765201-scotties-facial-tissue-everyday-comfort-2-ply-64-ea?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "37600880886",
+   "name": "SKIPPY Natural Peanut Butter Spread Squeeze Pack, 6 OZ · 6 oz",
+   "size": "6 oz",
+   "price": 2.52,
+   "url": "https://www.instacart.com/products/21476191-skippy-natural-creamy-peanut-butter-spread-6-0-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "12531028",
+   "name": "Pepsi Cola · 20 fl oz",
+   "size": "20 fl oz",
+   "price": 2.38,
+   "url": "https://www.instacart.com/products/307250-pepsi-cola-20-0-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "44600300580",
+   "name": "Clorox Clean-Up All Purpose Cleaner with Bleach, Spray Bottle, Rain Clean · 32 fl oz",
+   "size": "32 fl oz",
+   "price": 5.26,
+   "url": "https://www.instacart.com/products/16754790-clorox-clean-up-all-purpose-cleaner-with-bleach-spray-bottle-rain-clean-fluid-ounces-32-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "35000530325",
+   "name": "Fabuloso Multi-Purpose Cleaner, Lavender · 56 fl oz",
+   "size": "56 fl oz",
+   "price": 4.97,
+   "url": "https://www.instacart.com/products/39547-fabuloso-multi-purpose-cleaner-lavender-56-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "16000275287",
+   "name": "General Mills Cheerios Family Size Cereal · 18 oz",
+   "size": "18 oz",
+   "price": 4.97,
+   "url": "https://www.instacart.com/products/24123650-cheerioats-oat-cereal-whole-grain-toasted-family-size-18-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "35000996619",
+   "name": "Irish Spring Body Wash For Men, Moisture Blast · 20 fl oz",
+   "size": "20 fl oz",
+   "price": 4.97,
+   "url": "https://www.instacart.com/products/26061399-irish-spring-moisturizing-face-body-wash-moisture-blast-20-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "19800701956",
+   "name": "Windex Glass Cleaner Spray Bottle, Original Blue · 32 fl oz",
+   "size": "32 fl oz",
+   "price": 3.97,
+   "url": "https://www.instacart.com/products/19823613-windex-glass-cleaner-original-blue-32-fo?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "30772042380",
+   "name": "Charmin Ultra Strong Toilet Paper Mega Rolls · 12 ct",
+   "size": "12 ct",
+   "price": 14.97,
+   "url": "https://www.instacart.com/products/50904896-charmin-bathroom-tissue-2-ply-mega-242-ea?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "44600324173",
+   "name": "Clorox No-Splash Bleach, Disinfecting, Kills 99.9% of Bacteria and Viruses, Regular · 40 fl oz",
+   "size": "40 fl oz",
+   "price": 3.98,
+   "url": "https://www.instacart.com/products/21061455-clorox-splash-less-bleach-disinfecting-bleach-kills-of-bacteria-and-viruses-regular-fluid-ounce-bottle-40-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "49000072358",
+   "name": "Diet Coke Soda Bottle · 2 L",
+   "size": "2 L",
+   "price": 2.97,
+   "url": "https://www.instacart.com/products/17019058-diet-coke-soda-soft-drink-2-ltr?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "37000751984",
+   "name": "Pampers Cruisers 360 Pull-On Diapers, Size 5 · 19 ct",
+   "size": "19 ct",
+   "price": 9.47,
+   "url": "https://www.instacart.com/products/23227446-pampers-pampers-cruisers-360-diapers-size-5-19-0-ct?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "37000749608",
+   "name": "Pampers Swaddlers Diapers, Size 2 · 29 ct",
+   "size": "29 ct",
+   "price": 9.97,
+   "url": "https://www.instacart.com/products/24259031-pampers-swaddlers-diapers-size-2-29-0-ct?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  }
+ ]
+}

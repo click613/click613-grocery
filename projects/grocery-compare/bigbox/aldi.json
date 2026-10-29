@@ -1,0 +1,9 @@
+{
+"chain": "Aldi",
+"store": "ALDI Union NJ (the NJ store the site assigned; a Lakewood-area store could not be chosen without an account)",
+"source": "aldi.us public storefront search, one search per brand",
+"read_at": "2026-10-16T05:42:37.346Z",
+"status": "ok",
+"note": "208 of 210 brands searched on the aldi.us storefront (NJ exit; store assigned by the site: ALDI Union NJ). Aldi stocks almost only its own brands; none of the 800 items appeared in the same brand and size. 0 matches.",
+"items": []
+}

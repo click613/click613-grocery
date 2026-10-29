@@ -1,0 +1,9 @@
+{
+"chain": "Lidl",
+"store": "lidl.com default price (in-store items; the regional price range is in the item note; a local store can't be chosen on lidl.com without the app)",
+"source": "lidl.com public search pages",
+"read_at": "2026-10-16T05:01:03Z",
+"status": "ok",
+"note": "Searched on lidl.com. Lidl stocks mostly its own brands, so only national brands can match. Price is lidl.com's default region; the item note carries the regional range.",
+"items": []
+}

@@ -1,0 +1,399 @@
+{
+ "store": "Bingo Wholesale",
+ "key": "bingo",
+ "town": "Lakewood",
+ "address": "1900 Shorrock St (Route 70), Lakewood, NJ 08701",
+ "source": "Bingo Wholesale's own Weekly Deals page (flyer PDF 'Featured items at your local Bingo')",
+ "source_url": "https://www.bingowholesale.com/weeklydeals",
+ "valid_from": "2026-10-11",
+ "valid_to": "2026-10-17",
+ "read_at": "2026-10-16T04:34:16+00:00",
+ "note": "Dates printed on the flyer: Valid 10/11/26 - 10/17/26. The flyer is chain-wide ('at your local Bingo'), not Lakewood-only. Read from the flyer image; 2 sizes as printed may be typos (tuna '6 x 36 oz').",
+ "items": [
+  {
+   "name": "A&H Liquid Detergent, Clean Burst",
+   "brand": "Arm & Hammer",
+   "size": "105 oz",
+   "price": 8.99,
+   "price_text": "$8.99",
+   "deal": null
+  },
+  {
+   "name": "Shout Stain Remover Gallon + Trigger",
+   "brand": "Shout",
+   "size": "22+128 oz",
+   "price": 12.99,
+   "price_text": "$12.99",
+   "deal": null
+  },
+  {
+   "name": "Plastic Table Covers, assorted sizes",
+   "brand": "Basix",
+   "size": null,
+   "price": 5.49,
+   "price_text": "$5.49",
+   "deal": null
+  },
+  {
+   "name": "Blushine Soup Spoons, assorted",
+   "brand": "Blushine",
+   "size": "600 ct",
+   "price": 3.99,
+   "price_text": "$3.99",
+   "deal": null
+  },
+  {
+   "name": "Maxima Fabric Softener, Baby Oat",
+   "brand": "Sano",
+   "size": "4 L",
+   "price": 5.99,
+   "price_text": "$5.99",
+   "deal": null
+  },
+  {
+   "name": "Keff Body Wash, assorted",
+   "brand": "Keff",
+   "size": "16.9 oz",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": null
+  },
+  {
+   "name": "Pantene Shampoo Classic Care",
+   "brand": "Pantene",
+   "size": "600 ml",
+   "price": 5.99,
+   "price_text": "$5.99",
+   "deal": null
+  },
+  {
+   "name": "Courant 5 Speed Hand Mixer, Red 250W",
+   "brand": "Courant",
+   "size": null,
+   "price": 15.99,
+   "price_text": "$15.99",
+   "deal": null
+  },
+  {
+   "name": "Dominion Hand Mixer, Black",
+   "brand": "Dominion",
+   "size": null,
+   "price": 10.99,
+   "price_text": "$10.99",
+   "deal": null
+  },
+  {
+   "name": "Hamilton Beach Slow Cooker",
+   "brand": "Hamilton Beach",
+   "size": "6 qt",
+   "price": 29.99,
+   "price_text": "$29.99",
+   "deal": null
+  },
+  {
+   "name": "Sano Floor Fresh Wet Wipes, Lavender/Luxury Hotel",
+   "brand": "Sano",
+   "size": "10 pk",
+   "price": 3.99,
+   "price_text": "$3.99",
+   "deal": null
+  },
+  {
+   "name": "Sano Cleaning Pads for Shabbos",
+   "brand": "Sano",
+   "size": "4 ct",
+   "price": 2.0,
+   "price_text": "2/$4",
+   "deal": null
+  },
+  {
+   "name": "Sano Oxygen Laundry Spray, Colored",
+   "brand": "Sano",
+   "size": "750 ml",
+   "price": 4.99,
+   "price_text": "$4.99",
+   "deal": null
+  },
+  {
+   "name": "Blupantry Pasta, Spaghetti/Penne",
+   "brand": "Blupantry",
+   "size": "32 oz",
+   "price": 1.5,
+   "price_text": "2/$3",
+   "deal": null
+  },
+  {
+   "name": "Blupantry Semi Sweet Chocolate Chips",
+   "brand": "Blupantry",
+   "size": "24 oz",
+   "price": 5.49,
+   "price_text": "$5.49",
+   "deal": null
+  },
+  {
+   "name": "Blupantry Chunk Light Tuna in Water",
+   "brand": "Blupantry",
+   "size": "6 x 36 oz",
+   "price": 6.99,
+   "price_text": "$6.99",
+   "deal": null,
+   "note": "size as printed: 6x36 OZ"
+  },
+  {
+   "name": "Blupantry All Purpose Flour, Sifted",
+   "brand": "Blupantry",
+   "size": "5 lb",
+   "price": 3.99,
+   "price_text": "$3.99",
+   "deal": null
+  },
+  {
+   "name": "Beit Hashita Pitted Green Olives",
+   "brand": "Beit Hashita",
+   "size": "19.8 oz",
+   "price": 3.39,
+   "price_text": "$3.39",
+   "deal": null
+  },
+  {
+   "name": "Blupantry Canola Oil",
+   "brand": "Blupantry",
+   "size": "96 oz",
+   "price": 7.49,
+   "price_text": "$7.49",
+   "deal": null
+  },
+  {
+   "name": "Blupantry Smackers, assorted flavors",
+   "brand": "Blupantry",
+   "size": "20 pk, 21 oz",
+   "price": 5.5,
+   "price_text": "2/$10.99",
+   "deal": null
+  },
+  {
+   "name": "Wow Chocolate Coated, assorted flavors",
+   "brand": "Wow",
+   "size": "50 g",
+   "price": 1.33,
+   "price_text": "3/$4",
+   "deal": null
+  },
+  {
+   "name": "Zahlers Berberine",
+   "brand": "Zahlers",
+   "size": "60 ct",
+   "price": 24.99,
+   "price_text": "$24.99",
+   "deal": null
+  },
+  {
+   "name": "Zahlers The Daily Cleanse",
+   "brand": "Zahlers",
+   "size": "60 ct",
+   "price": 17.99,
+   "price_text": "$17.99",
+   "deal": null
+  },
+  {
+   "name": "Elite Must Sugar Free, assorted flavors",
+   "brand": "Elite",
+   "size": "2.3 oz",
+   "price": 2.5,
+   "price_text": "2/$5",
+   "deal": null
+  },
+  {
+   "name": "Gefen Gherkins",
+   "brand": "Gefen",
+   "size": "24.3 oz",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": null
+  },
+  {
+   "name": "Gefen Pizza Sauce",
+   "brand": "Gefen",
+   "size": "24/26 oz",
+   "price": 2.79,
+   "price_text": "$2.79",
+   "deal": null
+  },
+  {
+   "name": "Gefen Instant Chicken Noodle Soup, No MSG",
+   "brand": "Gefen",
+   "size": "12 pk",
+   "price": 10.99,
+   "price_text": "$10.99",
+   "deal": null
+  },
+  {
+   "name": "Liebers Chocolate Coated Rice Cakes, Milk/Parve",
+   "brand": "Lieber's",
+   "size": "3.1 oz",
+   "price": 2.16,
+   "price_text": "3/$6.49",
+   "deal": null
+  },
+  {
+   "name": "Liebers Potato Chips Hot Sauce",
+   "brand": "Lieber's",
+   "size": ".75 oz",
+   "price": 0.4,
+   "price_text": "5/$2",
+   "deal": null
+  },
+  {
+   "name": "Liebers Onion Rings",
+   "brand": "Lieber's",
+   "size": ".5 oz",
+   "price": 0.36,
+   "price_text": "7/$2.49",
+   "deal": null
+  },
+  {
+   "name": "Blooms Potato Chips, assorted varieties",
+   "brand": "Blooms",
+   "size": ".75 oz",
+   "price": 0.35,
+   "price_text": "10/$3.49",
+   "deal": null
+  },
+  {
+   "name": "Paskesz Nutty Chews",
+   "brand": "Paskesz",
+   "size": "10 oz",
+   "price": 4.89,
+   "price_text": "$4.89",
+   "deal": null
+  },
+  {
+   "name": "Kravy Dip Dip Crackers, assorted varieties",
+   "brand": "Kravy",
+   "size": "6 oz",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": null
+  },
+  {
+   "name": "Grab 1 Protein Shake, assorted flavors",
+   "brand": "Grab 1",
+   "size": "12 oz",
+   "price": 3.5,
+   "price_text": "2/$7",
+   "deal": null
+  },
+  {
+   "name": "Taamti Feta Cheese",
+   "brand": "Taamti",
+   "size": "8 oz",
+   "price": 5.69,
+   "price_text": "$5.69",
+   "deal": null
+  },
+  {
+   "name": "Ta'amti Spanish Eggplant",
+   "brand": "Ta'amti",
+   "size": "8 oz",
+   "price": 3.29,
+   "price_text": "$3.29",
+   "deal": null
+  },
+  {
+   "name": "J&J Cottage Cheese, assorted varieties",
+   "brand": "J&J",
+   "size": "16 oz",
+   "price": 4.79,
+   "price_text": "$4.79",
+   "deal": null
+  },
+  {
+   "name": "Mehadrin Fit 'N Free Yogurt, assorted flavors",
+   "brand": "Mehadrin",
+   "size": "6 oz",
+   "price": 1.16,
+   "price_text": "3/$3.49",
+   "deal": null
+  },
+  {
+   "name": "Flaum's Onion/Garlic/Olive Dip",
+   "brand": "Flaum's",
+   "size": "7.5 oz",
+   "price": 2.69,
+   "price_text": "$2.69",
+   "deal": null
+  },
+  {
+   "name": "Tnuva Pudding, Choco Vanilla/Chocolate",
+   "brand": "Tnuva",
+   "size": "4 ct",
+   "price": 4.99,
+   "price_text": "$4.99",
+   "deal": null
+  },
+  {
+   "name": "Golden Taste Herring, assorted",
+   "brand": "Golden Taste",
+   "size": "10 oz",
+   "price": 4.99,
+   "price_text": "$4.99",
+   "deal": null
+  },
+  {
+   "name": "Pardes Broccoli Florets",
+   "brand": "Pardes",
+   "size": "24 oz",
+   "price": 4.89,
+   "price_text": "$4.89",
+   "deal": null
+  },
+  {
+   "name": "KJ Poultry Sliced Naturally Smoked Turkey Breast",
+   "brand": "KJ Poultry",
+   "size": "6 oz",
+   "price": 4.79,
+   "price_text": "$4.79",
+   "deal": null
+  },
+  {
+   "name": "KJ Poultry Sliced Smoked Flavor Turkey Breast",
+   "brand": "KJ Poultry",
+   "size": "6 oz",
+   "price": 4.49,
+   "price_text": "$4.49",
+   "deal": null
+  },
+  {
+   "name": "Fancy Eggplant",
+   "brand": null,
+   "size": "per lb",
+   "price": 1.19,
+   "price_text": "$1.19/lb",
+   "deal": null
+  },
+  {
+   "name": "Avocado Bag",
+   "brand": null,
+   "size": "bag",
+   "price": 2.99,
+   "price_text": "$2.99",
+   "deal": null
+  },
+  {
+   "name": "Green Squash",
+   "brand": null,
+   "size": "per lb",
+   "price": 0.69,
+   "price_text": "$0.69/lb",
+   "deal": null
+  },
+  {
+   "name": "Idaho Potatoes Bag",
+   "brand": null,
+   "size": "5 lb",
+   "price": 2.5,
+   "price_text": "2/$4.99",
+   "deal": null
+  }
+ ]
+}

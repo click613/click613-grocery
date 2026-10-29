@@ -1,0 +1,98 @@
+{
+ "chain": "Stop & Shop via Instacart (approx.)",
+ "store": "Instacart's price for Stop & Shop, approx. · read Oct 18",
+ "source": "Instacart's Stop & Shop storefront for this area's address, read logged out",
+ "read_at": "2026-10-18T08:44:30.806Z",
+ "status": "name_size",
+ "note": "Read on Instacart's Stop & Shop storefront for this area (logged out, Oct 18). Instacart shows a pricing-policy link for Stop & Shop, not a “no markups” label, so these prices are approximate: Stop & Shop's own site blocks automated reading, so in-store prices could not be checked. Every price read ends like a normal shelf price (.99, .69, .49), which a percentage markup would not leave, so no markup was taken off. Matched by exact brand, product and size. Instacart's fees are not included. Confirm in store.",
+ "items": [
+  {
+   "upc": "72251002119",
+   "name": "Near East Rice Pilaf Mix, Garlic & Herb · 6.3 oz",
+   "size": "6.3 oz",
+   "price": 2.99,
+   "url": "https://www.instacart.com/products/81385-near-east-garlic-herb-rice-pilaf-mix-6-3-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200051009",
+   "name": "Domino Premium Cane Powdered Sugar · 1 lb",
+   "size": "1 lb",
+   "price": 2.99,
+   "url": "https://www.instacart.com/products/69484-domino-premium-cane-powdered-sugar-1-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "632565000036",
+   "name": "FIJI Natural Artesian Bottled Water · 1.5 L",
+   "size": "1.5 L",
+   "price": 3.99,
+   "url": "https://www.instacart.com/products/27150-fiji-water-natural-artesian-water-1-5-l?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "16000151635",
+   "name": "General Mills Cookie Crisp Cereal · 10.6 oz",
+   "size": "10.6 oz",
+   "price": 5.99,
+   "url": "https://www.instacart.com/products/19929403-cookie-crisp-cereal-chocolate-chip-10-6-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "17400102357",
+   "name": "Carolina Jasmine Thai Fragrant Long Grain Rice · 2 lb",
+   "size": "2 lb",
+   "price": 5.99,
+   "url": "https://www.instacart.com/products/98698-carolina-jasmine-thai-fragrant-long-grain-rice-32-0-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "632565000654",
+   "name": "FIJI Natural Artesian Bottled Water · 700 ml",
+   "size": "700 ml",
+   "price": 2.69,
+   "url": "https://www.instacart.com/products/2821635-fiji-water-natural-artesian-water-23-6-fl-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "70960000112",
+   "name": "SARATOGA Sparkling Spring Water, Glass Water Bottle, 28 Oz · 28 fl oz",
+   "size": "28 fl oz",
+   "price": 3.99,
+   "url": "https://www.instacart.com/products/186321-saratoga-spring-water-sparkling-28-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "16000151284",
+   "name": "General Mills Cocoa Puffs Cereal · 294.84 g",
+   "size": "294.84 g",
+   "price": 5.99,
+   "url": "https://www.instacart.com/products/19929396-cocoa-puffs-chocolate-breakfast-cereal-with-whole-grains-10-4-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "54800423569",
+   "name": "Ben's Original Long Grain White Enriched Dry Rice Bag · 5 lb",
+   "size": "5 lb",
+   "price": 11.99,
+   "url": "https://www.instacart.com/products/24274663-ben-s-original-long-grain-white-rice-5-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "49200043509",
+   "name": "Domino Premium Pure Cane Granulated Sugar 2 lb. Carton · 32 oz",
+   "size": "32 oz",
+   "price": 4.69,
+   "url": "https://www.instacart.com/products/69482-domino-premium-sugar-cane-granulated-sugar-2-0-lb?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  },
+  {
+   "upc": "16000151291",
+   "name": "General Mills Cocoa Puffs Large Size Cereal · 430.92 g",
+   "size": "430.92 g",
+   "price": 6.99,
+   "url": "https://www.instacart.com/products/19968400-cocoa-puffs-chocolate-breakfast-cereal-with-whole-grains-15-200-oz?retailerSlug=stop-shop",
+   "note": "Stop & Shop via Instacart · approx. · read Oct 18"
+  }
+ ]
+}

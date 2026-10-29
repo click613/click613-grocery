@@ -1,0 +1,26 @@
+{
+"chain": "Lidl",
+"store": "lidl.com default price (in-store items; the regional price range is in the item note; a local store can't be chosen on lidl.com without the app)",
+"source": "lidl.com public search pages",
+"read_at": "2026-10-16T05:01:03Z",
+"status": "ok",
+"note": "Searched on lidl.com. Lidl stocks mostly its own brands, so only national brands can match. Price is lidl.com's default region; the item note carries the regional range.",
+"items": [
+{
+"upc": "48001213487",
+"name": "Hellmann's\u00ae real mayonnaise 30 fl.oz.",
+"size": "30 Oz",
+"price": 4.97,
+"url": "https://www.lidl.com/p/hellmann-s-real-mayonnaise/p11238606",
+"note": "$ 0.17 per fl.oz.; lidl.com price; varies by region $4.97-$5.65"
+},
+{
+"upc": "37600110754",
+"name": "Skippy\u00ae creamy peanut butter 16.3 oz.",
+"size": "16.3 Oz",
+"price": 2.98,
+"url": "https://www.lidl.com/p/skippy-creamy-peanut-butter/p11244094",
+"note": "$ 0.18 per oz.; lidl.com price; varies by region $2.98-$3.39"
+}
+]
+}

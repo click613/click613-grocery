@@ -1,0 +1,74 @@
+{
+ "chain": "Walmart via Instacart",
+ "store": "in-store prices per Instacart (Instacart lists Walmart with “No markups”) · read Oct 18",
+ "source": "Instacart's Walmart storefront for this area's address, read logged out",
+ "read_at": "2026-10-18T08:12:30.641Z",
+ "status": "name_size",
+ "note": "Read on Instacart's Walmart storefront for this area (logged out, Oct 18). Instacart lists Walmart with “No markups”, so prices are shown as listed. Matched by exact brand, product and size (Instacart shows no barcodes). Instacart's delivery and service fees are not included.",
+ "items": [
+  {
+   "upc": "72700104036",
+   "name": "Manischewitz Egg Noodles, Fine, Homestyle · 12 oz",
+   "size": "12 oz",
+   "price": 2.83,
+   "url": "https://www.instacart.com/products/114216-manischewitz-egg-noodles-homestyle-fine-16-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "72700104050",
+   "name": "Manischewitz Wide Egg Noodles · 12 oz",
+   "size": "12 oz",
+   "price": 2.83,
+   "url": "https://www.instacart.com/products/73288-manischewitz-egg-noodles-homestyle-wide-12-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "73410005002",
+   "name": "Arnold Brick Oven Enriched Premium White Bread · 32 oz",
+   "size": "32 oz",
+   "price": 4.97,
+   "url": "https://www.instacart.com/products/182732-brownberry-arnold-oroweat-brick-oven-premium-white-bread-32-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "73410022504",
+   "name": "Arnold Stone Ground 100% Whole Wheat Bread, 16 oz · 1 lb",
+   "size": "1 lb",
+   "price": 3.74,
+   "url": "https://www.instacart.com/products/287593-brownberry-arnold-oroweat-stone-ground-100-whole-wheat-bread-16-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "21000619849",
+   "name": "Philadelphia Original Whipped Cream Cheese Spread · 8 oz",
+   "size": "8 oz",
+   "price": 3.97,
+   "url": "https://www.instacart.com/products/39833-philadelphia-original-whipped-cream-cheese-spread-8-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "69588690867",
+   "name": "Wesson Canola Oil · 40 fl oz",
+   "size": "40 fl oz",
+   "price": 4.52,
+   "url": "https://www.instacart.com/products/32091451-wesson-pure-100-natural-canola-oil-40-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "1313703",
+   "name": "Heinz Sweet Relish · 12.7 oz",
+   "size": "12.7 oz",
+   "price": 3.42,
+   "url": "https://www.instacart.com/products/17295153-heinz-sweet-relish-12-7-fl-oz?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  },
+  {
+   "upc": "72700000079",
+   "name": "Manischewitz Matzo Ball Mix, Classic Style · 5 oz",
+   "size": "5 oz",
+   "price": 2.97,
+   "url": "https://www.instacart.com/products/73286-manischewitz-matzo-ball-mix-classic-style-2-ea?retailerSlug=walmart",
+   "note": "Walmart via Instacart · in-store prices per Instacart · read Oct 18"
+  }
+ ]
+}

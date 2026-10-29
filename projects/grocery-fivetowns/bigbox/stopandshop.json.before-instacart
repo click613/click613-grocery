@@ -1,0 +1,9 @@
+{
+"chain": "Stop & Shop",
+"store": "not read (nearest: Woodmere NY, 253-01 Rockaway Blvd (Five Towns Shopping Center))",
+"source": "stopandshop.com",
+"read_at": "2026-10-18T06:26:47.293731Z",
+"status": "walled",
+"note": "stopandshop.com shows a robot check on the first page view (Oct 18 2026). We never solve those, so no Stop & Shop prices are shown. Nearest store: Woodmere NY, 253-01 Rockaway Blvd (Five Towns Shopping Center).",
+"items": []
+}

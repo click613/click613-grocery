@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow"><title>Referral stats · Lakewood Grocery Prices</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+.wrap{max-width:760px;margin:0 auto;padding:14px}
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:10px 0}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px}
+.card h4{margin:0 0 6px;font:600 13px var(--body);color:var(--muted);text-transform:uppercase;letter-spacing:.03em}
+.card .big{font:700 22px var(--body)}
+.card small{display:block;color:var(--muted);font-size:12.5px}
+table.tot td small{display:block;color:var(--muted);font-size:12px}
+.lock{max-width:340px;margin:40px auto;text-align:center}
+.lock input{width:100%;font:18px var(--body);padding:12px;border:1.5px solid var(--line);border-radius:12px;text-align:center;letter-spacing:.2em;box-sizing:border-box}
+.lock button{margin-top:10px}
+.seg{display:flex;gap:6px;margin:8px 0}
+.seg button{flex:1;border:1.5px solid var(--line);background:var(--card);border-radius:10px;padding:8px;font:500 14px var(--body);min-height:40px;cursor:pointer}
+.seg button[aria-pressed=true]{background:var(--pri);color:#fff;border-color:var(--pri)}
+@media (max-width:420px){.cards{grid-template-columns:1fr 1fr 1fr;gap:6px}.card{padding:8px}.card .big{font-size:18px}}
+</style></head>
+<body><div class="wrap">
+<h2 style="font-family:var(--head);margin:6px 0">Referral stats</h2>
+<div id="lock" class="lock"><p class="hint">Private page. Enter the passcode.</p>
+<form id="f"><input id="pw" type="password" inputmode="numeric" autocomplete="current-password" aria-label="Passcode"><button class="ghost" type="submit">Open</button></form><p id="err" class="hint" style="color:var(--sale)"></p></div>
+<div id="out" hidden></div>
+</div>
+<script>
+(function(){
+var $=function(id){return document.getElementById(id)};
+var NAMES={},DATA=null,RANGE="7";
+function money(c){return "$"+(c/100).toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:2})}
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]})}
+function load(pw){
+  return fetch("/api/stats?days=120"+(/[?&]test=1/.test(location.search)?"&test=1":""),{headers:{"x-pass":pw},cache:"no-store"}).then(function(r){if(r.status===401)throw new Error("Wrong passcode");if(!r.ok)throw new Error("Stats unavailable ("+r.status+")");return r.json()});
+}
+function dayMinus(today,n){var d=new Date(today+"T12:00:00Z");d.setUTCDate(d.getUTCDate()-n);return d.toISOString().slice(0,10)}
+function sum(rows){var t={h:0,n:0,q:0,c:0,o:0};rows.forEach(function(r){if(r.kind==="handoff"){t.h+=r.c;t.n+=r.n||0;t.q+=r.q||0;t.c+=r.cents||0}else t.o+=r.c});return t}
+function render(){
+  var d=DATA,T=d.today,rows=d.rows;
+  var inR=function(n){var s=dayMinus(T,n-1);return rows.filter(function(r){return r.day>=s})};
+  var tt=sum(rows.filter(function(r){return r.day===T})),w=sum(inR(7)),m=sum(inR(30));
+  var card=function(h,t){return '<div class="card"><h4>'+h+'</h4><div class="big">'+money(t.c)+'</div><small>'+t.h+' handoff'+(t.h===1?"":"s")+' · '+t.n+' items</small><small>'+t.o+' store click'+(t.o===1?"":"s")+'</small></div>'};
+  var h=(/[?&]test=1/.test(location.search)?'<p class="hint" style="color:var(--sale)">Including test taps.</p>':'')+'<p class="hint"><b>Referred (estimated)</b>, not sales. A handoff is a shopper tapping “Shop at” a store with their list; the $ is that list at the store’s online prices. Store clicks are taps on any link to a store’s site. Only the stores can confirm what was actually bought.</p>';
+  h+='<div class="cards">'+card("Today",tt)+card("Last 7 days",w)+card("Last 30 days",m)+'</div>';
+  h+='<div class="seg">'+[["1","Today"],["7","7 days"],["30","30 days"],["120","All"]].map(function(x){return '<button data-r="'+x[0]+'" aria-pressed="'+(RANGE===x[0])+'">'+x[1]+'</button>'}).join("")+'</div>';
+  var sel=inR(+RANGE),by={};
+  sel.forEach(function(r){var b=by[r.store]=by[r.store]||{h:0,n:0,q:0,c:0,o:0};if(r.kind==="handoff"){b.h+=r.c;b.n+=r.n||0;b.q+=r.q||0;b.c+=r.cents||0}else b.o+=r.c});
+  var ks=Object.keys(by).sort(function(a,b){return by[b].c-by[a].c||by[b].o-by[a].o});
+  h+='<h3>By store</h3><table class="tot"><tr><th>Store</th><th class="r">Handoffs</th><th class="r">Referred $ (est.)</th><th class="r">Clicks</th></tr>'+
+    (ks.length?ks.map(function(k){var b=by[k];return '<tr><td>'+esc(NAMES[k]||k)+'<small>'+b.n+' items · '+b.q+' units</small></td><td class="r">'+b.h+'</td><td class="r">'+money(b.c)+'</td><td class="r">'+b.o+'</td></tr>'}).join(""):'<tr><td colspan="4">Nothing yet in this range.</td></tr>')+'</table>';
+  var days={};rows.forEach(function(r){var x=days[r.day]=days[r.day]||[];x.push(r)});
+  var dk=Object.keys(days).sort().reverse().slice(0,30);
+  h+='<h3>By day</h3><table class="tot"><tr><th>Day</th><th class="r">Handoffs</th><th class="r">Referred $ (est.)</th><th class="r">Clicks</th></tr>'+
+    (dk.length?dk.map(function(k){var t=sum(days[k]);return '<tr><td>'+new Date(k+"T12:00:00").toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric"})+'<small>'+t.n+' items</small></td><td class="r">'+t.h+'</td><td class="r">'+money(t.c)+'</td><td class="r">'+t.o+'</td></tr>'}).join(""):'<tr><td colspan="4">No handoffs yet.</td></tr>')+'</table>';
+  var wk={};rows.forEach(function(r){var d0=new Date(r.day+"T12:00:00Z");d0.setUTCDate(d0.getUTCDate()-d0.getUTCDay());var k=d0.toISOString().slice(0,10);(wk[k]=wk[k]||[]).push(r)});
+  var wks=Object.keys(wk).sort().reverse().slice(0,12);
+  h+='<h3>By week (Sun–Sat)</h3><table class="tot"><tr><th>Week of</th><th class="r">Handoffs</th><th class="r">Referred $ (est.)</th><th class="r">Clicks</th></tr>'+
+    (wks.length?wks.map(function(k){var t=sum(wk[k]);return '<tr><td>'+new Date(k+"T12:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric"})+'</td><td class="r">'+t.h+'</td><td class="r">'+money(t.c)+'</td><td class="r">'+t.o+'</td></tr>'}).join(""):'<tr><td colspan="4">No handoffs yet.</td></tr>')+'</table>';
+  var cx={};(d.by_context||[]).forEach(function(r){cx[r.ctx||"site"]=(cx[r.ctx||"site"]||0)+r.c});
+  h+='<p class="disclaimer">Where taps came from (last 120 days): '+(Object.keys(cx).map(function(k){return esc(k.replace("embed","embedded on a partner site").replace("-click613"," (Click613 look)"))+' '+cx[k]}).join(" · ")||"none yet")+'. Counts are anonymous: no names, phone numbers, IP addresses or cookies are kept. Re-opening the same list for the same store within 30 minutes counts once. Every link to a store carries utm_source=click613, utm_medium=referral, utm_campaign=lakewoodprices, so stores can see this traffic in their own analytics.</p>';
+  $("out").innerHTML=h;$("out").hidden=false;$("lock").hidden=true;
+}
+document.addEventListener("click",function(e){var b=e.target.closest("[data-r]");if(b){RANGE=b.getAttribute("data-r");render()}});
+function go(pw){$("err").textContent="";load(pw).then(function(d){DATA=d;try{sessionStorage.setItem("lkp_pw",pw)}catch(e){}render()}).catch(function(e){$("err").textContent=e.message;try{sessionStorage.removeItem("lkp_pw")}catch(x){}})}
+$("f").addEventListener("submit",function(e){e.preventDefault();go($("pw").value.trim())});
+fetch("meta.json").then(function(r){return r.json()}).then(function(m){(m.stores||[]).forEach(function(s){NAMES[s.key]=s.name});if(DATA)render()}).catch(function(){});
+var saved=null;try{saved=sessionStorage.getItem("lkp_pw")}catch(e){}if(saved)go(saved);
+})();
+</script></body></html>

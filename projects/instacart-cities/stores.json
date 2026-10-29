@@ -1,0 +1,51 @@
+{
+ "monsey": [
+  {
+   "key": "bingo",
+   "read": "bingo-monsey",
+   "slug": "bingo-wholesale",
+   "multiplier": 1.175,
+   "markup": 0.175,
+   "name": "Bingo (approx.)",
+   "short": "Bingo",
+   "full": "Bingo Wholesale",
+   "addr": "44 Spring Valley Market Pl",
+   "town": "Spring Valley",
+   "site": "https://www.instacart.com/store/bingo-wholesale",
+   "note": "Bingo has no price website. Estimated from Bingo's Instacart prices with Instacart's 17.5% markup removed, read Oct 18. Confirm in store."
+  }
+ ],
+ "fivetowns": [
+  {
+   "key": "bingo",
+   "read": "bingo-fivetowns",
+   "slug": "bingo-wholesale",
+   "multiplier": 1.175,
+   "markup": 0.175,
+   "name": "Bingo (approx.)",
+   "short": "Bingo",
+   "full": "Bingo Wholesale",
+   "addr": "603 Burnside Ave",
+   "town": "Inwood",
+   "site": "https://www.instacart.com/store/bingo-wholesale",
+   "note": "Bingo has no price website. Estimated from Bingo's Instacart prices with Instacart's 17.5% markup removed, read Oct 18. Confirm in store."
+  }
+ ],
+ "bpflatbush": [
+  {
+   "key": "bingo",
+   "read": "bingo-bp",
+   "slug": "bingo-wholesale",
+   "multiplier": 1.175,
+   "markup": 0.175,
+   "name": "Bingo (approx.)",
+   "short": "Bingo",
+   "full": "Bingo Wholesale",
+   "addr": "1245 61st St",
+   "town": "Boro Park",
+   "site": "https://www.instacart.com/store/bingo-wholesale",
+   "note": "Bingo has no price website. Estimated from Bingo's Instacart prices with Instacart's 17.5% markup removed, read Oct 18. Confirm in store."
+  }
+ ],
+ "williamsburg": []
+}
