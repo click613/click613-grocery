@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-29T04:40:18+00:00",
- "run_started": "2026-10-29T04:37:35+00:00",
+ "generated": "2026-10-29T05:21:23+00:00",
+ "run_started": "2026-10-29T05:18:06+00:00",
  "all_ok": true,
  "stale_areas": [],
- "bot_api_built": "2026-10-29T04:40:18Z",
+ "bot_api_built": "2026-10-29T05:21:23Z",
  "crashed_steps": [],
  "areas": [
   {
@@ -11,7 +11,7 @@
    "name": "Lakewood",
    "last_updated": "2026-10-29T04:17:37+00:00",
    "last_updated_date_et": "2026-10-29",
-   "age_hours": 0.4,
+   "age_hours": 1.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Seasons Lakewood",
@@ -33,7 +33,7 @@
    "name": "Boro Park & Flatbush",
    "last_updated": "2026-10-27T08:26:58+00:00",
    "last_updated_date_et": "2026-10-27",
-   "age_hours": 44.2,
+   "age_hours": 44.9,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Breadberry",
@@ -61,7 +61,7 @@
    "name": "Williamsburg",
    "last_updated": "2026-10-27T08:21:51+00:00",
    "last_updated_date_et": "2026-10-27",
-   "age_hours": 44.3,
+   "age_hours": 45.0,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Rosemary Kosher Supermarket",
@@ -78,7 +78,7 @@
    "name": "Crown Heights",
    "last_updated": "2026-10-27T08:19:15+00:00",
    "last_updated_date_et": "2026-10-27",
-   "age_hours": 44.4,
+   "age_hours": 45.0,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "The Market Place (KosherFamily)",
@@ -91,7 +91,7 @@
    "name": "Five Towns",
    "last_updated": "2026-10-27T08:36:08+00:00",
    "last_updated_date_et": "2026-10-27",
-   "age_hours": 44.1,
+   "age_hours": 44.8,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Seasons Lawrence",
@@ -105,7 +105,7 @@
    "name": "Monsey",
    "last_updated": "2026-10-27T08:37:28+00:00",
    "last_updated_date_et": "2026-10-27",
-   "age_hours": 44.0,
+   "age_hours": 44.7,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Rockland Kosher Supermarket",
@@ -123,7 +123,7 @@
    "name": "KJ / Monroe",
    "last_updated": "2026-10-27T08:24:08+00:00",
    "last_updated_date_et": "2026-10-27",
-   "age_hours": 44.3,
+   "age_hours": 45.0,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Landau's Supermarket KJ",
@@ -137,7 +137,7 @@
    "name": "Teaneck / Bergenfield",
    "last_updated": "2026-10-27T08:37:30+00:00",
    "last_updated_date_et": "2026-10-27",
-   "age_hours": 44.0,
+   "age_hours": 44.7,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Grand & Essex Market",
@@ -151,7 +151,7 @@
    "name": "Passaic / Clifton",
    "last_updated": "2026-10-27T08:37:30+00:00",
    "last_updated_date_et": "2026-10-27",
-   "age_hours": 44.0,
+   "age_hours": 44.7,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Food Showcase",
@@ -166,7 +166,7 @@
    "name": "Queens (Kew Gardens Hills)",
    "last_updated": "2026-10-27T08:25:48+00:00",
    "last_updated_date_et": "2026-10-27",
-   "age_hours": 44.2,
+   "age_hours": 44.9,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Seasons Queens",
@@ -179,7 +179,7 @@
    "name": "Far Rockaway",
    "last_updated": "2026-10-27T08:23:00+00:00",
    "last_updated_date_et": "2026-10-27",
-   "age_hours": 44.3,
+   "age_hours": 45.0,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Seasons Lawrence",
