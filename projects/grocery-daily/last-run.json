@@ -1,0 +1,197 @@
+{
+ "ok_areas": [
+  "fivetowns",
+  "kj",
+  "farrockaway",
+  "queens",
+  "bpflatbush",
+  "williamsburg",
+  "crownheights",
+  "monsey",
+  "teaneck",
+  "passaic"
+ ],
+ "failed_areas": {},
+ "stale_2d": [],
+ "published": true,
+ "fetched": true,
+ "version": "20261031r0850",
+ "readers": [
+  {
+   "project": "fivetowns",
+   "reader": "fetch_zc.py",
+   "rc": 1,
+   "secs": 17
+  },
+  {
+   "project": "brooklyn",
+   "reader": "pomegranate",
+   "rc": 0,
+   "secs": 14
+  },
+  {
+   "project": "brooklyn",
+   "reader": "glatt-mart",
+   "rc": 0,
+   "secs": 12
+  },
+  {
+   "project": "brooklyn",
+   "reader": "kosher-corner",
+   "rc": 0,
+   "secs": 10
+  },
+  {
+   "project": "brooklyn",
+   "reader": "kahans",
+   "rc": 0,
+   "secs": 12
+  },
+  {
+   "project": "brooklyn",
+   "reader": "hatzlacha",
+   "rc": 0,
+   "secs": 10
+  },
+  {
+   "project": "fivetowns",
+   "reader": "rockaway-kosher",
+   "rc": 0,
+   "secs": 10
+  },
+  {
+   "project": "kj",
+   "reader": "refresh",
+   "rc": 0,
+   "secs": 13
+  },
+  {
+   "project": "kj",
+   "reader": "gesheft-sp",
+   "rc": 0,
+   "secs": 10
+  },
+  {
+   "project": "monsey",
+   "reader": "wesley",
+   "rc": 0,
+   "secs": 11
+  },
+  {
+   "project": "fivetowns",
+   "reader": "fetch_mcg.py",
+   "rc": 0,
+   "secs": 53
+  },
+  {
+   "project": "monsey",
+   "reader": "monsey-glatt",
+   "rc": 0,
+   "secs": 10
+  },
+  {
+   "project": "monsey",
+   "reader": "newday",
+   "rc": 0,
+   "secs": 11
+  },
+  {
+   "project": "passaic",
+   "reader": "aisle-one",
+   "rc": 0,
+   "secs": 11
+  },
+  {
+   "project": "brooklyn",
+   "reader": "fetch_mcg.py",
+   "rc": 0,
+   "secs": 104
+  },
+  {
+   "project": "queens",
+   "reader": "arons",
+   "rc": 0,
+   "secs": 10
+  },
+  {
+   "project": "kj",
+   "reader": "fetch_3h.py",
+   "rc": 0,
+   "secs": 13
+  },
+  {
+   "project": "fivetowns",
+   "reader": "gg-cedarhurst",
+   "rc": 0,
+   "secs": 94
+  },
+  {
+   "project": "teaneck",
+   "reader": "glatt-express",
+   "rc": 0,
+   "secs": 13
+  },
+  {
+   "project": "kj",
+   "reader": "fetch_mcg.py",
+   "rc": 0,
+   "secs": 61
+  },
+  {
+   "project": "teaneck",
+   "reader": "cedar",
+   "rc": 0,
+   "secs": 11
+  },
+  {
+   "project": "monsey",
+   "reader": "evergreen",
+   "rc": 0,
+   "secs": 90
+  },
+  {
+   "project": "brooklyn",
+   "reader": "fetch_sp.py",
+   "rc": 0,
+   "secs": 163
+  },
+  {
+   "project": "monsey",
+   "reader": "fetch_mcg.py",
+   "rc": 0,
+   "secs": 172
+  },
+  {
+   "project": "queens",
+   "reader": "fetch_mcg.py",
+   "rc": 0,
+   "secs": 69
+  },
+  {
+   "project": "teaneck",
+   "reader": "fetch_mcg.py",
+   "rc": 0,
+   "secs": 52
+  },
+  {
+   "project": "teaneck",
+   "reader": "fetch_3h.py",
+   "rc": 0,
+   "secs": 47
+  },
+  {
+   "project": "brooklyn",
+   "reader": "fetch_3h.py",
+   "rc": 0,
+   "secs": 220
+  },
+  {
+   "project": "monsey",
+   "reader": "fetch_3h.py",
+   "rc": 0,
+   "secs": 133
+  }
+ ],
+ "took_s": 310,
+ "finished": "2026-10-31T08:56:04Z"
+}

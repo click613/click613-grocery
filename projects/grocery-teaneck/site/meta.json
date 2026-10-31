@@ -1,0 +1,58 @@
+{
+ "updated": "2026-10-31T04:54:36-0400",
+ "built": "2026-10-31T08:56:00+00:00",
+ "products": 6194,
+ "at_2plus_stores": 6191,
+ "rows": 28723,
+ "stores": [
+  {
+   "key": "grand-essex",
+   "name": "Grand & Essex Market",
+   "town": "Bergenfield",
+   "items": 9484,
+   "checked": "2026-10-31T04:54:36-0400",
+   "status": null
+  },
+  {
+   "key": "food-showcase",
+   "name": "Food Showcase",
+   "town": "Fair Lawn",
+   "items": 6112,
+   "checked": "2026-10-31T04:54:35-0400",
+   "status": null
+  },
+  {
+   "key": "glatt-express",
+   "name": "Glatt Express",
+   "town": "Teaneck",
+   "items": 6346,
+   "checked": "2026-10-26T09:22:34+0000",
+   "status": null
+  },
+  {
+   "key": "cedar",
+   "name": "Cedar Market",
+   "town": "Teaneck",
+   "items": 6781,
+   "checked": "2026-10-27T08:37:30+0000",
+   "status": null
+  }
+ ],
+ "data_url": "data.json.gz",
+ "fields": [
+  "name",
+  "size",
+  "qty",
+  "unit",
+  "dept",
+  "upc",
+  "per",
+  "offers[[store,price_each,was,id,deal_qty,deal_total,odd]]",
+  "match(1=barcode,2=name+size,3=barcode, plus stores without barcodes matched by exact name+size)",
+  "big[[chain,price,url,name,size,note]] (optional, same barcode)"
+ ],
+ "big_chains": [],
+ "big_matched_products": 0,
+ "flyers": [],
+ "note": "Prices come from each store's own website. In-store prices may differ."
+}

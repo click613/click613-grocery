@@ -1,0 +1,183 @@
+{
+ "updated": "2026-10-31T05:02:32-0400",
+ "built": "2026-10-31T09:02:37+00:00",
+ "products": 58876,
+ "at_2plus_stores": 27370,
+ "rows": 132638,
+ "stores": [
+  {
+   "key": "seasons-lkw",
+   "name": "Seasons Lakewood",
+   "town": "Lakewood",
+   "items": 11033,
+   "checked": "2026-10-31T04:59:22-0400",
+   "status": null
+  },
+  {
+   "key": "seasons-tr",
+   "name": "Seasons Toms River",
+   "town": "Toms River",
+   "items": 8115,
+   "checked": "2026-10-31T05:02:32-0400",
+   "status": null
+  },
+  {
+   "key": "nutmeg",
+   "name": "Nutmeg Kosher Market",
+   "town": "Lakewood",
+   "items": 9902,
+   "checked": "2026-10-31T04:58:03-0400",
+   "status": null
+  },
+  {
+   "key": "aisle9-lkw",
+   "name": "Aisle 9 Lakewood",
+   "town": "Lakewood",
+   "items": 7494,
+   "checked": "2026-10-31T04:57:39-0400",
+   "status": null
+  },
+  {
+   "key": "aisle9-jax",
+   "name": "Aisle 9 Jackson",
+   "town": "Jackson",
+   "items": 11247,
+   "checked": "2026-10-31T05:00:00-0400",
+   "status": null
+  },
+  {
+   "key": "superstop",
+   "name": "Super Stop",
+   "town": "Lakewood",
+   "items": 6778,
+   "checked": "2026-10-31T04:57:30-0400",
+   "status": null
+  },
+  {
+   "key": "kosherwest",
+   "name": "Kosher West",
+   "town": "Lakewood",
+   "items": 10749,
+   "checked": "2026-10-31T04:58:14-0400",
+   "status": null
+  },
+  {
+   "key": "kosher-village",
+   "name": "Kosher Village",
+   "town": "Lakewood",
+   "items": 18201,
+   "checked": "2026-10-31T04:58:21-0400",
+   "status": null
+  },
+  {
+   "key": "evergreen",
+   "name": "Evergreen Kosher",
+   "town": "Lakewood",
+   "items": 12590,
+   "checked": "2026-10-29T04:15:38+0000",
+   "status": null
+  },
+  {
+   "key": "gourmet-glatt",
+   "name": "Gourmet Glatt",
+   "town": "Lakewood",
+   "items": 15060,
+   "checked": "2026-10-29T04:15:51+0000",
+   "status": null
+  },
+  {
+   "key": "npgs",
+   "name": "NPGS",
+   "town": "Jackson",
+   "items": 12966,
+   "checked": "2026-10-29T04:15:15+0000",
+   "status": null
+  },
+  {
+   "key": "foodex",
+   "name": "Foodex",
+   "town": "Lakewood",
+   "items": 8503,
+   "checked": "2026-10-29T04:13:51+0000",
+   "status": null
+  }
+ ],
+ "data_url": "data.json.gz",
+ "fields": [
+  "name",
+  "size",
+  "qty",
+  "unit",
+  "dept",
+  "upc",
+  "per",
+  "offers[[store,price_each,was,id,deal_qty,deal_total,odd]]",
+  "match(1=barcode,2=name+size,3=barcode, plus stores without barcodes matched by exact name+size)",
+  "big[[chain,price,url,name,size,note]] (optional, same barcode)"
+ ],
+ "big_chains": [
+  {
+   "key": "walmart",
+   "name": "Walmart",
+   "label": "Walmart",
+   "store": "Howell NJ 07731 (Walmart Supercenter #2195, 4900 US-9) \u2014 in-store/pickup price",
+   "status": "ok",
+   "items": 18,
+   "read": "2026-10-16T05:22:27.891Z",
+   "note": "800 of 800 searched by name (UPC search returns nothing on walmart.com). Only items sold by Walmart.com with the Howell NJ store set (in-store/pickup price); marketplace sellers excluded. 18 same-size matches."
+  },
+  {
+   "key": "aldi",
+   "name": "Aldi",
+   "label": "Aldi",
+   "store": "ALDI Union NJ (the NJ store the site assigned; a Lakewood-area store could not be chosen without an account)",
+   "status": "ok",
+   "items": 0,
+   "read": "2026-10-16T05:42:37.346Z",
+   "note": "208 of 210 brands searched on the aldi.us storefront (NJ exit; store assigned by the site: ALDI Union NJ). Aldi stocks almost only its own brands; none of the 800 items appeared in the same brand and size. 0 matches."
+  },
+  {
+   "key": "amazon",
+   "name": "Amazon",
+   "label": "Amazon (price varies, may include shipping)",
+   "store": "Amazon.com online (price varies, may include shipping)",
+   "status": "ok",
+   "items": 29,
+   "read": "2026-10-16T05:22:57.490Z",
+   "note": "800 of 800 searched by name. Listing price as shown on amazon.com search; many are third-party sellers, so prices can be far above store price and may include shipping. 29 same-size matches."
+  },
+  {
+   "key": "costco",
+   "name": "Costco",
+   "label": "Costco",
+   "store": "costco.com (warehouse shown: Edison NJ)",
+   "status": "ok",
+   "items": 0,
+   "read": "2026-10-16T05:20:42.629Z",
+   "note": "costco.com prices are public (no login needed), but Costco sells these brands only as club multipacks (e.g. Heinz ketchup 44 oz 3-count, Hellmann's 64 oz), so none of the 800 items exists there in the same single size. 49 national-brand searches read (warehouse shown: Edison NJ); 0 same-size matches."
+  },
+  {
+   "key": "stopandshop",
+   "name": "Stop & Shop",
+   "label": "Stop & Shop",
+   "store": "not read",
+   "status": "blocked",
+   "items": 0,
+   "read": "2026-10-16T05:20:09.060694Z",
+   "note": "stopandshop.com answered a 'Maintenance' page (website and app unavailable) on 3 tries between 04:43 and 05:02 UTC Oct 16; plain requests get a 403 bot wall. Re-run `node fetch_bigbox.mjs stopandshop` when the site is back."
+  },
+  {
+   "key": "lidl",
+   "name": "Lidl",
+   "label": "Lidl",
+   "store": "lidl.com default price (in-store items; regional price range noted per item; NJ store not selectable without the app)",
+   "status": "ok",
+   "items": 6,
+   "read": "2026-10-16T05:25:51Z",
+   "note": "800 of 800 searched on lidl.com (plain requests). Lidl stocks mostly its own brands; 6 same-size matches of national brands. Price is lidl.com's default region; the item note carries the regional range."
+  }
+ ],
+ "big_matched_products": 30,
+ "flyers": [],
+ "note": "Prices come from each store's own website. In-store prices may differ."
+}
