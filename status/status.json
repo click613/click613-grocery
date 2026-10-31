@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-30T09:10:58+00:00",
- "run_started": "2026-10-30T09:00:00+00:00",
+ "generated": "2026-10-31T09:03:13+00:00",
+ "run_started": "2026-10-31T08:50:54+00:00",
  "all_ok": true,
  "stale_areas": [],
- "bot_api_built": "2026-10-30T09:10:37Z",
+ "bot_api_built": "2026-10-31T09:02:54Z",
  "crashed_steps": [],
  "areas": [
   {
    "area": "lakewood",
    "name": "Lakewood",
-   "last_updated": "2026-10-30T05:10:03-04:00",
-   "last_updated_date_et": "2026-10-30",
+   "last_updated": "2026-10-31T05:02:32-04:00",
+   "last_updated_date_et": "2026-10-31",
    "age_hours": 0.0,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -23,9 +23,9 @@
   {
    "area": "bpflatbush",
    "name": "Boro Park & Flatbush",
-   "last_updated": "2026-10-30T09:03:08+00:00",
-   "last_updated_date_et": "2026-10-30",
-   "age_hours": 0.1,
+   "last_updated": "2026-10-31T08:53:44+00:00",
+   "last_updated_date_et": "2026-10-31",
+   "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Pomegranate",
@@ -36,8 +36,8 @@
   {
    "area": "williamsburg",
    "name": "Williamsburg",
-   "last_updated": "2026-10-30T05:03:50-04:00",
-   "last_updated_date_et": "2026-10-30",
+   "last_updated": "2026-10-31T04:54:40-04:00",
+   "last_updated_date_et": "2026-10-31",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -47,8 +47,8 @@
   {
    "area": "crownheights",
    "name": "Crown Heights",
-   "last_updated": "2026-10-30T05:01:05-04:00",
-   "last_updated_date_et": "2026-10-30",
+   "last_updated": "2026-10-31T04:51:55-04:00",
+   "last_updated_date_et": "2026-10-31",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -58,8 +58,8 @@
   {
    "area": "fivetowns",
    "name": "Five Towns",
-   "last_updated": "2026-10-30T05:01:11-04:00",
-   "last_updated_date_et": "2026-10-30",
+   "last_updated": "2026-10-31T04:52:01-04:00",
+   "last_updated_date_et": "2026-10-31",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -71,12 +71,12 @@
   {
    "area": "monsey",
    "name": "Monsey",
-   "last_updated": "2026-10-30T05:04:11-04:00",
-   "last_updated_date_et": "2026-10-30",
+   "last_updated": "2026-10-31T04:55:01-04:00",
+   "last_updated_date_et": "2026-10-31",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
-    "Pineapple Supermarket",
+    "Madanim Supermarket",
     "Evergreen Kosher Market",
     "Wesley Kosher",
     "Monsey Glatt",
@@ -86,9 +86,9 @@
   {
    "area": "kj",
    "name": "KJ / Monroe",
-   "last_updated": "2026-10-30T05:02:17-04:00",
-   "last_updated_date_et": "2026-10-30",
-   "age_hours": 0.1,
+   "last_updated": "2026-10-31T04:53:05-04:00",
+   "last_updated_date_et": "2026-10-31",
+   "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Gesheft",
@@ -98,8 +98,8 @@
   {
    "area": "teaneck",
    "name": "Teaneck / Bergenfield",
-   "last_updated": "2026-10-30T05:04:00-04:00",
-   "last_updated_date_et": "2026-10-30",
+   "last_updated": "2026-10-31T04:54:36-04:00",
+   "last_updated_date_et": "2026-10-31",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -110,8 +110,8 @@
   {
    "area": "passaic",
    "name": "Passaic / Clifton",
-   "last_updated": "2026-10-30T05:04:00-04:00",
-   "last_updated_date_et": "2026-10-30",
+   "last_updated": "2026-10-31T04:54:36-04:00",
+   "last_updated_date_et": "2026-10-31",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -123,8 +123,8 @@
   {
    "area": "queens",
    "name": "Queens (Kew Gardens Hills)",
-   "last_updated": "2026-10-30T05:03:30-04:00",
-   "last_updated_date_et": "2026-10-30",
+   "last_updated": "2026-10-31T04:54:14-04:00",
+   "last_updated_date_et": "2026-10-31",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -134,8 +134,8 @@
   {
    "area": "farrockaway",
    "name": "Far Rockaway",
-   "last_updated": "2026-10-30T05:01:11-04:00",
-   "last_updated_date_et": "2026-10-30",
+   "last_updated": "2026-10-31T04:52:01-04:00",
+   "last_updated_date_et": "2026-10-31",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
