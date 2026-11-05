@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-04T10:33:42+00:00",
- "run_started": "2026-11-04T10:17:55+00:00",
+ "generated": "2026-11-05T10:34:04+00:00",
+ "run_started": "2026-11-05T10:17:25+00:00",
  "all_ok": true,
  "stale_areas": [],
- "bot_api_built": "2026-11-04T10:33:21Z",
+ "bot_api_built": "2026-11-05T10:33:40Z",
  "crashed_steps": [],
  "areas": [
   {
    "area": "lakewood",
    "name": "Lakewood",
-   "last_updated": "2026-11-04T05:32:46-05:00",
-   "last_updated_date_et": "2026-11-04",
+   "last_updated": "2026-11-05T05:33:12-05:00",
+   "last_updated_date_et": "2026-11-05",
    "age_hours": 0.0,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -23,8 +23,8 @@
   {
    "area": "bpflatbush",
    "name": "Boro Park & Flatbush",
-   "last_updated": "2026-11-04T10:20:54+00:00",
-   "last_updated_date_et": "2026-11-04",
+   "last_updated": "2026-11-05T10:20:15+00:00",
+   "last_updated_date_et": "2026-11-05",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -36,8 +36,8 @@
   {
    "area": "williamsburg",
    "name": "Williamsburg",
-   "last_updated": "2026-11-04T05:22:03-05:00",
-   "last_updated_date_et": "2026-11-04",
+   "last_updated": "2026-11-05T05:20:56-05:00",
+   "last_updated_date_et": "2026-11-05",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -47,8 +47,8 @@
   {
    "area": "crownheights",
    "name": "Crown Heights",
-   "last_updated": "2026-11-04T05:20:37-05:00",
-   "last_updated_date_et": "2026-11-04",
+   "last_updated": "2026-11-05T05:20:31-05:00",
+   "last_updated_date_et": "2026-11-05",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -58,9 +58,9 @@
   {
    "area": "fivetowns",
    "name": "Five Towns",
-   "last_updated": "2026-11-04T05:19:05-05:00",
-   "last_updated_date_et": "2026-11-04",
-   "age_hours": 0.2,
+   "last_updated": "2026-11-05T05:18:33-05:00",
+   "last_updated_date_et": "2026-11-05",
+   "age_hours": 0.3,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "I & D Glatt Market",
@@ -71,8 +71,8 @@
   {
    "area": "monsey",
    "name": "Monsey",
-   "last_updated": "2026-11-04T05:29:05-05:00",
-   "last_updated_date_et": "2026-11-04",
+   "last_updated": "2026-11-05T05:30:10-05:00",
+   "last_updated_date_et": "2026-11-05",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -85,8 +85,8 @@
   {
    "area": "kj",
    "name": "KJ / Monroe",
-   "last_updated": "2026-11-04T05:20:25-05:00",
-   "last_updated_date_et": "2026-11-04",
+   "last_updated": "2026-11-05T05:19:49-05:00",
+   "last_updated_date_et": "2026-11-05",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -97,8 +97,8 @@
   {
    "area": "teaneck",
    "name": "Teaneck / Bergenfield",
-   "last_updated": "2026-11-04T05:23:03-05:00",
-   "last_updated_date_et": "2026-11-04",
+   "last_updated": "2026-11-05T05:22:11-05:00",
+   "last_updated_date_et": "2026-11-05",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -109,8 +109,8 @@
   {
    "area": "passaic",
    "name": "Passaic / Clifton",
-   "last_updated": "2026-11-04T05:23:03-05:00",
-   "last_updated_date_et": "2026-11-04",
+   "last_updated": "2026-11-05T05:22:11-05:00",
+   "last_updated_date_et": "2026-11-05",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -122,8 +122,8 @@
   {
    "area": "queens",
    "name": "Queens (Kew Gardens Hills)",
-   "last_updated": "2026-11-04T05:22:07-05:00",
-   "last_updated_date_et": "2026-11-04",
+   "last_updated": "2026-11-05T05:21:25-05:00",
+   "last_updated_date_et": "2026-11-05",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -133,9 +133,9 @@
   {
    "area": "farrockaway",
    "name": "Far Rockaway",
-   "last_updated": "2026-11-04T05:19:05-05:00",
-   "last_updated_date_et": "2026-11-04",
-   "age_hours": 0.2,
+   "last_updated": "2026-11-05T05:18:33-05:00",
+   "last_updated_date_et": "2026-11-05",
+   "age_hours": 0.3,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Rockaway Kosher",
