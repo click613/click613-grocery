@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-08T10:10:15+00:00",
- "run_started": "2026-11-08T09:58:43+00:00",
+ "generated": "2026-11-09T10:20:50+00:00",
+ "run_started": "2026-11-09T10:11:15+00:00",
  "all_ok": true,
  "stale_areas": [],
- "bot_api_built": "2026-11-08T10:09:53Z",
+ "bot_api_built": "2026-11-09T10:20:27Z",
  "crashed_steps": [],
  "areas": [
   {
    "area": "lakewood",
    "name": "Lakewood",
-   "last_updated": "2026-11-08T05:09:17-05:00",
-   "last_updated_date_et": "2026-11-08",
+   "last_updated": "2026-11-09T05:19:56-05:00",
+   "last_updated_date_et": "2026-11-09",
    "age_hours": 0.0,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -23,14 +23,11 @@
   {
    "area": "bpflatbush",
    "name": "Boro Park & Flatbush",
-   "last_updated": "2026-11-08T10:01:39+00:00",
-   "last_updated_date_et": "2026-11-08",
+   "last_updated": "2026-11-09T10:14:15+00:00",
+   "last_updated_date_et": "2026-11-09",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
-    "Fischman's Grocery",
-    "Wiesner's Market",
-    "Rubin's Grocery",
     "Pomegranate",
     "Glatt Mart",
     "Kosher Corner Supermarket"
@@ -39,8 +36,8 @@
   {
    "area": "williamsburg",
    "name": "Williamsburg",
-   "last_updated": "2026-11-08T05:02:39-05:00",
-   "last_updated_date_et": "2026-11-08",
+   "last_updated": "2026-11-09T05:15:19-05:00",
+   "last_updated_date_et": "2026-11-09",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -50,9 +47,9 @@
   {
    "area": "crownheights",
    "name": "Crown Heights",
-   "last_updated": "2026-11-08T04:59:49-05:00",
-   "last_updated_date_et": "2026-11-08",
-   "age_hours": 0.2,
+   "last_updated": "2026-11-09T05:12:22-05:00",
+   "last_updated_date_et": "2026-11-09",
+   "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Kahan's Superette"
@@ -61,9 +58,9 @@
   {
    "area": "fivetowns",
    "name": "Five Towns",
-   "last_updated": "2026-11-08T04:59:53-05:00",
-   "last_updated_date_et": "2026-11-08",
-   "age_hours": 0.2,
+   "last_updated": "2026-11-09T05:12:26-05:00",
+   "last_updated_date_et": "2026-11-09",
+   "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "I & D Glatt Market",
@@ -74,8 +71,8 @@
   {
    "area": "monsey",
    "name": "Monsey",
-   "last_updated": "2026-11-08T05:03:04-05:00",
-   "last_updated_date_et": "2026-11-08",
+   "last_updated": "2026-11-09T05:15:26-05:00",
+   "last_updated_date_et": "2026-11-09",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -88,9 +85,9 @@
   {
    "area": "kj",
    "name": "KJ / Monroe",
-   "last_updated": "2026-11-08T05:00:57-05:00",
-   "last_updated_date_et": "2026-11-08",
-   "age_hours": 0.2,
+   "last_updated": "2026-11-09T05:13:29-05:00",
+   "last_updated_date_et": "2026-11-09",
+   "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Gesheft",
@@ -100,8 +97,8 @@
   {
    "area": "teaneck",
    "name": "Teaneck / Bergenfield",
-   "last_updated": "2026-11-08T05:02:41-05:00",
-   "last_updated_date_et": "2026-11-08",
+   "last_updated": "2026-11-09T05:15:13-05:00",
+   "last_updated_date_et": "2026-11-09",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -112,8 +109,8 @@
   {
    "area": "passaic",
    "name": "Passaic / Clifton",
-   "last_updated": "2026-11-08T05:02:41-05:00",
-   "last_updated_date_et": "2026-11-08",
+   "last_updated": "2026-11-09T05:15:13-05:00",
+   "last_updated_date_et": "2026-11-09",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -125,8 +122,8 @@
   {
    "area": "queens",
    "name": "Queens (Kew Gardens Hills)",
-   "last_updated": "2026-11-08T05:02:10-05:00",
-   "last_updated_date_et": "2026-11-08",
+   "last_updated": "2026-11-09T05:14:42-05:00",
+   "last_updated_date_et": "2026-11-09",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -136,9 +133,9 @@
   {
    "area": "farrockaway",
    "name": "Far Rockaway",
-   "last_updated": "2026-11-08T04:59:53-05:00",
-   "last_updated_date_et": "2026-11-08",
-   "age_hours": 0.2,
+   "last_updated": "2026-11-09T05:12:26-05:00",
+   "last_updated_date_et": "2026-11-09",
+   "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Rockaway Kosher",
