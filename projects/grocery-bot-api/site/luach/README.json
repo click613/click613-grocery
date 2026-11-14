@@ -1,0 +1,17 @@
+{
+ "what": "Every public section of thelakewoodluach.com (Click613's Lakewood Luach) as one JSON list, for the Click613 bot.",
+ "files": {
+  "index.json": "{v, built, exported, source, entries:[...]}",
+  "sections.json": "section names + what is deliberately not included"
+ },
+ "entry_fields": {
+  "section": "updates | traffic | simchas-today | simchas-upcoming | yahrzeits | erev-shabbos | motzei-shabbos | kids-clubs | schools | rentals | shiurim | election | emergency | eateries | businesses | simcha-halls",
+  "title": "short name (place, club, school, shul, headline)",
+  "text": "the details as the Luach states them (address, hours, phone, ages ...)",
+  "date": "the item's date or the feed's last-update date (YYYY-MM-DD); empty for directory entries",
+  "url": "the Luach page it comes from",
+  "category": "motzei-shabbos only: Pizza, Sushi, Supermarkets, Urgent Care, ..."
+ },
+ "refresh": "the Luach is re-read at most every 3 h on our side; this copy is republished with the grocery API every morning (~5:40 AM ET)",
+ "rules": "Answer only from what an entry says; expired news/traffic/simcha items are already removed. Minyan times are not here (Click613's own data)."
+}
