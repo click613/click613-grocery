@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-15T10:17:31+00:00",
- "run_started": "2026-11-15T09:58:35+00:00",
+ "generated": "2026-11-16T11:06:12+00:00",
+ "run_started": "2026-11-16T10:47:06+00:00",
  "all_ok": true,
  "stale_areas": [],
- "bot_api_built": "2026-11-15T10:17:11Z",
+ "bot_api_built": "2026-11-16T11:05:48Z",
  "crashed_steps": [],
  "areas": [
   {
    "area": "lakewood",
    "name": "Lakewood",
-   "last_updated": "2026-11-15T05:16:48-05:00",
-   "last_updated_date_et": "2026-11-15",
+   "last_updated": "2026-11-16T06:05:14-05:00",
+   "last_updated_date_et": "2026-11-16",
    "age_hours": 0.0,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -23,9 +23,9 @@
   {
    "area": "bpflatbush",
    "name": "Boro Park & Flatbush",
-   "last_updated": "2026-11-15T10:04:21+00:00",
-   "last_updated_date_et": "2026-11-15",
-   "age_hours": 0.2,
+   "last_updated": "2026-11-16T10:50:05+00:00",
+   "last_updated_date_et": "2026-11-16",
+   "age_hours": 0.3,
    "stale": false,
    "stores_not_refreshed_this_run": [
     "Pomegranate",
@@ -36,8 +36,8 @@
   {
    "area": "williamsburg",
    "name": "Williamsburg",
-   "last_updated": "2026-11-15T05:02:47-05:00",
-   "last_updated_date_et": "2026-11-15",
+   "last_updated": "2026-11-16T05:51:37-05:00",
+   "last_updated_date_et": "2026-11-16",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -47,8 +47,8 @@
   {
    "area": "crownheights",
    "name": "Crown Heights",
-   "last_updated": "2026-11-15T05:01:23-05:00",
-   "last_updated_date_et": "2026-11-15",
+   "last_updated": "2026-11-16T05:50:15-05:00",
+   "last_updated_date_et": "2026-11-16",
    "age_hours": 0.3,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -58,8 +58,8 @@
   {
    "area": "fivetowns",
    "name": "Five Towns",
-   "last_updated": "2026-11-15T05:01:40-05:00",
-   "last_updated_date_et": "2026-11-15",
+   "last_updated": "2026-11-16T05:50:34-05:00",
+   "last_updated_date_et": "2026-11-16",
    "age_hours": 0.3,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -71,8 +71,8 @@
   {
    "area": "monsey",
    "name": "Monsey",
-   "last_updated": "2026-11-15T05:10:21-05:00",
-   "last_updated_date_et": "2026-11-15",
+   "last_updated": "2026-11-16T05:58:09-05:00",
+   "last_updated_date_et": "2026-11-16",
    "age_hours": 0.1,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -85,8 +85,8 @@
   {
    "area": "kj",
    "name": "KJ / Monroe",
-   "last_updated": "2026-11-15T05:05:01-05:00",
-   "last_updated_date_et": "2026-11-15",
+   "last_updated": "2026-11-16T05:53:34-05:00",
+   "last_updated_date_et": "2026-11-16",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -97,8 +97,8 @@
   {
    "area": "teaneck",
    "name": "Teaneck / Bergenfield",
-   "last_updated": "2026-11-15T05:07:09-05:00",
-   "last_updated_date_et": "2026-11-15",
+   "last_updated": "2026-11-16T05:55:46-05:00",
+   "last_updated_date_et": "2026-11-16",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -109,8 +109,8 @@
   {
    "area": "passaic",
    "name": "Passaic / Clifton",
-   "last_updated": "2026-11-15T05:07:09-05:00",
-   "last_updated_date_et": "2026-11-15",
+   "last_updated": "2026-11-16T05:55:46-05:00",
+   "last_updated_date_et": "2026-11-16",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -122,8 +122,8 @@
   {
    "area": "queens",
    "name": "Queens (Kew Gardens Hills)",
-   "last_updated": "2026-11-15T05:07:20-05:00",
-   "last_updated_date_et": "2026-11-15",
+   "last_updated": "2026-11-16T05:55:15-05:00",
+   "last_updated_date_et": "2026-11-16",
    "age_hours": 0.2,
    "stale": false,
    "stores_not_refreshed_this_run": [
@@ -133,8 +133,8 @@
   {
    "area": "farrockaway",
    "name": "Far Rockaway",
-   "last_updated": "2026-11-15T05:01:40-05:00",
-   "last_updated_date_et": "2026-11-15",
+   "last_updated": "2026-11-16T05:50:34-05:00",
+   "last_updated_date_et": "2026-11-16",
    "age_hours": 0.3,
    "stale": false,
    "stores_not_refreshed_this_run": [
